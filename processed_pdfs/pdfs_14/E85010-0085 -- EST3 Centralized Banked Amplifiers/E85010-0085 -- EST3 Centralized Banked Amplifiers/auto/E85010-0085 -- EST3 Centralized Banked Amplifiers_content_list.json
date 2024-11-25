@@ -1,0 +1,138 @@
+[
+    {
+        "type": "text",
+        "text": "Centralized Banked Amplifiers ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Overview ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "EST3 supports centralized (banked) amplifier configurations for Mass Notification/Emergency Communication (MNEC), life safety, and emergency signaling. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Model 3-ZA20 Zoned Amplifiers at the EST3 control panel provide a channel source(s) for banked amplifiers. The 3-ZA20 amplifiers can select any one (at a time) of the EST3 eight audio channels as a signal source. Examples include; page, alert and evacuation. Standby Amplifier(s) are an option. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Special interface modules, the 3-ATPINT, or MN-ABPM panel-mount, accept analog audio signals $@$ 25 or 70 Vrms from EST3’s zoned amplifiers and passes these signals to the 1B3-125 and 1B3-250 audio power amplifiers via an Amplifier Terminal Panel (ATP). The 3-ATPINT can pass supervised audio signals to other ATPlNTs within a local amplifier bank or to other remote banks of amplifiers. The 3-ATPINT mounts on the ATP. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The ATP Audio Terminal Panel interfaces one or two audio power amplifiers and monitors utility power, charges and supervises standby batteries, and provides switch-over to standby. Audio risers connect at this panel. It also has an integral trouble signal and silence switch. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The EST3 System monitors and controls the amplifier bank through Signature series modules such as the SIGA-CT1 or 2 input modules and the SIGA-CR control relay. MR-201/C or MN-204/C relays provide DPDT contacts for switching power amplifier risers when a system has standby amplifiers. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SIGA-CC1 (Single Channel) or CC2 (Dual Channel) output control modules command and supervise each audio circuit or zone. The SIGA-RM1 Riser Monitor Module provides audio riser supervision. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Standard Features ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Large Supervised Amplifiers [1B3-250 & 1B3-125]   \n- 250 or 125 Watt amplifiers   \n- broad frequency response and low distortion   \n- thermal and electronic protection ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Amplifier Terminal Panel [ATP] ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "- supports two audio power amplifiers - charges and supervises up 40 AH batteries - standard 19 inch rack mounting - Terminal Panel Interface Module [3-ATPINT] - supports connection to EST3 Zoned Amplifiers Supported by System Definition Utility - fast rules based programming ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Part of an end-to-end ${\\bf520\\;H z}$ signaling solution - UL approved for use in sleeping rooms ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Uses the 3-ASU & 3-ASU/FT Audio Source Units - site-recordable or downloadable messages - live paging - hierarchical operation of eight distinct digital audio channels ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Uses the ZA20 amplifier as a source ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "- Class A or B connection - Supports Multiple PreAmps - Optional Standby PreAmps - 25 Vrms or 70 Vrms interface - drives multiple 3-ATPlNTs in same rack ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Application ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Life Safety Audio provides Emergency Response Personnel with a means to control building evacuation using voice instructions.   \nBanked Amplifiers provide EST3 with economy audio configurations for Single and some Dual channel applications. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Typical Configuration ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Block Wiring Layout ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/222de693ca9f6112ffc379633dbaf3a4b78a05810859a31e6e6e7164ffdb8400.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Typical System Components ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Data Sheets are available for the following components. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3-ASU/FT\t Audio Source Unit with Fire Phone   \n3-ASU Audio Source Unit   \n3-ATPINT Audio Terminal Panel Interface   \nATP Audio Terminal Panel   \nATP-220 Audio Terminal Panel 220 Vac   \n1B3-250 250 Watt Power Amplifier   \n1B3-125 125 Watt Power Amplifier   \nSIGA-CT1 Single Circuit Input Module   \nSIGA-CT2\t Dual Circuit Input Module   \nSIGA-RM1\tRiser Monitor Module   \nSIGA-CR Control Relay   \nSIGA-MP1\tModule Mounting Plate, eight spaces   \nSIGA-MP2\tModule Mounting Plate, four spaces   \nARM-8 Relay Module /w one relay, space for eight total   \nMR-201/C\tRelay for ARM-8 (single DPDT)   \nMR-204/C\tRelay for ARM-8 (four-position DPDT)   \nRKU-42 Standard 19 inch Rack Mounting Cabinet, 42 inch   \nRKU-61 Standard 19 inch Rack Mounting Cabinet, 61.25 inch   \nRKU-70 Standard 19 inch Rack Mounting Cabinet, 70 inch   \nRKU-77 Standard 19 inch Rack Mounting Cabinet, 77 inch   \nVP-1 Vented Panel, 1.75 inch   \nVP-3 Vented Panel, 3.5 inch   \nBP-1 Blank Panel, 1.75 inch   \nBP-2 Blank Panel, 3.5 inch   \nBP-3 Blank Panel, 5.25 inch   \nMFC Module Fire Cabinet ",
+        "page_idx": 1
+    }
+]

@@ -1,0 +1,161 @@
+[
+    {
+        "type": "text",
+        "text": "Network Modem Communications Interface 3-NSHM1 & 3-NSHM2 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Overview ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "EST3 networks easily configure for use over existing copper telephone lines using the 3‑NSHM Short Haul Modem Communi‑ cations Interface. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The 3-NSHM electronics card, plugs right into the 3‑CPU3.  A ribbon cable connects the 3-CPU3 directly to the modem interface card.  The interface card mounts on the right rear of a 3‑CHAS7 chassis.  No local rail space is used. The 3-NSHMs requires the 3‑MPFIB mounting bracket for 3-CAB5 enclosure mounting. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3-NSHM1 provides a single short haul modem connection and converts the signal to RS-485 format for hard wired network con‑ nections to additional network nodes. The 3-NSHM2 provides two short haul modem connections for use when two short haul modems are required for connections to additional network nodes. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Each short haul modem circuit consists of two pairs of twisted pair cable. Network wiring can be installed as Class A or Class B, depending on installation. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The 3-NSHM1 also supports copper wire connections, permitting network data communications format changes from short haul modem connection to direct RS-485 and from direct RS-485 to short haul modem connections as job conditions require. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The 3-NSHM provides an integral test signal, making the use of a separate signal source unnecessary.  This can reduce setup and trouble shooting time. A standby battery connection is provided to maintain communications through the node in the event that power is removed for servicing the node. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The 3-NSHMs are compatible with EST3 systems using digitized audio, however the 3-NSHMs do not transmit the digitized audio signal between nodes. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Standard Features ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Class A or Class B EST3 Data Network Connections Up to 5 miles between nodes •Uses existing copper telephone lines •\t Supervised Integral test modes ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Application ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The 3‑NSHM short haul modems provide long distance network communications between nodes, typically using existing telephone conductors. A model GFD Ground Fault Detector should be used in applications where ground fault detection is required. ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/99bf55e1304693188f0d4638c61a75bdb30c019f5e3c6a384c9454825ec20390.jpg",
+        "img_caption": [
+            "Network B to A wiring using the NSHM1 "
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Network A to B wiring using the NSHM1 Network wiring using the NSHM2 ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/08cc72daa2773b4abcf27cd72b8bd39a31ec6d8ea1c4407ecd7f442ecf778b20.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c604b1d5dd2b70b6dd0797b271ec35c13ca6538504249a30a70dee4ad0aaa26a.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3146cc397cd718764ac3f653457a9309fe46aa1916a5bcb7c9b73276e25c0bfa.jpg",
+        "img_caption": [
+            "Chassis Mounting "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fbe67adcc724d45c174de8e0a4dd8beb8214e423b3f01b943d9ed5faaad895a3.jpg",
+        "img_caption": [
+            "Module Connections "
+        ],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Engineering Specification ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The intra-node communications links for network shall utilize cop‑ per and/or fiber optic connections.  The communications interface card shall provide Class B <Class A> connections. It shall be pos‑ sible to convert from modem connections to hard wired RS-485 wiring or from hardwired RS-485 wiring to modem wiring at any network node. The short haul modem communications interface card shall have provisions for testing the modem(s) and its con‑ nections for maintenance and troubleshooting purposes. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Specifications ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/8af8cdbc964b817cd113b53d0e41a4caf726c402cc983e768024843deeaed3ff.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>Agency Listings</td><td>UL, ULC</td></tr><tr><td>Installation</td><td>Connector J2 of 3-CPU3. Modem card mounts on bracket under 3-CHAS7</td></tr><tr><td>Network Data Circuit</td><td>or on3-MPFIBbracket in3-CAB5enclosure.</td></tr><tr><td>Configuration</td></tr><tr><td>Data Rate</td><td>Class B or Class A 19.2 Kb, or 38.4 Kb</td></tr><tr><td>Isolation</td><td>Optically isolated from previous 3-CPU3</td></tr><tr><td>Hard Wired RS-485Circuit</td></tr><tr><td>Circuit Length</td><td>5,000 ft (1,524 m) max.between any three panels</td></tr><tr><td>Circuit Resistance</td><td>90 Ohms, max.</td></tr><tr><td>Circuit Capacitance</td><td>0.3 mF, max.</td></tr><tr><td>Wire Type</td><td>Twisted pair</td></tr><tr><td>Test Functions</td><td>Local analog loopback and remote digital loopback</td></tr><tr><td>PowerConsumptionSupervisory</td><td>3-NSHM1: 79 mA @ 24 VDC; 3-NSHM2: 105 mA @ 24 VDC</td></tr><tr><td>or Alarm Operating environment </td><td></td></tr><tr><td>Compatible with</td><td>32°F -120°F (0°C - 49°C) @93% RH,Non-condensing 3-CPU1,3-CPU3</td></tr><tr><td>Maximumpernetwork</td><td rowspan=\"2\">20 (EST3 Version 3.5)</td></tr><tr><td></td></tr><tr><td>Short Haul Modem Circuit 19AWG</td><td>24AWG 26AWG</td></tr><tr><td>Wiring Configuration</td><td>TWO Twisted Pair</td><td>TWO Twisted Pair TWO Twisted Pair</td></tr><tr><td>Max. Resistance</td><td>16.3 Ohms/1000 ft (53.5 Ohm/km)</td><td>51.65 Ohms/1000 ft (169.5 Ohm/ 82.35 Ohms/1000 ft (270.2 Ohm/ km)</td></tr><tr><td>Max. Capacitance</td><td>83 nf/mi [15.72 pf/ft] (151.6 nf/km)</td><td>km) 83 nf/mi [15.72 pf/ft] (151.6 nf/km)</td></tr><tr><td>Max. Distance mi (km)</td><td></td><td>83 nf/mi [15.72 pf/ft] (151.6 nf/km)</td></tr><tr><td>@ 38.4Kb</td><td>6 (9.7)</td><td>2 (3.2) 3 (4.8)</td></tr><tr><td>@19.5Kb</td><td>9 (14.5)</td><td>3.5 (5.6) 5 (8)</td></tr></table></body></html>\n\n",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ordering Information ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/99199bc07878029e6b38525f669f7356f7ad2fa6a068b7c14eacae5a0570e5a3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>Catalog Number</td><td>Description</td><td>Shipping Wt.Ib (kg)</td></tr><tr><td>3-NSHM1</td><td>NetworkShortHaulModemCommunicationsInterface singlemodemconnection</td><td>1 (.45)</td></tr><tr><td>3-NSHM2</td><td>NetworkShortHaulModemCommunicationsInterface twomodemconnections</td><td>1 (.45)</td></tr><tr><td>GFD</td><td>GroundFaultDetectionModule</td><td>1 (.45)</td></tr></table></body></html>\n\n",
+        "page_idx": 3
+    }
+]

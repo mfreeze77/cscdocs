@@ -1,0 +1,2538 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        146,
+                        324,
+                        237
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                147,
+                                264,
+                                184
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        147,
+                                        264,
+                                        184
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Key-operated",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                183,
+                                322,
+                                216
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        183,
+                                        110,
+                                        216
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Fire",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        115,
+                                        185,
+                                        205,
+                                        214
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Alarm",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        185,
+                                        322,
+                                        214
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Station",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                218,
+                                145,
+                                235
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        218,
+                                        145,
+                                        235
+                                    ],
+                                    "score": 1.0,
+                                    "content": "RMS-1T-KO",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        359,
+                        106,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                358,
+                                106,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        358,
+                                        106,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        48,
+                        375,
+                        303,
+                        440
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                376,
+                                299,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        376,
+                                        299,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The RMS-1T-KO Key-operated Fire Alarm Station is ideal for use",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                387,
+                                295,
+                                398
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        387,
+                                        295,
+                                        398
+                                    ],
+                                    "score": 1.0,
+                                    "content": "in buildings such as penal institutions or special needs housing,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                398,
+                                276,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        398,
+                                        276,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "or anywhere an ordinary pull station would be operated for",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                408,
+                                302,
+                                418
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        408,
+                                        302,
+                                        418
+                                    ],
+                                    "score": 1.0,
+                                    "content": "reasons other than its intended purpose. The RMS-1T-KO station",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                419,
+                                297,
+                                429
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        419,
+                                        297,
+                                        429
+                                    ],
+                                    "score": 1.0,
+                                    "content": "is fitted with a key-operated switch of which the key is not easily",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                429,
+                                93,
+                                441
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        429,
+                                        93,
+                                        441
+                                    ],
+                                    "score": 1.0,
+                                    "content": "duplicated.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 6.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        48,
+                        446,
+                        309,
+                        489
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                446,
+                                309,
+                                457
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        446,
+                                        309,
+                                        457
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The RMS-1T-KO has one Single Pole Normally Open contact rated",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                456,
+                                299,
+                                469
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        456,
+                                        299,
+                                        469
+                                    ],
+                                    "score": 1.0,
+                                    "content": "for 10 amps at 125 Vdc. It features terminal connectors for easy ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                468,
+                                300,
+                                478
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        468,
+                                        300,
+                                        478
+                                    ],
+                                    "score": 1.0,
+                                    "content": "field wiring. The key can be removed in both the “ON” and “OFF”",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                479,
+                                88,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        479,
+                                        88,
+                                        489
+                                    ],
+                                    "score": 1.0,
+                                    "content": "positions.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 11.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        495,
+                        307,
+                        517
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                495,
+                                284,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        495,
+                                        284,
+                                        507
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The RMS-1T-KO Station flush mounts to any standard North",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                507,
+                                307,
+                                518
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        507,
+                                        307,
+                                        518
+                                    ],
+                                    "score": 1.0,
+                                    "content": "American 1-gang electrical box 2-1/2 inch (63mm) deep minimum.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 14.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        358,
+                        434,
+                        373
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                434,
+                                373
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        434,
+                                        373
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 16
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        322,
+                        375,
+                        434,
+                        450
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                375,
+                                422,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        375,
+                                        422,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Tamperproof actuation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                391,
+                                422,
+                                402
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        391,
+                                        422,
+                                        402
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Single-stage operation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                324,
+                                407,
+                                431,
+                                418
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        324,
+                                        407,
+                                        431,
+                                        418
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Single-pole N.O. contact",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                323,
+                                423,
+                                412,
+                                433
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        426,
+                                        327,
+                                        431
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        331,
+                                        423,
+                                        412,
+                                        433
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Terminal connectors",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                323,
+                                438,
+                                433,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        438,
+                                        433,
+                                        450
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t One-gang flush mounting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 19
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        394,
+                        745,
+                        581,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                433,
+                                746,
+                                579,
+                                758
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        433,
+                                        749,
+                                        497,
+                                        758
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        501,
+                                        746,
+                                        579,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                394,
+                                758,
+                                581,
+                                767
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        394,
+                                        758,
+                                        581,
+                                        767
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        49,
+                        749,
+                        88,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                749,
+                                89,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        749,
+                                        89,
+                                        759
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        146,
+                        324,
+                        237
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                147,
+                                264,
+                                184
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        147,
+                                        264,
+                                        184
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Key-operated",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                183,
+                                322,
+                                216
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        183,
+                                        110,
+                                        216
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Fire",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        115,
+                                        185,
+                                        205,
+                                        214
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Alarm",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        185,
+                                        322,
+                                        214
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Station",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                218,
+                                145,
+                                235
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        218,
+                                        145,
+                                        235
+                                    ],
+                                    "score": 1.0,
+                                    "content": "RMS-1T-KO",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        359,
+                        106,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                358,
+                                106,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        358,
+                                        106,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        48,
+                        375,
+                        303,
+                        440
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                376,
+                                299,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        376,
+                                        299,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The RMS-1T-KO Key-operated Fire Alarm Station is ideal for use",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                387,
+                                295,
+                                398
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        387,
+                                        295,
+                                        398
+                                    ],
+                                    "score": 1.0,
+                                    "content": "in buildings such as penal institutions or special needs housing,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                398,
+                                276,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        398,
+                                        276,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "or anywhere an ordinary pull station would be operated for",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                408,
+                                302,
+                                418
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        408,
+                                        302,
+                                        418
+                                    ],
+                                    "score": 1.0,
+                                    "content": "reasons other than its intended purpose. The RMS-1T-KO station",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                419,
+                                297,
+                                429
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        419,
+                                        297,
+                                        429
+                                    ],
+                                    "score": 1.0,
+                                    "content": "is fitted with a key-operated switch of which the key is not easily",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                429,
+                                93,
+                                441
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        429,
+                                        93,
+                                        441
+                                    ],
+                                    "score": 1.0,
+                                    "content": "duplicated.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 6.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        48,
+                        376,
+                        302,
+                        441
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        48,
+                        446,
+                        309,
+                        489
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                446,
+                                309,
+                                457
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        446,
+                                        309,
+                                        457
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The RMS-1T-KO has one Single Pole Normally Open contact rated",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                456,
+                                299,
+                                469
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        456,
+                                        299,
+                                        469
+                                    ],
+                                    "score": 1.0,
+                                    "content": "for 10 amps at 125 Vdc. It features terminal connectors for easy ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                468,
+                                300,
+                                478
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        468,
+                                        300,
+                                        478
+                                    ],
+                                    "score": 1.0,
+                                    "content": "field wiring. The key can be removed in both the “ON” and “OFF”",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                479,
+                                88,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        479,
+                                        88,
+                                        489
+                                    ],
+                                    "score": 1.0,
+                                    "content": "positions.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 11.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        48,
+                        446,
+                        309,
+                        489
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        495,
+                        307,
+                        517
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                495,
+                                284,
+                                507
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        495,
+                                        284,
+                                        507
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The RMS-1T-KO Station flush mounts to any standard North",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                507,
+                                307,
+                                518
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        507,
+                                        307,
+                                        518
+                                    ],
+                                    "score": 1.0,
+                                    "content": "American 1-gang electrical box 2-1/2 inch (63mm) deep minimum.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 14.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        49,
+                        495,
+                        307,
+                        518
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        358,
+                        434,
+                        373
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                434,
+                                373
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        434,
+                                        373
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 16,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        322,
+                        375,
+                        434,
+                        450
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                375,
+                                422,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        375,
+                                        422,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Tamperproof actuation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                391,
+                                422,
+                                402
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        391,
+                                        422,
+                                        402
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Single-stage operation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                324,
+                                407,
+                                431,
+                                418
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        324,
+                                        407,
+                                        431,
+                                        418
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Single-pole N.O. contact",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                323,
+                                423,
+                                412,
+                                433
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        426,
+                                        327,
+                                        431
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        331,
+                                        423,
+                                        412,
+                                        433
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Terminal connectors",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                323,
+                                438,
+                                433,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        438,
+                                        433,
+                                        450
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t One-gang flush mounting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 19,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        320,
+                        375,
+                        433,
+                        450
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        84,
+                        278,
+                        97
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                83,
+                                277,
+                                99
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        83,
+                                        277,
+                                        99
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Installation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        213,
+                        101,
+                        559,
+                        123
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                101,
+                                557,
+                                113
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        101,
+                                        557,
+                                        113
+                                    ],
+                                    "score": 1.0,
+                                    "content": "EDWARDS recommends that these Key-operated Fire Alarm Stations always be installed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                212,
+                                113,
+                                547,
+                                123
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        113,
+                                        547,
+                                        123
+                                    ],
+                                    "score": 1.0,
+                                    "content": "in accordance with the latest recognized editions of local and national fire alarm codes.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1.5
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        215,
+                        135,
+                        552,
+                        395
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                215,
+                                135,
+                                552,
+                                395
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        215,
+                                        135,
+                                        552,
+                                        395
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                215,
+                                                135,
+                                                552,
+                                                395
+                                            ],
+                                            "score": 0.9999655485153198,
+                                            "type": "image",
+                                            "image_path": "e4930a961f95320f09c2858bf05a380d38a3dd6bb6964d62cb7bb07ed100fb45.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        215,
+                                        135,
+                                        552,
+                                        221.66666666666669
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        221.66666666666669,
+                                        552,
+                                        308.33333333333337
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        308.33333333333337,
+                                        552,
+                                        395.00000000000006
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        418,
+                        298,
+                        432
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                418,
+                                298,
+                                433
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        418,
+                                        298,
+                                        433
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Specifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        214,
+                        435,
+                        562,
+                        502
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                214,
+                                435,
+                                562,
+                                502
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        435,
+                                        562,
+                                        502
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                435,
+                                                562,
+                                                502
+                                            ],
+                                            "score": 0.9999367594718933,
+                                            "html": "<html><body><table><tr><td>KeyswitchContacts</td><td>SinglePoleNormallyOpen Rating:10 amp at 125Vdc</td></tr><tr><td>WireConnection</td><td>Terminals</td></tr><tr><td>Mounting</td><td>Flush to: One-gang 2-1/2 inch (63mm) deep standard North-American electricalbox</td></tr><tr><td>Operating Environment</td><td>NormalIndoor</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "9ae3cbd973e5435dee9697106544353bddec893d5a30b12e9a5cefa23d6d22bb.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        435,
+                                        562,
+                                        457.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        457.3333333333333,
+                                        562,
+                                        479.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        479.66666666666663,
+                                        562,
+                                        501.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        540,
+                        338,
+                        554
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                539,
+                                337,
+                                555
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        539,
+                                        337,
+                                        555
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        212,
+                        559,
+                        562,
+                        587
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                212,
+                                559,
+                                562,
+                                587
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        559,
+                                        562,
+                                        587
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                212,
+                                                559,
+                                                562,
+                                                587
+                                            ],
+                                            "score": 0.9964551329612732,
+                                            "html": "<html><body><table><tr><td>CatalogNumber</td><td>Description</td><td>ShippingWeight</td></tr><tr><td>RMS-1T-KO</td><td>Key-operated Fire Alarm Station — Normally Open</td><td>0.3 Ib (0.6 Ib)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "c045b14af8fee3fc8a5101f67fd29d74f2d5a8512dfd308d680ba39df1291514.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        559,
+                                        562,
+                                        587
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 1,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        215,
+                        135,
+                        552,
+                        395
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                215,
+                                135,
+                                552,
+                                395
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        215,
+                                        135,
+                                        552,
+                                        395
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                215,
+                                                135,
+                                                552,
+                                                395
+                                            ],
+                                            "score": 0.9999655485153198,
+                                            "type": "image",
+                                            "image_path": "e4930a961f95320f09c2858bf05a380d38a3dd6bb6964d62cb7bb07ed100fb45.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        215,
+                                        135,
+                                        552,
+                                        221.66666666666669
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        221.66666666666669,
+                                        552,
+                                        308.33333333333337
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        308.33333333333337,
+                                        552,
+                                        395.00000000000006
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "tables": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        214,
+                        435,
+                        562,
+                        502
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                214,
+                                435,
+                                562,
+                                502
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        435,
+                                        562,
+                                        502
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                435,
+                                                562,
+                                                502
+                                            ],
+                                            "score": 0.9999367594718933,
+                                            "html": "<html><body><table><tr><td>KeyswitchContacts</td><td>SinglePoleNormallyOpen Rating:10 amp at 125Vdc</td></tr><tr><td>WireConnection</td><td>Terminals</td></tr><tr><td>Mounting</td><td>Flush to: One-gang 2-1/2 inch (63mm) deep standard North-American electricalbox</td></tr><tr><td>Operating Environment</td><td>NormalIndoor</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "9ae3cbd973e5435dee9697106544353bddec893d5a30b12e9a5cefa23d6d22bb.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        435,
+                                        562,
+                                        457.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        457.3333333333333,
+                                        562,
+                                        479.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        479.66666666666663,
+                                        562,
+                                        501.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        212,
+                        559,
+                        562,
+                        587
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                212,
+                                559,
+                                562,
+                                587
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        559,
+                                        562,
+                                        587
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                212,
+                                                559,
+                                                562,
+                                                587
+                                            ],
+                                            "score": 0.9964551329612732,
+                                            "html": "<html><body><table><tr><td>CatalogNumber</td><td>Description</td><td>ShippingWeight</td></tr><tr><td>RMS-1T-KO</td><td>Key-operated Fire Alarm Station — Normally Open</td><td>0.3 Ib (0.6 Ib)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "c045b14af8fee3fc8a5101f67fd29d74f2d5a8512dfd308d680ba39df1291514.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        559,
+                                        562,
+                                        587
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                }
+            ],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        31,
+                        750,
+                        70,
+                        757
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                30,
+                                749,
+                                72,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        30,
+                                        749,
+                                        72,
+                                        759
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        378,
+                        745,
+                        563,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                415,
+                                746,
+                                561,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        415,
+                                        749,
+                                        480,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        482,
+                                        746,
+                                        561,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                376,
+                                758,
+                                563,
+                                767
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        376,
+                                        758,
+                                        563,
+                                        767
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        606,
+                        734,
+                        612,
+                        760
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                605,
+                                733,
+                                614,
+                                762
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        605,
+                                        733,
+                                        614,
+                                        762
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        84,
+                        278,
+                        97
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                83,
+                                277,
+                                99
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        83,
+                                        277,
+                                        99
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Installation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        213,
+                        101,
+                        559,
+                        123
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                101,
+                                557,
+                                113
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        101,
+                                        557,
+                                        113
+                                    ],
+                                    "score": 1.0,
+                                    "content": "EDWARDS recommends that these Key-operated Fire Alarm Stations always be installed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                212,
+                                113,
+                                547,
+                                123
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        113,
+                                        547,
+                                        123
+                                    ],
+                                    "score": 1.0,
+                                    "content": "in accordance with the latest recognized editions of local and national fire alarm codes.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        212,
+                        101,
+                        557,
+                        123
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        215,
+                        135,
+                        552,
+                        395
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                215,
+                                135,
+                                552,
+                                395
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        215,
+                                        135,
+                                        552,
+                                        395
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                215,
+                                                135,
+                                                552,
+                                                395
+                                            ],
+                                            "score": 0.9999655485153198,
+                                            "type": "image",
+                                            "image_path": "e4930a961f95320f09c2858bf05a380d38a3dd6bb6964d62cb7bb07ed100fb45.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        215,
+                                        135,
+                                        552,
+                                        221.66666666666669
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        221.66666666666669,
+                                        552,
+                                        308.33333333333337
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        308.33333333333337,
+                                        552,
+                                        395.00000000000006
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        418,
+                        298,
+                        432
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                418,
+                                298,
+                                433
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        418,
+                                        298,
+                                        433
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Specifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 6,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        214,
+                        435,
+                        562,
+                        502
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                214,
+                                435,
+                                562,
+                                502
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        435,
+                                        562,
+                                        502
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                435,
+                                                562,
+                                                502
+                                            ],
+                                            "score": 0.9999367594718933,
+                                            "html": "<html><body><table><tr><td>KeyswitchContacts</td><td>SinglePoleNormallyOpen Rating:10 amp at 125Vdc</td></tr><tr><td>WireConnection</td><td>Terminals</td></tr><tr><td>Mounting</td><td>Flush to: One-gang 2-1/2 inch (63mm) deep standard North-American electricalbox</td></tr><tr><td>Operating Environment</td><td>NormalIndoor</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "9ae3cbd973e5435dee9697106544353bddec893d5a30b12e9a5cefa23d6d22bb.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        435,
+                                        562,
+                                        457.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        457.3333333333333,
+                                        562,
+                                        479.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        479.66666666666663,
+                                        562,
+                                        501.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        540,
+                        338,
+                        554
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                539,
+                                337,
+                                555
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        539,
+                                        337,
+                                        555
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 10,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        212,
+                        559,
+                        562,
+                        587
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                212,
+                                559,
+                                562,
+                                587
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        559,
+                                        562,
+                                        587
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                212,
+                                                559,
+                                                562,
+                                                587
+                                            ],
+                                            "score": 0.9964551329612732,
+                                            "html": "<html><body><table><tr><td>CatalogNumber</td><td>Description</td><td>ShippingWeight</td></tr><tr><td>RMS-1T-KO</td><td>Key-operated Fire Alarm Station — Normally Open</td><td>0.3 Ib (0.6 Ib)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "c045b14af8fee3fc8a5101f67fd29d74f2d5a8512dfd308d680ba39df1291514.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        559,
+                                        562,
+                                        587
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "txt",
+    "_version_name": "0.10.1"
+}

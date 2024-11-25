@@ -1,0 +1,3888 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        146,
+                        320,
+                        233
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                147,
+                                319,
+                                181
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        148,
+                                        186,
+                                        181
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Amplifier",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        191,
+                                        147,
+                                        319,
+                                        180
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Terminal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                184,
+                                136,
+                                215
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        184,
+                                        136,
+                                        215
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Panel",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                218,
+                                83,
+                                236
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        218,
+                                        83,
+                                        236
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ATP",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        358,
+                        106,
+                        371
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                357,
+                                107,
+                                373
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        357,
+                                        107,
+                                        373
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        48,
+                        375,
+                        303,
+                        548
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                375,
+                                300,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        375,
+                                        300,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The Amplifier Terminal Panel is a 19 in rack mount device that in-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                387,
+                                304,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        387,
+                                        304,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "terfaces the Audio Power Amplifiers to the control panel. The Am-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                398,
+                                299,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        398,
+                                        299,
+                                        407
+                                    ],
+                                    "score": 1.0,
+                                    "content": "plifier Terminal Panel monitors primary AC power to Audio power",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                408,
+                                299,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        408,
+                                        299,
+                                        419
+                                    ],
+                                    "score": 1.0,
+                                    "content": "amplifiers. If the amplifiers are active and primary power fails, the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                419,
+                                295,
+                                430
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        419,
+                                        295,
+                                        430
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ATP transfers the amplifiers to battery power. The ATP contains",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                430,
+                                297,
+                                440
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        430,
+                                        297,
+                                        440
+                                    ],
+                                    "score": 1.0,
+                                    "content": "a battery charger capable of charging 40 AH batteries. The ATP",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                441,
+                                290,
+                                451
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        441,
+                                        290,
+                                        451
+                                    ],
+                                    "score": 1.0,
+                                    "content": "contains terminals to connect preamp signals from the control",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                452,
+                                302,
+                                462
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        452,
+                                        302,
+                                        462
+                                    ],
+                                    "score": 1.0,
+                                    "content": "panel to the power amplifier for connection of the power amplifier",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                462,
+                                304,
+                                473
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        462,
+                                        304,
+                                        473
+                                    ],
+                                    "score": 1.0,
+                                    "content": "output. The ATP is the originating point for the audio power risers.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                473,
+                                293,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        473,
+                                        293,
+                                        484
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The front panel of the ATP contains a green power LED, amber",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                484,
+                                298,
+                                494
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        484,
+                                        298,
+                                        494
+                                    ],
+                                    "score": 1.0,
+                                    "content": "trouble LED and and amber trouble silenced LED. A momentary",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                495,
+                                299,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        495,
+                                        299,
+                                        505
+                                    ],
+                                    "score": 1.0,
+                                    "content": "switch is available on the front panel for trouble silence. The ATP",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                506,
+                                301,
+                                516
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        506,
+                                        301,
+                                        516
+                                    ],
+                                    "score": 1.0,
+                                    "content": "provides a battery saver feature that applies battery power to the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                517,
+                                302,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        517,
+                                        302,
+                                        527
+                                    ],
+                                    "score": 1.0,
+                                    "content": "amplifiers only when two conditions are met; low or no AC power",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                527,
+                                290,
+                                538
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        527,
+                                        290,
+                                        538
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and a Fire Alarm or page request. This feature may reduce the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                538,
+                                211,
+                                549
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        538,
+                                        211,
+                                        549
+                                    ],
+                                    "score": 1.0,
+                                    "content": "battery size requirements by a factor of 8.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        }
+                    ],
+                    "index": 11.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        574,
+                        162,
+                        587
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                573,
+                                162,
+                                588
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        573,
+                                        162,
+                                        588
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        }
+                    ],
+                    "index": 20
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        50,
+                        591,
+                        226,
+                        656
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                591,
+                                150,
+                                602
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        591,
+                                        150,
+                                        602
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Built in battery charger",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                604,
+                                219,
+                                616
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        609,
+                                        54,
+                                        611
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        59,
+                                        604,
+                                        219,
+                                        616
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Charges and supervises 40 AH batteries",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                58,
+                                619,
+                                143,
+                                629
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        619,
+                                        143,
+                                        629
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Battery saver feature",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                57,
+                                632,
+                                143,
+                                643
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        632,
+                                        143,
+                                        643
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Low standby current",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                60,
+                                646,
+                                225,
+                                657
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        646,
+                                        225,
+                                        657
+                                    ],
+                                    "score": 1.0,
+                                    "content": "High efficiency switch mode power supply",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        }
+                    ],
+                    "index": 23
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        322,
+                        357,
+                        531,
+                        466
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                357,
+                                453,
+                                369
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        357,
+                                        453,
+                                        369
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Ground fault detection circuitry",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                372,
+                                473,
+                                383
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        372,
+                                        473,
+                                        383
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Terminates 2 audio power amplifiers",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                332,
+                                386,
+                                495,
+                                396
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        332,
+                                        386,
+                                        495,
+                                        396
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Integral trouble buzzer with silence switch",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                331,
+                                399,
+                                457,
+                                411
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        331,
+                                        399,
+                                        457,
+                                        411
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Supervises low or no AC power",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                323,
+                                413,
+                                439,
+                                424
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        416,
+                                        326,
+                                        420
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        332,
+                                        413,
+                                        439,
+                                        424
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard 19 in rack mount",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                323,
+                                426,
+                                531,
+                                438
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        430,
+                                        326,
+                                        434
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        331,
+                                        426,
+                                        531,
+                                        438
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Convenient AC power receptacle for two amplifiers",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                323,
+                                441,
+                                398,
+                                451
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        444,
+                                        326,
+                                        447
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        332,
+                                        441,
+                                        398,
+                                        451
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Black front plate",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                331,
+                                455,
+                                438,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        331,
+                                        455,
+                                        438,
+                                        465
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Trouble and Silenced LEDs",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        }
+                    ],
+                    "index": 29.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        488,
+                        389,
+                        502
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                488,
+                                389,
+                                503
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        488,
+                                        389,
+                                        503
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Application",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        }
+                    ],
+                    "index": 34
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        504,
+                        580,
+                        666
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                506,
+                                562,
+                                515
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        506,
+                                        562,
+                                        515
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The ATP is used in Life Safety Audio Evacuation systems. One",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                516,
+                                569,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        516,
+                                        569,
+                                        527
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ATP supports two Audio Power Amplifiers. The power amplifiers",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                527,
+                                568,
+                                537
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        527,
+                                        568,
+                                        537
+                                    ],
+                                    "score": 1.0,
+                                    "content": "may be configured in a dual channel system or a single channel",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                538,
+                                573,
+                                548
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        538,
+                                        573,
+                                        548
+                                    ],
+                                    "score": 1.0,
+                                    "content": "system. Typically the ATP is placed in a central banked system in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                549,
+                                579,
+                                559
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        549,
+                                        579,
+                                        559
+                                    ],
+                                    "score": 1.0,
+                                    "content": "the same 19” free standing rack enclosure as the power amplifiers.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                559,
+                                578,
+                                570
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        559,
+                                        578,
+                                        570
+                                    ],
+                                    "score": 1.0,
+                                    "content": "In large highrise applications, the ATPs and audio power amplifiers",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                571,
+                                579,
+                                581
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        571,
+                                        579,
+                                        581
+                                    ],
+                                    "score": 1.0,
+                                    "content": "may be placed in various locations in a distributed amplifier format.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                581,
+                                559,
+                                592
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        581,
+                                        559,
+                                        592
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Distributing the amplifiers reduces the length of the risers and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 42
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                592,
+                                568,
+                                603
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        592,
+                                        568,
+                                        603
+                                    ],
+                                    "score": 1.0,
+                                    "content": "consequently reduces power lost in the riser wiring. When more",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 43
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                603,
+                                580,
+                                613
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        603,
+                                        580,
+                                        613
+                                    ],
+                                    "score": 1.0,
+                                    "content": "than two power amplifiers are required at at single location multiple",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 44
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                613,
+                                572,
+                                624
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        613,
+                                        572,
+                                        624
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ATPs may be placed in the enclosure and their preamp terminals",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 45
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                624,
+                                574,
+                                635
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        624,
+                                        574,
+                                        635
+                                    ],
+                                    "score": 1.0,
+                                    "content": "wire in parallel. Two trouble signals are generated by the ATP and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 46
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                636,
+                                575,
+                                646
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        636,
+                                        575,
+                                        646
+                                    ],
+                                    "score": 1.0,
+                                    "content": "must be supervised by a zone in the nearest fire alarm field panel.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 47
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                646,
+                                577,
+                                657
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        646,
+                                        577,
+                                        657
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Power fail and ATP trouble signal are normally open relay contacts",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 48
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                657,
+                                433,
+                                667
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        657,
+                                        433,
+                                        667
+                                    ],
+                                    "score": 1.0,
+                                    "content": "that close on a fail condition.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 49
+                        }
+                    ],
+                    "index": 42
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        394,
+                        745,
+                        580,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                433,
+                                747,
+                                578,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        433,
+                                        749,
+                                        497,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        501,
+                                        747,
+                                        578,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                394,
+                                757,
+                                580,
+                                767
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        394,
+                                        757,
+                                        580,
+                                        767
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        49,
+                        749,
+                        88,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                749,
+                                90,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        749,
+                                        90,
+                                        759
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        146,
+                        320,
+                        233
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                147,
+                                319,
+                                181
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        148,
+                                        186,
+                                        181
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Amplifier",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        191,
+                                        147,
+                                        319,
+                                        180
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Terminal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                184,
+                                136,
+                                215
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        184,
+                                        136,
+                                        215
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Panel",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                218,
+                                83,
+                                236
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        218,
+                                        83,
+                                        236
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ATP",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        358,
+                        106,
+                        371
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                357,
+                                107,
+                                373
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        357,
+                                        107,
+                                        373
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        48,
+                        375,
+                        303,
+                        548
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                375,
+                                300,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        375,
+                                        300,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The Amplifier Terminal Panel is a 19 in rack mount device that in-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                387,
+                                304,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        387,
+                                        304,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "terfaces the Audio Power Amplifiers to the control panel. The Am-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                398,
+                                299,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        398,
+                                        299,
+                                        407
+                                    ],
+                                    "score": 1.0,
+                                    "content": "plifier Terminal Panel monitors primary AC power to Audio power",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                408,
+                                299,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        408,
+                                        299,
+                                        419
+                                    ],
+                                    "score": 1.0,
+                                    "content": "amplifiers. If the amplifiers are active and primary power fails, the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                419,
+                                295,
+                                430
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        419,
+                                        295,
+                                        430
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ATP transfers the amplifiers to battery power. The ATP contains",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                430,
+                                297,
+                                440
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        430,
+                                        297,
+                                        440
+                                    ],
+                                    "score": 1.0,
+                                    "content": "a battery charger capable of charging 40 AH batteries. The ATP",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                441,
+                                290,
+                                451
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        441,
+                                        290,
+                                        451
+                                    ],
+                                    "score": 1.0,
+                                    "content": "contains terminals to connect preamp signals from the control",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                452,
+                                302,
+                                462
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        452,
+                                        302,
+                                        462
+                                    ],
+                                    "score": 1.0,
+                                    "content": "panel to the power amplifier for connection of the power amplifier",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                462,
+                                304,
+                                473
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        462,
+                                        304,
+                                        473
+                                    ],
+                                    "score": 1.0,
+                                    "content": "output. The ATP is the originating point for the audio power risers.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                473,
+                                293,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        473,
+                                        293,
+                                        484
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The front panel of the ATP contains a green power LED, amber",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                484,
+                                298,
+                                494
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        484,
+                                        298,
+                                        494
+                                    ],
+                                    "score": 1.0,
+                                    "content": "trouble LED and and amber trouble silenced LED. A momentary",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                495,
+                                299,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        495,
+                                        299,
+                                        505
+                                    ],
+                                    "score": 1.0,
+                                    "content": "switch is available on the front panel for trouble silence. The ATP",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                506,
+                                301,
+                                516
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        506,
+                                        301,
+                                        516
+                                    ],
+                                    "score": 1.0,
+                                    "content": "provides a battery saver feature that applies battery power to the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                517,
+                                302,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        517,
+                                        302,
+                                        527
+                                    ],
+                                    "score": 1.0,
+                                    "content": "amplifiers only when two conditions are met; low or no AC power",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                527,
+                                290,
+                                538
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        527,
+                                        290,
+                                        538
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and a Fire Alarm or page request. This feature may reduce the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                538,
+                                211,
+                                549
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        538,
+                                        211,
+                                        549
+                                    ],
+                                    "score": 1.0,
+                                    "content": "battery size requirements by a factor of 8.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        }
+                    ],
+                    "index": 11.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        48,
+                        375,
+                        304,
+                        549
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        574,
+                        162,
+                        587
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                573,
+                                162,
+                                588
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        573,
+                                        162,
+                                        588
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        }
+                    ],
+                    "index": 20,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        50,
+                        591,
+                        226,
+                        656
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                591,
+                                150,
+                                602
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        591,
+                                        150,
+                                        602
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Built in battery charger",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                604,
+                                219,
+                                616
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        609,
+                                        54,
+                                        611
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        59,
+                                        604,
+                                        219,
+                                        616
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Charges and supervises 40 AH batteries",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                58,
+                                619,
+                                143,
+                                629
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        58,
+                                        619,
+                                        143,
+                                        629
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Battery saver feature",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                57,
+                                632,
+                                143,
+                                643
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        57,
+                                        632,
+                                        143,
+                                        643
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Low standby current",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                60,
+                                646,
+                                225,
+                                657
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        646,
+                                        225,
+                                        657
+                                    ],
+                                    "score": 1.0,
+                                    "content": "High efficiency switch mode power supply",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                357,
+                                453,
+                                369
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        357,
+                                        453,
+                                        369
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Ground fault detection circuitry",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                372,
+                                473,
+                                383
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        372,
+                                        473,
+                                        383
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Terminates 2 audio power amplifiers",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                332,
+                                386,
+                                495,
+                                396
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        332,
+                                        386,
+                                        495,
+                                        396
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Integral trouble buzzer with silence switch",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                331,
+                                399,
+                                457,
+                                411
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        331,
+                                        399,
+                                        457,
+                                        411
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Supervises low or no AC power",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                323,
+                                413,
+                                439,
+                                424
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        416,
+                                        326,
+                                        420
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        332,
+                                        413,
+                                        439,
+                                        424
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard 19 in rack mount",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                323,
+                                426,
+                                531,
+                                438
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        430,
+                                        326,
+                                        434
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        331,
+                                        426,
+                                        531,
+                                        438
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Convenient AC power receptacle for two amplifiers",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                323,
+                                441,
+                                398,
+                                451
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        444,
+                                        326,
+                                        447
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        332,
+                                        441,
+                                        398,
+                                        451
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Black front plate",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                331,
+                                455,
+                                438,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        331,
+                                        455,
+                                        438,
+                                        465
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Trouble and Silenced LEDs",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 23,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        52,
+                        591,
+                        225,
+                        657
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        322,
+                        357,
+                        531,
+                        466
+                    ],
+                    "lines": [],
+                    "index": 29.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        320,
+                        357,
+                        531,
+                        465
+                    ],
+                    "lines_deleted": true
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        488,
+                        389,
+                        502
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                488,
+                                389,
+                                503
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        488,
+                                        389,
+                                        503
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Application",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        }
+                    ],
+                    "index": 34,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        504,
+                        580,
+                        666
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                506,
+                                562,
+                                515
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        506,
+                                        562,
+                                        515
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The ATP is used in Life Safety Audio Evacuation systems. One",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                516,
+                                569,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        516,
+                                        569,
+                                        527
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ATP supports two Audio Power Amplifiers. The power amplifiers",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                527,
+                                568,
+                                537
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        527,
+                                        568,
+                                        537
+                                    ],
+                                    "score": 1.0,
+                                    "content": "may be configured in a dual channel system or a single channel",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                538,
+                                573,
+                                548
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        538,
+                                        573,
+                                        548
+                                    ],
+                                    "score": 1.0,
+                                    "content": "system. Typically the ATP is placed in a central banked system in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                549,
+                                579,
+                                559
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        549,
+                                        579,
+                                        559
+                                    ],
+                                    "score": 1.0,
+                                    "content": "the same 19” free standing rack enclosure as the power amplifiers.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                559,
+                                578,
+                                570
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        559,
+                                        578,
+                                        570
+                                    ],
+                                    "score": 1.0,
+                                    "content": "In large highrise applications, the ATPs and audio power amplifiers",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                571,
+                                579,
+                                581
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        571,
+                                        579,
+                                        581
+                                    ],
+                                    "score": 1.0,
+                                    "content": "may be placed in various locations in a distributed amplifier format.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                581,
+                                559,
+                                592
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        581,
+                                        559,
+                                        592
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Distributing the amplifiers reduces the length of the risers and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 42
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                592,
+                                568,
+                                603
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        592,
+                                        568,
+                                        603
+                                    ],
+                                    "score": 1.0,
+                                    "content": "consequently reduces power lost in the riser wiring. When more",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 43
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                603,
+                                580,
+                                613
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        603,
+                                        580,
+                                        613
+                                    ],
+                                    "score": 1.0,
+                                    "content": "than two power amplifiers are required at at single location multiple",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 44
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                613,
+                                572,
+                                624
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        613,
+                                        572,
+                                        624
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ATPs may be placed in the enclosure and their preamp terminals",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 45
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                624,
+                                574,
+                                635
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        624,
+                                        574,
+                                        635
+                                    ],
+                                    "score": 1.0,
+                                    "content": "wire in parallel. Two trouble signals are generated by the ATP and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 46
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                636,
+                                575,
+                                646
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        636,
+                                        575,
+                                        646
+                                    ],
+                                    "score": 1.0,
+                                    "content": "must be supervised by a zone in the nearest fire alarm field panel.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 47
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                646,
+                                577,
+                                657
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        646,
+                                        577,
+                                        657
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Power fail and ATP trouble signal are normally open relay contacts",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 48
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                657,
+                                433,
+                                667
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        657,
+                                        433,
+                                        667
+                                    ],
+                                    "score": 1.0,
+                                    "content": "that close on a fail condition.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 49
+                        }
+                    ],
+                    "index": 42,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        320,
+                        506,
+                        580,
+                        667
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        85,
+                        373,
+                        99
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                84,
+                                372,
+                                101
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        84,
+                                        372,
+                                        101
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Engineering Specifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        212,
+                        101,
+                        561,
+                        166
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                102,
+                                553,
+                                112
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        102,
+                                        553,
+                                        112
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The Audio Power amplifiers shall be monitored for loss of AC power. The amplifiers shall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                213,
+                                113,
+                                557,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        113,
+                                        557,
+                                        124
+                                    ],
+                                    "score": 1.0,
+                                    "content": "not be provided with battery power if AC power is lost unless a fire alarm condition exists",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                213,
+                                124,
+                                560,
+                                135
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        124,
+                                        560,
+                                        135
+                                    ],
+                                    "score": 1.0,
+                                    "content": "or the system operator initiates a page request. The ATP shall be capable of charging and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                213,
+                                135,
+                                544,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        135,
+                                        544,
+                                        145
+                                    ],
+                                    "score": 1.0,
+                                    "content": "supervising batteries up to 40 AH capacity. 120 Vac convenience receptacles shall be",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                212,
+                                145,
+                                551,
+                                156
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        145,
+                                        551,
+                                        156
+                                    ],
+                                    "score": 1.0,
+                                    "content": "available for each amplifier being powered. The ATP shall be fully supervised for internal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                212,
+                                156,
+                                384,
+                                166
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        156,
+                                        384,
+                                        166
+                                    ],
+                                    "score": 1.0,
+                                    "content": "faults as well as brown out and ground fault.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 3.5
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        208,
+                        563,
+                        318
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                208,
+                                563,
+                                318
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        208,
+                                        563,
+                                        318
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                208,
+                                                563,
+                                                318
+                                            ],
+                                            "score": 0.9993650317192078,
+                                            "html": "<html><body><table><tr><td>PrimaryPower</td><td>Voltage:120VacCurrent:20Ampmax.</td></tr><tr><td>SecondaryPower</td><td>Batterysizemax:40AHStandbycurrent:240mA</td></tr><tr><td>BatteryCharger</td><td>Charge current max: 1.75 Amps; Trickle charge: 5 mA Batterysizemax:40AH;Batterysizemin:15AH</td></tr><tr><td>GroundFaultDetection</td><td><15KOhmstocommonor24Vdc</td></tr><tr><td>TemperatureRange</td><td>32°-120°F(0°-49°C)</td></tr><tr><td>Agency Listings</td><td>UL,FM,CSFM,MEA,ULC</td></tr><tr><td>HumidityRange</td><td>85%,noncondensing</td></tr><tr><td>Dimensions</td><td>5/14W×19 D×51/2Hin.(13.3W×48.3 D×14 Hcm)</td></tr><tr><td>Weight</td><td>14 Ibs (6.5 Kg)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "f18b002449bc88dca90d298d837b6b3ed81f7402ffa9dc4e3f7082321e530170.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        208,
+                                        563,
+                                        244.66666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        244.66666666666666,
+                                        563,
+                                        281.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        281.3333333333333,
+                                        563,
+                                        318.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table_caption",
+                            "bbox": [
+                                212,
+                                192,
+                                298,
+                                205
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        191,
+                                        298,
+                                        206
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                191,
+                                                298,
+                                                206
+                                            ],
+                                            "score": 1.0,
+                                            "content": "Specifications",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 7
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 8.0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        338,
+                        338,
+                        351
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                338,
+                                337,
+                                352
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        338,
+                                        337,
+                                        352
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        356,
+                        562,
+                        433
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                356,
+                                562,
+                                433
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        356,
+                                        562,
+                                        433
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                356,
+                                                562,
+                                                433
+                                            ],
+                                            "score": 0.9999374747276306,
+                                            "html": "<html><body><table><tr><td>Model</td><td>Description</td></tr><tr><td>ATP</td><td>AmplifierTerminalPanel</td></tr><tr><td colspan=\"2\"></td></tr><tr><td colspan=\"2\">RelatedParts</td></tr><tr><td>1B3-125</td><td>125Watt,audiopoweramplifier</td></tr><tr><td>1B3-250</td><td>250Watt,audiopoweramplifier</td></tr><tr><td>URSM</td><td>UniversalRiserSupervisoryModule</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "8a1699be71699d2bd4f4f9e59da2ee316d2bb2420f7c7b47aec953bd7254bf86.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        356,
+                                        562,
+                                        381.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        381.6666666666667,
+                                        562,
+                                        407.33333333333337
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        407.33333333333337,
+                                        562,
+                                        433.00000000000006
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 1,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        208,
+                        563,
+                        318
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                208,
+                                563,
+                                318
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        208,
+                                        563,
+                                        318
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                208,
+                                                563,
+                                                318
+                                            ],
+                                            "score": 0.9993650317192078,
+                                            "html": "<html><body><table><tr><td>PrimaryPower</td><td>Voltage:120VacCurrent:20Ampmax.</td></tr><tr><td>SecondaryPower</td><td>Batterysizemax:40AHStandbycurrent:240mA</td></tr><tr><td>BatteryCharger</td><td>Charge current max: 1.75 Amps; Trickle charge: 5 mA Batterysizemax:40AH;Batterysizemin:15AH</td></tr><tr><td>GroundFaultDetection</td><td><15KOhmstocommonor24Vdc</td></tr><tr><td>TemperatureRange</td><td>32°-120°F(0°-49°C)</td></tr><tr><td>Agency Listings</td><td>UL,FM,CSFM,MEA,ULC</td></tr><tr><td>HumidityRange</td><td>85%,noncondensing</td></tr><tr><td>Dimensions</td><td>5/14W×19 D×51/2Hin.(13.3W×48.3 D×14 Hcm)</td></tr><tr><td>Weight</td><td>14 Ibs (6.5 Kg)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "f18b002449bc88dca90d298d837b6b3ed81f7402ffa9dc4e3f7082321e530170.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        208,
+                                        563,
+                                        244.66666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        244.66666666666666,
+                                        563,
+                                        281.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        281.3333333333333,
+                                        563,
+                                        318.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table_caption",
+                            "bbox": [
+                                212,
+                                192,
+                                298,
+                                205
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        191,
+                                        298,
+                                        206
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                191,
+                                                298,
+                                                206
+                                            ],
+                                            "score": 1.0,
+                                            "content": "Specifications",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 7
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 8.0
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        356,
+                        562,
+                        433
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                356,
+                                562,
+                                433
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        356,
+                                        562,
+                                        433
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                356,
+                                                562,
+                                                433
+                                            ],
+                                            "score": 0.9999374747276306,
+                                            "html": "<html><body><table><tr><td>Model</td><td>Description</td></tr><tr><td>ATP</td><td>AmplifierTerminalPanel</td></tr><tr><td colspan=\"2\"></td></tr><tr><td colspan=\"2\">RelatedParts</td></tr><tr><td>1B3-125</td><td>125Watt,audiopoweramplifier</td></tr><tr><td>1B3-250</td><td>250Watt,audiopoweramplifier</td></tr><tr><td>URSM</td><td>UniversalRiserSupervisoryModule</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "8a1699be71699d2bd4f4f9e59da2ee316d2bb2420f7c7b47aec953bd7254bf86.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        356,
+                                        562,
+                                        381.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        381.6666666666667,
+                                        562,
+                                        407.33333333333337
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        407.33333333333337,
+                                        562,
+                                        433.00000000000006
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                }
+            ],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        31,
+                        750,
+                        70,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                30,
+                                749,
+                                72,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        30,
+                                        749,
+                                        72,
+                                        759
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        378,
+                        745,
+                        563,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                415,
+                                747,
+                                561,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        415,
+                                        749,
+                                        479,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        483,
+                                        747,
+                                        561,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                376,
+                                758,
+                                563,
+                                768
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        376,
+                                        758,
+                                        563,
+                                        768
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        606,
+                        734,
+                        612,
+                        760
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                605,
+                                733,
+                                614,
+                                763
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        605,
+                                        733,
+                                        614,
+                                        763
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        85,
+                        373,
+                        99
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                84,
+                                372,
+                                101
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        84,
+                                        372,
+                                        101
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Engineering Specifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        212,
+                        101,
+                        561,
+                        166
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                102,
+                                553,
+                                112
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        102,
+                                        553,
+                                        112
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The Audio Power amplifiers shall be monitored for loss of AC power. The amplifiers shall",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                213,
+                                113,
+                                557,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        113,
+                                        557,
+                                        124
+                                    ],
+                                    "score": 1.0,
+                                    "content": "not be provided with battery power if AC power is lost unless a fire alarm condition exists",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                213,
+                                124,
+                                560,
+                                135
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        124,
+                                        560,
+                                        135
+                                    ],
+                                    "score": 1.0,
+                                    "content": "or the system operator initiates a page request. The ATP shall be capable of charging and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                213,
+                                135,
+                                544,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        135,
+                                        544,
+                                        145
+                                    ],
+                                    "score": 1.0,
+                                    "content": "supervising batteries up to 40 AH capacity. 120 Vac convenience receptacles shall be",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                212,
+                                145,
+                                551,
+                                156
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        145,
+                                        551,
+                                        156
+                                    ],
+                                    "score": 1.0,
+                                    "content": "available for each amplifier being powered. The ATP shall be fully supervised for internal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                212,
+                                156,
+                                384,
+                                166
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        156,
+                                        384,
+                                        166
+                                    ],
+                                    "score": 1.0,
+                                    "content": "faults as well as brown out and ground fault.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 3.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        212,
+                        102,
+                        560,
+                        166
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        208,
+                        563,
+                        318
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                208,
+                                563,
+                                318
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        208,
+                                        563,
+                                        318
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                208,
+                                                563,
+                                                318
+                                            ],
+                                            "score": 0.9993650317192078,
+                                            "html": "<html><body><table><tr><td>PrimaryPower</td><td>Voltage:120VacCurrent:20Ampmax.</td></tr><tr><td>SecondaryPower</td><td>Batterysizemax:40AHStandbycurrent:240mA</td></tr><tr><td>BatteryCharger</td><td>Charge current max: 1.75 Amps; Trickle charge: 5 mA Batterysizemax:40AH;Batterysizemin:15AH</td></tr><tr><td>GroundFaultDetection</td><td><15KOhmstocommonor24Vdc</td></tr><tr><td>TemperatureRange</td><td>32°-120°F(0°-49°C)</td></tr><tr><td>Agency Listings</td><td>UL,FM,CSFM,MEA,ULC</td></tr><tr><td>HumidityRange</td><td>85%,noncondensing</td></tr><tr><td>Dimensions</td><td>5/14W×19 D×51/2Hin.(13.3W×48.3 D×14 Hcm)</td></tr><tr><td>Weight</td><td>14 Ibs (6.5 Kg)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "f18b002449bc88dca90d298d837b6b3ed81f7402ffa9dc4e3f7082321e530170.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        208,
+                                        563,
+                                        244.66666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        244.66666666666666,
+                                        563,
+                                        281.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        281.3333333333333,
+                                        563,
+                                        318.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table_caption",
+                            "bbox": [
+                                212,
+                                192,
+                                298,
+                                205
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        191,
+                                        298,
+                                        206
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                191,
+                                                298,
+                                                206
+                                            ],
+                                            "score": 1.0,
+                                            "content": "Specifications",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 7
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 8.0,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        338,
+                        338,
+                        351
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                338,
+                                337,
+                                352
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        338,
+                                        337,
+                                        352
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 11,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        356,
+                        562,
+                        433
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                356,
+                                562,
+                                433
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        356,
+                                        562,
+                                        433
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                356,
+                                                562,
+                                                433
+                                            ],
+                                            "score": 0.9999374747276306,
+                                            "html": "<html><body><table><tr><td>Model</td><td>Description</td></tr><tr><td>ATP</td><td>AmplifierTerminalPanel</td></tr><tr><td colspan=\"2\"></td></tr><tr><td colspan=\"2\">RelatedParts</td></tr><tr><td>1B3-125</td><td>125Watt,audiopoweramplifier</td></tr><tr><td>1B3-250</td><td>250Watt,audiopoweramplifier</td></tr><tr><td>URSM</td><td>UniversalRiserSupervisoryModule</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "8a1699be71699d2bd4f4f9e59da2ee316d2bb2420f7c7b47aec953bd7254bf86.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        356,
+                                        562,
+                                        381.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        381.6666666666667,
+                                        562,
+                                        407.33333333333337
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        407.33333333333337,
+                                        562,
+                                        433.00000000000006
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "txt",
+    "_version_name": "0.10.1"
+}

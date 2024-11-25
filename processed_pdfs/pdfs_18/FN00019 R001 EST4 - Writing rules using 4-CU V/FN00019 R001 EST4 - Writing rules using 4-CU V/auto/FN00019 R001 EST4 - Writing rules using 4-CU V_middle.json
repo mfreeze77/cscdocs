@@ -1,0 +1,3050 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        53,
+                        183,
+                        513,
+                        235
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                183,
+                                511,
+                                210
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        183,
+                                        511,
+                                        210
+                                    ],
+                                    "score": 1.0,
+                                    "content": "EST4: Writing rules with delays using 4-CU",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                54,
+                                212,
+                                268,
+                                232
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        212,
+                                        268,
+                                        232
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Version 03.00.00.97",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 0.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        53,
+                        249,
+                        129,
+                        264
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                249,
+                                127,
+                                264
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        249,
+                                        127,
+                                        264
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Introduction",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        53,
+                        270,
+                        554,
+                        282
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                271,
+                                555,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        271,
+                                        555,
+                                        285
+                                    ],
+                                    "score": 1.0,
+                                    "content": "This bulletin informs you of an issue when writing rules using the –Delay command in 4-CU, Version 03.00.00.97.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        53,
+                        298,
+                        88,
+                        311
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                296,
+                                89,
+                                312
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        296,
+                                        89,
+                                        312
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Issue",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        53,
+                        318,
+                        555,
+                        367
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                318,
+                                554,
+                                334
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        318,
+                                        554,
+                                        334
+                                    ],
+                                    "score": 1.0,
+                                    "content": "When you build your project, the 4-CU will automatically combine and optimize multiple rules written for the same",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                331,
+                                532,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        331,
+                                        532,
+                                        345
+                                    ],
+                                    "score": 1.0,
+                                    "content": "input device into one rule for faster processing by the EST4 control unit. If any of the rules has restore Delay",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                53,
+                                343,
+                                545,
+                                356
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        343,
+                                        545,
+                                        356
+                                    ],
+                                    "score": 1.0,
+                                    "content": "(-Delay or Delay) output command(s), the resulting execution of the combined and optimized rule may not be in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                357,
+                                315,
+                                368
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        357,
+                                        315,
+                                        368
+                                    ],
+                                    "score": 1.0,
+                                    "content": "the expected sequence during the event restoral operation.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 6.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        53,
+                        373,
+                        99,
+                        385
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                373,
+                                98,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        373,
+                                        98,
+                                        385
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Example:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        53,
+                        391,
+                        363,
+                        403
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                391,
+                                362,
+                                404
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        391,
+                                        362,
+                                        404
+                                    ],
+                                    "score": 1.0,
+                                    "content": "An installer writes the following two separate rules for the same event.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        69,
+                        407,
+                        320,
+                        475
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                409,
+                                295,
+                                421
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        409,
+                                        82,
+                                        421
+                                    ],
+                                    "score": 0.53,
+                                    "content": "@",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        83,
+                                        410,
+                                        295,
+                                        421
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Supervisory 'Supervisory Device 1':  +Delay :05",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                428,
+                                318,
+                                439
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        428,
+                                        318,
+                                        439
+                                    ],
+                                    "score": 1.0,
+                                    "content": ",  On HIGH '[Branch2]N-02-SLOT-4-AUD-1'",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                446,
+                                177,
+                                457
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        446,
+                                        177,
+                                        457
+                                    ],
+                                    "score": 1.0,
+                                    "content": ", -Delay :07",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        67,
+                        479,
+                        386,
+                        511
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                481,
+                                385,
+                                493
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        481,
+                                        82,
+                                        493
+                                    ],
+                                    "score": 0.45,
+                                    "content": "@",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        83,
+                                        482,
+                                        385,
+                                        493
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Supervisory 'Supervisory Device 1':  FastBlink .Indicator 'Indicator 1'",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        53,
+                        517,
+                        541,
+                        553
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                519,
+                                540,
+                                531
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        519,
+                                        540,
+                                        531
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The expected operation when the supervisory event activates is that the indicator begins flashing immediately,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                53,
+                                530,
+                                536,
+                                544
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        530,
+                                        536,
+                                        544
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and the audio message starts after 5 seconds. Upon clearing the supervisory event, the indicator should stop",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                53,
+                                542,
+                                336,
+                                554
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        542,
+                                        336,
+                                        554
+                                    ],
+                                    "score": 1.0,
+                                    "content": "flashing immediately and the audio should stop after 7 seconds.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 16
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        53,
+                        559,
+                        525,
+                        583
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                559,
+                                524,
+                                572
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        559,
+                                        524,
+                                        572
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The issue in this example is that when the supervisory event is restored, instead of the indicator turning off",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                572,
+                                452,
+                                584
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        572,
+                                        452,
+                                        584
+                                    ],
+                                    "score": 1.0,
+                                    "content": "immediately, there is a delay of 7 seconds before both the indicator and the audio shut off.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        }
+                    ],
+                    "index": 18.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        53,
+                        597,
+                        106,
+                        611
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                596,
+                                105,
+                                612
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        596,
+                                        105,
+                                        612
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Solution",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        }
+                    ],
+                    "index": 20
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        53,
+                        619,
+                        544,
+                        655
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                620,
+                                541,
+                                632
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        620,
+                                        541,
+                                        632
+                                    ],
+                                    "score": 1.0,
+                                    "content": "To avoid this issue, combine multiple rules for the same input device and output commands with restore Delay",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                631,
+                                544,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        631,
+                                        544,
+                                        645
+                                    ],
+                                    "score": 1.0,
+                                    "content": "(-Delay or Delay) operations into one rule during rule script writing in the 4-CU. Test the rules system operation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                643,
+                                162,
+                                657
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        643,
+                                        162,
+                                        657
+                                    ],
+                                    "score": 1.0,
+                                    "content": "for the desired outcome.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 22
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        55,
+                        34,
+                        248,
+                        74
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                76,
+                                44,
+                                246,
+                                65
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        76,
+                                        44,
+                                        246,
+                                        65
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        300,
+                        747,
+                        316,
+                        755
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                298,
+                                745,
+                                317,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        298,
+                                        745,
+                                        317,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        414,
+                        746,
+                        558,
+                        756
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                414,
+                                748,
+                                558,
+                                756
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        414,
+                                        748,
+                                        558,
+                                        756
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        484,
+                        143,
+                        559,
+                        156
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                486,
+                                144,
+                                557,
+                                154
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        486,
+                                        144,
+                                        557,
+                                        154
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        53,
+                        746,
+                        199,
+                        756
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                746,
+                                199,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        746,
+                                        60,
+                                        755
+                                    ],
+                                    "score": 0.62,
+                                    "content": "\\circledcirc",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        61,
+                                        747,
+                                        199,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        54,
+                        143,
+                        175,
+                        155
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                145,
+                                176,
+                                155
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        145,
+                                        176,
+                                        155
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        55,
+                        105,
+                        363,
+                        139
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                55,
+                                106,
+                                361,
+                                136
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        106,
+                                        237,
+                                        136
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        244,
+                                        108,
+                                        361,
+                                        135
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        53,
+                        183,
+                        513,
+                        235
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                183,
+                                511,
+                                210
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        183,
+                                        511,
+                                        210
+                                    ],
+                                    "score": 1.0,
+                                    "content": "EST4: Writing rules with delays using 4-CU",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                54,
+                                212,
+                                268,
+                                232
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        212,
+                                        268,
+                                        232
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Version 03.00.00.97",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 0.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        53,
+                        249,
+                        129,
+                        264
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                249,
+                                127,
+                                264
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        249,
+                                        127,
+                                        264
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Introduction",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        52,
+                        249,
+                        127,
+                        264
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        53,
+                        270,
+                        554,
+                        282
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                271,
+                                555,
+                                285
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        271,
+                                        555,
+                                        285
+                                    ],
+                                    "score": 1.0,
+                                    "content": "This bulletin informs you of an issue when writing rules using the –Delay command in 4-CU, Version 03.00.00.97.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        53,
+                        271,
+                        555,
+                        285
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        53,
+                        298,
+                        88,
+                        311
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                296,
+                                89,
+                                312
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        296,
+                                        89,
+                                        312
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Issue",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        53,
+                        318,
+                        555,
+                        367
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                318,
+                                554,
+                                334
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        318,
+                                        554,
+                                        334
+                                    ],
+                                    "score": 1.0,
+                                    "content": "When you build your project, the 4-CU will automatically combine and optimize multiple rules written for the same",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                331,
+                                532,
+                                345
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        331,
+                                        532,
+                                        345
+                                    ],
+                                    "score": 1.0,
+                                    "content": "input device into one rule for faster processing by the EST4 control unit. If any of the rules has restore Delay",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                53,
+                                343,
+                                545,
+                                356
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        343,
+                                        545,
+                                        356
+                                    ],
+                                    "score": 1.0,
+                                    "content": "(-Delay or Delay) output command(s), the resulting execution of the combined and optimized rule may not be in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                357,
+                                315,
+                                368
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        357,
+                                        315,
+                                        368
+                                    ],
+                                    "score": 1.0,
+                                    "content": "the expected sequence during the event restoral operation.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 6.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        52,
+                        318,
+                        554,
+                        368
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        53,
+                        373,
+                        99,
+                        385
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                373,
+                                98,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        373,
+                                        98,
+                                        385
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Example:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        53,
+                        373,
+                        98,
+                        385
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        53,
+                        391,
+                        363,
+                        403
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                391,
+                                362,
+                                404
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        391,
+                                        362,
+                                        404
+                                    ],
+                                    "score": 1.0,
+                                    "content": "An installer writes the following two separate rules for the same event.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 10,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        53,
+                        391,
+                        362,
+                        404
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        69,
+                        407,
+                        320,
+                        475
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                409,
+                                295,
+                                421
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        409,
+                                        82,
+                                        421
+                                    ],
+                                    "score": 0.53,
+                                    "content": "@",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        83,
+                                        410,
+                                        295,
+                                        421
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Supervisory 'Supervisory Device 1':  +Delay :05",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                428,
+                                318,
+                                439
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        428,
+                                        318,
+                                        439
+                                    ],
+                                    "score": 1.0,
+                                    "content": ",  On HIGH '[Branch2]N-02-SLOT-4-AUD-1'",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                446,
+                                177,
+                                457
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        446,
+                                        177,
+                                        457
+                                    ],
+                                    "score": 1.0,
+                                    "content": ", -Delay :07",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 12,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        70,
+                        409,
+                        318,
+                        457
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        67,
+                        479,
+                        386,
+                        511
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                481,
+                                385,
+                                493
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        481,
+                                        82,
+                                        493
+                                    ],
+                                    "score": 0.45,
+                                    "content": "@",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        83,
+                                        482,
+                                        385,
+                                        493
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Supervisory 'Supervisory Device 1':  FastBlink .Indicator 'Indicator 1'",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                53,
+                                519,
+                                540,
+                                531
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        519,
+                                        540,
+                                        531
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The expected operation when the supervisory event activates is that the indicator begins flashing immediately,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                53,
+                                530,
+                                536,
+                                544
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        530,
+                                        536,
+                                        544
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and the audio message starts after 5 seconds. Upon clearing the supervisory event, the indicator should stop",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                53,
+                                542,
+                                336,
+                                554
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        542,
+                                        336,
+                                        554
+                                    ],
+                                    "score": 1.0,
+                                    "content": "flashing immediately and the audio should stop after 7 seconds.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 14,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        71,
+                        481,
+                        385,
+                        493
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        53,
+                        517,
+                        541,
+                        553
+                    ],
+                    "lines": [],
+                    "index": 16,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        53,
+                        519,
+                        540,
+                        554
+                    ],
+                    "lines_deleted": true
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        53,
+                        559,
+                        525,
+                        583
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                559,
+                                524,
+                                572
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        559,
+                                        524,
+                                        572
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The issue in this example is that when the supervisory event is restored, instead of the indicator turning off",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                572,
+                                452,
+                                584
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        572,
+                                        452,
+                                        584
+                                    ],
+                                    "score": 1.0,
+                                    "content": "immediately, there is a delay of 7 seconds before both the indicator and the audio shut off.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        }
+                    ],
+                    "index": 18.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        52,
+                        559,
+                        524,
+                        584
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        53,
+                        597,
+                        106,
+                        611
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                596,
+                                105,
+                                612
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        596,
+                                        105,
+                                        612
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Solution",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        }
+                    ],
+                    "index": 20,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        53,
+                        619,
+                        544,
+                        655
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                620,
+                                541,
+                                632
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        620,
+                                        541,
+                                        632
+                                    ],
+                                    "score": 1.0,
+                                    "content": "To avoid this issue, combine multiple rules for the same input device and output commands with restore Delay",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                631,
+                                544,
+                                645
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        631,
+                                        544,
+                                        645
+                                    ],
+                                    "score": 1.0,
+                                    "content": "(-Delay or Delay) operations into one rule during rule script writing in the 4-CU. Test the rules system operation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                643,
+                                162,
+                                657
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        643,
+                                        162,
+                                        657
+                                    ],
+                                    "score": 1.0,
+                                    "content": "for the desired outcome.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 22,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        52,
+                        620,
+                        544,
+                        657
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        53,
+                        37,
+                        98,
+                        47
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                36,
+                                99,
+                                48
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        36,
+                                        99,
+                                        48
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Example:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        53,
+                        54,
+                        514,
+                        78
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                55,
+                                513,
+                                67
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        55,
+                                        513,
+                                        67
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The expected result in the rules above is that indicator 1 should turn off immediately. The combined rule",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                54,
+                                67,
+                                508,
+                                79
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        67,
+                                        508,
+                                        79
+                                    ],
+                                    "score": 1.0,
+                                    "content": "configured in the 4-CU should be as follows, which represents an example of the solution for this issue.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        70,
+                        83,
+                        392,
+                        96
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                84,
+                                391,
+                                97
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        84,
+                                        82,
+                                        96
+                                    ],
+                                    "score": 0.49,
+                                    "content": "@",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        83,
+                                        84,
+                                        391,
+                                        97
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Supervisory 'Supervisory Device 1':  +FastBlink .Indicator 'Indicator 1'",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        124,
+                        102,
+                        490,
+                        186
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                123,
+                                102,
+                                180,
+                                114
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        123,
+                                        102,
+                                        180,
+                                        114
+                                    ],
+                                    "score": 1.0,
+                                    "content": ", +Delay :05",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                120,
+                                316,
+                                133
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        120,
+                                        316,
+                                        133
+                                    ],
+                                    "score": 1.0,
+                                    "content": ", On HIGH '[Branch2]N-02-SLOT-4-AUD-1'",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                138,
+                                178,
+                                151
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        138,
+                                        178,
+                                        151
+                                    ],
+                                    "score": 1.0,
+                                    "content": ", -Delay :07",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                156,
+                                488,
+                                169
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        156,
+                                        488,
+                                        169
+                                    ],
+                                    "score": 1.0,
+                                    "content": ", -Off .Indicator 'Indicator 1'   {-Off is required for shutting off indicator immediately}",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 5.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        53,
+                        211,
+                        323,
+                        227
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                211,
+                                321,
+                                229
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        211,
+                                        321,
+                                        229
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Reminder of NFPA 72 testing requirements",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        53,
+                        233,
+                        386,
+                        246
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                233,
+                                386,
+                                248
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        233,
+                                        386,
+                                        248
+                                    ],
+                                    "score": 1.0,
+                                    "content": "When changes are made to site-specific software, the following shall apply:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        53,
+                        251,
+                        558,
+                        324
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                253,
+                                541,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        253,
+                                        541,
+                                        266
+                                    ],
+                                    "score": 1.0,
+                                    "content": "All functions known to be affected by the change, or identified by a means that indicates changes, shall be",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                71,
+                                264,
+                                158,
+                                278
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        264,
+                                        158,
+                                        278
+                                    ],
+                                    "score": 1.0,
+                                    "content": "100 percent tested.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                69,
+                                276,
+                                558,
+                                290
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        276,
+                                        558,
+                                        290
+                                    ],
+                                    "score": 1.0,
+                                    "content": "In addition, 10 percent of initiating devices that are not directly affected by the change, up to a maximum of 50",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                71,
+                                289,
+                                404,
+                                302
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        289,
+                                        404,
+                                        302
+                                    ],
+                                    "score": 1.0,
+                                    "content": "devices, also shall be tested and correct system operation shall be verified.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                69,
+                                300,
+                                518,
+                                315
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        300,
+                                        518,
+                                        315
+                                    ],
+                                    "score": 1.0,
+                                    "content": "A revised record of completion in accordance with NFPA standards shall be prepared to reflect these",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                70,
+                                312,
+                                114,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        312,
+                                        114,
+                                        327
+                                    ],
+                                    "score": 1.0,
+                                    "content": "changes.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 12.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        53,
+                        330,
+                        538,
+                        366
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                330,
+                                529,
+                                344
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        330,
+                                        529,
+                                        344
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Changes to all control units connected to or controlled by the system executable software shall require a 10",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                343,
+                                537,
+                                357
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        343,
+                                        537,
+                                        357
+                                    ],
+                                    "score": 1.0,
+                                    "content": "percent functional test of the system, including a test of at least one device on each input and output circuit to",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                53,
+                                354,
+                                525,
+                                368
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        354,
+                                        525,
+                                        368
+                                    ],
+                                    "score": 1.0,
+                                    "content": "verify critical system functions such as notification appliances, control functions, and off-premises reporting.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 17
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 1,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        541,
+                        733,
+                        559,
+                        741
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                540,
+                                732,
+                                560,
+                                743
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        540,
+                                        732,
+                                        560,
+                                        743
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        53,
+                        732,
+                        198,
+                        742
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                733,
+                                197,
+                                742
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        733,
+                                        141,
+                                        742
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        142,
+                                        734,
+                                        148,
+                                        739
+                                    ],
+                                    "score": 0.31,
+                                    "content": "\\bullet",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        148,
+                                        733,
+                                        197,
+                                        742
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        53,
+                        37,
+                        98,
+                        47
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                36,
+                                99,
+                                48
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        36,
+                                        99,
+                                        48
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Example:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        53,
+                        54,
+                        514,
+                        78
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                55,
+                                513,
+                                67
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        55,
+                                        513,
+                                        67
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The expected result in the rules above is that indicator 1 should turn off immediately. The combined rule",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                54,
+                                67,
+                                508,
+                                79
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        67,
+                                        508,
+                                        79
+                                    ],
+                                    "score": 1.0,
+                                    "content": "configured in the 4-CU should be as follows, which represents an example of the solution for this issue.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        52,
+                        55,
+                        513,
+                        79
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        70,
+                        83,
+                        392,
+                        96
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                71,
+                                84,
+                                391,
+                                97
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        84,
+                                        82,
+                                        96
+                                    ],
+                                    "score": 0.49,
+                                    "content": "@",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        83,
+                                        84,
+                                        391,
+                                        97
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Supervisory 'Supervisory Device 1':  +FastBlink .Indicator 'Indicator 1'",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        71,
+                        84,
+                        391,
+                        97
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        124,
+                        102,
+                        490,
+                        186
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                123,
+                                102,
+                                180,
+                                114
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        123,
+                                        102,
+                                        180,
+                                        114
+                                    ],
+                                    "score": 1.0,
+                                    "content": ", +Delay :05",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                120,
+                                316,
+                                133
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        120,
+                                        316,
+                                        133
+                                    ],
+                                    "score": 1.0,
+                                    "content": ", On HIGH '[Branch2]N-02-SLOT-4-AUD-1'",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                138,
+                                178,
+                                151
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        138,
+                                        178,
+                                        151
+                                    ],
+                                    "score": 1.0,
+                                    "content": ", -Delay :07",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                124,
+                                156,
+                                488,
+                                169
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        124,
+                                        156,
+                                        488,
+                                        169
+                                    ],
+                                    "score": 1.0,
+                                    "content": ", -Off .Indicator 'Indicator 1'   {-Off is required for shutting off indicator immediately}",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7,
+                            "is_list_start_line": true
+                        }
+                    ],
+                    "index": 5.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        123,
+                        102,
+                        488,
+                        169
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        53,
+                        211,
+                        323,
+                        227
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                211,
+                                321,
+                                229
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        211,
+                                        321,
+                                        229
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Reminder of NFPA 72 testing requirements",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 8,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        53,
+                        233,
+                        386,
+                        246
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                233,
+                                386,
+                                248
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        233,
+                                        386,
+                                        248
+                                    ],
+                                    "score": 1.0,
+                                    "content": "When changes are made to site-specific software, the following shall apply:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        52,
+                        233,
+                        386,
+                        248
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        53,
+                        251,
+                        558,
+                        324
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                70,
+                                253,
+                                541,
+                                266
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        253,
+                                        541,
+                                        266
+                                    ],
+                                    "score": 1.0,
+                                    "content": "All functions known to be affected by the change, or identified by a means that indicates changes, shall be",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                71,
+                                264,
+                                158,
+                                278
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        264,
+                                        158,
+                                        278
+                                    ],
+                                    "score": 1.0,
+                                    "content": "100 percent tested.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                69,
+                                276,
+                                558,
+                                290
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        276,
+                                        558,
+                                        290
+                                    ],
+                                    "score": 1.0,
+                                    "content": "In addition, 10 percent of initiating devices that are not directly affected by the change, up to a maximum of 50",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                71,
+                                289,
+                                404,
+                                302
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        71,
+                                        289,
+                                        404,
+                                        302
+                                    ],
+                                    "score": 1.0,
+                                    "content": "devices, also shall be tested and correct system operation shall be verified.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                69,
+                                300,
+                                518,
+                                315
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        69,
+                                        300,
+                                        518,
+                                        315
+                                    ],
+                                    "score": 1.0,
+                                    "content": "A revised record of completion in accordance with NFPA standards shall be prepared to reflect these",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                70,
+                                312,
+                                114,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        70,
+                                        312,
+                                        114,
+                                        327
+                                    ],
+                                    "score": 1.0,
+                                    "content": "changes.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 12.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        69,
+                        253,
+                        558,
+                        327
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        53,
+                        330,
+                        538,
+                        366
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                330,
+                                529,
+                                344
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        330,
+                                        529,
+                                        344
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Changes to all control units connected to or controlled by the system executable software shall require a 10",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                343,
+                                537,
+                                357
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        343,
+                                        537,
+                                        357
+                                    ],
+                                    "score": 1.0,
+                                    "content": "percent functional test of the system, including a test of at least one device on each input and output circuit to",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                53,
+                                354,
+                                525,
+                                368
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        354,
+                                        525,
+                                        368
+                                    ],
+                                    "score": 1.0,
+                                    "content": "verify critical system functions such as notification appliances, control functions, and off-premises reporting.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 17,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        52,
+                        330,
+                        537,
+                        368
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "txt",
+    "_version_name": "0.10.1"
+}

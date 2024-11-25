@@ -1,0 +1,155 @@
+[
+    {
+        "type": "text",
+        "text": "FireWorks VESDA Interface FW-HSSX1 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Description ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The FireWorks-VESDA Interface is a High Level Interface (HLI) that integrates a new or existing VESDAnet network with EDWARDS life safety systems via the FireWorks Incident Management Platform. The interface acts as a supervised conduit for information exchange between supported VESDA devices on the VESDAnet network and the FireWorks platform. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This two-way communication provides FireWorks with real-time access to the status of networked VESDA detectors, and also the ability to control and reset these devices. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "All VESDAnet detector events are automatically reported to the FireWorks system, and each event can have FireWorks programming associated with it. Status changes are reported to FireWorks within a few seconds of a detector reaching an alarm condition. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The FireWorks-VESDA Interface is a breakthrough solution that saves time and money. Instead of relay arrangements that require extra hardware, wiring, and programming to achieve communications with VESDA devices, the FW-HSSX1 acts as a communications gateway that is both simpler to install, yet offers more robust functionality. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A single interface module supports up to 100 VESDA detectors for process control, or 61 VESDA detectors for life safety applications. FireWorks supports up to 20 interface modules, offering scalability of up to 2,000 VESDA detectors on a FireWorks system. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Standard Features ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Comprehensive and fully detailed event information   \n56 detector events and 105 sector events can be brought into FireWorks – more detail than relays and other interfaces.   \nProgrammable event response   \nFireWorks can be programmed to trigger event responses based on VESDA status changes.   \nSaves time and money   \nMakes complex arrangements of relays and wiring   \nunnecessary.   \nScalable Investment   \nProvides direct access to as many as 2,000 VESDA detectors on a single FireWorks system.   \nEarly Detection and Response   \nBrings the high sensitivity and installation benefits of aspirated detection to FireWorks network applications.   \nIntegrated Life Safety   \nUL 864/ULC S527 Listed, FM Approved, CSFM Listed.   \nEnables “Big Picture” Incident Management   \nVESDA integration promotes situational awareness in the early stages of incident development, allowing response protocols to be deployed rapidly and effectively.   \nVersatile Solution   \nSupports multiple VESDAnet family detectors.   \nResponsive Command and Control   \nData transfer allows quick and specific status updates, plus device control through FireWorks.   \nReliable Operation   \nFully supervised with ground fault detection. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Application ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The FW-HSSX1 FireWorks-VESDA Interface is ideal for the integration of new or existing VESDA smoke detection networks with the FireWorks Incident Management Platform. With the early response characteristics of aspirated detection, FireWorks is better able to manage incidents in their early stages. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "High-value and critical operations facilities such as data centers, electrical vaults, and manufacturing facilities are well suited to aspirating smoke detection. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "New applications designed to include VESDA detection will benefit from FireWorks Incident Management and its situational awareness strengths. This takes into account information from many different sources and geographic locations to provide a big picture solution that may be missed with the information from the VESDAnet alone. In other words, the whole is greater than the sum of its parts. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "With the FireWorks/VESDA integration, the solution yields a UL/ ULC Listed/FM Approved end-to-end system.  The system can be easily be configured to activate notification appliances or perform other functions based on inputs from the VESDAnet detectors. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Note:\t When using the EDWARDS/Xtralis integration solution with existing VESDAnets that have VLP, VLS and/or VLC class detectors, each detector must be retrofitted with a VESDA XXX-YYY ground isolation kit and equipped with transient protection. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Supported Functionality ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "•Alarm Status   \n•Fault Status   \n•Smoke Level   \n•Detailed Fault Information   \n•Alarm Thresholds   \n•Detector Control including Reset, Disable, Silence, Alarm Test and Normalize Operational Status for processes such as Normalization and AutoLearn ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mounting ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The FW-HSSX1 FireWorks-VESDA Interface is built into a NEMA 1 metal enclosure allowing for easy installation.  Wiring lands on removable terminal strips.  The FW-HSSX1 also has a ground fault enable/disable jumper. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c9e11672c94a3d158a7ba8a8a530b2f798ed554744ba6ac7ba2b69484e2bc9c3.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Specifications ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/ea3ec1f01e5637048c66de27fdbbf23ce815e1e70b45300e1123ac1697749e4a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>PowerConsumption 1.68 W (Quiescent)</td></tr><tr><td>Supply Voltage</td><td>24VDC</td></tr><tr><td>CurrentConsumption</td><td>70 mA (Quiescent)</td></tr><tr><td>Protocol Support</td><td>VESDAVLP,VLS,VLC,VLF,VLI andVFT-15detectors; VESDA-E,andVEUdetectors</td></tr><tr><td>NumberofDetectors Supported</td><td></td></tr><tr><td>For Life Safety ForProcessControl</td><td>Up to61per InterfaceModule Up to 100per Interface Module</td></tr><tr><td>Dimensions (WHD)</td><td>11 in. x7.3 in. x 2.2 in.</td></tr><tr><td>Weight</td><td>(280mm×185mm×55mm)</td></tr><tr><td>Supplied With</td><td>4.4 lbs (2.0 kg) VESDAlinkRS-2329-wayserialcable</td></tr><tr><td>AgencyListings</td><td>UL8649thEdition,ULCS527,FM Approved,CSFMApproved</td></tr></table></body></html>\n\n",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/dde7ec73e3da017b32fec6e5762a3a6e5d5a5a4e467b9e993fe5b77ab527979f.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ordering Information ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/c3d5255247627b9f0ccbee14caf18d026dd83dc38ee5c8c2cd3b533aeb462958.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>FW-HSSX1</td><td>command/control.Maximum61VESDAdetectorsforLifeSafetyapplicationsorupto100VESDAdetectorsforprocesscontrol(non- LifeSafety)perFW-HSSX1.24VDC.</td></tr><tr><td>FW-HSSD5</td><td>VESDAHLI InterfacesinglesoftwarePINcode add-on.Enablesconnectionofone(1)tofive(5)VESDAHLI(FW-HSSX1)toFireWorks asnodes.RequiresoneFW-HSSX1HighLevelInterfaceforeachVESDAnetworkifusingStandaloneorNonRedundantServerand twoifusingRedundantFireWorksServers.EachservermusthaveitsownseparateFW-HSSX1.</td></tr><tr><td>FW-HSSD2O</td><td>VESDAHLIInterfacesinglesoftwarePINcodeadd-on.Enablesconnectionofone(1)totwenty(2O)VESDAHLI(FW-HSSX1)to FireWorksasnodes.RequiresoneFW-HSSX1HighLevelInterfaceforeachVESDAnetworkifusingStandaloneorNonRedundant</td></tr></table></body></html>\n\n",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/b3b7ea13d93062abf05af53071c867cfd9678b8ed8f6527d3c9186fb8dd62f65.jpg",
+        "table_caption": [
+            "Accessories "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>MN-COM1S</td><td>UL864ListedFireWorksCommunicationsEthernetPort,Command&Control.ComeswithpowerandRS232datacables.</td></tr><tr><td></td><td>MN-FNS4C2F34FastEthernet(RJ45),2GBSFP,Layer3Lite.24VDC.</td></tr><tr><td></td><td>MN-FNS8C2F38FastEthernet(RJ45),2GBComboSFP/RJ45,Layer3Lite.24VDC.</td></tr><tr><td>MN-BRKT3</td><td>MN-FVPmountingbracketforAPS-(6)(1o)Apowersupplies</td></tr><tr><td>APS6A</td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 2
+    }
+]

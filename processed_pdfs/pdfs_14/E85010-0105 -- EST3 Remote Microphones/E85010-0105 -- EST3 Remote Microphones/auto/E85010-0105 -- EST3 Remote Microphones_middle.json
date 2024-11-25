@@ -1,0 +1,3801 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        48,
+                        146,
+                        253,
+                        237
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                149,
+                                171,
+                                179
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        149,
+                                        171,
+                                        179
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Remote",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                184,
+                                253,
+                                220
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        184,
+                                        253,
+                                        220
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Microphones",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                219,
+                                230,
+                                235
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        219,
+                                        230,
+                                        235
+                                    ],
+                                    "score": 1.0,
+                                    "content": "3-REMICA, 3-REMICP",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        358,
+                        106,
+                        371
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                358,
+                                107,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        358,
+                                        107,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        48,
+                        375,
+                        307,
+                        461
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                376,
+                                307,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        376,
+                                        307,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The remote microphone panel is a supervised remote microphone,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                387,
+                                292,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        387,
+                                        292,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "used with the Audio Source Unit’s (3-ASU) remote microphone",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                398,
+                                303,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        398,
+                                        303,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "input. The remote microphone panel is available in two packages.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                408,
+                                295,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        408,
+                                        295,
+                                        419
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The 3‑REMICA is designed to mount in two spaces of a 3-ANN",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                419,
+                                282,
+                                429
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        419,
+                                        282,
+                                        429
+                                    ],
+                                    "score": 1.0,
+                                    "content": "series annunciator enclosure. Model 3-REMICP mounts in a",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                430,
+                                301,
+                                440
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        430,
+                                        301,
+                                        440
+                                    ],
+                                    "score": 1.0,
+                                    "content": "CAB series enclosure on a 3-CHASS4 rail assembly. Both panels",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                440,
+                                307,
+                                452
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        440,
+                                        307,
+                                        452
+                                    ],
+                                    "score": 1.0,
+                                    "content": "include a dynamic push-to-talk microphone and operator interface",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                453,
+                                74,
+                                461
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        453,
+                                        74,
+                                        461
+                                    ],
+                                    "score": 1.0,
+                                    "content": "panel.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 7.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        468,
+                        306,
+                        544
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                469,
+                                302,
+                                479
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        469,
+                                        302,
+                                        479
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Each microphone panel has two external audio inputs.  Using the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                480,
+                                294,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        480,
+                                        294,
+                                        489
+                                    ],
+                                    "score": 1.0,
+                                    "content": "external inputs, up to 63 microphone panels can be connected",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                490,
+                                300,
+                                501
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        490,
+                                        300,
+                                        501
+                                    ],
+                                    "score": 1.0,
+                                    "content": "to a single 3-ASU. The first panel to initiate a page seizes control",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                501,
+                                295,
+                                511
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        501,
+                                        295,
+                                        511
+                                    ],
+                                    "score": 1.0,
+                                    "content": "of the remote 3-ASU input and automatically prevents the other",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                512,
+                                307,
+                                522
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        512,
+                                        307,
+                                        522
+                                    ],
+                                    "score": 1.0,
+                                    "content": "remote panels from issuing a page while the first unit is in use. The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                522,
+                                297,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        522,
+                                        297,
+                                        533
+                                    ],
+                                    "score": 1.0,
+                                    "content": "built-in 3-ASU microphone has a higher priority than any remote",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                533,
+                                225,
+                                544
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        533,
+                                        225,
+                                        544
+                                    ],
+                                    "score": 1.0,
+                                    "content": "microphone, and will override a remote page.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        549,
+                        305,
+                        581
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                550,
+                                302,
+                                561
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        550,
+                                        302,
+                                        561
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The front panel provides Local Page Active, Remote Page Active,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                560,
+                                303,
+                                571
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        560,
+                                        303,
+                                        571
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and Trouble LED indicators as well as an integral VU (Volume Unit)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                572,
+                                190,
+                                582
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        572,
+                                        190,
+                                        582
+                                    ],
+                                    "score": 1.0,
+                                    "content": "meter to indicate page volume level.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 20
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        588,
+                        301,
+                        631
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                588,
+                                288,
+                                599
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        588,
+                                        288,
+                                        599
+                                    ],
+                                    "score": 1.0,
+                                    "content": "All panels utilize a 24 Vdc power source. Provisions are made",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                599,
+                                296,
+                                610
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        599,
+                                        296,
+                                        610
+                                    ],
+                                    "score": 1.0,
+                                    "content": "for redundant power supplies. All wiring is supervised. A form C",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                609,
+                                300,
+                                621
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        609,
+                                        300,
+                                        621
+                                    ],
+                                    "score": 1.0,
+                                    "content": "trouble contact is provided for use with a Signature input module",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                621,
+                                191,
+                                631
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        621,
+                                        191,
+                                        631
+                                    ],
+                                    "score": 1.0,
+                                    "content": "to report trouble back to the system.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        }
+                    ],
+                    "index": 23.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        358,
+                        433,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                434,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        434,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        }
+                    ],
+                    "index": 26
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        375,
+                        550,
+                        449
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                326,
+                                376,
+                                486,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        326,
+                                        376,
+                                        486,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "\t Up to 63 remote microphones per ASU",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                391,
+                                461,
+                                402
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        391,
+                                        461,
+                                        402
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Annunciator or cabinet mounting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                326,
+                                407,
+                                437,
+                                417
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        326,
+                                        407,
+                                        437,
+                                        417
+                                    ],
+                                    "score": 1.0,
+                                    "content": "\t VU meter and status LEDs",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                329,
+                                423,
+                                549,
+                                434
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        329,
+                                        423,
+                                        549,
+                                        434
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Active remote mic has priority with ASU priority override",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                325,
+                                439,
+                                421,
+                                449
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        325,
+                                        439,
+                                        421,
+                                        449
+                                    ],
+                                    "score": 1.0,
+                                    "content": "\t All wiring is supervised",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        }
+                    ],
+                    "index": 29
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        325,
+                        474,
+                        393,
+                        488
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                325,
+                                474,
+                                394,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        325,
+                                        474,
+                                        394,
+                                        489
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Application",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 32
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        491,
+                        575,
+                        578
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                490,
+                                572,
+                                503
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        490,
+                                        572,
+                                        503
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The 3-REMICA and 3-REMICP are designed to add remote pag-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                503,
+                                568,
+                                513
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        503,
+                                        568,
+                                        513
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ing capability at network nodes or remote annunciators that are ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                513,
+                                561,
+                                523
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        513,
+                                        561,
+                                        523
+                                    ],
+                                    "score": 1.0,
+                                    "content": "remotely located from the Audio Source Unit. These areas are",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                524,
+                                573,
+                                534
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        524,
+                                        573,
+                                        534
+                                    ],
+                                    "score": 1.0,
+                                    "content": "typically alternate fire command stations, security desks, or other",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                534,
+                                565,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        534,
+                                        565,
+                                        546
+                                    ],
+                                    "score": 1.0,
+                                    "content": "areas where public messages are issued during an emergency.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                545,
+                                561,
+                                556
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        545,
+                                        561,
+                                        556
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Selection of paging areas is done with standard EST3 Control",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                556,
+                                575,
+                                566
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        556,
+                                        575,
+                                        566
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Display Modules, which can be programmed as required for each",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                568,
+                                395,
+                                577
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        568,
+                                        395,
+                                        577
+                                    ],
+                                    "score": 1.0,
+                                    "content": "paging application.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        }
+                    ],
+                    "index": 36.5
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        395,
+                        745,
+                        580,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                433,
+                                747,
+                                579,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        433,
+                                        749,
+                                        497,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        501,
+                                        747,
+                                        579,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                394,
+                                758,
+                                581,
+                                768
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        394,
+                                        758,
+                                        581,
+                                        768
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        49,
+                        749,
+                        88,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                749,
+                                88,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        749,
+                                        88,
+                                        759
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        48,
+                        146,
+                        253,
+                        237
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                149,
+                                171,
+                                179
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        149,
+                                        171,
+                                        179
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Remote",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                184,
+                                253,
+                                220
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        184,
+                                        253,
+                                        220
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Microphones",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                55,
+                                219,
+                                230,
+                                235
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        55,
+                                        219,
+                                        230,
+                                        235
+                                    ],
+                                    "score": 1.0,
+                                    "content": "3-REMICA, 3-REMICP",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        358,
+                        106,
+                        371
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                358,
+                                107,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        358,
+                                        107,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        48,
+                        375,
+                        307,
+                        461
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                376,
+                                307,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        376,
+                                        307,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The remote microphone panel is a supervised remote microphone,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                387,
+                                292,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        387,
+                                        292,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "used with the Audio Source Unit’s (3-ASU) remote microphone",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                398,
+                                303,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        398,
+                                        303,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "input. The remote microphone panel is available in two packages.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                408,
+                                295,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        408,
+                                        295,
+                                        419
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The 3‑REMICA is designed to mount in two spaces of a 3-ANN",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                419,
+                                282,
+                                429
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        419,
+                                        282,
+                                        429
+                                    ],
+                                    "score": 1.0,
+                                    "content": "series annunciator enclosure. Model 3-REMICP mounts in a",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                430,
+                                301,
+                                440
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        430,
+                                        301,
+                                        440
+                                    ],
+                                    "score": 1.0,
+                                    "content": "CAB series enclosure on a 3-CHASS4 rail assembly. Both panels",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                440,
+                                307,
+                                452
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        440,
+                                        307,
+                                        452
+                                    ],
+                                    "score": 1.0,
+                                    "content": "include a dynamic push-to-talk microphone and operator interface",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                453,
+                                74,
+                                461
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        453,
+                                        74,
+                                        461
+                                    ],
+                                    "score": 1.0,
+                                    "content": "panel.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 7.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        48,
+                        376,
+                        307,
+                        461
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        468,
+                        306,
+                        544
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                469,
+                                302,
+                                479
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        469,
+                                        302,
+                                        479
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Each microphone panel has two external audio inputs.  Using the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                480,
+                                294,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        480,
+                                        294,
+                                        489
+                                    ],
+                                    "score": 1.0,
+                                    "content": "external inputs, up to 63 microphone panels can be connected",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                490,
+                                300,
+                                501
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        490,
+                                        300,
+                                        501
+                                    ],
+                                    "score": 1.0,
+                                    "content": "to a single 3-ASU. The first panel to initiate a page seizes control",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                501,
+                                295,
+                                511
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        501,
+                                        295,
+                                        511
+                                    ],
+                                    "score": 1.0,
+                                    "content": "of the remote 3-ASU input and automatically prevents the other",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                512,
+                                307,
+                                522
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        512,
+                                        307,
+                                        522
+                                    ],
+                                    "score": 1.0,
+                                    "content": "remote panels from issuing a page while the first unit is in use. The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                522,
+                                297,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        522,
+                                        297,
+                                        533
+                                    ],
+                                    "score": 1.0,
+                                    "content": "built-in 3-ASU microphone has a higher priority than any remote",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                533,
+                                225,
+                                544
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        533,
+                                        225,
+                                        544
+                                    ],
+                                    "score": 1.0,
+                                    "content": "microphone, and will override a remote page.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 15,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        48,
+                        469,
+                        307,
+                        544
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        549,
+                        305,
+                        581
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                550,
+                                302,
+                                561
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        550,
+                                        302,
+                                        561
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The front panel provides Local Page Active, Remote Page Active,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                560,
+                                303,
+                                571
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        560,
+                                        303,
+                                        571
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and Trouble LED indicators as well as an integral VU (Volume Unit)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                572,
+                                190,
+                                582
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        572,
+                                        190,
+                                        582
+                                    ],
+                                    "score": 1.0,
+                                    "content": "meter to indicate page volume level.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 20,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        50,
+                        550,
+                        303,
+                        582
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        588,
+                        301,
+                        631
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                588,
+                                288,
+                                599
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        588,
+                                        288,
+                                        599
+                                    ],
+                                    "score": 1.0,
+                                    "content": "All panels utilize a 24 Vdc power source. Provisions are made",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                599,
+                                296,
+                                610
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        599,
+                                        296,
+                                        610
+                                    ],
+                                    "score": 1.0,
+                                    "content": "for redundant power supplies. All wiring is supervised. A form C",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                609,
+                                300,
+                                621
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        609,
+                                        300,
+                                        621
+                                    ],
+                                    "score": 1.0,
+                                    "content": "trouble contact is provided for use with a Signature input module",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                621,
+                                191,
+                                631
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        621,
+                                        191,
+                                        631
+                                    ],
+                                    "score": 1.0,
+                                    "content": "to report trouble back to the system.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        }
+                    ],
+                    "index": 23.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        48,
+                        588,
+                        300,
+                        631
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        358,
+                        433,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                434,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        434,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        }
+                    ],
+                    "index": 26,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        321,
+                        375,
+                        550,
+                        449
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                326,
+                                376,
+                                486,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        326,
+                                        376,
+                                        486,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "\t Up to 63 remote microphones per ASU",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                391,
+                                461,
+                                402
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        391,
+                                        461,
+                                        402
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Annunciator or cabinet mounting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                326,
+                                407,
+                                437,
+                                417
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        326,
+                                        407,
+                                        437,
+                                        417
+                                    ],
+                                    "score": 1.0,
+                                    "content": "\t VU meter and status LEDs",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                329,
+                                423,
+                                549,
+                                434
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        329,
+                                        423,
+                                        549,
+                                        434
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Active remote mic has priority with ASU priority override",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                325,
+                                439,
+                                421,
+                                449
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        325,
+                                        439,
+                                        421,
+                                        449
+                                    ],
+                                    "score": 1.0,
+                                    "content": "\t All wiring is supervised",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 29,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        321,
+                        376,
+                        549,
+                        449
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        325,
+                        474,
+                        393,
+                        488
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                325,
+                                474,
+                                394,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        325,
+                                        474,
+                                        394,
+                                        489
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Application",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 32,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        491,
+                        575,
+                        578
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                490,
+                                572,
+                                503
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        490,
+                                        572,
+                                        503
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The 3-REMICA and 3-REMICP are designed to add remote pag-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                503,
+                                568,
+                                513
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        503,
+                                        568,
+                                        513
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ing capability at network nodes or remote annunciators that are ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                513,
+                                561,
+                                523
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        513,
+                                        561,
+                                        523
+                                    ],
+                                    "score": 1.0,
+                                    "content": "remotely located from the Audio Source Unit. These areas are",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                524,
+                                573,
+                                534
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        524,
+                                        573,
+                                        534
+                                    ],
+                                    "score": 1.0,
+                                    "content": "typically alternate fire command stations, security desks, or other",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                534,
+                                565,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        534,
+                                        565,
+                                        546
+                                    ],
+                                    "score": 1.0,
+                                    "content": "areas where public messages are issued during an emergency.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                545,
+                                561,
+                                556
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        545,
+                                        561,
+                                        556
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Selection of paging areas is done with standard EST3 Control",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                556,
+                                575,
+                                566
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        556,
+                                        575,
+                                        566
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Display Modules, which can be programmed as required for each",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                568,
+                                395,
+                                577
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        568,
+                                        395,
+                                        577
+                                    ],
+                                    "score": 1.0,
+                                    "content": "paging application.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        }
+                    ],
+                    "index": 36.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        320,
+                        490,
+                        575,
+                        577
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        83,
+                        297,
+                        99
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                83,
+                                296,
+                                100
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        83,
+                                        296,
+                                        100
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Typical Wiring",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        194,
+                        103,
+                        564,
+                        219
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                194,
+                                103,
+                                564,
+                                219
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        194,
+                                        103,
+                                        564,
+                                        219
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                194,
+                                                103,
+                                                564,
+                                                219
+                                            ],
+                                            "score": 0.9997390508651733,
+                                            "type": "image",
+                                            "image_path": "599a9cd3f1d5a5d6e0acb22c6de605a0e6c931082bdee570c0a415587e9ebed3.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        194,
+                                        103,
+                                        564,
+                                        141.66666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        194,
+                                        141.66666666666666,
+                                        564,
+                                        180.33333333333331
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        194,
+                                        180.33333333333331,
+                                        564,
+                                        218.99999999999997
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        245,
+                        373,
+                        259
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                244,
+                                372,
+                                261
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        244,
+                                        372,
+                                        261
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Engineering Specifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        212,
+                        261,
+                        562,
+                        325
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                262,
+                                558,
+                                273
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        262,
+                                        558,
+                                        273
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Remote paging microphones shall be provided at the locations specified on the drawings.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                213,
+                                273,
+                                550,
+                                284
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        273,
+                                        550,
+                                        284
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Each remote microphone shall provide a dynamic Push-to-Talk microphone, Page level ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                213,
+                                284,
+                                552,
+                                295
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        284,
+                                        552,
+                                        295
+                                    ],
+                                    "score": 1.0,
+                                    "content": "meter, Local Page Active LED, Remote Page Active LED, and Trouble LED. Selection of",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                212,
+                                295,
+                                562,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        295,
+                                        562,
+                                        306
+                                    ],
+                                    "score": 1.0,
+                                    "content": "paging areas shall be provided using Control Display Modules, which can be programmed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                213,
+                                306,
+                                558,
+                                316
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        306,
+                                        558,
+                                        316
+                                    ],
+                                    "score": 1.0,
+                                    "content": "as required for each paging application. The system shall support up to 63 remote micro-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                212,
+                                317,
+                                245,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        317,
+                                        245,
+                                        327
+                                    ],
+                                    "score": 1.0,
+                                    "content": "phones.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 7.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        336,
+                        357,
+                        350
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                336,
+                                356,
+                                351
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        336,
+                                        356,
+                                        351
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Technical Specifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        216,
+                        356,
+                        255,
+                        363.75
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                216,
+                                356,
+                                255,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        216,
+                                        356,
+                                        255,
+                                        365
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Installation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        212,
+                        364.25,
+                        563,
+                        581
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                212,
+                                364.25,
+                                563,
+                                581
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        363,
+                                        563,
+                                        581
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                212,
+                                                363,
+                                                563,
+                                                581
+                                            ],
+                                            "score": 0.9999167323112488,
+                                            "html": "<html><body><table><tr><td colspan=\"2\">3-REMICA-Takes up two spaces in the 3-ANN series of annunciatorcabinets.</td></tr><tr><td>3-REMICP 3-REMICA-E</td><td>- Remote microphone in chassis for use in CAB series cabinets. - Takes up to two spaces in a 3-ANN series annunciator cabinet, EN54 listed, CE compliant (see Agency Listings below).</td></tr><tr><td>Input Power</td><td>21to27VDCCurrent:64mA</td></tr><tr><td>Microphone Audio Output</td><td>Dynamic, PTT</td></tr><tr><td>Audio Input</td><td>1 VRMSinto1KOhms</td></tr><tr><td></td><td>1 VRMSinto1KOhms</td></tr><tr><td>FrequencyResponse</td><td>100 - 4,000 Hz</td></tr><tr><td>Supervision AudioKey (PTT) Wiring</td><td>1 KHz Tone Pulse DC for opens and shorts</td></tr><tr><td>MaximumResistance WireType</td><td>210ohmsmax.fromoutputoflastcascadedremotemicrophone to 3-ASU remote microphone input Audio = Twisted-shielded pair, 14 - 26 AWG Key (PTT) = Twisted pair, 14 - 26 AWG</td></tr><tr><td>Indicators</td><td>Trouble LED</td></tr><tr><td>Agency Listings</td><td>UL,ULC,EN54-2:1997+A1:2006, EN 54-4:1997 + A1:2002 + A2: 2006, and EN 54-16:2008</td></tr><tr><td>OperatingEnvironment</td><td>32°F(0°C) to 120°F (49°C),93%RH Non-condensing</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "4c520522e506ad080854f375fb5e5940007e4bb49d28e595933a70e3530fa150.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        364.25,
+                                        563,
+                                        436.5
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        212,
+                                        436.5,
+                                        563,
+                                        508.75
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        212,
+                                        508.75,
+                                        563,
+                                        581.0
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        596,
+                        338,
+                        610
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                595,
+                                338,
+                                611
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        595,
+                                        338,
+                                        611
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 16
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        614,
+                        563,
+                        700
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                614,
+                                563,
+                                700
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        614,
+                                        563,
+                                        700
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                614,
+                                                563,
+                                                700
+                                            ],
+                                            "score": 0.9999632239341736,
+                                            "html": "<html><body><table><tr><td>Catalog Number</td><td>Description</td><td>Ship Wt. Ib (kg)</td></tr><tr><td>3-REMICA</td><td>Remotemicrophoneforusein3-ANNseriesannunciatorcabinets</td><td>15 (6.8)</td></tr><tr><td>3-REMICA-E</td><td>Remotemicrophoneforusein3-ANNseriesannunciatorcabinets forEN54-16Applications</td><td>15 (6.8)</td></tr><tr><td>3-REMICP</td><td>RemotemicrophoneinchassisforuseinCAB Bseriescabinets</td><td>15 (6.8)</td></tr><tr><td>3-CHASS4</td><td>Chassis,with space fora 3-REMICPor 3-ASU and fourlocal rail modules，foruseinCABseriescabinets</td><td>8.5 (3.9)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "0b37f12d69ff293021dd8ab9950c76e299517167f237283297a865067ecb9817.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 18,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        614,
+                                        563,
+                                        642.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 17
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        642.6666666666666,
+                                        563,
+                                        671.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 18
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        671.3333333333333,
+                                        563,
+                                        699.9999999999999
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 1,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        194,
+                        103,
+                        564,
+                        219
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                194,
+                                103,
+                                564,
+                                219
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        194,
+                                        103,
+                                        564,
+                                        219
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                194,
+                                                103,
+                                                564,
+                                                219
+                                            ],
+                                            "score": 0.9997390508651733,
+                                            "type": "image",
+                                            "image_path": "599a9cd3f1d5a5d6e0acb22c6de605a0e6c931082bdee570c0a415587e9ebed3.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        194,
+                                        103,
+                                        564,
+                                        141.66666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        194,
+                                        141.66666666666666,
+                                        564,
+                                        180.33333333333331
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        194,
+                                        180.33333333333331,
+                                        564,
+                                        218.99999999999997
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                }
+            ],
+            "tables": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        212,
+                        364.25,
+                        563,
+                        581
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                212,
+                                364.25,
+                                563,
+                                581
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        363,
+                                        563,
+                                        581
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                212,
+                                                363,
+                                                563,
+                                                581
+                                            ],
+                                            "score": 0.9999167323112488,
+                                            "html": "<html><body><table><tr><td colspan=\"2\">3-REMICA-Takes up two spaces in the 3-ANN series of annunciatorcabinets.</td></tr><tr><td>3-REMICP 3-REMICA-E</td><td>- Remote microphone in chassis for use in CAB series cabinets. - Takes up to two spaces in a 3-ANN series annunciator cabinet, EN54 listed, CE compliant (see Agency Listings below).</td></tr><tr><td>Input Power</td><td>21to27VDCCurrent:64mA</td></tr><tr><td>Microphone Audio Output</td><td>Dynamic, PTT</td></tr><tr><td>Audio Input</td><td>1 VRMSinto1KOhms</td></tr><tr><td></td><td>1 VRMSinto1KOhms</td></tr><tr><td>FrequencyResponse</td><td>100 - 4,000 Hz</td></tr><tr><td>Supervision AudioKey (PTT) Wiring</td><td>1 KHz Tone Pulse DC for opens and shorts</td></tr><tr><td>MaximumResistance WireType</td><td>210ohmsmax.fromoutputoflastcascadedremotemicrophone to 3-ASU remote microphone input Audio = Twisted-shielded pair, 14 - 26 AWG Key (PTT) = Twisted pair, 14 - 26 AWG</td></tr><tr><td>Indicators</td><td>Trouble LED</td></tr><tr><td>Agency Listings</td><td>UL,ULC,EN54-2:1997+A1:2006, EN 54-4:1997 + A1:2002 + A2: 2006, and EN 54-16:2008</td></tr><tr><td>OperatingEnvironment</td><td>32°F(0°C) to 120°F (49°C),93%RH Non-condensing</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "4c520522e506ad080854f375fb5e5940007e4bb49d28e595933a70e3530fa150.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        364.25,
+                                        563,
+                                        436.5
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        212,
+                                        436.5,
+                                        563,
+                                        508.75
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        212,
+                                        508.75,
+                                        563,
+                                        581.0
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        614,
+                        563,
+                        700
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                614,
+                                563,
+                                700
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        614,
+                                        563,
+                                        700
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                614,
+                                                563,
+                                                700
+                                            ],
+                                            "score": 0.9999632239341736,
+                                            "html": "<html><body><table><tr><td>Catalog Number</td><td>Description</td><td>Ship Wt. Ib (kg)</td></tr><tr><td>3-REMICA</td><td>Remotemicrophoneforusein3-ANNseriesannunciatorcabinets</td><td>15 (6.8)</td></tr><tr><td>3-REMICA-E</td><td>Remotemicrophoneforusein3-ANNseriesannunciatorcabinets forEN54-16Applications</td><td>15 (6.8)</td></tr><tr><td>3-REMICP</td><td>RemotemicrophoneinchassisforuseinCAB Bseriescabinets</td><td>15 (6.8)</td></tr><tr><td>3-CHASS4</td><td>Chassis,with space fora 3-REMICPor 3-ASU and fourlocal rail modules，foruseinCABseriescabinets</td><td>8.5 (3.9)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "0b37f12d69ff293021dd8ab9950c76e299517167f237283297a865067ecb9817.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 18,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        614,
+                                        563,
+                                        642.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 17
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        642.6666666666666,
+                                        563,
+                                        671.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 18
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        671.3333333333333,
+                                        563,
+                                        699.9999999999999
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18
+                }
+            ],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        377,
+                        745,
+                        564,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                415,
+                                747,
+                                561,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        415,
+                                        749,
+                                        479,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        483,
+                                        747,
+                                        561,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                376,
+                                758,
+                                563,
+                                768
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        376,
+                                        758,
+                                        563,
+                                        768
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        31,
+                        749,
+                        70,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                31,
+                                749,
+                                71,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        31,
+                                        749,
+                                        71,
+                                        759
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        606,
+                        734,
+                        612,
+                        760
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                605,
+                                733,
+                                614,
+                                763
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        605,
+                                        733,
+                                        614,
+                                        763
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        83,
+                        297,
+                        99
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                83,
+                                296,
+                                100
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        83,
+                                        296,
+                                        100
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Typical Wiring",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        194,
+                        103,
+                        564,
+                        219
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                194,
+                                103,
+                                564,
+                                219
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        194,
+                                        103,
+                                        564,
+                                        219
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                194,
+                                                103,
+                                                564,
+                                                219
+                                            ],
+                                            "score": 0.9997390508651733,
+                                            "type": "image",
+                                            "image_path": "599a9cd3f1d5a5d6e0acb22c6de605a0e6c931082bdee570c0a415587e9ebed3.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        194,
+                                        103,
+                                        564,
+                                        141.66666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        194,
+                                        141.66666666666666,
+                                        564,
+                                        180.33333333333331
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        194,
+                                        180.33333333333331,
+                                        564,
+                                        218.99999999999997
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        245,
+                        373,
+                        259
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                244,
+                                372,
+                                261
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        244,
+                                        372,
+                                        261
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Engineering Specifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        212,
+                        261,
+                        562,
+                        325
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                262,
+                                558,
+                                273
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        262,
+                                        558,
+                                        273
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Remote paging microphones shall be provided at the locations specified on the drawings.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                213,
+                                273,
+                                550,
+                                284
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        273,
+                                        550,
+                                        284
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Each remote microphone shall provide a dynamic Push-to-Talk microphone, Page level ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                213,
+                                284,
+                                552,
+                                295
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        284,
+                                        552,
+                                        295
+                                    ],
+                                    "score": 1.0,
+                                    "content": "meter, Local Page Active LED, Remote Page Active LED, and Trouble LED. Selection of",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                212,
+                                295,
+                                562,
+                                306
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        295,
+                                        562,
+                                        306
+                                    ],
+                                    "score": 1.0,
+                                    "content": "paging areas shall be provided using Control Display Modules, which can be programmed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                213,
+                                306,
+                                558,
+                                316
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        306,
+                                        558,
+                                        316
+                                    ],
+                                    "score": 1.0,
+                                    "content": "as required for each paging application. The system shall support up to 63 remote micro-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                212,
+                                317,
+                                245,
+                                327
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        317,
+                                        245,
+                                        327
+                                    ],
+                                    "score": 1.0,
+                                    "content": "phones.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 7.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        212,
+                        262,
+                        562,
+                        327
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        336,
+                        357,
+                        350
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                336,
+                                356,
+                                351
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        336,
+                                        356,
+                                        351
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Technical Specifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 11,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        216,
+                        356,
+                        255,
+                        363.75
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                216,
+                                356,
+                                255,
+                                365
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        216,
+                                        356,
+                                        255,
+                                        365
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Installation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 12,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        216,
+                        356,
+                        255,
+                        365
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        212,
+                        364.25,
+                        563,
+                        581
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                212,
+                                364.25,
+                                563,
+                                581
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        363,
+                                        563,
+                                        581
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                212,
+                                                363,
+                                                563,
+                                                581
+                                            ],
+                                            "score": 0.9999167323112488,
+                                            "html": "<html><body><table><tr><td colspan=\"2\">3-REMICA-Takes up two spaces in the 3-ANN series of annunciatorcabinets.</td></tr><tr><td>3-REMICP 3-REMICA-E</td><td>- Remote microphone in chassis for use in CAB series cabinets. - Takes up to two spaces in a 3-ANN series annunciator cabinet, EN54 listed, CE compliant (see Agency Listings below).</td></tr><tr><td>Input Power</td><td>21to27VDCCurrent:64mA</td></tr><tr><td>Microphone Audio Output</td><td>Dynamic, PTT</td></tr><tr><td>Audio Input</td><td>1 VRMSinto1KOhms</td></tr><tr><td></td><td>1 VRMSinto1KOhms</td></tr><tr><td>FrequencyResponse</td><td>100 - 4,000 Hz</td></tr><tr><td>Supervision AudioKey (PTT) Wiring</td><td>1 KHz Tone Pulse DC for opens and shorts</td></tr><tr><td>MaximumResistance WireType</td><td>210ohmsmax.fromoutputoflastcascadedremotemicrophone to 3-ASU remote microphone input Audio = Twisted-shielded pair, 14 - 26 AWG Key (PTT) = Twisted pair, 14 - 26 AWG</td></tr><tr><td>Indicators</td><td>Trouble LED</td></tr><tr><td>Agency Listings</td><td>UL,ULC,EN54-2:1997+A1:2006, EN 54-4:1997 + A1:2002 + A2: 2006, and EN 54-16:2008</td></tr><tr><td>OperatingEnvironment</td><td>32°F(0°C) to 120°F (49°C),93%RH Non-condensing</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "4c520522e506ad080854f375fb5e5940007e4bb49d28e595933a70e3530fa150.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        364.25,
+                                        563,
+                                        436.5
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        212,
+                                        436.5,
+                                        563,
+                                        508.75
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        212,
+                                        508.75,
+                                        563,
+                                        581.0
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 14,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        596,
+                        338,
+                        610
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                595,
+                                338,
+                                611
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        595,
+                                        338,
+                                        611
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 16,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        614,
+                        563,
+                        700
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                614,
+                                563,
+                                700
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        614,
+                                        563,
+                                        700
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                614,
+                                                563,
+                                                700
+                                            ],
+                                            "score": 0.9999632239341736,
+                                            "html": "<html><body><table><tr><td>Catalog Number</td><td>Description</td><td>Ship Wt. Ib (kg)</td></tr><tr><td>3-REMICA</td><td>Remotemicrophoneforusein3-ANNseriesannunciatorcabinets</td><td>15 (6.8)</td></tr><tr><td>3-REMICA-E</td><td>Remotemicrophoneforusein3-ANNseriesannunciatorcabinets forEN54-16Applications</td><td>15 (6.8)</td></tr><tr><td>3-REMICP</td><td>RemotemicrophoneinchassisforuseinCAB Bseriescabinets</td><td>15 (6.8)</td></tr><tr><td>3-CHASS4</td><td>Chassis,with space fora 3-REMICPor 3-ASU and fourlocal rail modules，foruseinCABseriescabinets</td><td>8.5 (3.9)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "0b37f12d69ff293021dd8ab9950c76e299517167f237283297a865067ecb9817.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 18,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        614,
+                                        563,
+                                        642.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 17
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        642.6666666666666,
+                                        563,
+                                        671.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 18
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        671.3333333333333,
+                                        563,
+                                        699.9999999999999
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "txt",
+    "_version_name": "0.10.1"
+}

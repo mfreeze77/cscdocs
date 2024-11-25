@@ -1,0 +1,4220 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        48,
+                        145,
+                        317,
+                        236
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                144,
+                                233,
+                                181
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        144,
+                                        233,
+                                        181
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Off Premise",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                182,
+                                314,
+                                220
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        182,
+                                        192,
+                                        220
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Signaling",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        199,
+                                        185,
+                                        314,
+                                        215
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Module",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                219,
+                                103,
+                                235
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        219,
+                                        103,
+                                        235
+                                    ],
+                                    "score": 1.0,
+                                    "content": "3-OPS",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        358,
+                        106,
+                        371
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                358,
+                                106,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        358,
+                                        106,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        375,
+                        304,
+                        461
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                376,
+                                300,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        376,
+                                        300,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The 3-OPS configures for “old” or “new” styles of reverse polarity",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                387,
+                                299,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        387,
+                                        299,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "central station operation. Removable terminal blocks allow isola-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                398,
+                                299,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        398,
+                                        299,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tion of field wiring without having to remove individual wires. This",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                409,
+                                299,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        409,
+                                        299,
+                                        419
+                                    ],
+                                    "score": 1.0,
+                                    "content": "feature helps make service and isolation of field wiring for trouble",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                419,
+                                305,
+                                430
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        419,
+                                        305,
+                                        430
+                                    ],
+                                    "score": 1.0,
+                                    "content": "shooting easy. The 3-OPS off premises signaling module is a local",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                430,
+                                295,
+                                441
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        430,
+                                        295,
+                                        441
+                                    ],
+                                    "score": 1.0,
+                                    "content": "rail module and will support any Control Display module mount-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                441,
+                                304,
+                                452
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        441,
+                                        304,
+                                        452
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ing to its front giving exceptional flexibility to system user interface",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                452,
+                                75,
+                                462
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        452,
+                                        75,
+                                        462
+                                    ],
+                                    "score": 1.0,
+                                    "content": "layout.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 7.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        52,
+                        487,
+                        166,
+                        501
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                487,
+                                166,
+                                502
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        487,
+                                        166,
+                                        502
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        50,
+                        504,
+                        295,
+                        530
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                505,
+                                294,
+                                515
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        505,
+                                        294,
+                                        515
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Reverse polarity oputputs for Alarm Supervisory and Trouble",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                520,
+                                134,
+                                532
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        520,
+                                        134,
+                                        532
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t City Box operation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 13.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        322,
+                        358,
+                        389,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                389,
+                                373
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        389,
+                                        373
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Application",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        375,
+                        576,
+                        396
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                375,
+                                575,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        375,
+                                        575,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The 3-OPS supports three separate off premises signaling modes",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                386,
+                                371,
+                                398
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        386,
+                                        371,
+                                        398
+                                    ],
+                                    "score": 1.0,
+                                    "content": "of operation.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 16.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        402,
+                        578,
+                        489
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                322,
+                                403,
+                                565,
+                                414
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        403,
+                                        565,
+                                        414
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1)\t The first or “old” style reverse polarity operation has only the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                334,
+                                415,
+                                565,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        334,
+                                        415,
+                                        565,
+                                        425
+                                    ],
+                                    "score": 1.0,
+                                    "content": "alarm relay active. In the normal state the alarm output is 24",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                425,
+                                568,
+                                435
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        425,
+                                        568,
+                                        435
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Vdc current limited to 6mA. In the alarm state the polarity re-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                437,
+                                578,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        437,
+                                        578,
+                                        446
+                                    ],
+                                    "score": 1.0,
+                                    "content": "verses.  Should the EST3 panel go into trouble from the normal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                334,
+                                447,
+                                570,
+                                457
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        334,
+                                        447,
+                                        570,
+                                        457
+                                    ],
+                                    "score": 1.0,
+                                    "content": "state, the voltage is removed from the output terminals of the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                458,
+                                573,
+                                468
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        458,
+                                        573,
+                                        468
+                                    ],
+                                    "score": 1.0,
+                                    "content": "3-OPS the change will be detected by the central station as a",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                468,
+                                566,
+                                479
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        468,
+                                        566,
+                                        479
+                                    ],
+                                    "score": 1.0,
+                                    "content": "trouble.  Alarm always has priority over trouble. Trouble relay",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                334,
+                                480,
+                                561,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        334,
+                                        480,
+                                        561,
+                                        489
+                                    ],
+                                    "score": 1.0,
+                                    "content": "contacts must be configured for normally closed operation.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        }
+                    ],
+                    "index": 21.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        320,
+                        494,
+                        577,
+                        570
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                496,
+                                572,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        496,
+                                        572,
+                                        506
+                                    ],
+                                    "score": 1.0,
+                                    "content": "2)\t The second operation “new” style allows the 3-OPS to output",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                507,
+                                570,
+                                517
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        507,
+                                        570,
+                                        517
+                                    ],
+                                    "score": 1.0,
+                                    "content": "three independent reversing polarity signals. These are alarm,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                334,
+                                518,
+                                558,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        334,
+                                        518,
+                                        558,
+                                        528
+                                    ],
+                                    "score": 1.0,
+                                    "content": "supervisory, and trouble.  In each case an active condition",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                529,
+                                575,
+                                538
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        529,
+                                        575,
+                                        538
+                                    ],
+                                    "score": 1.0,
+                                    "content": "causes the terminal output voltage to reverse. Should the cen-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                539,
+                                571,
+                                549
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        539,
+                                        571,
+                                        549
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tral station detect a loss of voltage the condition is due to line",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                549,
+                                576,
+                                560
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        549,
+                                        576,
+                                        560
+                                    ],
+                                    "score": 1.0,
+                                    "content": "failure. When configured for “new” style operation a set of form",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                560,
+                                457,
+                                570
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        560,
+                                        457,
+                                        570
+                                    ],
+                                    "score": 1.0,
+                                    "content": "C trouble contacts are available.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 29
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        576,
+                        578,
+                        641
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                577,
+                                554,
+                                588
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        577,
+                                        554,
+                                        588
+                                    ],
+                                    "score": 1.0,
+                                    "content": "3)\t The 3-OPS will also support a City Tie connection. In this",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                334,
+                                588,
+                                579,
+                                599
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        334,
+                                        588,
+                                        579,
+                                        599
+                                    ],
+                                    "score": 1.0,
+                                    "content": "configuration the 3-OPS has terminals for a local energy master",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                599,
+                                564,
+                                609
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        599,
+                                        564,
+                                        609
+                                    ],
+                                    "score": 1.0,
+                                    "content": "fire alarm box. The module operates into a 14 ohm coil and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                610,
+                                576,
+                                619
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        610,
+                                        576,
+                                        619
+                                    ],
+                                    "score": 1.0,
+                                    "content": "supervises the city tie connection for open conditions.  Trouble",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                621,
+                                567,
+                                631
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        621,
+                                        567,
+                                        631
+                                    ],
+                                    "score": 1.0,
+                                    "content": "relay contacts are configurable for normally open or normally",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                334,
+                                632,
+                                363,
+                                641
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        334,
+                                        632,
+                                        363,
+                                        641
+                                    ],
+                                    "score": 1.0,
+                                    "content": "closed.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        }
+                    ],
+                    "index": 35.5
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        395,
+                        745,
+                        580,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                433,
+                                746,
+                                580,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        433,
+                                        749,
+                                        497,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        500,
+                                        746,
+                                        580,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                394,
+                                758,
+                                581,
+                                768
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        394,
+                                        758,
+                                        581,
+                                        768
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        49,
+                        749,
+                        88,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                749,
+                                89,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        749,
+                                        89,
+                                        759
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        48,
+                        145,
+                        317,
+                        236
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                47,
+                                144,
+                                233,
+                                181
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        144,
+                                        233,
+                                        181
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Off Premise",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                182,
+                                314,
+                                220
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        182,
+                                        192,
+                                        220
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Signaling",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        199,
+                                        185,
+                                        314,
+                                        215
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Module",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                219,
+                                103,
+                                235
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        219,
+                                        103,
+                                        235
+                                    ],
+                                    "score": 1.0,
+                                    "content": "3-OPS",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        358,
+                        106,
+                        371
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                358,
+                                106,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        358,
+                                        106,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        375,
+                        304,
+                        461
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                376,
+                                300,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        376,
+                                        300,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The 3-OPS configures for “old” or “new” styles of reverse polarity",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                387,
+                                299,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        387,
+                                        299,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "central station operation. Removable terminal blocks allow isola-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                398,
+                                299,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        398,
+                                        299,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tion of field wiring without having to remove individual wires. This",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                409,
+                                299,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        409,
+                                        299,
+                                        419
+                                    ],
+                                    "score": 1.0,
+                                    "content": "feature helps make service and isolation of field wiring for trouble",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                419,
+                                305,
+                                430
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        419,
+                                        305,
+                                        430
+                                    ],
+                                    "score": 1.0,
+                                    "content": "shooting easy. The 3-OPS off premises signaling module is a local",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                430,
+                                295,
+                                441
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        430,
+                                        295,
+                                        441
+                                    ],
+                                    "score": 1.0,
+                                    "content": "rail module and will support any Control Display module mount-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                441,
+                                304,
+                                452
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        441,
+                                        304,
+                                        452
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ing to its front giving exceptional flexibility to system user interface",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                452,
+                                75,
+                                462
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        452,
+                                        75,
+                                        462
+                                    ],
+                                    "score": 1.0,
+                                    "content": "layout.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 7.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        49,
+                        376,
+                        305,
+                        462
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        52,
+                        487,
+                        166,
+                        501
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                53,
+                                487,
+                                166,
+                                502
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        53,
+                                        487,
+                                        166,
+                                        502
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 12,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        50,
+                        504,
+                        295,
+                        530
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                505,
+                                294,
+                                515
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        505,
+                                        294,
+                                        515
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Reverse polarity oputputs for Alarm Supervisory and Trouble",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                520,
+                                134,
+                                532
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        520,
+                                        134,
+                                        532
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t City Box operation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 13.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        50,
+                        505,
+                        294,
+                        532
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        322,
+                        358,
+                        389,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                389,
+                                373
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        389,
+                                        373
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Application",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 15,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        375,
+                        576,
+                        396
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                375,
+                                575,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        375,
+                                        575,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The 3-OPS supports three separate off premises signaling modes",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                386,
+                                371,
+                                398
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        386,
+                                        371,
+                                        398
+                                    ],
+                                    "score": 1.0,
+                                    "content": "of operation.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 16.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        321,
+                        375,
+                        575,
+                        398
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        402,
+                        578,
+                        489
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                322,
+                                403,
+                                565,
+                                414
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        403,
+                                        565,
+                                        414
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1)\t The first or “old” style reverse polarity operation has only the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                334,
+                                415,
+                                565,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        334,
+                                        415,
+                                        565,
+                                        425
+                                    ],
+                                    "score": 1.0,
+                                    "content": "alarm relay active. In the normal state the alarm output is 24",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                425,
+                                568,
+                                435
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        425,
+                                        568,
+                                        435
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Vdc current limited to 6mA. In the alarm state the polarity re-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                437,
+                                578,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        437,
+                                        578,
+                                        446
+                                    ],
+                                    "score": 1.0,
+                                    "content": "verses.  Should the EST3 panel go into trouble from the normal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                334,
+                                447,
+                                570,
+                                457
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        334,
+                                        447,
+                                        570,
+                                        457
+                                    ],
+                                    "score": 1.0,
+                                    "content": "state, the voltage is removed from the output terminals of the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                458,
+                                573,
+                                468
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        458,
+                                        573,
+                                        468
+                                    ],
+                                    "score": 1.0,
+                                    "content": "3-OPS the change will be detected by the central station as a",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                468,
+                                566,
+                                479
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        468,
+                                        566,
+                                        479
+                                    ],
+                                    "score": 1.0,
+                                    "content": "trouble.  Alarm always has priority over trouble. Trouble relay",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                334,
+                                480,
+                                561,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        334,
+                                        480,
+                                        561,
+                                        489
+                                    ],
+                                    "score": 1.0,
+                                    "content": "contacts must be configured for normally closed operation.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        }
+                    ],
+                    "index": 21.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        322,
+                        403,
+                        578,
+                        489
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        320,
+                        494,
+                        577,
+                        570
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                496,
+                                572,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        496,
+                                        572,
+                                        506
+                                    ],
+                                    "score": 1.0,
+                                    "content": "2)\t The second operation “new” style allows the 3-OPS to output",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                507,
+                                570,
+                                517
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        507,
+                                        570,
+                                        517
+                                    ],
+                                    "score": 1.0,
+                                    "content": "three independent reversing polarity signals. These are alarm,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                334,
+                                518,
+                                558,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        334,
+                                        518,
+                                        558,
+                                        528
+                                    ],
+                                    "score": 1.0,
+                                    "content": "supervisory, and trouble.  In each case an active condition",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                529,
+                                575,
+                                538
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        529,
+                                        575,
+                                        538
+                                    ],
+                                    "score": 1.0,
+                                    "content": "causes the terminal output voltage to reverse. Should the cen-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                539,
+                                571,
+                                549
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        539,
+                                        571,
+                                        549
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tral station detect a loss of voltage the condition is due to line",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                549,
+                                576,
+                                560
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        549,
+                                        576,
+                                        560
+                                    ],
+                                    "score": 1.0,
+                                    "content": "failure. When configured for “new” style operation a set of form",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                560,
+                                457,
+                                570
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        560,
+                                        457,
+                                        570
+                                    ],
+                                    "score": 1.0,
+                                    "content": "C trouble contacts are available.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 29,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        321,
+                        496,
+                        576,
+                        570
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        576,
+                        578,
+                        641
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                577,
+                                554,
+                                588
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        577,
+                                        554,
+                                        588
+                                    ],
+                                    "score": 1.0,
+                                    "content": "3)\t The 3-OPS will also support a City Tie connection. In this",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                334,
+                                588,
+                                579,
+                                599
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        334,
+                                        588,
+                                        579,
+                                        599
+                                    ],
+                                    "score": 1.0,
+                                    "content": "configuration the 3-OPS has terminals for a local energy master",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                599,
+                                564,
+                                609
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        599,
+                                        564,
+                                        609
+                                    ],
+                                    "score": 1.0,
+                                    "content": "fire alarm box. The module operates into a 14 ohm coil and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                610,
+                                576,
+                                619
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        610,
+                                        576,
+                                        619
+                                    ],
+                                    "score": 1.0,
+                                    "content": "supervises the city tie connection for open conditions.  Trouble",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                621,
+                                567,
+                                631
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        621,
+                                        567,
+                                        631
+                                    ],
+                                    "score": 1.0,
+                                    "content": "relay contacts are configurable for normally open or normally",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                334,
+                                632,
+                                363,
+                                641
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        334,
+                                        632,
+                                        363,
+                                        641
+                                    ],
+                                    "score": 1.0,
+                                    "content": "closed.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        }
+                    ],
+                    "index": 35.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        321,
+                        577,
+                        579,
+                        641
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        214,
+                        84,
+                        297,
+                        98
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                214,
+                                84,
+                                296,
+                                100
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        84,
+                                        296,
+                                        100
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Typical Wiring",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        212,
+                        103,
+                        346,
+                        305
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                212,
+                                103,
+                                346,
+                                305
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        103,
+                                        346,
+                                        305
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                212,
+                                                103,
+                                                346,
+                                                305
+                                            ],
+                                            "score": 0.9999845027923584,
+                                            "type": "image",
+                                            "image_path": "44770b5274803df5438379ae4c38464f7b2cd5b5d62b53685ea01cc8d11bae5f.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        103,
+                                        346,
+                                        305
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        335,
+                        366,
+                        350
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                334,
+                                363,
+                                351
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        334,
+                                        363,
+                                        351
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Installation and Mounting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        213,
+                        355,
+                        382,
+                        682
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                213,
+                                355,
+                                382,
+                                682
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        355,
+                                        382,
+                                        682
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                355,
+                                                382,
+                                                682
+                                            ],
+                                            "score": 0.6729728579521179,
+                                            "type": "image",
+                                            "image_path": "fb1c8e987cd9c8335a634ec5cf1960b80d7e43e7b065e84c40634bceb6db7136.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        355,
+                                        382,
+                                        371.0
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        371.0,
+                                        382,
+                                        387.0
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        387.0,
+                                        382,
+                                        403.0
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        403.0,
+                                        382,
+                                        419.0
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        419.0,
+                                        382,
+                                        435.0
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        435.0,
+                                        382,
+                                        451.0
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        451.0,
+                                        382,
+                                        467.0
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        467.0,
+                                        382,
+                                        483.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        483.0,
+                                        382,
+                                        499.0
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        499.0,
+                                        382,
+                                        515.0
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        515.0,
+                                        382,
+                                        531.0
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        531.0,
+                                        382,
+                                        547.0
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        547.0,
+                                        382,
+                                        563.0
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        563.0,
+                                        382,
+                                        579.0
+                                    ],
+                                    "spans": [],
+                                    "index": 16
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        579.0,
+                                        382,
+                                        595.0
+                                    ],
+                                    "spans": [],
+                                    "index": 17
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        595.0,
+                                        382,
+                                        611.0
+                                    ],
+                                    "spans": [],
+                                    "index": 18
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        611.0,
+                                        382,
+                                        627.0
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        627.0,
+                                        382,
+                                        643.0
+                                    ],
+                                    "spans": [],
+                                    "index": 20
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        643.0,
+                                        382,
+                                        659.0
+                                    ],
+                                    "spans": [],
+                                    "index": 21
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        659.0,
+                                        382,
+                                        675.0
+                                    ],
+                                    "spans": [],
+                                    "index": 22
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        675.0,
+                                        382,
+                                        691.0
+                                    ],
+                                    "spans": [],
+                                    "index": 23
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        394,
+                        85,
+                        479,
+                        97
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                393,
+                                84,
+                                479,
+                                99
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        393,
+                                        84,
+                                        479,
+                                        99
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Specifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        }
+                    ],
+                    "index": 24
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        395,
+                        104,
+                        562,
+                        169
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                395,
+                                104,
+                                562,
+                                169
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        395,
+                                        104,
+                                        562,
+                                        169
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                395,
+                                                104,
+                                                562,
+                                                169
+                                            ],
+                                            "score": 0.9980723261833191,
+                                            "html": "<html><body><table><tr><td>Operating Current</td><td>53mA</td></tr><tr><td>StandbyCurrent</td><td>147 mA</td></tr><tr><td>Mounting</td><td>OneLocal RailSpace</td></tr><tr><td>TerminalSize</td><td>18-12AWG (1.0mm2-2.5mm2)</td></tr><tr><td>Approvals</td><td>UL,ULC</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "11910c2eae525f86662795e3e0f0e5a35d266377c98f4923b5ed0137d3563e2e.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 27,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        395,
+                                        104,
+                                        562,
+                                        120.0
+                                    ],
+                                    "spans": [],
+                                    "index": 25
+                                },
+                                {
+                                    "bbox": [
+                                        395,
+                                        120.0,
+                                        562,
+                                        136.0
+                                    ],
+                                    "spans": [],
+                                    "index": 26
+                                },
+                                {
+                                    "bbox": [
+                                        395,
+                                        136.0,
+                                        562,
+                                        152.0
+                                    ],
+                                    "spans": [],
+                                    "index": 27
+                                },
+                                {
+                                    "bbox": [
+                                        395,
+                                        152.0,
+                                        562,
+                                        168.0
+                                    ],
+                                    "spans": [],
+                                    "index": 28
+                                },
+                                {
+                                    "bbox": [
+                                        395,
+                                        168.0,
+                                        562,
+                                        184.0
+                                    ],
+                                    "spans": [],
+                                    "index": 29
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 27
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        393,
+                        194,
+                        519,
+                        207
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                393,
+                                193,
+                                519,
+                                209
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        393,
+                                        193,
+                                        519,
+                                        209
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        }
+                    ],
+                    "index": 30
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        395,
+                        211,
+                        562,
+                        294
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                395,
+                                211,
+                                562,
+                                294
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        395,
+                                        211,
+                                        562,
+                                        294
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                395,
+                                                211,
+                                                562,
+                                                294
+                                            ],
+                                            "score": 0.9999860525131226,
+                                            "html": "<html><body><table><tr><td>Catalog Number</td><td>Description</td><td>Ship Wt. Ib. (kg)</td></tr><tr><td>3-OPS</td><td>OffPremises Signalingmodule</td><td>0.59 (.27)</td></tr><tr><td>3-FP</td><td>FillerPlate，order separatelywhenno LEDorLED/Switch moduleinstalled.</td><td>0.1 (.05)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "d65578c9d5f32f577db63d1020be19a784ad40e1c613a0ce3df7c75e1260313f.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 33.5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        395,
+                                        211,
+                                        562,
+                                        227.0
+                                    ],
+                                    "spans": [],
+                                    "index": 31
+                                },
+                                {
+                                    "bbox": [
+                                        395,
+                                        227.0,
+                                        562,
+                                        243.0
+                                    ],
+                                    "spans": [],
+                                    "index": 32
+                                },
+                                {
+                                    "bbox": [
+                                        395,
+                                        243.0,
+                                        562,
+                                        259.0
+                                    ],
+                                    "spans": [],
+                                    "index": 33
+                                },
+                                {
+                                    "bbox": [
+                                        395,
+                                        259.0,
+                                        562,
+                                        275.0
+                                    ],
+                                    "spans": [],
+                                    "index": 34
+                                },
+                                {
+                                    "bbox": [
+                                        395,
+                                        275.0,
+                                        562,
+                                        291.0
+                                    ],
+                                    "spans": [],
+                                    "index": 35
+                                },
+                                {
+                                    "bbox": [
+                                        395,
+                                        291.0,
+                                        562,
+                                        307.0
+                                    ],
+                                    "spans": [],
+                                    "index": 36
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 33.5
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 1,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        212,
+                        103,
+                        346,
+                        305
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                212,
+                                103,
+                                346,
+                                305
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        103,
+                                        346,
+                                        305
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                212,
+                                                103,
+                                                346,
+                                                305
+                                            ],
+                                            "score": 0.9999845027923584,
+                                            "type": "image",
+                                            "image_path": "44770b5274803df5438379ae4c38464f7b2cd5b5d62b53685ea01cc8d11bae5f.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        103,
+                                        346,
+                                        305
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        213,
+                        355,
+                        382,
+                        682
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                213,
+                                355,
+                                382,
+                                682
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        355,
+                                        382,
+                                        682
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                355,
+                                                382,
+                                                682
+                                            ],
+                                            "score": 0.6729728579521179,
+                                            "type": "image",
+                                            "image_path": "fb1c8e987cd9c8335a634ec5cf1960b80d7e43e7b065e84c40634bceb6db7136.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        355,
+                                        382,
+                                        371.0
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        371.0,
+                                        382,
+                                        387.0
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        387.0,
+                                        382,
+                                        403.0
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        403.0,
+                                        382,
+                                        419.0
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        419.0,
+                                        382,
+                                        435.0
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        435.0,
+                                        382,
+                                        451.0
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        451.0,
+                                        382,
+                                        467.0
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        467.0,
+                                        382,
+                                        483.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        483.0,
+                                        382,
+                                        499.0
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        499.0,
+                                        382,
+                                        515.0
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        515.0,
+                                        382,
+                                        531.0
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        531.0,
+                                        382,
+                                        547.0
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        547.0,
+                                        382,
+                                        563.0
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        563.0,
+                                        382,
+                                        579.0
+                                    ],
+                                    "spans": [],
+                                    "index": 16
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        579.0,
+                                        382,
+                                        595.0
+                                    ],
+                                    "spans": [],
+                                    "index": 17
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        595.0,
+                                        382,
+                                        611.0
+                                    ],
+                                    "spans": [],
+                                    "index": 18
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        611.0,
+                                        382,
+                                        627.0
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        627.0,
+                                        382,
+                                        643.0
+                                    ],
+                                    "spans": [],
+                                    "index": 20
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        643.0,
+                                        382,
+                                        659.0
+                                    ],
+                                    "spans": [],
+                                    "index": 21
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        659.0,
+                                        382,
+                                        675.0
+                                    ],
+                                    "spans": [],
+                                    "index": 22
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        675.0,
+                                        382,
+                                        691.0
+                                    ],
+                                    "spans": [],
+                                    "index": 23
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13
+                }
+            ],
+            "tables": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        395,
+                        104,
+                        562,
+                        169
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                395,
+                                104,
+                                562,
+                                169
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        395,
+                                        104,
+                                        562,
+                                        169
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                395,
+                                                104,
+                                                562,
+                                                169
+                                            ],
+                                            "score": 0.9980723261833191,
+                                            "html": "<html><body><table><tr><td>Operating Current</td><td>53mA</td></tr><tr><td>StandbyCurrent</td><td>147 mA</td></tr><tr><td>Mounting</td><td>OneLocal RailSpace</td></tr><tr><td>TerminalSize</td><td>18-12AWG (1.0mm2-2.5mm2)</td></tr><tr><td>Approvals</td><td>UL,ULC</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "11910c2eae525f86662795e3e0f0e5a35d266377c98f4923b5ed0137d3563e2e.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 27,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        395,
+                                        104,
+                                        562,
+                                        120.0
+                                    ],
+                                    "spans": [],
+                                    "index": 25
+                                },
+                                {
+                                    "bbox": [
+                                        395,
+                                        120.0,
+                                        562,
+                                        136.0
+                                    ],
+                                    "spans": [],
+                                    "index": 26
+                                },
+                                {
+                                    "bbox": [
+                                        395,
+                                        136.0,
+                                        562,
+                                        152.0
+                                    ],
+                                    "spans": [],
+                                    "index": 27
+                                },
+                                {
+                                    "bbox": [
+                                        395,
+                                        152.0,
+                                        562,
+                                        168.0
+                                    ],
+                                    "spans": [],
+                                    "index": 28
+                                },
+                                {
+                                    "bbox": [
+                                        395,
+                                        168.0,
+                                        562,
+                                        184.0
+                                    ],
+                                    "spans": [],
+                                    "index": 29
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 27
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        395,
+                        211,
+                        562,
+                        294
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                395,
+                                211,
+                                562,
+                                294
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        395,
+                                        211,
+                                        562,
+                                        294
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                395,
+                                                211,
+                                                562,
+                                                294
+                                            ],
+                                            "score": 0.9999860525131226,
+                                            "html": "<html><body><table><tr><td>Catalog Number</td><td>Description</td><td>Ship Wt. Ib. (kg)</td></tr><tr><td>3-OPS</td><td>OffPremises Signalingmodule</td><td>0.59 (.27)</td></tr><tr><td>3-FP</td><td>FillerPlate，order separatelywhenno LEDorLED/Switch moduleinstalled.</td><td>0.1 (.05)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "d65578c9d5f32f577db63d1020be19a784ad40e1c613a0ce3df7c75e1260313f.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 33.5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        395,
+                                        211,
+                                        562,
+                                        227.0
+                                    ],
+                                    "spans": [],
+                                    "index": 31
+                                },
+                                {
+                                    "bbox": [
+                                        395,
+                                        227.0,
+                                        562,
+                                        243.0
+                                    ],
+                                    "spans": [],
+                                    "index": 32
+                                },
+                                {
+                                    "bbox": [
+                                        395,
+                                        243.0,
+                                        562,
+                                        259.0
+                                    ],
+                                    "spans": [],
+                                    "index": 33
+                                },
+                                {
+                                    "bbox": [
+                                        395,
+                                        259.0,
+                                        562,
+                                        275.0
+                                    ],
+                                    "spans": [],
+                                    "index": 34
+                                },
+                                {
+                                    "bbox": [
+                                        395,
+                                        275.0,
+                                        562,
+                                        291.0
+                                    ],
+                                    "spans": [],
+                                    "index": 35
+                                },
+                                {
+                                    "bbox": [
+                                        395,
+                                        291.0,
+                                        562,
+                                        307.0
+                                    ],
+                                    "spans": [],
+                                    "index": 36
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 33.5
+                }
+            ],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        31,
+                        749,
+                        70,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                31,
+                                749,
+                                71,
+                                758
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        31,
+                                        749,
+                                        71,
+                                        758
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        377,
+                        745,
+                        563,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                415,
+                                747,
+                                561,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        415,
+                                        749,
+                                        479,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        483,
+                                        747,
+                                        561,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                376,
+                                758,
+                                563,
+                                768
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        376,
+                                        758,
+                                        563,
+                                        768
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        606,
+                        734,
+                        612,
+                        760
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                605,
+                                733,
+                                614,
+                                763
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        605,
+                                        733,
+                                        614,
+                                        763
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        214,
+                        84,
+                        297,
+                        98
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                214,
+                                84,
+                                296,
+                                100
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        84,
+                                        296,
+                                        100
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Typical Wiring",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        212,
+                        103,
+                        346,
+                        305
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                212,
+                                103,
+                                346,
+                                305
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        103,
+                                        346,
+                                        305
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                212,
+                                                103,
+                                                346,
+                                                305
+                                            ],
+                                            "score": 0.9999845027923584,
+                                            "type": "image",
+                                            "image_path": "44770b5274803df5438379ae4c38464f7b2cd5b5d62b53685ea01cc8d11bae5f.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        103,
+                                        346,
+                                        305
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        335,
+                        366,
+                        350
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                334,
+                                363,
+                                351
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        334,
+                                        363,
+                                        351
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Installation and Mounting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        213,
+                        355,
+                        382,
+                        682
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                213,
+                                355,
+                                382,
+                                682
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        355,
+                                        382,
+                                        682
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                355,
+                                                382,
+                                                682
+                                            ],
+                                            "score": 0.6729728579521179,
+                                            "type": "image",
+                                            "image_path": "fb1c8e987cd9c8335a634ec5cf1960b80d7e43e7b065e84c40634bceb6db7136.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 13,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        355,
+                                        382,
+                                        371.0
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        371.0,
+                                        382,
+                                        387.0
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        387.0,
+                                        382,
+                                        403.0
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        403.0,
+                                        382,
+                                        419.0
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        419.0,
+                                        382,
+                                        435.0
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        435.0,
+                                        382,
+                                        451.0
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        451.0,
+                                        382,
+                                        467.0
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        467.0,
+                                        382,
+                                        483.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        483.0,
+                                        382,
+                                        499.0
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        499.0,
+                                        382,
+                                        515.0
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        515.0,
+                                        382,
+                                        531.0
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        531.0,
+                                        382,
+                                        547.0
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        547.0,
+                                        382,
+                                        563.0
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        563.0,
+                                        382,
+                                        579.0
+                                    ],
+                                    "spans": [],
+                                    "index": 16
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        579.0,
+                                        382,
+                                        595.0
+                                    ],
+                                    "spans": [],
+                                    "index": 17
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        595.0,
+                                        382,
+                                        611.0
+                                    ],
+                                    "spans": [],
+                                    "index": 18
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        611.0,
+                                        382,
+                                        627.0
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        627.0,
+                                        382,
+                                        643.0
+                                    ],
+                                    "spans": [],
+                                    "index": 20
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        643.0,
+                                        382,
+                                        659.0
+                                    ],
+                                    "spans": [],
+                                    "index": 21
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        659.0,
+                                        382,
+                                        675.0
+                                    ],
+                                    "spans": [],
+                                    "index": 22
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        675.0,
+                                        382,
+                                        691.0
+                                    ],
+                                    "spans": [],
+                                    "index": 23
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 13,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        394,
+                        85,
+                        479,
+                        97
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                393,
+                                84,
+                                479,
+                                99
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        393,
+                                        84,
+                                        479,
+                                        99
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Specifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        }
+                    ],
+                    "index": 24,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        395,
+                        104,
+                        562,
+                        169
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                395,
+                                104,
+                                562,
+                                169
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        395,
+                                        104,
+                                        562,
+                                        169
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                395,
+                                                104,
+                                                562,
+                                                169
+                                            ],
+                                            "score": 0.9980723261833191,
+                                            "html": "<html><body><table><tr><td>Operating Current</td><td>53mA</td></tr><tr><td>StandbyCurrent</td><td>147 mA</td></tr><tr><td>Mounting</td><td>OneLocal RailSpace</td></tr><tr><td>TerminalSize</td><td>18-12AWG (1.0mm2-2.5mm2)</td></tr><tr><td>Approvals</td><td>UL,ULC</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "11910c2eae525f86662795e3e0f0e5a35d266377c98f4923b5ed0137d3563e2e.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 27,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        395,
+                                        104,
+                                        562,
+                                        120.0
+                                    ],
+                                    "spans": [],
+                                    "index": 25
+                                },
+                                {
+                                    "bbox": [
+                                        395,
+                                        120.0,
+                                        562,
+                                        136.0
+                                    ],
+                                    "spans": [],
+                                    "index": 26
+                                },
+                                {
+                                    "bbox": [
+                                        395,
+                                        136.0,
+                                        562,
+                                        152.0
+                                    ],
+                                    "spans": [],
+                                    "index": 27
+                                },
+                                {
+                                    "bbox": [
+                                        395,
+                                        152.0,
+                                        562,
+                                        168.0
+                                    ],
+                                    "spans": [],
+                                    "index": 28
+                                },
+                                {
+                                    "bbox": [
+                                        395,
+                                        168.0,
+                                        562,
+                                        184.0
+                                    ],
+                                    "spans": [],
+                                    "index": 29
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 27,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        393,
+                        194,
+                        519,
+                        207
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                393,
+                                193,
+                                519,
+                                209
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        393,
+                                        193,
+                                        519,
+                                        209
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        }
+                    ],
+                    "index": 30,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        395,
+                        211,
+                        562,
+                        294
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                395,
+                                211,
+                                562,
+                                294
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        395,
+                                        211,
+                                        562,
+                                        294
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                395,
+                                                211,
+                                                562,
+                                                294
+                                            ],
+                                            "score": 0.9999860525131226,
+                                            "html": "<html><body><table><tr><td>Catalog Number</td><td>Description</td><td>Ship Wt. Ib. (kg)</td></tr><tr><td>3-OPS</td><td>OffPremises Signalingmodule</td><td>0.59 (.27)</td></tr><tr><td>3-FP</td><td>FillerPlate，order separatelywhenno LEDorLED/Switch moduleinstalled.</td><td>0.1 (.05)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "d65578c9d5f32f577db63d1020be19a784ad40e1c613a0ce3df7c75e1260313f.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 33.5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        395,
+                                        211,
+                                        562,
+                                        227.0
+                                    ],
+                                    "spans": [],
+                                    "index": 31
+                                },
+                                {
+                                    "bbox": [
+                                        395,
+                                        227.0,
+                                        562,
+                                        243.0
+                                    ],
+                                    "spans": [],
+                                    "index": 32
+                                },
+                                {
+                                    "bbox": [
+                                        395,
+                                        243.0,
+                                        562,
+                                        259.0
+                                    ],
+                                    "spans": [],
+                                    "index": 33
+                                },
+                                {
+                                    "bbox": [
+                                        395,
+                                        259.0,
+                                        562,
+                                        275.0
+                                    ],
+                                    "spans": [],
+                                    "index": 34
+                                },
+                                {
+                                    "bbox": [
+                                        395,
+                                        275.0,
+                                        562,
+                                        291.0
+                                    ],
+                                    "spans": [],
+                                    "index": 35
+                                },
+                                {
+                                    "bbox": [
+                                        395,
+                                        291.0,
+                                        562,
+                                        307.0
+                                    ],
+                                    "spans": [],
+                                    "index": 36
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 33.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "txt",
+    "_version_name": "0.10.1"
+}

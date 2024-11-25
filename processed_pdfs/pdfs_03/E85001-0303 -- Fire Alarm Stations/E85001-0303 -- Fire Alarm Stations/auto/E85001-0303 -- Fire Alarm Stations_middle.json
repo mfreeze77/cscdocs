@@ -1,0 +1,2766 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        147,
+                        342,
+                        200
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                146,
+                                342,
+                                180
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        146,
+                                        110,
+                                        180
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Fire",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        115,
+                                        148,
+                                        206,
+                                        178
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Alarm",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        147,
+                                        342,
+                                        180
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Stations",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                182,
+                                134,
+                                200
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        182,
+                                        134,
+                                        200
+                                    ],
+                                    "score": 1.0,
+                                    "content": "270 Series",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 0.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        359,
+                        106,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                358,
+                                106,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        358,
+                                        106,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        375,
+                        303,
+                        396
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                375,
+                                303,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        375,
+                                        303,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "EDWARDS 270 Series Non-Coded Fire Alarm Stations are sturdy,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                387,
+                                248,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        387,
+                                        248,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "attractive, and designed for economical installation.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 3.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        399,
+                        301,
+                        421
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                399,
+                                300,
+                                411
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        399,
+                                        300,
+                                        411
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The station is available in the following operational and functional",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                410,
+                                84,
+                                423
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        410,
+                                        84,
+                                        423
+                                    ],
+                                    "score": 1.0,
+                                    "content": "designs:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 5.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        427,
+                        308,
+                        538
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                427,
+                                308,
+                                439
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        427,
+                                        308,
+                                        439
+                                    ],
+                                    "score": 1.0,
+                                    "content": "—\tThe 270 Series provides a single action, break glass initiating",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                439,
+                                285,
+                                449
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        439,
+                                        285,
+                                        449
+                                    ],
+                                    "score": 1.0,
+                                    "content": "station. It is available with normally open (N.O.), normally",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                450,
+                                298,
+                                460
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        450,
+                                        298,
+                                        460
+                                    ],
+                                    "score": 1.0,
+                                    "content": "closed (N.C.) or combination N.O./N.C. contacts. The basic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                461,
+                                289,
+                                471
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        461,
+                                        289,
+                                        471
+                                    ],
+                                    "score": 1.0,
+                                    "content": "270 Series have screw terminals for field connection. The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                471,
+                                304,
+                                481
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        471,
+                                        304,
+                                        481
+                                    ],
+                                    "score": 1.0,
+                                    "content": "270A Series Manual Stations have 6 inch (150mm) wire leads.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                54,
+                                485,
+                                294,
+                                496
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        485,
+                                        294,
+                                        496
+                                    ],
+                                    "score": 1.0,
+                                    "content": "—\tThe 270P Series is a break glass, normally open pre-signal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                496,
+                                299,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        496,
+                                        299,
+                                        506
+                                    ],
+                                    "score": 1.0,
+                                    "content": "station. The pull of the lever sounds an alarm on all pre-signal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                507,
+                                295,
+                                517
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        507,
+                                        295,
+                                        517
+                                    ],
+                                    "score": 1.0,
+                                    "content": "indicating devices. Inserting a key and turning it will initiate a ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                518,
+                                307,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        518,
+                                        307,
+                                        528
+                                    ],
+                                    "score": 1.0,
+                                    "content": "general evacuation alarm. Screw terminals are provided for field",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                528,
+                                108,
+                                539
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        528,
+                                        108,
+                                        539
+                                    ],
+                                    "score": 1.0,
+                                    "content": "connection.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 11.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        541,
+                        298,
+                        606
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                542,
+                                289,
+                                552
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        542,
+                                        289,
+                                        552
+                                    ],
+                                    "score": 1.0,
+                                    "content": "All non-coded stations are designed for either flush or surface",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                554,
+                                297,
+                                563
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        554,
+                                        297,
+                                        563
+                                    ],
+                                    "score": 1.0,
+                                    "content": "mounting. For flush mounting a 4 inch standard North American",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                564,
+                                292,
+                                575
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        564,
+                                        292,
+                                        575
+                                    ],
+                                    "score": 1.0,
+                                    "content": "square box with single gang plaster cover should be used. For",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                575,
+                                297,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        575,
+                                        297,
+                                        585
+                                    ],
+                                    "score": 1.0,
+                                    "content": "surface mounting the 270 Series or 270P Series, use P-027193",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                585,
+                                272,
+                                596
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        585,
+                                        272,
+                                        596
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Cast Box, P-039250 Steel Box Housing for weatherproof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                596,
+                                90,
+                                607
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        596,
+                                        90,
+                                        607
+                                    ],
+                                    "score": 1.0,
+                                    "content": "enclosure.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        }
+                    ],
+                    "index": 19.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        358,
+                        434,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                434,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        434,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 23
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        322,
+                        376,
+                        504,
+                        466
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                322,
+                                375,
+                                369,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        378,
+                                        327,
+                                        383
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        330,
+                                        375,
+                                        369,
+                                        385
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Pull lever",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                391,
+                                432,
+                                402
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        393,
+                                        327,
+                                        399
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        333,
+                                        391,
+                                        432,
+                                        402
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Simple positive operation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                407,
+                                380,
+                                418
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        410,
+                                        326,
+                                        415
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        332,
+                                        407,
+                                        380,
+                                        418
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Break glass",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                422,
+                                444,
+                                435
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        425,
+                                        327,
+                                        430
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        332,
+                                        422,
+                                        444,
+                                        435
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Attractive, streamline design",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                323,
+                                438,
+                                502,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        442,
+                                        326,
+                                        445
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        332,
+                                        438,
+                                        502,
+                                        450
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Less than 5 lb pull force complies with ADA",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                454,
+                                464,
+                                464
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        454,
+                                        464,
+                                        464
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Solid, die-cast metal construction",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        }
+                    ],
+                    "index": 26.5
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        49,
+                        750,
+                        88,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                749,
+                                90,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        749,
+                                        90,
+                                        759
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        395,
+                        745,
+                        580,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                433,
+                                746,
+                                579,
+                                758
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        433,
+                                        749,
+                                        497,
+                                        758
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        501,
+                                        746,
+                                        579,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                394,
+                                758,
+                                580,
+                                767
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        394,
+                                        758,
+                                        580,
+                                        767
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        147,
+                        342,
+                        200
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                146,
+                                342,
+                                180
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        146,
+                                        110,
+                                        180
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Fire",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        115,
+                                        148,
+                                        206,
+                                        178
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Alarm",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        147,
+                                        342,
+                                        180
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Stations",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                182,
+                                134,
+                                200
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        182,
+                                        134,
+                                        200
+                                    ],
+                                    "score": 1.0,
+                                    "content": "270 Series",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 0.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        359,
+                        106,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                358,
+                                106,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        358,
+                                        106,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        375,
+                        303,
+                        396
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                375,
+                                303,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        375,
+                                        303,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "EDWARDS 270 Series Non-Coded Fire Alarm Stations are sturdy,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                387,
+                                248,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        387,
+                                        248,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "attractive, and designed for economical installation.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 3.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        49,
+                        375,
+                        303,
+                        397
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        399,
+                        301,
+                        421
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                399,
+                                300,
+                                411
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        399,
+                                        300,
+                                        411
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The station is available in the following operational and functional",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                410,
+                                84,
+                                423
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        410,
+                                        84,
+                                        423
+                                    ],
+                                    "score": 1.0,
+                                    "content": "designs:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 5.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        49,
+                        399,
+                        300,
+                        423
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        427,
+                        308,
+                        538
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                427,
+                                308,
+                                439
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        427,
+                                        308,
+                                        439
+                                    ],
+                                    "score": 1.0,
+                                    "content": "—\tThe 270 Series provides a single action, break glass initiating",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                439,
+                                285,
+                                449
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        439,
+                                        285,
+                                        449
+                                    ],
+                                    "score": 1.0,
+                                    "content": "station. It is available with normally open (N.O.), normally",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                450,
+                                298,
+                                460
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        450,
+                                        298,
+                                        460
+                                    ],
+                                    "score": 1.0,
+                                    "content": "closed (N.C.) or combination N.O./N.C. contacts. The basic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                461,
+                                289,
+                                471
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        461,
+                                        289,
+                                        471
+                                    ],
+                                    "score": 1.0,
+                                    "content": "270 Series have screw terminals for field connection. The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                471,
+                                304,
+                                481
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        471,
+                                        304,
+                                        481
+                                    ],
+                                    "score": 1.0,
+                                    "content": "270A Series Manual Stations have 6 inch (150mm) wire leads.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                54,
+                                485,
+                                294,
+                                496
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        54,
+                                        485,
+                                        294,
+                                        496
+                                    ],
+                                    "score": 1.0,
+                                    "content": "—\tThe 270P Series is a break glass, normally open pre-signal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                496,
+                                299,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        496,
+                                        299,
+                                        506
+                                    ],
+                                    "score": 1.0,
+                                    "content": "station. The pull of the lever sounds an alarm on all pre-signal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                507,
+                                295,
+                                517
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        507,
+                                        295,
+                                        517
+                                    ],
+                                    "score": 1.0,
+                                    "content": "indicating devices. Inserting a key and turning it will initiate a ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                518,
+                                307,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        518,
+                                        307,
+                                        528
+                                    ],
+                                    "score": 1.0,
+                                    "content": "general evacuation alarm. Screw terminals are provided for field",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                528,
+                                108,
+                                539
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        528,
+                                        108,
+                                        539
+                                    ],
+                                    "score": 1.0,
+                                    "content": "connection.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 11.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        50,
+                        427,
+                        308,
+                        539
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        541,
+                        298,
+                        606
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                542,
+                                289,
+                                552
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        542,
+                                        289,
+                                        552
+                                    ],
+                                    "score": 1.0,
+                                    "content": "All non-coded stations are designed for either flush or surface",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                554,
+                                297,
+                                563
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        554,
+                                        297,
+                                        563
+                                    ],
+                                    "score": 1.0,
+                                    "content": "mounting. For flush mounting a 4 inch standard North American",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                564,
+                                292,
+                                575
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        564,
+                                        292,
+                                        575
+                                    ],
+                                    "score": 1.0,
+                                    "content": "square box with single gang plaster cover should be used. For",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                575,
+                                297,
+                                585
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        575,
+                                        297,
+                                        585
+                                    ],
+                                    "score": 1.0,
+                                    "content": "surface mounting the 270 Series or 270P Series, use P-027193",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                585,
+                                272,
+                                596
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        585,
+                                        272,
+                                        596
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Cast Box, P-039250 Steel Box Housing for weatherproof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                596,
+                                90,
+                                607
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        596,
+                                        90,
+                                        607
+                                    ],
+                                    "score": 1.0,
+                                    "content": "enclosure.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        }
+                    ],
+                    "index": 19.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        49,
+                        542,
+                        297,
+                        607
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        358,
+                        434,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                434,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        434,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 23,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        322,
+                        376,
+                        504,
+                        466
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                322,
+                                375,
+                                369,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        378,
+                                        327,
+                                        383
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        330,
+                                        375,
+                                        369,
+                                        385
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Pull lever",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                391,
+                                432,
+                                402
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        393,
+                                        327,
+                                        399
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        333,
+                                        391,
+                                        432,
+                                        402
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Simple positive operation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                407,
+                                380,
+                                418
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        410,
+                                        326,
+                                        415
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        332,
+                                        407,
+                                        380,
+                                        418
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Break glass",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                422,
+                                444,
+                                435
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        425,
+                                        327,
+                                        430
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        332,
+                                        422,
+                                        444,
+                                        435
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Attractive, streamline design",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                323,
+                                438,
+                                502,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        442,
+                                        326,
+                                        445
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        332,
+                                        438,
+                                        502,
+                                        450
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Less than 5 lb pull force complies with ADA",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                454,
+                                464,
+                                464
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        454,
+                                        464,
+                                        464
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Solid, die-cast metal construction",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        }
+                    ],
+                    "index": 26.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        322,
+                        375,
+                        502,
+                        464
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        84,
+                        271,
+                        99
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                83,
+                                270,
+                                100
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        83,
+                                        270,
+                                        100
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Mounting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        216,
+                        108,
+                        561,
+                        403
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                216,
+                                108,
+                                561,
+                                403
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        216,
+                                        108,
+                                        561,
+                                        403
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                216,
+                                                108,
+                                                561,
+                                                403
+                                            ],
+                                            "score": 0.9999936819076538,
+                                            "type": "image",
+                                            "image_path": "887e0e5598e83aef537cb8dafb8b274680cb5d564798eaee6dc8d9b4fd99961a.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        216,
+                                        108,
+                                        561,
+                                        206.33333333333331
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        216,
+                                        206.33333333333331,
+                                        561,
+                                        304.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        216,
+                                        304.66666666666663,
+                                        561,
+                                        402.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        430,
+                        338,
+                        444
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                430,
+                                337,
+                                445
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        430,
+                                        337,
+                                        445
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        213,
+                        447,
+                        435,
+                        469
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                447,
+                                409,
+                                458
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        447,
+                                        409,
+                                        458
+                                    ],
+                                    "score": 1.0,
+                                    "content": "All models  are fire alarm red with Aluminum Strips.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                216,
+                                459,
+                                434,
+                                469
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        216,
+                                        459,
+                                        434,
+                                        469
+                                    ],
+                                    "score": 1.0,
+                                    "content": "They are marked “Pull in Case of Fire” on the pull handle.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 5.5
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        472,
+                        562,
+                        603
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                472,
+                                562,
+                                603
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        472,
+                                        562,
+                                        603
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                472,
+                                                562,
+                                                603
+                                            ],
+                                            "score": 0.999971866607666,
+                                            "html": "<html><body><table><tr><td rowspan=\"2\">Cat. No.</td><td rowspan=\"2\">Marking (top of device)</td><td colspan=\"3\">SwitchContacts</td><td colspan=\"2\">FieldConnections</td><td>Pre- Signal</td></tr><tr><td>Single Pole</td><td>Double Pole</td><td>Open Circuit</td><td>Screw Terminals</td><td>Wire Leads</td><td>Pre- Signal</td></tr><tr><td>270-DPO</td><td>FireAlarm</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>270-DPO- L</td><td>Local Alarm</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>270-SPO</td><td>FireAlarm</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>270A-DPO</td><td>Fire Alarm</td><td></td><td></td><td>√</td><td></td><td>√</td><td></td></tr><tr><td>270A-SPO</td><td>FireAlarm</td><td>√</td><td></td><td></td><td></td><td>√</td><td></td></tr><tr><td>270P-DPO</td><td>Fire Alarm</td><td></td><td></td><td>√</td><td>√</td><td></td><td>√</td></tr><tr><td>270P-SPO</td><td>Fire Alarm</td><td></td><td></td><td>√</td><td>√</td><td></td><td>√</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "dd75fcaa7b4d7a76d3671327a1c8a24c98fd459ce387f2a2f40133c895d789df.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        472,
+                                        562,
+                                        515.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        515.6666666666666,
+                                        562,
+                                        559.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        559.3333333333333,
+                                        562,
+                                        602.9999999999999
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 1,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        216,
+                        108,
+                        561,
+                        403
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                216,
+                                108,
+                                561,
+                                403
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        216,
+                                        108,
+                                        561,
+                                        403
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                216,
+                                                108,
+                                                561,
+                                                403
+                                            ],
+                                            "score": 0.9999936819076538,
+                                            "type": "image",
+                                            "image_path": "887e0e5598e83aef537cb8dafb8b274680cb5d564798eaee6dc8d9b4fd99961a.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        216,
+                                        108,
+                                        561,
+                                        206.33333333333331
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        216,
+                                        206.33333333333331,
+                                        561,
+                                        304.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        216,
+                                        304.66666666666663,
+                                        561,
+                                        402.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                }
+            ],
+            "tables": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        472,
+                        562,
+                        603
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                472,
+                                562,
+                                603
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        472,
+                                        562,
+                                        603
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                472,
+                                                562,
+                                                603
+                                            ],
+                                            "score": 0.999971866607666,
+                                            "html": "<html><body><table><tr><td rowspan=\"2\">Cat. No.</td><td rowspan=\"2\">Marking (top of device)</td><td colspan=\"3\">SwitchContacts</td><td colspan=\"2\">FieldConnections</td><td>Pre- Signal</td></tr><tr><td>Single Pole</td><td>Double Pole</td><td>Open Circuit</td><td>Screw Terminals</td><td>Wire Leads</td><td>Pre- Signal</td></tr><tr><td>270-DPO</td><td>FireAlarm</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>270-DPO- L</td><td>Local Alarm</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>270-SPO</td><td>FireAlarm</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>270A-DPO</td><td>Fire Alarm</td><td></td><td></td><td>√</td><td></td><td>√</td><td></td></tr><tr><td>270A-SPO</td><td>FireAlarm</td><td>√</td><td></td><td></td><td></td><td>√</td><td></td></tr><tr><td>270P-DPO</td><td>Fire Alarm</td><td></td><td></td><td>√</td><td>√</td><td></td><td>√</td></tr><tr><td>270P-SPO</td><td>Fire Alarm</td><td></td><td></td><td>√</td><td>√</td><td></td><td>√</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "dd75fcaa7b4d7a76d3671327a1c8a24c98fd459ce387f2a2f40133c895d789df.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        472,
+                                        562,
+                                        515.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        515.6666666666666,
+                                        562,
+                                        559.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        559.3333333333333,
+                                        562,
+                                        602.9999999999999
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                }
+            ],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        31,
+                        750,
+                        70,
+                        757
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                30,
+                                749,
+                                72,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        30,
+                                        749,
+                                        72,
+                                        759
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        377,
+                        745,
+                        564,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                415,
+                                746,
+                                562,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        415,
+                                        749,
+                                        480,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        482,
+                                        746,
+                                        562,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                376,
+                                758,
+                                563,
+                                767
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        376,
+                                        758,
+                                        563,
+                                        767
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        606,
+                        734,
+                        612,
+                        760
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                605,
+                                733,
+                                614,
+                                762
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        605,
+                                        733,
+                                        614,
+                                        762
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        84,
+                        271,
+                        99
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                83,
+                                270,
+                                100
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        83,
+                                        270,
+                                        100
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Mounting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        216,
+                        108,
+                        561,
+                        403
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                216,
+                                108,
+                                561,
+                                403
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        216,
+                                        108,
+                                        561,
+                                        403
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                216,
+                                                108,
+                                                561,
+                                                403
+                                            ],
+                                            "score": 0.9999936819076538,
+                                            "type": "image",
+                                            "image_path": "887e0e5598e83aef537cb8dafb8b274680cb5d564798eaee6dc8d9b4fd99961a.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        216,
+                                        108,
+                                        561,
+                                        206.33333333333331
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        216,
+                                        206.33333333333331,
+                                        561,
+                                        304.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        216,
+                                        304.66666666666663,
+                                        561,
+                                        402.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        430,
+                        338,
+                        444
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                430,
+                                337,
+                                445
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        430,
+                                        337,
+                                        445
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        213,
+                        447,
+                        435,
+                        469
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                447,
+                                409,
+                                458
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        447,
+                                        409,
+                                        458
+                                    ],
+                                    "score": 1.0,
+                                    "content": "All models  are fire alarm red with Aluminum Strips.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                216,
+                                459,
+                                434,
+                                469
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        216,
+                                        459,
+                                        434,
+                                        469
+                                    ],
+                                    "score": 1.0,
+                                    "content": "They are marked “Pull in Case of Fire” on the pull handle.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 5.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        213,
+                        447,
+                        434,
+                        469
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        472,
+                        562,
+                        603
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                472,
+                                562,
+                                603
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        472,
+                                        562,
+                                        603
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                472,
+                                                562,
+                                                603
+                                            ],
+                                            "score": 0.999971866607666,
+                                            "html": "<html><body><table><tr><td rowspan=\"2\">Cat. No.</td><td rowspan=\"2\">Marking (top of device)</td><td colspan=\"3\">SwitchContacts</td><td colspan=\"2\">FieldConnections</td><td>Pre- Signal</td></tr><tr><td>Single Pole</td><td>Double Pole</td><td>Open Circuit</td><td>Screw Terminals</td><td>Wire Leads</td><td>Pre- Signal</td></tr><tr><td>270-DPO</td><td>FireAlarm</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>270-DPO- L</td><td>Local Alarm</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>270-SPO</td><td>FireAlarm</td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>270A-DPO</td><td>Fire Alarm</td><td></td><td></td><td>√</td><td></td><td>√</td><td></td></tr><tr><td>270A-SPO</td><td>FireAlarm</td><td>√</td><td></td><td></td><td></td><td>√</td><td></td></tr><tr><td>270P-DPO</td><td>Fire Alarm</td><td></td><td></td><td>√</td><td>√</td><td></td><td>√</td></tr><tr><td>270P-SPO</td><td>Fire Alarm</td><td></td><td></td><td>√</td><td>√</td><td></td><td>√</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "dd75fcaa7b4d7a76d3671327a1c8a24c98fd459ce387f2a2f40133c895d789df.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        472,
+                                        562,
+                                        515.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        515.6666666666666,
+                                        562,
+                                        559.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        559.3333333333333,
+                                        562,
+                                        602.9999999999999
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "txt",
+    "_version_name": "0.10.1"
+}

@@ -1,0 +1,159 @@
+[
+    {
+        "type": "text",
+        "text": "Single-Action Fire Alarm Stations 276/277B Series ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Overview ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The EDWARDS Cat. No. 276B/277B series noncoded fire alarm stations are contemporary styled Lexan stations and are flexibly designed to meet a wide variety of application requirements and operational sequences. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Cat. No. 276B series are single action stations with terminals for field wiring connections. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Cat. No. 277B series are also single action stations but use 6” (150mm) wire leads for field wiring connections. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "All types are available with single or double pole alarm contacts which can be normally open, normally closed or a combination of both. Either a key or tool (depending on station selected) is required to reset mechanism. See specification chart for specific catalog numbers and features. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "For semi flush mounting use a standard North-American 4 inch square box with single gang plaster cover having an overall minimum depth of 2-1/4 inches (57mm). For surface mounting use a Cat. No. 276B-RSB surface back box. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Standard Features ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "•\t Single action models   \n•\t Single or double pole contacts   \n•Terminals or wire leads for field connections Pre-signal or general alarm operation Key lock or tool reset   \n•Break glass operation   \n•Surface or semi flush mounting   \n•Red finish   \n•Contemporary styling   \n•\t Rugged LEXAN construction   \n•\t Latch action until reset ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Operation ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To initiate an alarm and break the glass rod, pull down on the handle marked “Pull for Fire”. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The alarm handle latches in the pulled position until the station is manually reset. To reset, the station is opened using a Cat. No. 276-K1 key supplied with the station, or a tool; the toggle switch is restored to it’s normal position, the break glass rod is replaced and the station is reclosed. For presignal type stations, the general alarm can be initiated by authorized personnel from any operated station by inserting Cat. No. 276- $\\cdot\\mathsf{K}2$ key into the keyswitch behind the alarm handle and turning it clockwise. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Engineering Specifications ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Furnish and install where indicated on plans, Cat. No. (Select one of the following:) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "•\t (276B series single action manual stations with screw terminals) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "•\t (277B series single action manual stations with 6 inch (150mm) wire leads) ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "for connection of installation wiring. All stations shall be of the noncoded break glass type. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The stations shall be constructed of red lexan with white raised letters. The alarm handle shall be marked “PULL FOR FIRE”, to provide simple, concise instructions for activation of station by the general public. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Pulling the alarm handle shall break a glass rod and activate a toggle switch which shall cause the handle to latch in the alarm position. Momentary push button type switches shall not be acceptable. To reset the station it shall be necessary to open the station using (select one) (a key) (a special tool), restore the toggle switch to its normal position and replace the glass rod. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Stations shall be UL listed. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/b96b90a6c79191e430806a7b90cd2a6bbc66df1dc658e9aa7777b9cf07d0579e.jpg",
+        "table_caption": [
+            "Contact Ratings "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td colspan=\"2\">GeneralAlarmSwitch/Keyswitch</td></tr><tr><td>SinglePole</td><td>3.0 Amps,30 Vac,Resistive Load 1.0 Amps, 28Vdc,ResistiveLoad</td></tr><tr><td colspan=\"2\">DoublePole 1.5Amps,30Vac,ResistiveLoad 1.0Amps,28 Vdc,ResistiveLoad</td></tr><tr><td colspan=\"2\">ResistorKitforuseinstationsconnectedtosmokedetector</td></tr><tr><td colspan=\"2\">circuits</td></tr><tr><td colspan=\"2\">StationHousing RedLexan940WithWhiteLetters</td></tr><tr><td colspan=\"2\">Weight 1 Ib (0.4 kg)</td></tr></table></body></html>\n\n",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/2f9f497af57bc13457c8157f1a3c22c0d6df74727989c953967acca5cd5cd143.jpg",
+        "table_caption": [
+            "Accessories "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>276-GLR</td><td>ReplacementofGlass Rods</td></tr><tr><td>276-K1</td><td>Station Reset Key, Supplied with allKey Reset Stations</td></tr><tr><td>276-K2</td><td>General Alarmkey, Mustbeordereds separately.</td></tr><tr><td>276B-RSB</td><td>Surface BackBox,Red.</td></tr></table></body></html>\n\n",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "WARNING: These devices will not operate without electrical power. As fires frequently cause power interruptions, we suggest you discuss further safeguards with your local fire protection specialist. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mounting \\*Suitable for optional resistor kit (276-R) ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d4af18d5641f82cfa3c508465635fa6cd578146d5e1045e773bb4a4e350022f.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ordering Information ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/d605e8ce3cd8baaf15011ab84ccefc8a807d4ed0909aadbb1db7114616dfa9eb.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>Catalog Number</td><td colspan=\"2\">FieldConnections</td><td colspan=\"4\">SwitchContacts</td><td colspan=\"2\">StationReset</td><td colspan=\"2\">Type Alarm</td><td>Agency Approvals</td></tr><tr><td>Single Ac- tion Pull Stations</td><td>Terminals Screw</td><td>6\"(150mm) WireLeads</td><td>Single Pole Contact Alarm</td><td>Double Contact Pole</td><td>Circuit Open</td><td>Closed Circuit</td><td>Operated Reset Tool</td><td>Operated Reset Key</td><td>Presignal Contacts Alarm</td><td>Contacts General Alarm</td><td>Listed UL</td></tr><tr><td>276B-1110 276B-1120</td><td>X X</td><td></td><td>X X</td><td></td><td>X X</td><td></td><td>X</td><td>X</td><td></td><td>X X</td><td>X X</td></tr><tr><td>276B-1320 276B-1420</td><td>X X</td><td></td><td></td><td>X X</td><td>X X</td><td>X</td><td></td><td>X X</td><td></td><td>X X</td><td>X X</td></tr><tr><td>277B-1110 277B-1120</td><td></td><td>X X</td><td>X X</td><td></td><td>X X</td><td></td><td>X</td><td>X</td><td></td><td>X X</td><td>X X</td></tr></table></body></html>\n\n",
+        "page_idx": 2
+    }
+]

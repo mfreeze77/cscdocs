@@ -1,0 +1,3729 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        47,
+                        147,
+                        283,
+                        236
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                149,
+                                183,
+                                178
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        149,
+                                        183,
+                                        178
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Detector",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                180,
+                                283,
+                                219
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        180,
+                                        196,
+                                        219
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Mounting",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        204,
+                                        183,
+                                        283,
+                                        216
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Plate",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                218,
+                                135,
+                                235
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        218,
+                                        135,
+                                        235
+                                    ],
+                                    "score": 1.0,
+                                    "content": "SIGA-DMP",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        48,
+                        358,
+                        105,
+                        371
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                358,
+                                105,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        358,
+                                        105,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        48,
+                        375,
+                        305,
+                        461
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                376,
+                                285,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        376,
+                                        285,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The SIGA-DMP Detector Mounting Plate is part of the Signature",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                387,
+                                285,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        387,
+                                        285,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Series family. It is a 7 inch (178mm) square mounting plate de-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                397,
+                                296,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        397,
+                                        296,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "signed to provide convenient mounting of Signature Series intel-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                409,
+                                302,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        409,
+                                        302,
+                                        419
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ligent smoke detectors in raised floor or plenum applications. The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                419,
+                                305,
+                                430
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        419,
+                                        305,
+                                        430
+                                    ],
+                                    "score": 1.0,
+                                    "content": "detector mounting plate may also be installed in low velocity ducts",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                430,
+                                290,
+                                440
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        430,
+                                        290,
+                                        440
+                                    ],
+                                    "score": 1.0,
+                                    "content": "that have a maximum width of up to 36 inches (915mm) and a",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                441,
+                                300,
+                                451
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        441,
+                                        300,
+                                        451
+                                    ],
+                                    "score": 1.0,
+                                    "content": "maximum height of up to 36 inches (915mm). It includes a 4 inch",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                452,
+                                207,
+                                462
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        452,
+                                        207,
+                                        462
+                                    ],
+                                    "score": 1.0,
+                                    "content": "square junction box for wiring connections.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 7.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        48,
+                        464,
+                        298,
+                        486
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                465,
+                                296,
+                                475
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        465,
+                                        296,
+                                        475
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The SIGA-DMP is compatible with the following Signature Series",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                476,
+                                233,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        476,
+                                        233,
+                                        487
+                                    ],
+                                    "score": 1.0,
+                                    "content": "smoke detectors and detector mounting bases:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 12.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        48,
+                        489,
+                        274,
+                        610
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                491,
+                                254,
+                                501
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        491,
+                                        254,
+                                        501
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t SIGA-PD Intelligent Photoelectric Smoke Detector",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                504,
+                                269,
+                                514
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        504,
+                                        269,
+                                        514
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t SIGA-PHD Intelligent Photoelectric and Heat Detector",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                518,
+                                258,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        520,
+                                        55,
+                                        525
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        59,
+                                        518,
+                                        258,
+                                        528
+                                    ],
+                                    "score": 1.0,
+                                    "content": "SIGA2-PS Intelligent Photoelectric Smoke Detector",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                60,
+                                532,
+                                253,
+                                542
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        532,
+                                        253,
+                                        542
+                                    ],
+                                    "score": 1.0,
+                                    "content": "SIGA-PS Intelligent Photoelectric Smoke Detector",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                546,
+                                272,
+                                556
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        548,
+                                        54,
+                                        554
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        59,
+                                        546,
+                                        272,
+                                        556
+                                    ],
+                                    "score": 1.0,
+                                    "content": "SIGA2-PHS Intelligent 3D Multisensor Smoke Detector",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                559,
+                                267,
+                                569
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        562,
+                                        54,
+                                        567
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        60,
+                                        559,
+                                        267,
+                                        569
+                                    ],
+                                    "score": 1.0,
+                                    "content": "SIGA-PHS Intelligent 3D Multisensor Smoke Detector",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                59,
+                                573,
+                                269,
+                                583
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        573,
+                                        269,
+                                        583
+                                    ],
+                                    "score": 1.0,
+                                    "content": "SIGA-IPHS Intelligent 4D Multisensor Smoke Detector",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                587,
+                                242,
+                                596
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        587,
+                                        242,
+                                        596
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t SIGA-SB Standard Base; SIGA-RB Relay Base",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                600,
+                                147,
+                                610
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        600,
+                                        147,
+                                        610
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t SIGA-IB Isolator Base.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        }
+                    ],
+                    "index": 18
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        47,
+                        616,
+                        307,
+                        669
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                615,
+                                298,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        615,
+                                        298,
+                                        627
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Mounting hardware is included along with a drilling template and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                627,
+                                291,
+                                637
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        627,
+                                        291,
+                                        637
+                                    ],
+                                    "score": 1.0,
+                                    "content": "rubber gasket which forms air tight seal between the mounting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                638,
+                                307,
+                                647
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        638,
+                                        307,
+                                        647
+                                    ],
+                                    "score": 1.0,
+                                    "content": "plate and the mounting surface. The complete assembly is finished",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                648,
+                                302,
+                                659
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        648,
+                                        302,
+                                        659
+                                    ],
+                                    "score": 1.0,
+                                    "content": "in red epoxy powder coat for maximum durability and easy identi-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                659,
+                                79,
+                                670
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        659,
+                                        79,
+                                        670
+                                    ],
+                                    "score": 1.0,
+                                    "content": "fication.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        }
+                    ],
+                    "index": 25
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        358,
+                        433,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                434,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        434,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        }
+                    ],
+                    "index": 28
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        322,
+                        375,
+                        559,
+                        461
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                331,
+                                375,
+                                522,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        331,
+                                        375,
+                                        522,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Compatible with Signature Series detectors",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                332,
+                                386,
+                                558,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        332,
+                                        386,
+                                        558,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Use in raised floor and plenum applications or low velocity",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                397,
+                                383,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        397,
+                                        383,
+                                        407
+                                    ],
+                                    "score": 1.0,
+                                    "content": "HVAC ducts",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                331,
+                                412,
+                                529,
+                                424
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        331,
+                                        412,
+                                        529,
+                                        424
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard, relay, fault isolator mounting bases",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                429,
+                                470,
+                                439
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        429,
+                                        470,
+                                        439
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Designed to ISO9001 standards",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                332,
+                                439,
+                                550,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        332,
+                                        439,
+                                        550,
+                                        450
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Manufactured to strict international quality standards for\t\t",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                450,
+                                399,
+                                462
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        450,
+                                        399,
+                                        462
+                                    ],
+                                    "score": 1.0,
+                                    "content": "highest reliability.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        }
+                    ],
+                    "index": 32
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        482,
+                        389,
+                        496
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                482,
+                                389,
+                                497
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        482,
+                                        389,
+                                        497
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Application",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        }
+                    ],
+                    "index": 36
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        499,
+                        569,
+                        520
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                500,
+                                568,
+                                511
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        500,
+                                        568,
+                                        511
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The SIGA-DMP may be installed in any of three possible configura-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                510,
+                                343,
+                                522
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        510,
+                                        343,
+                                        522
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tions.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        }
+                    ],
+                    "index": 37.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        523,
+                        577,
+                        567
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                525,
+                                577,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        525,
+                                        577,
+                                        535
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Installation Option #1: In applications in which the SIGA-DMP is",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                535,
+                                571,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        535,
+                                        571,
+                                        546
+                                    ],
+                                    "score": 1.0,
+                                    "content": "mounted in a clearly visible location, a remote LED (model SIGA-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                546,
+                                577,
+                                557
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        546,
+                                        577,
+                                        557
+                                    ],
+                                    "score": 1.0,
+                                    "content": "LED) may be mounted directly to the SIGA-DMP to indicate Alarm",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                557,
+                                451,
+                                566
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        557,
+                                        451,
+                                        566
+                                    ],
+                                    "score": 1.0,
+                                    "content": "conditions of the smoke detector.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 42
+                        }
+                    ],
+                    "index": 40.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        573,
+                        576,
+                        627
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                322,
+                                574,
+                                559,
+                                584
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        574,
+                                        559,
+                                        584
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Installation Option #2: In applications in which an intelligent",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 43
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                585,
+                                570,
+                                595
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        585,
+                                        570,
+                                        595
+                                    ],
+                                    "score": 1.0,
+                                    "content": "control relay module (model SIGA-CR) is mounted directly to the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 44
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                596,
+                                576,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        596,
+                                        576,
+                                        606
+                                    ],
+                                    "score": 1.0,
+                                    "content": "SIGA-DMP, a remote LED (model SIGA-LED) must be mounted at",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 45
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                607,
+                                572,
+                                616
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        607,
+                                        572,
+                                        616
+                                    ],
+                                    "score": 1.0,
+                                    "content": "a remote location to provide indication of Alarm conditions of the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 46
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                618,
+                                384,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        618,
+                                        384,
+                                        627
+                                    ],
+                                    "score": 1.0,
+                                    "content": "smoke detector.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 47
+                        }
+                    ],
+                    "index": 45
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        632,
+                        579,
+                        676
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                322,
+                                634,
+                                577,
+                                644
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        634,
+                                        577,
+                                        644
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Installation Option #3: In applications in which the SIGA-DMP is",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 48
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                645,
+                                579,
+                                655
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        645,
+                                        579,
+                                        655
+                                    ],
+                                    "score": 1.0,
+                                    "content": "not located in a clearly visible location, a remote LED (model SIGA-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 49
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                655,
+                                572,
+                                666
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        655,
+                                        572,
+                                        666
+                                    ],
+                                    "score": 1.0,
+                                    "content": "LED) must be mounted at a remote location to provide indication",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 50
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                666,
+                                486,
+                                676
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        666,
+                                        486,
+                                        676
+                                    ],
+                                    "score": 1.0,
+                                    "content": "of Alarm conditions to the smoke detector.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 51
+                        }
+                    ],
+                    "index": 49.5
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        395,
+                        745,
+                        580,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                433,
+                                746,
+                                579,
+                                758
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        433,
+                                        749,
+                                        497,
+                                        758
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        500,
+                                        746,
+                                        579,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                394,
+                                758,
+                                580,
+                                767
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        394,
+                                        758,
+                                        580,
+                                        767
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        49,
+                        749,
+                        88,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                749,
+                                88,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        749,
+                                        88,
+                                        759
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        47,
+                        147,
+                        283,
+                        236
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                149,
+                                183,
+                                178
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        149,
+                                        183,
+                                        178
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Detector",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                180,
+                                283,
+                                219
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        180,
+                                        196,
+                                        219
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Mounting",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        204,
+                                        183,
+                                        283,
+                                        216
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Plate",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                218,
+                                135,
+                                235
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        218,
+                                        135,
+                                        235
+                                    ],
+                                    "score": 1.0,
+                                    "content": "SIGA-DMP",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        48,
+                        358,
+                        105,
+                        371
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                358,
+                                105,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        358,
+                                        105,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        48,
+                        375,
+                        305,
+                        461
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                376,
+                                285,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        376,
+                                        285,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The SIGA-DMP Detector Mounting Plate is part of the Signature",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                387,
+                                285,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        387,
+                                        285,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Series family. It is a 7 inch (178mm) square mounting plate de-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                397,
+                                296,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        397,
+                                        296,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "signed to provide convenient mounting of Signature Series intel-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                409,
+                                302,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        409,
+                                        302,
+                                        419
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ligent smoke detectors in raised floor or plenum applications. The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                419,
+                                305,
+                                430
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        419,
+                                        305,
+                                        430
+                                    ],
+                                    "score": 1.0,
+                                    "content": "detector mounting plate may also be installed in low velocity ducts",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                430,
+                                290,
+                                440
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        430,
+                                        290,
+                                        440
+                                    ],
+                                    "score": 1.0,
+                                    "content": "that have a maximum width of up to 36 inches (915mm) and a",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                441,
+                                300,
+                                451
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        441,
+                                        300,
+                                        451
+                                    ],
+                                    "score": 1.0,
+                                    "content": "maximum height of up to 36 inches (915mm). It includes a 4 inch",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                452,
+                                207,
+                                462
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        452,
+                                        207,
+                                        462
+                                    ],
+                                    "score": 1.0,
+                                    "content": "square junction box for wiring connections.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 7.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        48,
+                        376,
+                        305,
+                        462
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        48,
+                        464,
+                        298,
+                        486
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                465,
+                                296,
+                                475
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        465,
+                                        296,
+                                        475
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The SIGA-DMP is compatible with the following Signature Series",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                476,
+                                233,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        476,
+                                        233,
+                                        487
+                                    ],
+                                    "score": 1.0,
+                                    "content": "smoke detectors and detector mounting bases:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 12.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        48,
+                        465,
+                        296,
+                        487
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        48,
+                        489,
+                        274,
+                        610
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                491,
+                                254,
+                                501
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        491,
+                                        254,
+                                        501
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t SIGA-PD Intelligent Photoelectric Smoke Detector",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                504,
+                                269,
+                                514
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        504,
+                                        269,
+                                        514
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t SIGA-PHD Intelligent Photoelectric and Heat Detector",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                518,
+                                258,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        520,
+                                        55,
+                                        525
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        59,
+                                        518,
+                                        258,
+                                        528
+                                    ],
+                                    "score": 1.0,
+                                    "content": "SIGA2-PS Intelligent Photoelectric Smoke Detector",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                60,
+                                532,
+                                253,
+                                542
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        532,
+                                        253,
+                                        542
+                                    ],
+                                    "score": 1.0,
+                                    "content": "SIGA-PS Intelligent Photoelectric Smoke Detector",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                546,
+                                272,
+                                556
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        548,
+                                        54,
+                                        554
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        59,
+                                        546,
+                                        272,
+                                        556
+                                    ],
+                                    "score": 1.0,
+                                    "content": "SIGA2-PHS Intelligent 3D Multisensor Smoke Detector",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                559,
+                                267,
+                                569
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        562,
+                                        54,
+                                        567
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        60,
+                                        559,
+                                        267,
+                                        569
+                                    ],
+                                    "score": 1.0,
+                                    "content": "SIGA-PHS Intelligent 3D Multisensor Smoke Detector",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                59,
+                                573,
+                                269,
+                                583
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        573,
+                                        269,
+                                        583
+                                    ],
+                                    "score": 1.0,
+                                    "content": "SIGA-IPHS Intelligent 4D Multisensor Smoke Detector",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                587,
+                                242,
+                                596
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        587,
+                                        242,
+                                        596
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t SIGA-SB Standard Base; SIGA-RB Relay Base",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                600,
+                                147,
+                                610
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        600,
+                                        147,
+                                        610
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t SIGA-IB Isolator Base.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 18,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        48,
+                        491,
+                        272,
+                        610
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        47,
+                        616,
+                        307,
+                        669
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                615,
+                                298,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        615,
+                                        298,
+                                        627
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Mounting hardware is included along with a drilling template and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                627,
+                                291,
+                                637
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        627,
+                                        291,
+                                        637
+                                    ],
+                                    "score": 1.0,
+                                    "content": "rubber gasket which forms air tight seal between the mounting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                638,
+                                307,
+                                647
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        638,
+                                        307,
+                                        647
+                                    ],
+                                    "score": 1.0,
+                                    "content": "plate and the mounting surface. The complete assembly is finished",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                648,
+                                302,
+                                659
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        648,
+                                        302,
+                                        659
+                                    ],
+                                    "score": 1.0,
+                                    "content": "in red epoxy powder coat for maximum durability and easy identi-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                659,
+                                79,
+                                670
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        659,
+                                        79,
+                                        670
+                                    ],
+                                    "score": 1.0,
+                                    "content": "fication.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        }
+                    ],
+                    "index": 25,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        47,
+                        615,
+                        307,
+                        670
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        358,
+                        433,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                434,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        434,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        }
+                    ],
+                    "index": 28,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        322,
+                        375,
+                        559,
+                        461
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                331,
+                                375,
+                                522,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        331,
+                                        375,
+                                        522,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Compatible with Signature Series detectors",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                332,
+                                386,
+                                558,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        332,
+                                        386,
+                                        558,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Use in raised floor and plenum applications or low velocity",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                397,
+                                383,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        397,
+                                        383,
+                                        407
+                                    ],
+                                    "score": 1.0,
+                                    "content": "HVAC ducts",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                331,
+                                412,
+                                529,
+                                424
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        331,
+                                        412,
+                                        529,
+                                        424
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard, relay, fault isolator mounting bases",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                429,
+                                470,
+                                439
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        429,
+                                        470,
+                                        439
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Designed to ISO9001 standards",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                332,
+                                439,
+                                550,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        332,
+                                        439,
+                                        550,
+                                        450
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Manufactured to strict international quality standards for\t\t",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                450,
+                                399,
+                                462
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        450,
+                                        399,
+                                        462
+                                    ],
+                                    "score": 1.0,
+                                    "content": "highest reliability.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 32,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        331,
+                        375,
+                        558,
+                        462
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        482,
+                        389,
+                        496
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                482,
+                                389,
+                                497
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        482,
+                                        389,
+                                        497
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Application",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        }
+                    ],
+                    "index": 36,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        499,
+                        569,
+                        520
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                500,
+                                568,
+                                511
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        500,
+                                        568,
+                                        511
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The SIGA-DMP may be installed in any of three possible configura-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                510,
+                                343,
+                                522
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        510,
+                                        343,
+                                        522
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tions.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        }
+                    ],
+                    "index": 37.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        320,
+                        500,
+                        568,
+                        522
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        523,
+                        577,
+                        567
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                525,
+                                577,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        525,
+                                        577,
+                                        535
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Installation Option #1: In applications in which the SIGA-DMP is",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                535,
+                                571,
+                                546
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        535,
+                                        571,
+                                        546
+                                    ],
+                                    "score": 1.0,
+                                    "content": "mounted in a clearly visible location, a remote LED (model SIGA-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                546,
+                                577,
+                                557
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        546,
+                                        577,
+                                        557
+                                    ],
+                                    "score": 1.0,
+                                    "content": "LED) may be mounted directly to the SIGA-DMP to indicate Alarm",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                557,
+                                451,
+                                566
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        557,
+                                        451,
+                                        566
+                                    ],
+                                    "score": 1.0,
+                                    "content": "conditions of the smoke detector.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 42
+                        }
+                    ],
+                    "index": 40.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        321,
+                        525,
+                        577,
+                        566
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        573,
+                        576,
+                        627
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                322,
+                                574,
+                                559,
+                                584
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        574,
+                                        559,
+                                        584
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Installation Option #2: In applications in which an intelligent",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 43
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                585,
+                                570,
+                                595
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        585,
+                                        570,
+                                        595
+                                    ],
+                                    "score": 1.0,
+                                    "content": "control relay module (model SIGA-CR) is mounted directly to the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 44
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                596,
+                                576,
+                                606
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        596,
+                                        576,
+                                        606
+                                    ],
+                                    "score": 1.0,
+                                    "content": "SIGA-DMP, a remote LED (model SIGA-LED) must be mounted at",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 45
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                607,
+                                572,
+                                616
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        607,
+                                        572,
+                                        616
+                                    ],
+                                    "score": 1.0,
+                                    "content": "a remote location to provide indication of Alarm conditions of the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 46
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                618,
+                                384,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        618,
+                                        384,
+                                        627
+                                    ],
+                                    "score": 1.0,
+                                    "content": "smoke detector.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 47
+                        }
+                    ],
+                    "index": 45,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        321,
+                        574,
+                        576,
+                        627
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        632,
+                        579,
+                        676
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                322,
+                                634,
+                                577,
+                                644
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        634,
+                                        577,
+                                        644
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Installation Option #3: In applications in which the SIGA-DMP is",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 48
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                645,
+                                579,
+                                655
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        645,
+                                        579,
+                                        655
+                                    ],
+                                    "score": 1.0,
+                                    "content": "not located in a clearly visible location, a remote LED (model SIGA-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 49
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                655,
+                                572,
+                                666
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        655,
+                                        572,
+                                        666
+                                    ],
+                                    "score": 1.0,
+                                    "content": "LED) must be mounted at a remote location to provide indication",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 50
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                666,
+                                486,
+                                676
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        666,
+                                        486,
+                                        676
+                                    ],
+                                    "score": 1.0,
+                                    "content": "of Alarm conditions to the smoke detector.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 51
+                        }
+                    ],
+                    "index": 49.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        321,
+                        634,
+                        579,
+                        676
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        85,
+                        298,
+                        98
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                84,
+                                298,
+                                99
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        84,
+                                        298,
+                                        99
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Specifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        102,
+                        563,
+                        354
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                102,
+                                563,
+                                354
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        102,
+                                        563,
+                                        354
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                102,
+                                                563,
+                                                354
+                                            ],
+                                            "score": 0.9999603033065796,
+                                            "html": "<html><body><table><tr><td>Agency Listings</td><td>UL,ULC,MEA,CSFM</td></tr><tr><td>Compatible Detectors</td><td>SIGA-PDIntelligentPhotoelectricSmokeDetector SIGA-PHD IntelligentPhotoelectric and Heat Detector SIGA2-PS Intelligent Photoelectric Detector SIGA-PSIntelligentPhotoelectricDetector SIGA2-PHSIntelligent3DMultisensorDetector SIGA-PHS Intelligent 3D Multisensor Detector</td></tr><tr><td>UserSelectedAlarm</td><td>SIGA-IPHS Intelligent 4D Multisensor Detector NoTE:Forproperoperation,only thespecified detectorsshouldbe usedwiththeSIGA-DMP</td></tr><tr><td>Sensitivity Settings Compatible Bases</td><td>Sensitive:3.5%Normal:2.5%</td></tr><tr><td>CompatibleRemote</td><td>SIGA-SBStandard Base;SIGA-RBRelayBase;SIGA-IBIsolatorBase SIGA-LED Remote LED Indicator(Use ONLY withSIGA-SBStandard</td></tr><tr><td>Annunciator Maximum Duct Size</td><td>Base) 36 inches (915mm) × 36 inches (915mm) with up to 3/4 inch (19mm)</td></tr><tr><td>AirVelocityRange</td><td>WallThickness For SIGA2-PS, SIGA-PS,0 -4,000 ft/min (0 - 25.39 m/s) For SIGA2-PHS, SIGA-PHS, 0 -4,000 ft/min (O -25.39 m/s)</td></tr><tr><td>Operating</td><td>For SIGA-IPHS, 0 - 500 ft/min (0 - 2.54 m/s) 32°-120°F(0°-49°C)forSIGA2-PS,SIGA-PS</td></tr><tr><td>TemperatureRange Operating Humidity Range</td><td>32°-100°F(O°-38°C)forSIGA-IPHS,SIGA2-PHS,SIGA-PHS 0 -93% RH</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "a9c74731c5fd19d2f3ac0af72ddfaa823258aee54b94bd1d564a2d4514f7f1af.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        102,
+                                        563,
+                                        186.0
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        186.0,
+                                        563,
+                                        270.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        270.0,
+                                        563,
+                                        354.0
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        381,
+                        338,
+                        395
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                381,
+                                337,
+                                396
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        381,
+                                        337,
+                                        396
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        399,
+                        563,
+                        551
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                399,
+                                563,
+                                551
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        399,
+                                        563,
+                                        551
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                399,
+                                                563,
+                                                551
+                                            ],
+                                            "score": 0.999548614025116,
+                                            "html": "<html><body><table><tr><td>Catalog Number</td><td>Description</td><td>Ship Wt. Ibs (kg)</td></tr><tr><td>SIGA-DMP</td><td>DetectorMountingPlate</td><td>3.0 (1.4)</td></tr><tr><td>SIGA2-PS</td><td>IntelligentPhotoelectricDetector</td><td rowspan=\"5\">0.5 (.23)</td></tr><tr><td>SIGA-PS</td><td>IntelligentPhotoelectricDetector</td></tr><tr><td>SIGA2-PHS</td><td>Intelligent3DMultisensorDetector</td></tr><tr><td>SIGA-PHS</td><td>Intelligent3DMultisensorDetector</td></tr><tr><td>SIGA-IPHS</td><td>Intelligent4DMultisensorDetector</td></tr><tr><td></td><td></td><td></td></tr><tr><td>Accessories</td><td></td><td rowspan=\"3\"></td></tr><tr><td>SIGA-SB</td><td>DetectorMountingBase</td></tr><tr><td>SIGA-RB</td><td>DetectorMountingBasew/Relay</td></tr><tr><td>SIGA-IB</td><td>DetectorMountingBasew/FaultIsolator</td><td rowspan=\"2\">0.2 (.09)</td></tr><tr><td>SIGA-LED</td><td>RemoteAlarmLED</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "7bba6ac4ec334c665d5cfb06511855178e1f4a89b6b384329b7e2df7ea174e14.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        399,
+                                        563,
+                                        449.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        449.6666666666667,
+                                        563,
+                                        500.33333333333337
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        500.33333333333337,
+                                        563,
+                                        551.0
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 1,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        102,
+                        563,
+                        354
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                102,
+                                563,
+                                354
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        102,
+                                        563,
+                                        354
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                102,
+                                                563,
+                                                354
+                                            ],
+                                            "score": 0.9999603033065796,
+                                            "html": "<html><body><table><tr><td>Agency Listings</td><td>UL,ULC,MEA,CSFM</td></tr><tr><td>Compatible Detectors</td><td>SIGA-PDIntelligentPhotoelectricSmokeDetector SIGA-PHD IntelligentPhotoelectric and Heat Detector SIGA2-PS Intelligent Photoelectric Detector SIGA-PSIntelligentPhotoelectricDetector SIGA2-PHSIntelligent3DMultisensorDetector SIGA-PHS Intelligent 3D Multisensor Detector</td></tr><tr><td>UserSelectedAlarm</td><td>SIGA-IPHS Intelligent 4D Multisensor Detector NoTE:Forproperoperation,only thespecified detectorsshouldbe usedwiththeSIGA-DMP</td></tr><tr><td>Sensitivity Settings Compatible Bases</td><td>Sensitive:3.5%Normal:2.5%</td></tr><tr><td>CompatibleRemote</td><td>SIGA-SBStandard Base;SIGA-RBRelayBase;SIGA-IBIsolatorBase SIGA-LED Remote LED Indicator(Use ONLY withSIGA-SBStandard</td></tr><tr><td>Annunciator Maximum Duct Size</td><td>Base) 36 inches (915mm) × 36 inches (915mm) with up to 3/4 inch (19mm)</td></tr><tr><td>AirVelocityRange</td><td>WallThickness For SIGA2-PS, SIGA-PS,0 -4,000 ft/min (0 - 25.39 m/s) For SIGA2-PHS, SIGA-PHS, 0 -4,000 ft/min (O -25.39 m/s)</td></tr><tr><td>Operating</td><td>For SIGA-IPHS, 0 - 500 ft/min (0 - 2.54 m/s) 32°-120°F(0°-49°C)forSIGA2-PS,SIGA-PS</td></tr><tr><td>TemperatureRange Operating Humidity Range</td><td>32°-100°F(O°-38°C)forSIGA-IPHS,SIGA2-PHS,SIGA-PHS 0 -93% RH</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "a9c74731c5fd19d2f3ac0af72ddfaa823258aee54b94bd1d564a2d4514f7f1af.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        102,
+                                        563,
+                                        186.0
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        186.0,
+                                        563,
+                                        270.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        270.0,
+                                        563,
+                                        354.0
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        399,
+                        563,
+                        551
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                399,
+                                563,
+                                551
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        399,
+                                        563,
+                                        551
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                399,
+                                                563,
+                                                551
+                                            ],
+                                            "score": 0.999548614025116,
+                                            "html": "<html><body><table><tr><td>Catalog Number</td><td>Description</td><td>Ship Wt. Ibs (kg)</td></tr><tr><td>SIGA-DMP</td><td>DetectorMountingPlate</td><td>3.0 (1.4)</td></tr><tr><td>SIGA2-PS</td><td>IntelligentPhotoelectricDetector</td><td rowspan=\"5\">0.5 (.23)</td></tr><tr><td>SIGA-PS</td><td>IntelligentPhotoelectricDetector</td></tr><tr><td>SIGA2-PHS</td><td>Intelligent3DMultisensorDetector</td></tr><tr><td>SIGA-PHS</td><td>Intelligent3DMultisensorDetector</td></tr><tr><td>SIGA-IPHS</td><td>Intelligent4DMultisensorDetector</td></tr><tr><td></td><td></td><td></td></tr><tr><td>Accessories</td><td></td><td rowspan=\"3\"></td></tr><tr><td>SIGA-SB</td><td>DetectorMountingBase</td></tr><tr><td>SIGA-RB</td><td>DetectorMountingBasew/Relay</td></tr><tr><td>SIGA-IB</td><td>DetectorMountingBasew/FaultIsolator</td><td rowspan=\"2\">0.2 (.09)</td></tr><tr><td>SIGA-LED</td><td>RemoteAlarmLED</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "7bba6ac4ec334c665d5cfb06511855178e1f4a89b6b384329b7e2df7ea174e14.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        399,
+                                        563,
+                                        449.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        449.6666666666667,
+                                        563,
+                                        500.33333333333337
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        500.33333333333337,
+                                        563,
+                                        551.0
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                }
+            ],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        31,
+                        750,
+                        70,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                30,
+                                749,
+                                72,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        30,
+                                        749,
+                                        72,
+                                        759
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        378,
+                        745,
+                        564,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                415,
+                                745,
+                                562,
+                                758
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        415,
+                                        749,
+                                        480,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        482,
+                                        745,
+                                        562,
+                                        758
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                376,
+                                758,
+                                563,
+                                768
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        376,
+                                        758,
+                                        563,
+                                        768
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        606,
+                        734,
+                        612,
+                        760
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                605,
+                                733,
+                                614,
+                                763
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        605,
+                                        733,
+                                        614,
+                                        763
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        85,
+                        298,
+                        98
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                84,
+                                298,
+                                99
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        84,
+                                        298,
+                                        99
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Specifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        102,
+                        563,
+                        354
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                102,
+                                563,
+                                354
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        102,
+                                        563,
+                                        354
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                102,
+                                                563,
+                                                354
+                                            ],
+                                            "score": 0.9999603033065796,
+                                            "html": "<html><body><table><tr><td>Agency Listings</td><td>UL,ULC,MEA,CSFM</td></tr><tr><td>Compatible Detectors</td><td>SIGA-PDIntelligentPhotoelectricSmokeDetector SIGA-PHD IntelligentPhotoelectric and Heat Detector SIGA2-PS Intelligent Photoelectric Detector SIGA-PSIntelligentPhotoelectricDetector SIGA2-PHSIntelligent3DMultisensorDetector SIGA-PHS Intelligent 3D Multisensor Detector</td></tr><tr><td>UserSelectedAlarm</td><td>SIGA-IPHS Intelligent 4D Multisensor Detector NoTE:Forproperoperation,only thespecified detectorsshouldbe usedwiththeSIGA-DMP</td></tr><tr><td>Sensitivity Settings Compatible Bases</td><td>Sensitive:3.5%Normal:2.5%</td></tr><tr><td>CompatibleRemote</td><td>SIGA-SBStandard Base;SIGA-RBRelayBase;SIGA-IBIsolatorBase SIGA-LED Remote LED Indicator(Use ONLY withSIGA-SBStandard</td></tr><tr><td>Annunciator Maximum Duct Size</td><td>Base) 36 inches (915mm) × 36 inches (915mm) with up to 3/4 inch (19mm)</td></tr><tr><td>AirVelocityRange</td><td>WallThickness For SIGA2-PS, SIGA-PS,0 -4,000 ft/min (0 - 25.39 m/s) For SIGA2-PHS, SIGA-PHS, 0 -4,000 ft/min (O -25.39 m/s)</td></tr><tr><td>Operating</td><td>For SIGA-IPHS, 0 - 500 ft/min (0 - 2.54 m/s) 32°-120°F(0°-49°C)forSIGA2-PS,SIGA-PS</td></tr><tr><td>TemperatureRange Operating Humidity Range</td><td>32°-100°F(O°-38°C)forSIGA-IPHS,SIGA2-PHS,SIGA-PHS 0 -93% RH</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "a9c74731c5fd19d2f3ac0af72ddfaa823258aee54b94bd1d564a2d4514f7f1af.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        102,
+                                        563,
+                                        186.0
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        186.0,
+                                        563,
+                                        270.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        270.0,
+                                        563,
+                                        354.0
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        381,
+                        338,
+                        395
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                381,
+                                337,
+                                396
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        381,
+                                        337,
+                                        396
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        399,
+                        563,
+                        551
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                399,
+                                563,
+                                551
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        399,
+                                        563,
+                                        551
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                399,
+                                                563,
+                                                551
+                                            ],
+                                            "score": 0.999548614025116,
+                                            "html": "<html><body><table><tr><td>Catalog Number</td><td>Description</td><td>Ship Wt. Ibs (kg)</td></tr><tr><td>SIGA-DMP</td><td>DetectorMountingPlate</td><td>3.0 (1.4)</td></tr><tr><td>SIGA2-PS</td><td>IntelligentPhotoelectricDetector</td><td rowspan=\"5\">0.5 (.23)</td></tr><tr><td>SIGA-PS</td><td>IntelligentPhotoelectricDetector</td></tr><tr><td>SIGA2-PHS</td><td>Intelligent3DMultisensorDetector</td></tr><tr><td>SIGA-PHS</td><td>Intelligent3DMultisensorDetector</td></tr><tr><td>SIGA-IPHS</td><td>Intelligent4DMultisensorDetector</td></tr><tr><td></td><td></td><td></td></tr><tr><td>Accessories</td><td></td><td rowspan=\"3\"></td></tr><tr><td>SIGA-SB</td><td>DetectorMountingBase</td></tr><tr><td>SIGA-RB</td><td>DetectorMountingBasew/Relay</td></tr><tr><td>SIGA-IB</td><td>DetectorMountingBasew/FaultIsolator</td><td rowspan=\"2\">0.2 (.09)</td></tr><tr><td>SIGA-LED</td><td>RemoteAlarmLED</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "7bba6ac4ec334c665d5cfb06511855178e1f4a89b6b384329b7e2df7ea174e14.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        399,
+                                        563,
+                                        449.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        449.6666666666667,
+                                        563,
+                                        500.33333333333337
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        500.33333333333337,
+                                        563,
+                                        551.0
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "txt",
+    "_version_name": "0.10.1"
+}

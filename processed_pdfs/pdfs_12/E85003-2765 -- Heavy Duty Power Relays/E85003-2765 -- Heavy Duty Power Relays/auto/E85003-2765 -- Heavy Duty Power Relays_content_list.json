@@ -1,0 +1,66 @@
+[
+    {
+        "type": "text",
+        "text": "Heavy Duty Power Relays MR 199 Series ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Overview ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The MR 199 Heavy Duty Power Relays are designed for control applications where 30 Amp DPDT contacts are required. Two models are available: a 115 Vac coil and a 24 Vdc coil, each of which may be mounted in a rugged steel enclosure. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Standard Features ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "•\t Heavy duty 30 Amp DPDT contacts •\t 24 Vdc or 120 Vac models available •\t Sturdy metal enclosure ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wiring ",
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/f5c8918481e3a093b03d5be65cf30827388ba64447fef318c3b7614fdf856fb9.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/6b377323ebc065cd68246f924fa3e74456d4104a74e142064e9153f6c415ca3a.jpg",
+        "table_caption": [
+            "Specifications "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>ContactArrangement</td><td>DPDTStandard</td></tr><tr><td>ContactRating</td><td>30Amps@300Vac,2HPMotorLoad</td></tr><tr><td>CoilPower</td><td>MR-199X-13:24Vdc@85mA</td></tr><tr><td>TemperatureRange</td><td>-22°Fto122°F(-30°Cto50°C)</td></tr><tr><td></td><td></td></tr><tr><td>Dimensions</td><td></td></tr><tr><td>MR199X13&MR199AX14</td><td>3.13 Hx2.5 WX2.31inches(79.4 Hx63.5Wx58.7D mm)</td></tr><tr><td>MR199X13/C &MR199AX14/C</td><td>5.31Hx3.38Wx3.13Dinches (134.9Hx85.9Wx96.8Dmm)</td></tr></table></body></html>\n\n",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ordering Information ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/d235647b7809fd1d116b4d83c3175ff1772288780075134e234ca8c20d6e922a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>Model</td><td>Description</td></tr><tr><td>MR199X13</td><td>DPDT,24Vdc,relayonly</td></tr><tr><td>MR199X13/C</td><td>DPDT,24Vdc,mountedinenclosure</td></tr><tr><td>MR199AX14</td><td>DPDT,120Vac,relayonly</td></tr><tr><td>MR199AX14/C</td><td>DPDT,120Vac,mountedinenclosure</td></tr></table></body></html>\n\n",
+        "page_idx": 1
+    }
+]

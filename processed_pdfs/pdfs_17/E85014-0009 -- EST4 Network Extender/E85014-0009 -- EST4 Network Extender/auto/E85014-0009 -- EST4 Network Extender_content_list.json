@@ -1,0 +1,154 @@
+[
+    {
+        "type": "text",
+        "text": "EST4 Network Extender Module 4-NET-XT ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Overview ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The 4-NET-XT network extender provides long distance network data among EST4 nodes or to third-party systems. It typically uses existing unshielded telephone single-pair wires or CAT5 or better cables. The expander allows connections of up to nine miles $:14.5\\,\\mathsf{k m})$ .",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Two 4-NET-XT modules are needed to complete a circuit path: one at either end of the cable run. The 4-NET-XT data rate is 192 kbps. It automatically senses the cable type, which helps simplify setup. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The 4-NET-XT has on-board status LEDs that provide quick visual indication of Power, DSL status, Ethernet status, and link trouble indication. Terminals are provided for 24Vdc from the panel, which provides full battery standby capability from the EST4 system. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "0508 ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Standard Features ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Allows the use of Existing Telephone Lines or CAT5 Cable Lower cost installation, reuse of existing copper wire. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Up to Nine Miles Between Panels Much farther than standard interconnect methods. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Supports Panel Data and One Live Audio Page Channel Allows the extension of audio to remote areas with pre-recorded audio supported at each panel. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Supports extension of EST4 Network or external connection Expands the life safety network, interface with third party equipment. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Application ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4-NET-XT extenders work in pairs one is configured as CO (Central Office), and one as CPE (Customer Premises Equipment). The 4-NET-XT must be used with a GFD Ground Fault Detector. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The 4-NET-XT encapsulates EST4 network data or ECP-XML protocol and transmits it using a DSL (Digital Subscriber Line) link. Each 4-NET-XT has a connection for one twisted pair cable supporting Class B installations. Class A configuration is possible by adding another pair of 4-NET-XT modules. The 4-NET-XT is DIN rail mounted. Up to two extenders can mount on a 4-MPLT mounting plate. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The 4-NET-XT extenders are compatible with EST4 systems using digitized audio, and can support voice paging between panels. They do not support transmission of fire fighters’ telephone signals. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mounting ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/559d537eb7d5999147ac73d5945f6d7a42089c4e66ad15dcbe2d65aba128101a.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Typical Wiring ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/51b8846cf4294cec28f45e27a23ffd0024a77b095810850d89767f0411be46a8.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Engineering Specification ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The intra-panel communications links for network shall utilize copper and/or fiber optic connections. The communications interface card shall provide Class B <Class A> connections. It shall be possible to convert from DSL connections to Ethernet wiring or from Ethernet wiring to DSL wiring at any network panel. The DSL communications interface card shall have provisions for testing its connections for maintenance and troubleshooting purposes. Ground fault detection shall be supported on all intra-panel communications. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/3881479a636a32849e8776bc1ab76d338381ca51a57247db21d72756e50eb687.jpg",
+        "table_caption": [
+            "Technical Specifications "
+        ],
+        "table_footnote": [
+            "Note: The 4-NET-XT supports a single audio IP stream of live paging or 1 VRMS input in addition to pre-recorded audio. A network with 4-NET-XT connections supports a maximum of 15 nodes. "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td>Voltage 24VDC</td><td></td></tr><tr><td>CurrentAlarm/Standby</td><td>150mA@24VDC</td></tr><tr><td>DSLWireSize</td><td>SeeDSLwiresizeanddistancetable</td></tr><tr><td>DSLDatarate</td><td>192kbit/s</td></tr><tr><td>EthernetCable</td><td>CAT5orbetter,unshielded(UTP)</td></tr><tr><td>EthernetTransmission</td><td>Up to328 ft.(100m)</td></tr><tr><td>MountingEnclosure</td><td>Mountson4-MTPLin3-CAB7，3-CAB14， 3-CAB21,3-RCC7,3-RCC14,and3-RCC21</td></tr><tr><td>Operatingenvironment</td><td>TemperatureRelativeHumidity32to120°F (0to49°C)0to93%noncondensing</td></tr><tr><td>AgencyApprovals</td><td>UL,ULC,FM,CSFM</td></tr></table></body></html>\n\n",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DSL Wire Size and Distance ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/093c7beccbc602407aeca235d2126d871dafc4328826c2d2da4f2e7deeb01476.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "[1] 20 AWG or larger "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td>AWG</td><td>(mm2)</td><td>Distance</td></tr><tr><td>24</td><td>(0.205)</td><td>7 miles (11 km)</td></tr><tr><td>22</td><td>(0.326)</td><td>9 miles (14 km)</td></tr><tr><td>20 [1]</td><td>(0.519)</td><td>13 miles (20 km)</td></tr></table></body></html>\n\n",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/7ec2f82a35dd3865340ace5251e68098f06f54716c7007e2d806e2dfa49a112e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>Model # (SKU)</td><td>Description</td><td>Shipping Weight</td></tr><tr><td>4-NET-XT</td><td>NetworkExtenderModule-Mountsto DINrailon4-MPLTorderedseparately</td><td>0.8lb (0.34kg)</td></tr><tr><td colspan=\"3\">Accessoriesandrelatedequipment</td></tr><tr><td>4-MPLT</td><td>Mounting Plate,mounts in Chassis or BatterySpace</td><td>4.3lb (1.95kg)</td></tr><tr><td>GFD</td><td>GroundFaultDetector</td><td>0.35lb (0.16kg)</td></tr><tr><td>4-NET-CAT</td><td>SFPNetworkController,CAT5UTP Copper,100Base-TX</td><td>0.2lb (0.09kg)</td></tr><tr><td>4-FWAL- CAT</td><td>SFPNetworkFirewallAdapter,CAT5 UTPCopper,100Base-TX</td><td>0.2lb (0.09kg)</td></tr></table></body></html>\n\n",
+        "page_idx": 2
+    }
+]

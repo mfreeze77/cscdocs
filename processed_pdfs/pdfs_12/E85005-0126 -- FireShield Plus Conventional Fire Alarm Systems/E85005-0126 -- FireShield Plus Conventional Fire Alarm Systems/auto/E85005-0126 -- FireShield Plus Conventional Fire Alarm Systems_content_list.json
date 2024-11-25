@@ -1,0 +1,563 @@
+[
+    {
+        "type": "text",
+        "text": "FireShield Plus Conventional Fire Alarm Control Panels ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Overview ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The FireShield Plus fire alarm family consists of 5 and 10 zone conventional fire alarm control panels, an integrated DACT/Dialer, serial annunciator modules, and serial remote relay modules. All of these components are microprocessor-controlled. The FireShield Plus family is ideal for both new and retrofit installations alike. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "FireShield Plus incorporates features designed to simplify installation, operation and maintenance. These include front panel programming, one person walk testing, and selectable IDC and NAC types. In addition, when used with EDWARDS CleanMe® -compatible smoke detectors, FireShield Plus provides analog type features such as remote maintenance alert and automatic drift compensation that reduce false alarms and simplify maintenance calls. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "FSP502 and FSP1004 panels support Class A operation by combining pairs of on-board initiating curcuits (IDCs) or notification circuits (NACs) to provide the necessary Class A circuits. For example, the FSP1004 comes factory set to support 10 Class B IDCs and four NACs. But it can be field-configured to provide five Class A IDCs, no Class B IDCs, and two Class A NACs – or any other combination of circuits that fall within the circuit-pairing parameters. ",
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/e2c27a0b8e3bca16b9be979ad0c4b9f673dda3d864e6efa46c44e63316658c32.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Note:\tClass A operation will reduce the number of available Class B IDCs and/or NACs, depending on the panel configuration. See Specifications on page 5 for details. "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td>FSP1004</td><td>FSP502</td></tr><tr><td>ClassBIDCs Up to 10</td><td>Up to 5</td></tr><tr><td>ClassAIDCs Up to 5</td><td>Up to 2</td></tr><tr><td>ClassBNACs Up to 4</td><td>Up to 2</td></tr><tr><td>ClassANACs Up to 2</td><td>1</td></tr><tr><td>NACPower 3.5amps</td><td>3.5amps</td></tr><tr><td>Auxiliarypower 0.5amps</td><td>0.5amps</td></tr></table></body></html>\n\n",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Standard Features ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "•\t Available in 5 and 10 IDC models   \n•\t IDC or NAC pairs convertible to single Class A circuits (10 and 5 IDC panels only) CleanMe® provides remote annunciation if a detector drifts out of UL/ULC limits reducing the chance of a false alarm   \n•\t Combination Waterflow and Supervisory IDCs reduces wire and zone counts NACs programmable by zone and individually selectable for Genesis, continuous, temporal outputs, or coded   \n•\t Front panel programmable simplifies installation and servicing   \n•\t Optional fully integrated DACT/Dialer for PC programming   \n•\t Genesis option allows precision synchronization and audible silence over two wires without additional modules   \n•\t On-board relays for Alarm, Supervisory and Trouble Optional serial bus relay modules are programmable for common or zone activation Optional serial bus remote annunciator family   \n•\t One person walk-test (audible or silent)   \n•\t Expandable power supply on 10 IDC panel reduces booster power costs   \n•\t Trim ring available for semi-flush mounting   \n•\t Supports 2M, “EC”, 6200, 400, 500 and 700 series detectors ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Application ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FireShield Plus provides smoke and fire detection, occupant notification and off-premises signaling for small- to medium-sized buildings. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Each IDC can be configured for either Class B or Class A operation and one of eight operating modes: ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "•\t Alarm –with or without smoke detector verification including discrimination of contact devices   \n•\t Waterflow Alarm;   \n•\t Waterflow Alarm/Supervisory (Combination IDC);   \n•\t Supervisory (Latching/non-latching);   \n•\t Monitor (non alarm or supervisory)   \n•\t Signal Silence   \n•\t Drill   \n•\t Cross zoning ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "NACs may also be configured for either Class B or Class A operation. Additionally, NACs can be individually configured for one of six outputs. These are Genesis, Genesis (A/V silenceable), Continuous, Temporal, Coded, and City Tie.  The Genesis selection allows independent horn control over two wires and provides precision synchronization for Genesis devices, all without the need for a Genesis Signal Master accessory. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "When configured for Genesis notification appliances, FireShield Plus’s Alarm Silence function will silence connected Genesis audible appliances but Genesis strobes will remain active until the panel is reset. When Genesis Mode is selected, both the horns and strobes on Genesis and Enhanced Integrity notification appliances will be synchronized across all NACs. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Note:\t zones may be selected for either latching or non-latching operation. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Detectors with intelligent features at a conventional price ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6ab077055c6dd35965e51ebf1ea2e1083745b74f360f504b1dffc4271dbff059.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "When combined with EDWARDS CleanMe® -compatible smoke detectors, FireShield Plus provides intelligent features at a conventional price.  If a CleanMe® detector drifts out of the UL/ULC sensitivity range, EDWARDS's patented remote maintenance reporting sends an alert to the FireShield Plus control panel. This feature reduces the chance of a false alarm and simplifies service calls. In addition, CleanMe® -compatible smoke detectors have built-in drift compensation that extends the time between cleanings. If cleaning is ever necessary, it is literally a snap with EDWARDS's exclusive replaceable optical chamber. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Panel LED Display ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The following system LEDs display the panel’s status: ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "•\t Alarm – panel is in the alarm state;   \n•\t Trouble – panel is in the trouble state;   \n•\t Supervisory – panel is in the supervisory state;   \n•\t Power – indicates the status of the AC power source;   \n•\t Disable – indicates when any IDC, NAC, relay or the DACT is disabled;   \n•\t Annunciator Trouble – indicates trouble on the remote annunciator bus;   \n•\t Battery Trouble – indicates battery or charging problems;   \n•\t Ground Fault – indicates a short between any panel circuit and ground;   \n•\t Walk Test – indicates that one or more IDCs are in the walk test mode;   \n•\t Alarms Silenced – indicates that the panel is in the alarm state with one or more NACs silenced.   \n•\t Waterflow – indicates that one or more circuits have detected an active waterflow switch.   \n•\t Service Detector – indicates the presence of a dirty detector.   \n•\t Remote Disconnect – indicates off site communication has been disabled. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Each IDC has a disable switch and three LEDs: ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "•\t Alarm – red – indicates that the IDC is in the alarm state; •\t Trouble – yellow – indicates that the IDC is in the trouble state or is disabled (when flashing); •\t Supervisory/Monitor – yellow – indicates that the IDC is in the supervisory state or the monitor state (when flashing). ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Each NAC also has a disable switch and a trouble/disable LED. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Status indication with the DACT/Dialer installed ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The dialer’s LCD display provides two lines $\\times16$ characters of text.  For programming, the top line displays the programming step and the lower line displays the selected option. All system events are displayed on the LCD with custom zone messages. During normal operation, the LCD will display any off-normal condition present in the panel. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "IP and Cellular Communications ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Several popular third-party IP/Cellular communicators have been tested with the FSP conventional control panels and are compatibility listed to UL864. The IP/Cellular communicators meet NFPA72 2013 edition requirements for sole or secondary transmission paths. Using IP/Cellular communicators can reduce the cost of ownership by eliminating POTS lines. Please see the FSP conventional control panel compatibility documentation part number 3101019-EN for a full list of compatible communicators. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/fb085a0e2d5cfda670c4ded3d2ce96ee67ca46794f4737ac17b37cc0e2c21758.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Options ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Off-premise communication ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A fully integrated FireShield Plus DACT/dialer is available for reporting events to a monitoring facility. The DACT also supports uploading or downloading of system configuration, status and event history.  The DACT is programmable for either single or dual line operation. It also supports split and dual reporting for two digital alarm receivers. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The DACT brings additional features to the panel including a 32-character alphanumeric LCD display, local or remote PC programming and an event history log. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Remote Annunciators and Relays ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The serial bus standard on all FireShield Plus models is another installation time-saver. This circuit allows the connection of Remote System Indicators (FSRSI), Remote Zone Indicators (FSRZI-A, FSRZI-SA) and Remote Relay Modules (FSRRM24) over a four-wire (data and power) circuit. Annunciator and relay modules can be installed up to 1,000 feet from the panel on 18-gauge wire. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Modules are also available for City Tie (CTM) and Reverse Polarity (RPM) connections. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DACT/Dialer ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Remote Relay Module ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1440edfd2c367518492d0c57ee010c42592eecb549e611de49743a8fc6c0f279.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The DACT/Dialer installs behind the front panel display. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/49aff82734b658ae17e93089f710a1136c7d078db4fc75c597d4cad71e548881.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The optional DACT/Dialer is a multifunction module that provides communications, modem capability, and LCD display functions. Its primary function is as a Digital Alarm Communicator Transmitter (DACT). As a DACT, it transmits event messages to a Digital Alarm Communicator Receiver (DACR) at a monitoring facility. The monitoring facility then notifies the fire department and other responsible parties of the event. Programmable options include single or dual line operation, and split or dual reporting to two DACRs. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Note: All panel versions are available with factory installed DACT. See order table for ordering information. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The DACT module can also be used as a modem to connect the panel to both local and remote computers for uploading and downloading of configuration data (programming), panel status and event history. For security, the modem can be configured to accept programming on incoming calls or it can be required to call a preprogrammed number before accepting downloads and sending uploads. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The DACT module can be configured to work as all of the above, or as only an LCD display or LCD display and modem. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c80954fd1bfd7dd6d12ed6396bba1818239d8b55decc5deb5d4d8dd3a695d6da.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Remote Relay Module mounts on a plastic track inside an MFC-A cabinet. ",
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/854df44490fcff6e7fb5c4c91ce3da12e8e014ac77c35e2278f9531446f6e38a.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1001defdd19d63ef6251c466bdb38eb1a75b5abe684a8cf393a0e5ea6fd6ec6b.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Remote Relay Module (FSRRM24) is one component of the system that sets FireShield Plus apart from other panels in its class. This module has five Form C relays rated at 1 amp each. It can be configured to function in either a zone relay mode or a common system mode. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "When configured in the zone relay mode, relays energize when the associated IDC is active. The module can be configured for activation by IDCs 1 through 5 or IDCs 6 through 10. One relay is automatically associated with each IDC. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "When configured in the common mode, relays energize or deenergize when the panel changes state. One relay is available for each of the following functions: Alarm, Supervisory, Trouble, Power Loss, Monitor. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The FSRRM24 mounts on a plastic snap track and can be installed in an MFC-A or other listed fire alarm enclosure. The panel will support two RRMs of each configuration for a total of six on the 10-zone panel. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Remote Annunciators ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f94f784ac279fdc1db5bf6d62cbb14040f767d243cedc9e00dfe9f5b9b807c20.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The FireShield Plus family has several remote annunciation options. The serial remote annunciator bus can be run up to 1000 feet $(305\\;\\mathsf{m})$ on untwisted non-shielded 18-gauge cable. Serial annunciator models round out the family to provide a range of features and functions. As many as three annunciator modules may be mounted in a standard electrical box, sharing an attractive trim plate that blends with any decor. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The FSRSI can be installed alone or with one or more FSRZIs.  The FSRSI and FSRZI-A require trim plates (ordered separately). These are available in one, two or three gang models. Each panel will support two FSRSIs. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/88e646c79c1458fcac5394fc6c7fb5a7c1a8763f12b2c001499ca39e4c9ec9df.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Remote System Indicator ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fa215c4f2a98f65fb09cc5ace4722de0158b7aefeed6426c90aacf9e140886e0.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Remote Zone Indicator (FSRZI-A) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The FSRZI-A is used to indicate zones in the alarm state. It contains five red LEDs. Depending on the jumper setting selected, the LEDs will indicate either IDCs 1 through 5 or IDCs 6 through 10. The panel can support two modules programmed for each selection. ",
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Remote Zone Indicator (FSRZI-SA) ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/89f0308333fb9197daf608bbb1cd06e8ddced061924d4fd4c5018253b85b1e26.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c3c3d69e373a09bc7fef271d2a6a8644694ace20b32b4f92c5549ebe6b656908.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FSRA10, FSRA10C Remote LED annunciators ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The FSRA10 is a remote annunciator with capacity for up to ten zones. It includes ten bi-color LEDs  (red/yellow) for indicating active zones, and ten yellow LEDs for indicating zone troubles. The (C) option adds common control switches. Both versions mount to standard North American 4-inch square electrical boxes.  A surface box is also available. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1e5e2132190993c8813143b3bf28947e6bc1a5d0bdf7fd064789983cbae4861a.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/13847c5abc7d5ada9601b5684f7c8b20759b9305a6e4d5b436b7d51d2898b164.jpg",
+        "img_caption": [
+            "FSRA10, FSRA10C Wiring "
+        ],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FSUIM Graphic Driver/Interface ",
+        "text_level": 1,
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The FSUIM is a universal interface module that can be used by FireShield to drive graphic annunciators. It also allows FireShield control panels to control, or be controlled by, other control panels. The FSUIM provides five supervised switch inputs and nine dry contact relay outputs. Nine LEDs provide visual confirmation when each relay is energized. The FSUIM is shipped with a plastic snap track for mounting in an MFC-A cabinet or other listed fire alarm enclosure. ",
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/e7569512d5c7274b8ee6b63d2c96f02b2abf6f1c4b076f7ba17ae7bb3f876f07.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/7ed915e150fd5ba184fbd83c7b09abba107b8ff91df231d4747f80d4a796cff1.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>General</td><td colspan=\"3\"></td></tr><tr><td>Agency Listings</td><td colspan=\"3\">UL864 (S3000),ULC-S527,CSFM,FDNY</td></tr><tr><td colspan=\"4\"></td></tr><tr><td>Remote Annunciators</td><td colspan=\"2\">FSRSI Remote System Indicator</td><td>FSRZI-A/FSRZI-SA Remote Zone Indicator</td></tr><tr><td>Maximum per System</td><td colspan=\"2\">All panels: 2</td><td>10 zone panel: 4 5 zone panel: 2</td></tr><tr><td>Current Requirements</td><td>Standby: 17 mA Alarm: 56 mA</td><td>Standby: 8 mA</td><td>Alarm 76 mA</td></tr><tr><td>Voltage Range</td><td colspan=\"2\">Minimum:18.8 Vdc;Maximum:27.3 Vdc</td></tr><tr><td>Maximum Circuit Capacitance</td><td colspan=\"2\">0.03 μF</td></tr><tr><td>Maximum Circuit Resistance WireSize</td><td colspan=\"2\">13 Ohms 18 -12 AWG (0.75 mm2 - 2.5 mm2)</td></tr><tr><td colspan=\"3\">Mounting ANSI/NEMAOS1-19961-3gangelectricalbox</td></tr><tr><td colspan=\"3\">Operating Environment Temperature: 32 - 120° F (0 - 49° C); Humidity: 93% RH, non-condensing</td></tr><tr><td colspan=\"3\"></td></tr><tr><td></td><td>Configured for Zone Mode</td><td>Configured for Common Mode</td></tr><tr><td>RemoteRelayModule-FSRRM24</td><td>10 zone panel:4;5 zone panel:2</td><td>All panels: 2</td></tr><tr><td>Maximum per system</td><td>Standby: 10 mA; Alarm:70 mA</td><td>Standby:26 mA;Alarm:70 mA</td></tr><tr><td>Current Requirements</td><td colspan=\"2\">Minimum: 18.8 Vdc; Maximum: 27.3 Vdc</td></tr><tr><td>Voltage Range</td><td colspan=\"2\">1 A @ 30 Vdc</td></tr><tr><td>Contact Rating</td><td colspan=\"2\"></td></tr><tr><td>Maximum Circuit Capacitance</td><td colspan=\"2\">0.03 μF</td></tr><tr><td>Maximum Circuit Resistance Wire Size</td><td colspan=\"2\">13 Ohms 18-12AWG (0.75mm2-2.5 mm2)</td></tr><tr><td>Mounting</td><td colspan=\"2\">Single FSRRM24 mounts in plastic track (included) or up to four FSRRM24s in an FSRRM-S11 11\" track ordered separately. FSRRM24s should be installed in an MFC-A or other listed fire alarm</td></tr><tr><td></td><td colspan=\"2\">enclosure.</td></tr><tr><td>Operating Environment Dimensions</td><td colspan=\"2\">Temperature: 32 - 120° F (0 - 49° C); Humidity: 93% RH, non-condensing 2-3/4\"Wx3-3/8\"H×1-1/2\"D(65.9 mm W×85.7 mm H×38.1mm D)</td></tr><tr><td colspan=\"3\"></td></tr><tr><td colspan=\"4\">F-Series Remote Annunciators FSRA10 FSRA10C Compatibility 10-Zone Panels only</td></tr><tr><td colspan=\"4\"></td></tr><tr><td></td><td colspan=\"2\">No Yes</td></tr><tr><td>Common Controls Dimensions</td><td colspan=\"2\">5-5/8\"x 8%2\"×1 %2\" in(14.3 cm× 21.4 cm x 3.8 cm)</td></tr><tr><td>Mounting</td><td colspan=\"2\">NorthAmerican 4-inch square electrical box or listed enclosure</td></tr><tr><td>Power Wiring</td><td colspan=\"2\">18 to 12 AWG (0.75 to 2.50 sq mm)</td></tr><tr><td>Data Wiring</td><td colspan=\"2\">18 to 12 AWG (0.75 to 2.50 sq mm) twisted pair (6 twists per foot minimum)</td></tr><tr><td></td><td colspan=\"2\">18.8 to 27.3 Vdc</td></tr><tr><td rowspan=\"2\">Operating voltage</td><td colspan=\"2\">Supply must be UL/ULC listed for fire protective signaling systems. Do not use FACP accessory power outputs that are interrupted when the panel is reset.</td></tr><tr><td colspan=\"2\">17 mA</td></tr><tr><td>Standby current Alarm current</td><td colspan=\"2\">98 mA</td></tr><tr><td>Operating environment</td><td colspan=\"2\"></td></tr><tr><td>FSUIM Universal Input Module</td><td colspan=\"2\"></td></tr><tr><td colspan=\"3\">Mounting MFC-Acabinetorlistedfirealarmenclosure</td></tr><tr><td>Wire size</td><td colspan=\"2\">12 to 18 AWG (0.75 to 2.5 sq mm)</td></tr><tr><td>Operating voltage</td><td colspan=\"2\">21.2 to 27.3 Vdc</td></tr><tr><td>Circuit capacitance</td><td colspan=\"2\">0.03 μF, max.</td></tr><tr><td></td><td colspan=\"2\">13 ohms, max.</td></tr><tr><td>Circuit resistance</td><td colspan=\"2\"></td></tr><tr><td>Switch inputs</td><td colspan=\"2\">Quantity: 5 End-of-line resistor: 4.7 k ohms V2 W</td></tr><tr><td>Relay outputs</td><td colspan=\"2\">Quantity: 9 Type: Common Style: Form C</td></tr><tr><td></td><td colspan=\"2\">30 Vdc at 1 A (resistive load)</td></tr><tr><td>Contact rating</td><td colspan=\"2\"></td></tr><tr><td>Standby Curent</td><td colspan=\"2\">53 mA</td></tr><tr><td>Alarm Current</td><td colspan=\"2\">114 mA</td></tr><tr><td>Operating environment </td><td colspan=\"2\">Temperature: 0 to 49 °C (32 to 120 °F); Humidity: 0 to 93% RH, noncondensing at 32 °C (90 °F)</td></tr></table></body></html>\n\n",
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/2d7798516e89d2928e5f1046cfa54d98194f9c10ba76faaee82fb77a84118d14.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "\\* If larger batteries are required, use an external battery cabinet. "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td colspan=\"2\">Control Panels</td><td colspan=\"5\">FSP1004</td><td colspan=\"3\">FSP502</td></tr><tr><td colspan=\"2\">Initiating Device Circuits - IDCs</td><td>Class B 10</td><td>8</td><td>6</td><td>4</td><td>2</td><td>0</td><td>5</td><td>3 1</td></tr><tr><td colspan=\"2\">(Available combinations shown at right)</td><td>Class A</td><td>0 1</td><td></td><td>2 3</td><td>4</td><td>5</td><td>0</td><td>1 2</td></tr><tr><td colspan=\"2\">Notification Appliance Circuits - NACs</td><td>Class B</td><td>4 2</td><td>2</td><td></td><td>0</td><td></td><td>2 0</td><td></td></tr><tr><td colspan=\"2\">(Available combinations shown at right)</td><td>Class A 0</td><td>1</td><td>1</td><td></td><td>2</td><td>0</td><td>1</td><td></td></tr><tr><td colspan=\"2\">Power Supply</td><td colspan=\"7\">4.25 amps expandable to 7.5 amps 4.25 amps total</td></tr><tr><td colspan=\"2\">NAC Voltage Rating</td><td colspan=\"5\">24 Vfwr</td><td colspan=\"2\"></td></tr><tr><td colspan=\"2\">Maximum NAC current</td><td colspan=\"5\">2.0 amps each， 3.5 amps total 7.0 amps w/ optional transformer</td><td colspan=\"3\">2.0 amps each 3.5 amps total</td></tr><tr><td colspan=\"2\">AC Input 120 Vac 60 Hz... 230 Vac 50/60Hz...</td><td colspan=\"5\">2.2 amps w/ optional transformer 1.1 amps w/ optional transformer</td><td></td><td colspan=\"2\">1.25 amps 0.6 amps</td></tr><tr><td colspan=\"2\">BasePanel CurrentDraw Standby... Alarm...</td><td colspan=\"5\">128 mA</td><td></td><td colspan=\"2\">104 mA</td></tr><tr><td colspan=\"2\">Panel Battery Charge Capacity</td><td colspan=\"5\">242 mA</td><td></td><td colspan=\"2\">224 mA Up to 24 Ah, 10 Ah max in</td></tr><tr><td colspan=\"2\">(sealed lead acid only) Auxiliary Current</td><td colspan=\"5\">Up to two 24 Ah batteries, 18 Ah in cabinet</td><td>0.5 amps max. May be programmed as resettable.</td><td colspan=\"2\">cabinet *</td></tr><tr><td colspan=\"2\">Auxiliary Output</td><td colspan=\"5\"></td><td>24 Vdc regulated</td><td colspan=\"2\"></td></tr><tr><td colspan=\"2\">IDC Alarm Current</td><td colspan=\"5\">3.0 mA (Consult detector compatibility list p/n 3101019-EN for maximum detectors per circuit)</td><td></td><td colspan=\"2\"></td></tr><tr><td colspan=\"2\">IDC Circuit</td><td colspan=\"5\"></td><td>Maximum loop resistance: 13 Ohms; Maximum loop capacitance: 0.03 μF</td><td colspan=\"2\"></td></tr><tr><td colspan=\"2\">IDC Operating Voltage</td><td colspan=\"5\"></td><td>16.9 to 29 Vdc</td><td colspan=\"2\"></td></tr><tr><td colspan=\"2\">UL Detector ID</td><td colspan=\"5\"></td><td>100</td><td colspan=\"2\"></td></tr><tr><td colspan=\"2\">Alarm Contact (normally open Form C)</td><td colspan=\"5\"></td><td colspan=\"4\">30 Vdc @ 1 A (resistive load)</td></tr><tr><td colspan=\"2\">Trouble Contact (Form C) Supervisory Contact (normally openForm C)</td><td colspan=\"5\"></td><td colspan=\"4\">30 Vdc @ 1 A (resistive load)</td></tr><tr><td colspan=\"2\">Operating Environment</td><td colspan=\"5\">30 Vdc @ 1 A (resistive load)</td><td colspan=\"4\">Temperature: 32 - 120° F (0 - 49° C); Humidity: 5 - 93% RH,non-condensing</td></tr><tr><td colspan=\"2\">Terminals (wire gauge)</td><td colspan=\"5\"></td><td colspan=\"4\"></td></tr><tr><td colspan=\"2\">Asynchronous Serial Communications</td><td colspan=\"5\"></td><td colspan=\"4\">18 -12 AWG (0.75 mm2 - 2.5 mm2)</td></tr><tr><td colspan=\"2\">Agency Listings</td><td colspan=\"5\"></td><td colspan=\"4\">Maximumresistance:13 Ohms;Maximum capacitance:0.03μF</td></tr><tr><td colspan=\"2\"></td><td colspan=\"5\"></td><td colspan=\"4\">UL864 (S3000),ULC-S527,CSFM</td></tr></table></body></html>\n\n",
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/3900c53a58819f50ab52a2001eddb3590f6763fd886a2f7191bc8deb44c596d2.jpg",
+        "table_caption": [
+            "DACT – F-DACT (mounts in panel) "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td></td></tr><tr><td>Receivers</td><td>Supportstworeceiverswithtwophonenumberseach</td></tr><tr><td>CommunicationsProtocol</td><td>ContactID(SIADC-05),4/2(SIADC-02P3)</td></tr><tr><td>Programming</td><td>FrontpanelcontrolsorPCwithappropriatesoftware</td></tr><tr><td>Telephonelineconnection</td><td>TwoRJ31X(plug-to-plug)cordssuppliedwithDACT</td></tr><tr><td>Telephonelines</td><td>Twooroneloopstartlinesonthepublicswitchedtelephonenetwork.PulseorDTMF.</td></tr><tr><td>Telephonewallconnector</td><td>RJ31X/CA31Xequiv.orRJ38X/CA38Xequiv.</td></tr><tr><td>CommunicationsCompliance</td><td></td></tr><tr><td>OperatingEnvironment</td><td>Temperature:32-120°F(0-49°C);Humidity:93%RH,non-condensing</td></tr><tr><td>Currentrequirements</td><td>Standby:65mA;Alarm:107mA</td></tr><tr><td>AgencyListings</td><td>UL864 (S3000),ULC-S527,CSFM</td></tr></table></body></html>\n\n",
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Dimensions ",
+        "text_level": 1,
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/731a3dbf2cf181a94e1f4d8d80d1e4bfa54d578005e9cab8902fd3d1555b9405.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "\\*Add 1½ inches (3.81 cm) to D1 and D5 dimensions for trim kit. "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td>Model</td><td>D1*</td><td>D2</td><td>D3</td><td>D4</td><td>D5*</td></tr><tr><td>Five-zone</td><td>19.5 in (49.5 cm)</td><td>3.75 in (9.5 cm)</td><td>9.13 in (23.2 cm)</td><td>10.5 in (26.67 cm)</td><td>14.23in (36.14 cm)</td></tr><tr><td>Ten-zone</td><td>30 in (76.2 cm)</td><td>3.75 in (9.5 cm)</td><td>7.75 in (19.7 cm)</td><td>21.27 in (54.0 cm)</td><td>15.0 in (38.1 cm)</td></tr></table></body></html>\n\n",
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/0e952d0e903521ede8ead9a3b029e65f8de47af94cafeb6584b1f525980c5f08.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/55400cdffa5c84b9af3cc841d0fbc20774b2557cce80763cca2eed98576247af.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "\\* Insert “G” for Gray cabinet or “R” for Red cabinet. Insert “F” for French language (grey cabinets, not available on 220v versions). Insert “GD” or “RD” for red and gray cabinets with dialer installed. "
+        ],
+        "table_body": "\n\n<html><body><table><tr><td colspan=\"3\">ControlPanels</td></tr><tr><td>FSP1004*</td><td>(PairsofIDCsandNACsconvertibletosingleClassAcircuits),120Vac</td><td>30.5 (13.8)</td></tr><tr><td>FSP1004-2</td><td>ConventionalFireAlarmControlPanel-1OClassBIDCsand4ClassBNACs</td><td>30.5 (13.8)</td></tr><tr><td>FSP502*</td><td>ConventionalFireAlarmControlPanel-5ClassBIDCsand2ClassBNACs (PairsofIDCsandNACsconvertibletosingleClassAcircuits),120Vac</td><td>18.5 (8.4)</td></tr><tr><td>FSP502-2</td><td>ConventionalFireAlarmControlPanel-5ClassBIDCsand2ClassBNACs (PairsofIDCsandNACsconvertibletosingleClassAcircuits),23OVac.Greycabinet</td><td>18.5 (8.4)</td></tr><tr><td>F-TRIM35*</td><td>Semi-flushtrimringforFSP302andFSP502</td><td>1.7 (0.8)</td></tr><tr><td>F-TRIM10*</td><td>Semi-flushtrimringforFSP1o04</td><td>2.2 (1.0)</td></tr></table></body></html>\n\n",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/da502da4e9ce94152523d9e2c459c7a6bda4fa15a4e56fcb7f1781181ad8ddac.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td colspan=\"3\">Relatedltems</td></tr><tr><td>F-XTR120</td><td>ExpanderTransformer, ；120Vac-ForFSP1004*only</td><td>4.0 (1.8)</td></tr><tr><td>F-XTR23O</td><td>ExpanderTransformer,230Vac-ForFSP1004*-2 only</td><td>4.0 (1.8)</td></tr><tr><td rowspan=\"2\">EOL3.6-1.1</td><td>RequiredULlistedEndofLineResistors-One3.6KOhmandone1.1KOhm.</td><td>0.1 (0.5)</td></tr><tr><td>Onerequired for eachIDCconfigured as combination waterflow and supervisory.</td><td></td></tr><tr><td>EOL-P1</td><td>RequiredULClistedEndofLineResistorPlate-includesone1.1K,3.6Kand4.7KOhmresistor</td><td>1.0 (0.5)</td></tr></table></body></html>\n\n",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/172519a54c553c297a2b7e27b04ef2c84f1afd4797dc7d4a321dfbe6db818620.jpg",
+        "table_caption": [
+            "Off Premises Communications "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>F-DACT Digital Communicator/Modem/LCD module (Mounts in control panel)</td><td>1.0 (0.5)</td></tr><tr><td>F-DACT1</td><td></td></tr><tr><td>RPM ReversePolarityModule</td><td>3.0 (1.36)</td></tr><tr><td>CTM</td><td>CityTieModule(Requires4”squareor2-gangNorthAmericanelectricalbox) 1.0 (0.5)</td></tr></table></body></html>\n\n",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/38e0bc50503f111eacdc3084386f1f063a1bcd70c3352355e475bbd7435e71a2.jpg",
+        "table_caption": [
+            "Remote Annunciation "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td></td></tr><tr><td>FSRSI trouble sounder and silence/lamp test switch. Single gang trim plate included, multi-gang plates ordered Remote Zone Indicator - Includes red LEDs for five IDCs. Single gang trim plate included, multi-gang plates</td><td>0.3 (0.1) 0.3 (0.1)</td></tr><tr><td>FSRZI-A</td><td>ordered separately. Mounts in single or multi-gang North American electrical box. Remote Zone Indicator - Includes LEDs for five IDCs. Single gang trim plate included, multi-gang plates ordered</td></tr><tr><td>FSRZI-SA separately. Mounts in single or multi-gang North American electrical box. Jumper selected Alarm (red) or Supervisory (amber) indications.</td><td>0.3 (0.1)</td></tr><tr><td>FSAT1 AnnunciatorTrimPlate,1gang</td><td>0.1 (0.05)</td></tr><tr><td>FSAT2 AnnunciatorTrimPlate,2gang</td><td>0.1 (0.05)</td></tr><tr><td>FSAT3 AnnunciatorTrimPlate,3gang</td><td>0.1 (0.05) 0.1 (0.05)</td></tr><tr><td>FSAT4 AnnunciatorTrimPlate,4gang</td><td></td></tr><tr><td>FSRA10</td><td></td></tr><tr><td>FSRA10C Single Unit 10 zone remote annunciator for FSP1004 (with common controls)- Insert \"F\" after p/n for French language option FSUIM</td><td></td></tr></table></body></html>\n\n",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/3ae12b54a2a0c92853db0de13d9e94b2b8a5d1d4433893cd0d1d4eefd223c62d.jpg",
+        "table_caption": [
+            "Remote Relay Module "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td rowspan=\"2\">FSRRM24</td><td>0.4(0.2) RequiresMFC-Aorotherlistedfirealarmenclosure.</td></tr><tr><td></td></tr><tr><td>FSRRM-S11 11\"Mounting track.Holdsup to 4FSRRM24s.</td><td>0.4(0.2)</td></tr></table></body></html>\n\n",
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/a8ec9b98b15fa48bee336e22a8ba165541689e978e73f2da69f2e208f89ff91c.jpg",
+        "table_caption": [
+            "Accessories "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>Part Description Number</td><td>Ship Wt. Ib. (kg-)</td></tr><tr><td></td><td></td></tr><tr><td>Cabinets</td><td></td></tr><tr><td>MFC-A</td><td>Multi-functionCabinet (fire alarm accessory enclosure) 7.0 (3.2)</td></tr></table></body></html>\n\n",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/7460fe5cfc24c2ba882324b73082761f39f306478257e15981346538bfa77378.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td colspan=\"2\">Batteries</td></tr><tr><td>12V4A 4.5AhSealedLeadAcidBattery-12Vdc(2required)</td><td>5 (2.27)</td></tr><tr><td>12V6A5</td><td>7.2 AhSealedLeadAcidBattery-12Vdc (2required) 6 (2.72)</td></tr><tr><td>12V10A</td><td>11 Ah Sealed Lead Acid Battery - 12 Vdc (2 required) 10 (4.45)</td></tr><tr><td>12V17A</td><td>18AhSealed LeadAcidBattery-12Vdc(2required) 13 (5.90)</td></tr><tr><td>12V24A</td><td>26AhSealedLeadAcidBattery-12Vdc(2required) 20 (9.07)</td></tr></table></body></html>\n\n",
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/7098f6178f33d04fa2643f21fe4e6c8c53116fc5101684e0c36a22ec9d774a42.jpg",
+        "table_caption": [
+            "Programming Tools "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>FA-CU</td><td>Fire alarm configuration utility.This CU is availablefor download from the myEDDlEwebsiteonly.Visithttps://myeddie.edwardsutcfs.com.</td></tr></table></body></html>\n\n",
+        "page_idx": 7
+    }
+]

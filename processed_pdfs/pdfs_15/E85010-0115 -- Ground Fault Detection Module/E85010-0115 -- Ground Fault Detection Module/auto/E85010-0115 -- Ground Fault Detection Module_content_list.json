@@ -1,0 +1,141 @@
+[
+    {
+        "type": "text",
+        "text": "Ground Fault Detection Module GFD ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Overview ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The GFD module is designed to detect ground fault conditions on either of two independent power or data circuits. Each circuit must be balanced with respect to ground. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The module will detect when the resistance between any of the monitored conductors and earth ground gets below $10\\;\\mathsf{K}$ Ohms. Two LEDs are provided to indicate the conductor with the ground condition. A normally energized Trouble/Ground Fault relay is provided with NO/NC relay contacts for interfacing with monitoring systems. Either of two operating modes is selected by jumper selection. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mode 1 places a ground fault on the common terminal of the relay. When used with a Signature input module, this configuration provides independent indications of ground fault and GFD module trouble conditions at the control panel. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mode 2 de-activates the normally energized relay contact upon ground fault or module trouble. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The ground fault relay activates when any monitored conductor experiences a ground fault condition. The trouble relay operates when module power is not available or the supervisory watchdog timer activates. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The module is designed to mount in a 2-gang electrical box. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Standard Features ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "•\t Monitors two independent circuits   \n•\t Suitable for all power limited circuits Provides separate ground fault and trouble indication when used with Signature input modules   \nProvides form C relay contact   \n•\t Supervised In and out terminals for convenient wiring Mounts in 2-gang electrical box ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Application ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The GFD module is designed to operate with short haul modems and other power limited circuits requiring the detection of ground fault conditions on its conductors. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "When used with Signature series input modules, separate indications of ground fault and module trouble can be annunciated at the control panel (mode1). The module’s relay contacts are also suitable for monitoring by systems not capable of independently reporting grounded conditions by using mode 2. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Engineering Specification ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The ground fault detection module shall be supplied on network communication circuits not employing integral ground fault detection. Detection of a ground fault condition shall transfer the module’s relay contacts. ",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mounting ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e8d99a077aee5247bf771aa26d94825d43aa358d067fba22898dd82b3ba6acf6.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Typical Wiring ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e8892456a841032d95622be62249ba67188d7c70e67b0cb3c57a6dbaec03dc6.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Notes ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1.\t All circuits are power-limited and supervised, unless otherwise noted   \n2.\t Contact 7 is not used   \n[3]\t The functionality of the Trouble/GF circuit is dependent on the position of JP1. See “Jumper setup” on installation sheet 387630 for details.   \n[4]\t Use a UL/ULC listed end-of-line device for complete supervision. Contacts cannot be used for nonpower-limited applications unless all wiring is type FPL, FPLR, or FPLP. ",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/88eb98f5a3db2338aff468a5a4243441feef52c8907219fcdfa908a1562265da.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>Agency Listings</td><td>UL, ULC</td></tr><tr><td>Installation</td><td>Connectstobothconductorsofthemonitoredcircuit(s)</td></tr><tr><td>Ground fault condition</td><td>Lessthan1oKohmsbetweenanymonitoredconductorandthereferenceground</td></tr><tr><td>MonitoredCircuit(s)Configuration Maxvoltage100Vdc</td><td>Monitoredcircuit(s)musthavebothconductorsbalanced withrespecttoground</td></tr><tr><td>Max current4.0A</td><td></td></tr><tr><td>Maxvoltagebetweenmonitoredcircuits10o0Vdc</td><td></td></tr><tr><td>Power Consumption</td><td>110mA@24V.Powerisisolatedfrommonitoredcircuits.</td></tr><tr><td>Trouble/GroundFaultRelay</td><td>Output operation is jumper configurable</td></tr><tr><td></td><td>Mode 1Places a ground fault on the common terminal of the relay for detectionby aSignaturemodule.</td></tr><tr><td>Contactrating1.0A@30Vdc</td><td>Mode 2Normally energized NO/NC contact de-activates upon module trouble or ground fault.</td></tr><tr><td>Mounting</td><td></td></tr><tr><td></td><td>with2-gangcover</td></tr><tr><td>Visual Indicators</td><td>Mounting Brackets SIGA-MP1,SIGA-MP2(L)</td></tr><tr><td>Terminations</td><td>TwoLEDsindicatewhichofthefourconductorsaregrounded.</td></tr><tr><td>Operatingenvironment</td><td>All wiring to terminals that accept #18AWG to #12AWG conductors</td></tr><tr><td></td><td>32°F-120°F(0°C-49°C) @93%RH,Non-condensing</td></tr></table></body></html>\n\n",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ordering Information ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/3e4bae9fb98b56cc686af846fcf91c545b547d24d99e552447c1c78e36bb250a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>Catalog Number</td><td>Description</td><td>ShippingWt.,Ib(kg)</td></tr><tr><td>GFD</td><td>GroundFaultDetectionModule</td><td>1 (.45)</td></tr><tr><td>MFC-A</td><td>MultifunctionFireCabinet-Red,supportsSignatureModuleMountingPlates</td><td>7.0 (3.1)</td></tr><tr><td>SIGA-MP1</td><td>SignatureModuleMountingPlate,1footprint</td><td>1.5 (0.70)</td></tr><tr><td>SIGA-MP2</td><td>SignatureModuleMountingPlate,1/2footprint</td><td>0.5 (0.23)</td></tr><tr><td>SIGA-MP2L</td><td>SignatureModuleMountingPlate,1/2extendedfootprint</td><td>1.02 (0.46)</td></tr></table></body></html>\n\n",
+        "page_idx": 2
+    }
+]

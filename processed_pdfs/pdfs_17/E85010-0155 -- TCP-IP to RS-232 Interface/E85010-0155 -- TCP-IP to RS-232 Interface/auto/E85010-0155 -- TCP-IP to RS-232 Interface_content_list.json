@@ -1,0 +1,134 @@
+[
+    {
+        "type": "text",
+        "text": "TCP/IP to RS-232 interface MN-COM1S",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Overview ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The MN-COM1S is a TCP/IP to RS-232 interface with one RJ-45 port and one RS-232 port. It is used in mass notification settings to connect a FireWorks workstation to an EST3 control panel. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The MN-COM1S mounts on an MN-BRKT1F or an MN-BRKT3Fbracket. These install inside the EST3 control panel or Auxiliary Power Supply for a neat and self-contained mass notification solution. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Standard Features ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Connect a FireWorks workstation to an EST3 control panel.   \nRS-232 Serial port for connection to 3-CPU3   \n•One RJ-45 port   \n•One RS-232 port   \n•\t Browser-based setup and configuration ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mounting ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The MN-COM1S mounts on an MN-BRKT1F or an MN-BRKT3Fbracket. These install inside the EST3 control panel or Auxiliary Power Supply for a neat and self-contained mass notification solution. ",
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/413edccb74443365c02eb9df6edfed805ad1da819d92eee75fdf72c29a71a569.jpg",
+        "img_caption": [
+            "MN-BRKT3F"
+        ],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MN-BRKT1F",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/eaca29a6fcb6acfd4b63ad2f231e81e0bcc17fec2e0e3c3ba426e47f9807de7c.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Component Layout Compatible Control Panel ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/82e1cfc97266cd0e9655fb8d68f53aaf5623d6a0a1f90b0f50f9cf6cccb857e9.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c1318e8066f6bbe0ed1a41ff81d5133762f79b55a0cf538d3f951fdddffcbc20.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "FCC compliance ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This equipment has been tested and found to comply with the limits for a Class A digital device, pursuant to part 15 of the FCC Rules. These limits are designed to provide reasonable protection against harmful interference when the equipment is operated in a commercial environment. This equipment generates, uses, and can radiate radio frequency energy and, if not installed and used in accordance with the instruction manual, may cause harmful interference to radio communications. Operation of this equipment in a residential area is likely to cause harmful interference in which case the user will be required to correct the interference at his own expense. ",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Specifications ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/582aca492531429a44a715e43d56b68569562d5d56d99dc5805be0e8db08cde8.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>Voltage</td><td>18to28VDC</td></tr><tr><td>Current</td><td>60 mA</td></tr><tr><td>Dimensions</td><td>(W× H× D) 2.5 × 0.9 × 3.5 in.(6.4× 2.3 × 9.0 cm)</td></tr><tr><td>Serialinterface</td><td>RS-232C</td></tr><tr><td>NetworkInterface</td><td></td></tr><tr><td>Connector</td><td>RJ-45</td></tr><tr><td>Cable type</td><td>Category5,min.</td></tr><tr><td>Other</td><td>10/100Mbps,TCP/IP,autonegotiating</td></tr><tr><td>Operatingenvironment</td><td></td></tr><tr><td>Temperature Humidity</td><td>32to120°F(0to49°C) 0to93%RH,noncondensing at90°F(32°C)</td></tr></table></body></html>\n\n",
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ordering Information ",
+        "text_level": 1,
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MN-COM1S UL 864 Listed FireWorks Communications Ethernet Port, Command & Control.  Comes with power and RS232 data cables. ",
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/4c94d5d53f9a2ca3fa3d2009629ef30e6000d4b294753f83a63166ce4ebaca32.jpg",
+        "table_caption": [
+            "Related Equipment "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>MN-BRKT1F</td><td>MN-FVPmountingbracketforEST3enclosures</td></tr><tr><td>MN-BRKT3F</td><td>MN-FVPmountingbracketforAPS-(6)(10)Apowersupplies</td></tr><tr><td>FW-NCCA4</td><td>EthernetcableconduitconnectorassemblyforUL4computer</td></tr><tr><td>MN-FVPN</td><td>FireVolP encoder/decoder, includespower and audio cables</td></tr><tr><td>MN-PASM2</td><td></td></tr><tr><td>SIGA-RM1/MRM1</td><td>RiserSupervisionModule</td></tr><tr><td>MN-ABPM</td><td>AudioBridge(Panelmount3-ATPiNT)</td></tr></table></body></html>\n\n",
+        "page_idx": 2
+    }
+]

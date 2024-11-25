@@ -1,0 +1,4099 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        146,
+                        265,
+                        236
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                151,
+                                265,
+                                182
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        151,
+                                        265,
+                                        182
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Multi-purpose",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                185,
+                                253,
+                                217
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        185,
+                                        253,
+                                        217
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Loudspeaker",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                218,
+                                118,
+                                235
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        218,
+                                        118,
+                                        235
+                                    ],
+                                    "score": 1.0,
+                                    "content": "HPSA15",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        358,
+                        106,
+                        371
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                358,
+                                106,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        358,
+                                        106,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        376,
+                        307,
+                        429
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                376,
+                                294,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        376,
+                                        294,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The HPSA15 loudspeaker is a high-efficiency double re-entrant",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                387,
+                                307,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        387,
+                                        307,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "loudspeaker that delivers 15-watts of continuous power. Its unique",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                398,
+                                290,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        398,
+                                        290,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "design provides exceptional intelligibility, making it ideal for fire",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                408,
+                                285,
+                                418
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        408,
+                                        285,
+                                        418
+                                    ],
+                                    "score": 1.0,
+                                    "content": "alarm and life safety applications. It is UL 1480 listed as a fire",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                420,
+                                161,
+                                430
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        420,
+                                        161,
+                                        430
+                                    ],
+                                    "score": 1.0,
+                                    "content": "protective signalling speaker.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        435,
+                        306,
+                        522
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                436,
+                                281,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        436,
+                                        281,
+                                        446
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The HPSA15 operates within a nominal frequency response",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                447,
+                                298,
+                                457
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        447,
+                                        298,
+                                        457
+                                    ],
+                                    "score": 1.0,
+                                    "content": "range of 400-14,000 Hz, and provides audible output of 120 dB",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                459,
+                                297,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        459,
+                                        297,
+                                        467
+                                    ],
+                                    "score": 1.0,
+                                    "content": "(peak at one meter) at the rated power level. It includes a versa-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                469,
+                                299,
+                                479
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        469,
+                                        299,
+                                        479
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tile, three-way, 25/70.7 V line transformer that meets a variety of ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                480,
+                                306,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        480,
+                                        306,
+                                        489
+                                    ],
+                                    "score": 1.0,
+                                    "content": "distributed system needs. The transformer is adjustable by means",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                491,
+                                306,
+                                500
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        491,
+                                        306,
+                                        500
+                                    ],
+                                    "score": 1.0,
+                                    "content": "of a convenient seven-position, watts/impedance selection switch.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                500,
+                                300,
+                                511
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        500,
+                                        300,
+                                        511
+                                    ],
+                                    "score": 1.0,
+                                    "content": "This labor-saving switch is screwdriver adjustable and includes a",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                512,
+                                228,
+                                521
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        512,
+                                        228,
+                                        521
+                                    ],
+                                    "score": 1.0,
+                                    "content": "protective cover with built-in cable strain relief.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 12.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        528,
+                        305,
+                        592
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                528,
+                                303,
+                                539
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        528,
+                                        303,
+                                        539
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The HPSA15 features an innovative mounting bracket that, with a",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                540,
+                                304,
+                                549
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        540,
+                                        304,
+                                        549
+                                    ],
+                                    "score": 1.0,
+                                    "content": "single adjustment, provides precise positioning in both the vertical",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                551,
+                                294,
+                                559
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        551,
+                                        294,
+                                        559
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and horizontal planes. It also allows the HPSA15 to be installed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                561,
+                                300,
+                                571
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        561,
+                                        300,
+                                        571
+                                    ],
+                                    "score": 1.0,
+                                    "content": "on conventional surfaces or strap-mounted on I-beams or pillars.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                572,
+                                291,
+                                582
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        572,
+                                        291,
+                                        582
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Durable epoxy-coated metal and ABS plastic components are",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                582,
+                                251,
+                                592
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        582,
+                                        251,
+                                        592
+                                    ],
+                                    "score": 1.0,
+                                    "content": "weather-resistant suitable for indoor or outdoor use.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        }
+                    ],
+                    "index": 19.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        358,
+                        433,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                434,
+                                374
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        434,
+                                        374
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 23
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        322,
+                        375,
+                        565,
+                        497
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                376,
+                                520,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        376,
+                                        520,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Superior intelligibility for voice and tone signaling",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                392,
+                                548,
+                                402
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        392,
+                                        548,
+                                        402
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t High-efficiency driver with proven performance reliability",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                407,
+                                507,
+                                418
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        407,
+                                        507,
+                                        418
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Suitable for installation on supervised circuits",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                424,
+                                564,
+                                434
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        424,
+                                        564,
+                                        434
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Includes a versatile 25/70.7 transformer for line applications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                439,
+                                532,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        439,
+                                        532,
+                                        450
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t UL 1480 listed as fire protective signalling speakers",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                456,
+                                494,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        456,
+                                        494,
+                                        466
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Adjustable bracket for precise positioning",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                471,
+                                524,
+                                481
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        471,
+                                        524,
+                                        481
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Environment resistant for outdoor and indoor use",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                487,
+                                444,
+                                497
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        487,
+                                        444,
+                                        497
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Available in gray or red finish",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        }
+                    ],
+                    "index": 27.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        522,
+                        389,
+                        535
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                521,
+                                389,
+                                536
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        521,
+                                        389,
+                                        536
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Application",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 32
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        539,
+                        576,
+                        635
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                539,
+                                572,
+                                549
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        539,
+                                        572,
+                                        549
+                                    ],
+                                    "score": 1.0,
+                                    "content": "HPSA15 weather-resistant loudspeakers feature highly intelligible",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                550,
+                                555,
+                                560
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        550,
+                                        555,
+                                        560
+                                    ],
+                                    "score": 1.0,
+                                    "content": "voice and signal transmission for medium-power indoor and ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                561,
+                                564,
+                                571
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        561,
+                                        564,
+                                        571
+                                    ],
+                                    "score": 1.0,
+                                    "content": "out­door fire alarm, mass notification, and security applications.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                572,
+                                572,
+                                582
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        572,
+                                        572,
+                                        582
+                                    ],
+                                    "score": 1.0,
+                                    "content": "They incorporate high-efficiency compression drivers that project",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                583,
+                                567,
+                                592
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        583,
+                                        567,
+                                        592
+                                    ],
+                                    "score": 1.0,
+                                    "content": "sound over long distances or wide areas with fewer loudspeak-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                594,
+                                573,
+                                603
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        594,
+                                        573,
+                                        603
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ers. HPSA15 loudspeakers are ideal for installation in commercial",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                604,
+                                567,
+                                614
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        604,
+                                        567,
+                                        614
+                                    ],
+                                    "score": 1.0,
+                                    "content": "buildings, distribution centers, factories, schools, public access",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                615,
+                                576,
+                                624
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        615,
+                                        576,
+                                        624
+                                    ],
+                                    "score": 1.0,
+                                    "content": "areas, civic centers and recreational facilities. They are suitable for",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                626,
+                                451,
+                                636
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        626,
+                                        451,
+                                        636
+                                    ],
+                                    "score": 1.0,
+                                    "content": "installation on supervised circuits.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        }
+                    ],
+                    "index": 37
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        49,
+                        750,
+                        88,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                749,
+                                89,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        749,
+                                        89,
+                                        759
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        395,
+                        745,
+                        579,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                433,
+                                746,
+                                579,
+                                758
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        433,
+                                        749,
+                                        497,
+                                        758
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        500,
+                                        746,
+                                        579,
+                                        758
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                394,
+                                758,
+                                580,
+                                767
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        394,
+                                        758,
+                                        580,
+                                        767
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        146,
+                        265,
+                        236
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                151,
+                                265,
+                                182
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        151,
+                                        265,
+                                        182
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Multi-purpose",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                185,
+                                253,
+                                217
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        185,
+                                        253,
+                                        217
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Loudspeaker",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                218,
+                                118,
+                                235
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        218,
+                                        118,
+                                        235
+                                    ],
+                                    "score": 1.0,
+                                    "content": "HPSA15",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        358,
+                        106,
+                        371
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                358,
+                                106,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        358,
+                                        106,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        376,
+                        307,
+                        429
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                376,
+                                294,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        376,
+                                        294,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The HPSA15 loudspeaker is a high-efficiency double re-entrant",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                387,
+                                307,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        387,
+                                        307,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "loudspeaker that delivers 15-watts of continuous power. Its unique",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                398,
+                                290,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        398,
+                                        290,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "design provides exceptional intelligibility, making it ideal for fire",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                408,
+                                285,
+                                418
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        408,
+                                        285,
+                                        418
+                                    ],
+                                    "score": 1.0,
+                                    "content": "alarm and life safety applications. It is UL 1480 listed as a fire",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                420,
+                                161,
+                                430
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        420,
+                                        161,
+                                        430
+                                    ],
+                                    "score": 1.0,
+                                    "content": "protective signalling speaker.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 6,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        49,
+                        376,
+                        307,
+                        430
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        435,
+                        306,
+                        522
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                436,
+                                281,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        436,
+                                        281,
+                                        446
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The HPSA15 operates within a nominal frequency response",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                447,
+                                298,
+                                457
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        447,
+                                        298,
+                                        457
+                                    ],
+                                    "score": 1.0,
+                                    "content": "range of 400-14,000 Hz, and provides audible output of 120 dB",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                459,
+                                297,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        459,
+                                        297,
+                                        467
+                                    ],
+                                    "score": 1.0,
+                                    "content": "(peak at one meter) at the rated power level. It includes a versa-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                469,
+                                299,
+                                479
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        469,
+                                        299,
+                                        479
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tile, three-way, 25/70.7 V line transformer that meets a variety of ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                480,
+                                306,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        480,
+                                        306,
+                                        489
+                                    ],
+                                    "score": 1.0,
+                                    "content": "distributed system needs. The transformer is adjustable by means",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                491,
+                                306,
+                                500
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        491,
+                                        306,
+                                        500
+                                    ],
+                                    "score": 1.0,
+                                    "content": "of a convenient seven-position, watts/impedance selection switch.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                500,
+                                300,
+                                511
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        500,
+                                        300,
+                                        511
+                                    ],
+                                    "score": 1.0,
+                                    "content": "This labor-saving switch is screwdriver adjustable and includes a",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                512,
+                                228,
+                                521
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        512,
+                                        228,
+                                        521
+                                    ],
+                                    "score": 1.0,
+                                    "content": "protective cover with built-in cable strain relief.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 12.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        48,
+                        436,
+                        306,
+                        521
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        528,
+                        305,
+                        592
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                528,
+                                303,
+                                539
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        528,
+                                        303,
+                                        539
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The HPSA15 features an innovative mounting bracket that, with a",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                540,
+                                304,
+                                549
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        540,
+                                        304,
+                                        549
+                                    ],
+                                    "score": 1.0,
+                                    "content": "single adjustment, provides precise positioning in both the vertical",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                551,
+                                294,
+                                559
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        551,
+                                        294,
+                                        559
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and horizontal planes. It also allows the HPSA15 to be installed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                561,
+                                300,
+                                571
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        561,
+                                        300,
+                                        571
+                                    ],
+                                    "score": 1.0,
+                                    "content": "on conventional surfaces or strap-mounted on I-beams or pillars.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                572,
+                                291,
+                                582
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        572,
+                                        291,
+                                        582
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Durable epoxy-coated metal and ABS plastic components are",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                582,
+                                251,
+                                592
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        582,
+                                        251,
+                                        592
+                                    ],
+                                    "score": 1.0,
+                                    "content": "weather-resistant suitable for indoor or outdoor use.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        }
+                    ],
+                    "index": 19.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        49,
+                        528,
+                        304,
+                        592
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        358,
+                        433,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                434,
+                                374
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        434,
+                                        374
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 23,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        322,
+                        375,
+                        565,
+                        497
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                376,
+                                520,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        376,
+                                        520,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Superior intelligibility for voice and tone signaling",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                392,
+                                548,
+                                402
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        392,
+                                        548,
+                                        402
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t High-efficiency driver with proven performance reliability",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                407,
+                                507,
+                                418
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        407,
+                                        507,
+                                        418
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Suitable for installation on supervised circuits",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                424,
+                                564,
+                                434
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        424,
+                                        564,
+                                        434
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Includes a versatile 25/70.7 transformer for line applications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                439,
+                                532,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        439,
+                                        532,
+                                        450
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t UL 1480 listed as fire protective signalling speakers",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                456,
+                                494,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        456,
+                                        494,
+                                        466
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Adjustable bracket for precise positioning",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                471,
+                                524,
+                                481
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        471,
+                                        524,
+                                        481
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Environment resistant for outdoor and indoor use",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                487,
+                                444,
+                                497
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        487,
+                                        444,
+                                        497
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Available in gray or red finish",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        }
+                    ],
+                    "index": 27.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        321,
+                        376,
+                        564,
+                        497
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        522,
+                        389,
+                        535
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                521,
+                                389,
+                                536
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        521,
+                                        389,
+                                        536
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Application",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 32,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        539,
+                        576,
+                        635
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                539,
+                                572,
+                                549
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        539,
+                                        572,
+                                        549
+                                    ],
+                                    "score": 1.0,
+                                    "content": "HPSA15 weather-resistant loudspeakers feature highly intelligible",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                550,
+                                555,
+                                560
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        550,
+                                        555,
+                                        560
+                                    ],
+                                    "score": 1.0,
+                                    "content": "voice and signal transmission for medium-power indoor and ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                561,
+                                564,
+                                571
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        561,
+                                        564,
+                                        571
+                                    ],
+                                    "score": 1.0,
+                                    "content": "out­door fire alarm, mass notification, and security applications.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                572,
+                                572,
+                                582
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        572,
+                                        572,
+                                        582
+                                    ],
+                                    "score": 1.0,
+                                    "content": "They incorporate high-efficiency compression drivers that project",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                583,
+                                567,
+                                592
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        583,
+                                        567,
+                                        592
+                                    ],
+                                    "score": 1.0,
+                                    "content": "sound over long distances or wide areas with fewer loudspeak-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                594,
+                                573,
+                                603
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        594,
+                                        573,
+                                        603
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ers. HPSA15 loudspeakers are ideal for installation in commercial",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                604,
+                                567,
+                                614
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        604,
+                                        567,
+                                        614
+                                    ],
+                                    "score": 1.0,
+                                    "content": "buildings, distribution centers, factories, schools, public access",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                615,
+                                576,
+                                624
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        615,
+                                        576,
+                                        624
+                                    ],
+                                    "score": 1.0,
+                                    "content": "areas, civic centers and recreational facilities. They are suitable for",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                626,
+                                451,
+                                636
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        626,
+                                        451,
+                                        636
+                                    ],
+                                    "score": 1.0,
+                                    "content": "installation on supervised circuits.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        }
+                    ],
+                    "index": 37,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        321,
+                        539,
+                        576,
+                        636
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        215,
+                        83,
+                        514,
+                        150
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                215,
+                                83,
+                                514,
+                                150
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        215,
+                                        83,
+                                        514,
+                                        150
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                215,
+                                                83,
+                                                514,
+                                                150
+                                            ],
+                                            "score": 0.9920196533203125,
+                                            "type": "image",
+                                            "image_path": "194f4893d73b27388a7327484ddf3fe06e32949f8be4740e3810d88804b9c7ac.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        215,
+                                        83,
+                                        514,
+                                        105.33333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        105.33333333333333,
+                                        514,
+                                        127.66666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        127.66666666666666,
+                                        514,
+                                        150.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        167,
+                        295,
+                        179
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                165,
+                                295,
+                                181
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        165,
+                                        295,
+                                        181
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Configuration",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        212,
+                        186,
+                        273,
+                        290
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                212,
+                                186,
+                                273,
+                                290
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        186,
+                                        273,
+                                        290
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                212,
+                                                186,
+                                                273,
+                                                290
+                                            ],
+                                            "score": 0.999983012676239,
+                                            "type": "image",
+                                            "image_path": "189f7f212c3f58b9f7c24f37d8b0c311effaf23320cd96d0c7df91c411738842.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        186,
+                                        273,
+                                        290
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        297,
+                        180,
+                        555,
+                        276.75
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                297,
+                                180,
+                                555,
+                                276.75
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        297,
+                                        180,
+                                        555,
+                                        278
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                297,
+                                                180,
+                                                555,
+                                                278
+                                            ],
+                                            "score": 0.9960081577301025,
+                                            "html": "<html><body><table><tr><td>Switch Position</td><td>Impedance</td><td>25V Line</td><td>*dBat 10 Ft.</td><td>70V Line</td><td>*dBat10 Ft.</td></tr><tr><td>1</td><td>5.0 K</td><td></td><td></td><td>.9W</td><td>93</td></tr><tr><td>2</td><td>2.5 K</td><td></td><td></td><td>1.8 W</td><td>96</td></tr><tr><td>3</td><td>1.3 K</td><td>.48 W</td><td>90</td><td>3.8W</td><td>98</td></tr><tr><td>4</td><td>666</td><td>.94 W</td><td>93</td><td>7.5 W</td><td>101</td></tr><tr><td>5</td><td>333</td><td>1.8 W</td><td>96</td><td>15.0W</td><td>103</td></tr><tr><td>6</td><td>89</td><td>7.5 W</td><td>101</td><td>DoNotUse</td><td></td></tr><tr><td>7</td><td>45</td><td>15.0W</td><td>103</td><td>on70 V</td><td></td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "f1159d6ba7adddacbe6aef3f96408767028eb6417edac3b9d6f7cbd31cd1a299.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        297,
+                                        180,
+                                        555,
+                                        212.25
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        297,
+                                        212.25,
+                                        555,
+                                        244.5
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        297,
+                                        244.5,
+                                        555,
+                                        276.75
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table_footnote",
+                            "bbox": [
+                                302,
+                                277.25,
+                                398,
+                                286
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        300,
+                                        276,
+                                        397,
+                                        288
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                300,
+                                                276,
+                                                397,
+                                                288
+                                            ],
+                                            "score": 1.0,
+                                            "content": "* UL 3 dB Increment Rating",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 8
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 6.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        313,
+                        271,
+                        322.75
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                312,
+                                270,
+                                329
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        312,
+                                        270,
+                                        329
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Mounting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        210,
+                        323.25,
+                        560,
+                        426
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                210,
+                                323.25,
+                                560,
+                                426
+                            ],
+                            "group_id": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        210,
+                                        320,
+                                        560,
+                                        426
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                210,
+                                                320,
+                                                560,
+                                                426
+                                            ],
+                                            "score": 0.9999960660934448,
+                                            "type": "image",
+                                            "image_path": "4080c6eb8ff39b457f750776794a845853490328b0aa50a279654e45c689c06e.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        210,
+                                        323.25,
+                                        560,
+                                        357.5
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        210,
+                                        357.5,
+                                        560,
+                                        391.75
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        210,
+                                        391.75,
+                                        560,
+                                        426.0
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        438,
+                        298,
+                        451
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                438,
+                                298,
+                                452
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        438,
+                                        298,
+                                        452
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Specifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        454,
+                        562,
+                        613
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                454,
+                                562,
+                                613
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        454,
+                                        562,
+                                        613
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                454,
+                                                562,
+                                                613
+                                            ],
+                                            "score": 0.9999229311943054,
+                                            "html": "<html><body><table><tr><td>PowerRating</td><td>15Watts</td></tr><tr><td>RMSFrequency Response</td><td>400-14,000Hz</td></tr><tr><td>Sensitivity</td><td>120dBat15watts(peak)/1Meter 116dB at 15 watts / 1 Meter (avg) 500-6,000 Hz</td></tr><tr><td>CapacitorRating</td><td>106dB1Watt/1Meter(avg)500-6,000Hz</td></tr><tr><td>Power Taps</td><td>5 mfd 1,2,3.8,7.5,15 @ 70.7V</td></tr><tr><td>Dispersion</td><td>70°</td></tr><tr><td>Conduit</td><td>12\"connection</td></tr><tr><td>SoundLevel</td><td>103dB(UL10'Rating)</td></tr><tr><td>OperatingEnvironment</td><td>AllmodelsmeetorexceedtheULListedstandardsforaudiblesignal appliances and arecapableof operatingwithin an ambient temperature</td></tr><tr><td>Listings</td><td>rangeof66°C(150°F)to-35°C (-30°F). UL 1480</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "9ff19761947a4354fb8b8faf50051dae786248e5b3694fb8e196bb5f0e3220de.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 15,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        454,
+                                        562,
+                                        507.0
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        507.0,
+                                        562,
+                                        560.0
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        560.0,
+                                        562,
+                                        613.0
+                                    ],
+                                    "spans": [],
+                                    "index": 16
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        633,
+                        338,
+                        647
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                633,
+                                337,
+                                649
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        633,
+                                        337,
+                                        649
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 17
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        214,
+                        651,
+                        562,
+                        685
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                214,
+                                651,
+                                562,
+                                685
+                            ],
+                            "group_id": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        651,
+                                        562,
+                                        685
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                651,
+                                                562,
+                                                685
+                                            ],
+                                            "score": 0.9989088773727417,
+                                            "html": "<html><body><table><tr><td>PartNumber</td><td>Description</td><td>Ship Wt., Ib (kg)</td></tr><tr><td>HPSA15R2570</td><td>15-wattloudspeaker,red</td><td>5.0 (2.27)</td></tr><tr><td>HPSA15G2570</td><td>15-wattloudspeaker,gray</td><td>5.0 (2.27)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "10265bdc8a6c01fae3182938fd796b74d9c29764a28d130fedaa87c403c741ab.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 18,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        651,
+                                        562,
+                                        685
+                                    ],
+                                    "spans": [],
+                                    "index": 18
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 1,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        215,
+                        83,
+                        514,
+                        150
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                215,
+                                83,
+                                514,
+                                150
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        215,
+                                        83,
+                                        514,
+                                        150
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                215,
+                                                83,
+                                                514,
+                                                150
+                                            ],
+                                            "score": 0.9920196533203125,
+                                            "type": "image",
+                                            "image_path": "194f4893d73b27388a7327484ddf3fe06e32949f8be4740e3810d88804b9c7ac.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        215,
+                                        83,
+                                        514,
+                                        105.33333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        105.33333333333333,
+                                        514,
+                                        127.66666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        127.66666666666666,
+                                        514,
+                                        150.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        212,
+                        186,
+                        273,
+                        290
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                212,
+                                186,
+                                273,
+                                290
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        186,
+                                        273,
+                                        290
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                212,
+                                                186,
+                                                273,
+                                                290
+                                            ],
+                                            "score": 0.999983012676239,
+                                            "type": "image",
+                                            "image_path": "189f7f212c3f58b9f7c24f37d8b0c311effaf23320cd96d0c7df91c411738842.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        186,
+                                        273,
+                                        290
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        210,
+                        323.25,
+                        560,
+                        426
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                210,
+                                323.25,
+                                560,
+                                426
+                            ],
+                            "group_id": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        210,
+                                        320,
+                                        560,
+                                        426
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                210,
+                                                320,
+                                                560,
+                                                426
+                                            ],
+                                            "score": 0.9999960660934448,
+                                            "type": "image",
+                                            "image_path": "4080c6eb8ff39b457f750776794a845853490328b0aa50a279654e45c689c06e.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        210,
+                                        323.25,
+                                        560,
+                                        357.5
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        210,
+                                        357.5,
+                                        560,
+                                        391.75
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        210,
+                                        391.75,
+                                        560,
+                                        426.0
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11
+                }
+            ],
+            "tables": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        297,
+                        180,
+                        555,
+                        276.75
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                297,
+                                180,
+                                555,
+                                276.75
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        297,
+                                        180,
+                                        555,
+                                        278
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                297,
+                                                180,
+                                                555,
+                                                278
+                                            ],
+                                            "score": 0.9960081577301025,
+                                            "html": "<html><body><table><tr><td>Switch Position</td><td>Impedance</td><td>25V Line</td><td>*dBat 10 Ft.</td><td>70V Line</td><td>*dBat10 Ft.</td></tr><tr><td>1</td><td>5.0 K</td><td></td><td></td><td>.9W</td><td>93</td></tr><tr><td>2</td><td>2.5 K</td><td></td><td></td><td>1.8 W</td><td>96</td></tr><tr><td>3</td><td>1.3 K</td><td>.48 W</td><td>90</td><td>3.8W</td><td>98</td></tr><tr><td>4</td><td>666</td><td>.94 W</td><td>93</td><td>7.5 W</td><td>101</td></tr><tr><td>5</td><td>333</td><td>1.8 W</td><td>96</td><td>15.0W</td><td>103</td></tr><tr><td>6</td><td>89</td><td>7.5 W</td><td>101</td><td>DoNotUse</td><td></td></tr><tr><td>7</td><td>45</td><td>15.0W</td><td>103</td><td>on70 V</td><td></td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "f1159d6ba7adddacbe6aef3f96408767028eb6417edac3b9d6f7cbd31cd1a299.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        297,
+                                        180,
+                                        555,
+                                        212.25
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        297,
+                                        212.25,
+                                        555,
+                                        244.5
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        297,
+                                        244.5,
+                                        555,
+                                        276.75
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table_footnote",
+                            "bbox": [
+                                302,
+                                277.25,
+                                398,
+                                286
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        300,
+                                        276,
+                                        397,
+                                        288
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                300,
+                                                276,
+                                                397,
+                                                288
+                                            ],
+                                            "score": 1.0,
+                                            "content": "* UL 3 dB Increment Rating",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 8
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 6.5
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        454,
+                        562,
+                        613
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                454,
+                                562,
+                                613
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        454,
+                                        562,
+                                        613
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                454,
+                                                562,
+                                                613
+                                            ],
+                                            "score": 0.9999229311943054,
+                                            "html": "<html><body><table><tr><td>PowerRating</td><td>15Watts</td></tr><tr><td>RMSFrequency Response</td><td>400-14,000Hz</td></tr><tr><td>Sensitivity</td><td>120dBat15watts(peak)/1Meter 116dB at 15 watts / 1 Meter (avg) 500-6,000 Hz</td></tr><tr><td>CapacitorRating</td><td>106dB1Watt/1Meter(avg)500-6,000Hz</td></tr><tr><td>Power Taps</td><td>5 mfd 1,2,3.8,7.5,15 @ 70.7V</td></tr><tr><td>Dispersion</td><td>70°</td></tr><tr><td>Conduit</td><td>12\"connection</td></tr><tr><td>SoundLevel</td><td>103dB(UL10'Rating)</td></tr><tr><td>OperatingEnvironment</td><td>AllmodelsmeetorexceedtheULListedstandardsforaudiblesignal appliances and arecapableof operatingwithin an ambient temperature</td></tr><tr><td>Listings</td><td>rangeof66°C(150°F)to-35°C (-30°F). UL 1480</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "9ff19761947a4354fb8b8faf50051dae786248e5b3694fb8e196bb5f0e3220de.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 15,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        454,
+                                        562,
+                                        507.0
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        507.0,
+                                        562,
+                                        560.0
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        560.0,
+                                        562,
+                                        613.0
+                                    ],
+                                    "spans": [],
+                                    "index": 16
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        214,
+                        651,
+                        562,
+                        685
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                214,
+                                651,
+                                562,
+                                685
+                            ],
+                            "group_id": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        651,
+                                        562,
+                                        685
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                651,
+                                                562,
+                                                685
+                                            ],
+                                            "score": 0.9989088773727417,
+                                            "html": "<html><body><table><tr><td>PartNumber</td><td>Description</td><td>Ship Wt., Ib (kg)</td></tr><tr><td>HPSA15R2570</td><td>15-wattloudspeaker,red</td><td>5.0 (2.27)</td></tr><tr><td>HPSA15G2570</td><td>15-wattloudspeaker,gray</td><td>5.0 (2.27)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "10265bdc8a6c01fae3182938fd796b74d9c29764a28d130fedaa87c403c741ab.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 18,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        651,
+                                        562,
+                                        685
+                                    ],
+                                    "spans": [],
+                                    "index": 18
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18
+                }
+            ],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        378,
+                        745,
+                        562,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                415,
+                                746,
+                                560,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        415,
+                                        749,
+                                        479,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        483,
+                                        746,
+                                        560,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                376,
+                                758,
+                                563,
+                                767
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        376,
+                                        758,
+                                        563,
+                                        767
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        31,
+                        750,
+                        70,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                31,
+                                750,
+                                71,
+                                758
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        31,
+                                        750,
+                                        71,
+                                        758
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        215,
+                        83,
+                        514,
+                        150
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                215,
+                                83,
+                                514,
+                                150
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        215,
+                                        83,
+                                        514,
+                                        150
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                215,
+                                                83,
+                                                514,
+                                                150
+                                            ],
+                                            "score": 0.9920196533203125,
+                                            "type": "image",
+                                            "image_path": "194f4893d73b27388a7327484ddf3fe06e32949f8be4740e3810d88804b9c7ac.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        215,
+                                        83,
+                                        514,
+                                        105.33333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        105.33333333333333,
+                                        514,
+                                        127.66666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        127.66666666666666,
+                                        514,
+                                        150.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        167,
+                        295,
+                        179
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                165,
+                                295,
+                                181
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        165,
+                                        295,
+                                        181
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Configuration",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        212,
+                        186,
+                        273,
+                        290
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                212,
+                                186,
+                                273,
+                                290
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        186,
+                                        273,
+                                        290
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                212,
+                                                186,
+                                                273,
+                                                290
+                                            ],
+                                            "score": 0.999983012676239,
+                                            "type": "image",
+                                            "image_path": "189f7f212c3f58b9f7c24f37d8b0c311effaf23320cd96d0c7df91c411738842.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        186,
+                                        273,
+                                        290
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        297,
+                        180,
+                        555,
+                        276.75
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                297,
+                                180,
+                                555,
+                                276.75
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        297,
+                                        180,
+                                        555,
+                                        278
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                297,
+                                                180,
+                                                555,
+                                                278
+                                            ],
+                                            "score": 0.9960081577301025,
+                                            "html": "<html><body><table><tr><td>Switch Position</td><td>Impedance</td><td>25V Line</td><td>*dBat 10 Ft.</td><td>70V Line</td><td>*dBat10 Ft.</td></tr><tr><td>1</td><td>5.0 K</td><td></td><td></td><td>.9W</td><td>93</td></tr><tr><td>2</td><td>2.5 K</td><td></td><td></td><td>1.8 W</td><td>96</td></tr><tr><td>3</td><td>1.3 K</td><td>.48 W</td><td>90</td><td>3.8W</td><td>98</td></tr><tr><td>4</td><td>666</td><td>.94 W</td><td>93</td><td>7.5 W</td><td>101</td></tr><tr><td>5</td><td>333</td><td>1.8 W</td><td>96</td><td>15.0W</td><td>103</td></tr><tr><td>6</td><td>89</td><td>7.5 W</td><td>101</td><td>DoNotUse</td><td></td></tr><tr><td>7</td><td>45</td><td>15.0W</td><td>103</td><td>on70 V</td><td></td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "f1159d6ba7adddacbe6aef3f96408767028eb6417edac3b9d6f7cbd31cd1a299.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        297,
+                                        180,
+                                        555,
+                                        212.25
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        297,
+                                        212.25,
+                                        555,
+                                        244.5
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        297,
+                                        244.5,
+                                        555,
+                                        276.75
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table_footnote",
+                            "bbox": [
+                                302,
+                                277.25,
+                                398,
+                                286
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        300,
+                                        276,
+                                        397,
+                                        288
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                300,
+                                                276,
+                                                397,
+                                                288
+                                            ],
+                                            "score": 1.0,
+                                            "content": "* UL 3 dB Increment Rating",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 8
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 6.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        313,
+                        271,
+                        322.75
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                312,
+                                270,
+                                329
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        312,
+                                        270,
+                                        329
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Mounting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 9,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        210,
+                        323.25,
+                        560,
+                        426
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                210,
+                                323.25,
+                                560,
+                                426
+                            ],
+                            "group_id": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        210,
+                                        320,
+                                        560,
+                                        426
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                210,
+                                                320,
+                                                560,
+                                                426
+                                            ],
+                                            "score": 0.9999960660934448,
+                                            "type": "image",
+                                            "image_path": "4080c6eb8ff39b457f750776794a845853490328b0aa50a279654e45c689c06e.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        210,
+                                        323.25,
+                                        560,
+                                        357.5
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        210,
+                                        357.5,
+                                        560,
+                                        391.75
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        210,
+                                        391.75,
+                                        560,
+                                        426.0
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        438,
+                        298,
+                        451
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                438,
+                                298,
+                                452
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        438,
+                                        298,
+                                        452
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Specifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 13,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        454,
+                        562,
+                        613
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                454,
+                                562,
+                                613
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        454,
+                                        562,
+                                        613
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                454,
+                                                562,
+                                                613
+                                            ],
+                                            "score": 0.9999229311943054,
+                                            "html": "<html><body><table><tr><td>PowerRating</td><td>15Watts</td></tr><tr><td>RMSFrequency Response</td><td>400-14,000Hz</td></tr><tr><td>Sensitivity</td><td>120dBat15watts(peak)/1Meter 116dB at 15 watts / 1 Meter (avg) 500-6,000 Hz</td></tr><tr><td>CapacitorRating</td><td>106dB1Watt/1Meter(avg)500-6,000Hz</td></tr><tr><td>Power Taps</td><td>5 mfd 1,2,3.8,7.5,15 @ 70.7V</td></tr><tr><td>Dispersion</td><td>70°</td></tr><tr><td>Conduit</td><td>12\"connection</td></tr><tr><td>SoundLevel</td><td>103dB(UL10'Rating)</td></tr><tr><td>OperatingEnvironment</td><td>AllmodelsmeetorexceedtheULListedstandardsforaudiblesignal appliances and arecapableof operatingwithin an ambient temperature</td></tr><tr><td>Listings</td><td>rangeof66°C(150°F)to-35°C (-30°F). UL 1480</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "9ff19761947a4354fb8b8faf50051dae786248e5b3694fb8e196bb5f0e3220de.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 15,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        454,
+                                        562,
+                                        507.0
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        507.0,
+                                        562,
+                                        560.0
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        560.0,
+                                        562,
+                                        613.0
+                                    ],
+                                    "spans": [],
+                                    "index": 16
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        633,
+                        338,
+                        647
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                633,
+                                337,
+                                649
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        633,
+                                        337,
+                                        649
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 17,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        214,
+                        651,
+                        562,
+                        685
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                214,
+                                651,
+                                562,
+                                685
+                            ],
+                            "group_id": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        651,
+                                        562,
+                                        685
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                651,
+                                                562,
+                                                685
+                                            ],
+                                            "score": 0.9989088773727417,
+                                            "html": "<html><body><table><tr><td>PartNumber</td><td>Description</td><td>Ship Wt., Ib (kg)</td></tr><tr><td>HPSA15R2570</td><td>15-wattloudspeaker,red</td><td>5.0 (2.27)</td></tr><tr><td>HPSA15G2570</td><td>15-wattloudspeaker,gray</td><td>5.0 (2.27)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "10265bdc8a6c01fae3182938fd796b74d9c29764a28d130fedaa87c403c741ab.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 18,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        651,
+                                        562,
+                                        685
+                                    ],
+                                    "spans": [],
+                                    "index": 18
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 18,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "txt",
+    "_version_name": "0.10.1"
+}

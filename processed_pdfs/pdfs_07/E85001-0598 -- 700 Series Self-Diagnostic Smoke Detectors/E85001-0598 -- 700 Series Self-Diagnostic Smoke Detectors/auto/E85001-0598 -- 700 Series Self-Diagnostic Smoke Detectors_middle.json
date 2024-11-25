@@ -1,0 +1,4059 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        47,
+                        143,
+                        357,
+                        312
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                147,
+                                355,
+                                180
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        147,
+                                        355,
+                                        180
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Two- and Four-Wire",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                182,
+                                303,
+                                216
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        182,
+                                        303,
+                                        216
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Head & Terminal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                219,
+                                249,
+                                252
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        220,
+                                        132,
+                                        251
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Base",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        138,
+                                        219,
+                                        249,
+                                        252
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Smoke",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                257,
+                                200,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        257,
+                                        200,
+                                        286
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Detectors",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                289,
+                                134,
+                                308
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        289,
+                                        134,
+                                        308
+                                    ],
+                                    "score": 1.0,
+                                    "content": "700 Series",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        357,
+                        106,
+                        371
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                357,
+                                106,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        357,
+                                        106,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        376,
+                        309,
+                        418
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                375,
+                                300,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        375,
+                                        300,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "700 Series conventional photoelectric smoke detectors are inter-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                387,
+                                308,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        387,
+                                        308,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "changeable head and base detectors with a light-scattering optical",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                398,
+                                300,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        398,
+                                        300,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "sensors that provide outstanding stability and excellent response",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                407,
+                                141,
+                                420
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        407,
+                                        141,
+                                        420
+                                    ],
+                                    "score": 1.0,
+                                    "content": "to a wide range of fires.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 7.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        424,
+                        306,
+                        468
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                426,
+                                299,
+                                436
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        426,
+                                        299,
+                                        436
+                                    ],
+                                    "score": 1.0,
+                                    "content": "A pulsed infrared LED light source and a high-speed photodiode",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                436,
+                                300,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        436,
+                                        300,
+                                        446
+                                    ],
+                                    "score": 1.0,
+                                    "content": "sensing element are housed in an omnidirectional sensing cham-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                447,
+                                304,
+                                457
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        447,
+                                        304,
+                                        457
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ber protected by an insect screen. For easy cleaning, the detector",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                457,
+                                220,
+                                468
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        457,
+                                        220,
+                                        468
+                                    ],
+                                    "score": 1.0,
+                                    "content": "features a field-replaceable optical chamber.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 11.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        473,
+                        303,
+                        527
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                474,
+                                276,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        474,
+                                        276,
+                                        484
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Model 721UT photoelectric detectors include integral fixed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                485,
+                                302,
+                                495
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        485,
+                                        302,
+                                        495
+                                    ],
+                                    "score": 1.0,
+                                    "content": "temperature and rate-of-rise heat detectors. The 721UT provides",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                496,
+                                289,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        496,
+                                        289,
+                                        505
+                                    ],
+                                    "score": 1.0,
+                                    "content": "remote alarm and trouble LED driver outputs. Also available is",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                507,
+                                298,
+                                516
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        507,
+                                        298,
+                                        516
+                                    ],
+                                    "score": 1.0,
+                                    "content": "the 713-5U electronic heat detector head for areas too dusty for",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                518,
+                                118,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        518,
+                                        118,
+                                        527
+                                    ],
+                                    "score": 1.0,
+                                    "content": "smoke detection.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 16
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        533,
+                        304,
+                        609
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                534,
+                                302,
+                                544
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        534,
+                                        302,
+                                        544
+                                    ],
+                                    "score": 1.0,
+                                    "content": "700 Series smoke detectors were the industry’s first conventional",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                545,
+                                305,
+                                555
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        545,
+                                        305,
+                                        555
+                                    ],
+                                    "score": 1.0,
+                                    "content": "self-diagnostic detectors specifically designed for the demands of ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                556,
+                                300,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        556,
+                                        300,
+                                        565
+                                    ],
+                                    "score": 1.0,
+                                    "content": "commercial and industrial environments. If the detector drifts out",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                567,
+                                294,
+                                577
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        567,
+                                        294,
+                                        577
+                                    ],
+                                    "score": 1.0,
+                                    "content": "of its UL Listed sensitivity range or fails internal diagnostics, the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                577,
+                                300,
+                                588
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        577,
+                                        300,
+                                        588
+                                    ],
+                                    "score": 1.0,
+                                    "content": "alarm LED flashes once a second to indicate a trouble condition.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                588,
+                                299,
+                                599
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        588,
+                                        299,
+                                        599
+                                    ],
+                                    "score": 1.0,
+                                    "content": "This meets NFPA 72 field sensitivity testing requirements without",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                599,
+                                161,
+                                610
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        599,
+                                        161,
+                                        610
+                                    ],
+                                    "score": 1.0,
+                                    "content": "the need for external meters.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        }
+                    ],
+                    "index": 22
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        615,
+                        305,
+                        669
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                616,
+                                297,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        616,
+                                        297,
+                                        627
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Additional diagnostic information is activated by applying a magnet",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                627,
+                                304,
+                                637
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        627,
+                                        304,
+                                        637
+                                    ],
+                                    "score": 1.0,
+                                    "content": "near the detector’s integral reed switch. This initiates a self-diag­nostic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                638,
+                                297,
+                                648
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        638,
+                                        297,
+                                        648
+                                    ],
+                                    "score": 1.0,
+                                    "content": "routine and provides visual indication of sensitivity level, or if service",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                649,
+                                303,
+                                658
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        649,
+                                        303,
+                                        658
+                                    ],
+                                    "score": 1.0,
+                                    "content": "is required. The magnet test causes the LED to blink. The number of",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                659,
+                                284,
+                                669
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        659,
+                                        284,
+                                        669
+                                    ],
+                                    "score": 1.0,
+                                    "content": "blink counts corresponds to a smoke detector sensitivity range.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        }
+                    ],
+                    "index": 28
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        675,
+                        303,
+                        718
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                676,
+                                286,
+                                686
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        676,
+                                        286,
+                                        686
+                                    ],
+                                    "score": 1.0,
+                                    "content": "And, if they become dirty over time, the 700 Series detectors",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                687,
+                                304,
+                                696
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        687,
+                                        304,
+                                        696
+                                    ],
+                                    "score": 1.0,
+                                    "content": "automatically adjust the alarm threshold through built-in drift com-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                698,
+                                300,
+                                708
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        698,
+                                        300,
+                                        708
+                                    ],
+                                    "score": 1.0,
+                                    "content": "pensation. If the detector ever does need to be cleaned, the pat-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                709,
+                                295,
+                                719
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        709,
+                                        295,
+                                        719
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ented field replaceable optical chamber makes cleaning a snap.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        }
+                    ],
+                    "index": 32.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        357,
+                        434,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                434,
+                                373
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        434,
+                                        373
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        }
+                    ],
+                    "index": 35
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        375,
+                        551,
+                        513
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                376,
+                                551,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        376,
+                                        551,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Self-diagnostic capabililty continually monitors operation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                392,
+                                504,
+                                402
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        392,
+                                        504,
+                                        402
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Meets NFPA 72 sensitivity test requirements",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                407,
+                                541,
+                                418
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        407,
+                                        541,
+                                        418
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Head and terminal base design (base sold separately)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                424,
+                                449,
+                                434
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        424,
+                                        449,
+                                        434
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Automatic drift compensation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                439,
+                                465,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        439,
+                                        465,
+                                        450
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Field-replaceable optical chamber",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                455,
+                                492,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        455,
+                                        492,
+                                        467
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Low-profile design blends into the ceiling",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                471,
+                                538,
+                                481
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        471,
+                                        538,
+                                        481
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Advanced alarm verification nuisance alarm immunity",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 42
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                487,
+                                505,
+                                497
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        487,
+                                        505,
+                                        497
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Continuity switch in base to ease installation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 43
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                501,
+                                486,
+                                514
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        501,
+                                        486,
+                                        514
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Extensive two-wire compatibility listings",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 44
+                        }
+                    ],
+                    "index": 40
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        537,
+                        480,
+                        551
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                322,
+                                536,
+                                480,
+                                553
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        536,
+                                        480,
+                                        553
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Engineering Specifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 45
+                        }
+                    ],
+                    "index": 45
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        554,
+                        578,
+                        684
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                555,
+                                577,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        555,
+                                        577,
+                                        565
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The 700 Series photoelectric smoke detector, is a low-profile, self-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 46
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                566,
+                                576,
+                                576
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        566,
+                                        576,
+                                        576
+                                    ],
+                                    "score": 1.0,
+                                    "content": "diagnostic, two-wire detector that monitors its own sensitivity and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 47
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                576,
+                                567,
+                                587
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        576,
+                                        567,
+                                        587
+                                    ],
+                                    "score": 1.0,
+                                    "content": "operational status. The detector meets NFPA 72 field sensitivity",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 48
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                587,
+                                575,
+                                597
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        587,
+                                        575,
+                                        597
+                                    ],
+                                    "score": 1.0,
+                                    "content": "testing requirements without the need for external meters. Built-in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 49
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                598,
+                                576,
+                                609
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        598,
+                                        576,
+                                        609
+                                    ],
+                                    "score": 1.0,
+                                    "content": "drift compensation automatically adjust the sensitivity if the detec-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 50
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                610,
+                                575,
+                                619
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        610,
+                                        575,
+                                        619
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tor gets dirty. The 700 Series features an alarm verification feature",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 51
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                619,
+                                575,
+                                630
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        619,
+                                        575,
+                                        630
+                                    ],
+                                    "score": 1.0,
+                                    "content": "to further reduce the chance of a nuisance alarm. Normal sensing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 52
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                631,
+                                576,
+                                640
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        631,
+                                        576,
+                                        640
+                                    ],
+                                    "score": 1.0,
+                                    "content": "occurs every 9 seconds. This rate doubles when a signal exceed-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 53
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                642,
+                                577,
+                                651
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        642,
+                                        577,
+                                        651
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ing the alarm threshold value is sensed. Two additional successive",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 54
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                652,
+                                568,
+                                662
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        652,
+                                        568,
+                                        662
+                                    ],
+                                    "score": 1.0,
+                                    "content": "signals above the threshold level initiate an alarm. The patented ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 55
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                663,
+                                568,
+                                674
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        663,
+                                        568,
+                                        674
+                                    ],
+                                    "score": 1.0,
+                                    "content": "optical sensing chamber is field replaceable, allowing quick and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 56
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                674,
+                                446,
+                                685
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        674,
+                                        446,
+                                        685
+                                    ],
+                                    "score": 1.0,
+                                    "content": "easy cleaning and maintenance.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 57
+                        }
+                    ],
+                    "index": 51.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        689,
+                        580,
+                        733
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                690,
+                                580,
+                                701
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        690,
+                                        580,
+                                        701
+                                    ],
+                                    "score": 1.0,
+                                    "content": "A manually operated switch between terminals 1 and 2 establishes",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 58
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                702,
+                                570,
+                                711
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        702,
+                                        570,
+                                        711
+                                    ],
+                                    "score": 1.0,
+                                    "content": "continuity across the alarm initiating circuit at initial installation of",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 59
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                712,
+                                574,
+                                723
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        712,
+                                        574,
+                                        723
+                                    ],
+                                    "score": 1.0,
+                                    "content": "the base simplifying testing without the smoke head in place. The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 60
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                723,
+                                567,
+                                733
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        723,
+                                        567,
+                                        733
+                                    ],
+                                    "score": 1.0,
+                                    "content": "switch automatically opens when a detector head is plugged in.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 61
+                        }
+                    ],
+                    "index": 59.5
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        395,
+                        745,
+                        580,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                433,
+                                747,
+                                579,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        433,
+                                        749,
+                                        497,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        501,
+                                        747,
+                                        579,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                394,
+                                758,
+                                581,
+                                768
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        394,
+                                        758,
+                                        581,
+                                        768
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        49,
+                        749,
+                        88,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                750,
+                                89,
+                                758
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        750,
+                                        89,
+                                        758
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        47,
+                        143,
+                        357,
+                        312
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                147,
+                                355,
+                                180
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        147,
+                                        355,
+                                        180
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Two- and Four-Wire",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                182,
+                                303,
+                                216
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        182,
+                                        303,
+                                        216
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Head & Terminal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                219,
+                                249,
+                                252
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        220,
+                                        132,
+                                        251
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Base",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        138,
+                                        219,
+                                        249,
+                                        252
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Smoke",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                257,
+                                200,
+                                286
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        257,
+                                        200,
+                                        286
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Detectors",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                289,
+                                134,
+                                308
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        289,
+                                        134,
+                                        308
+                                    ],
+                                    "score": 1.0,
+                                    "content": "700 Series",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        357,
+                        106,
+                        371
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                357,
+                                106,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        357,
+                                        106,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        376,
+                        309,
+                        418
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                375,
+                                300,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        375,
+                                        300,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "700 Series conventional photoelectric smoke detectors are inter-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                387,
+                                308,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        387,
+                                        308,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "changeable head and base detectors with a light-scattering optical",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                398,
+                                300,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        398,
+                                        300,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "sensors that provide outstanding stability and excellent response",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                407,
+                                141,
+                                420
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        407,
+                                        141,
+                                        420
+                                    ],
+                                    "score": 1.0,
+                                    "content": "to a wide range of fires.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 7.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        48,
+                        375,
+                        308,
+                        420
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        424,
+                        306,
+                        468
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                426,
+                                299,
+                                436
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        426,
+                                        299,
+                                        436
+                                    ],
+                                    "score": 1.0,
+                                    "content": "A pulsed infrared LED light source and a high-speed photodiode",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                436,
+                                300,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        436,
+                                        300,
+                                        446
+                                    ],
+                                    "score": 1.0,
+                                    "content": "sensing element are housed in an omnidirectional sensing cham-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                447,
+                                304,
+                                457
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        447,
+                                        304,
+                                        457
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ber protected by an insect screen. For easy cleaning, the detector",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                457,
+                                220,
+                                468
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        457,
+                                        220,
+                                        468
+                                    ],
+                                    "score": 1.0,
+                                    "content": "features a field-replaceable optical chamber.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 11.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        49,
+                        426,
+                        304,
+                        468
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        473,
+                        303,
+                        527
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                474,
+                                276,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        474,
+                                        276,
+                                        484
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Model 721UT photoelectric detectors include integral fixed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                485,
+                                302,
+                                495
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        485,
+                                        302,
+                                        495
+                                    ],
+                                    "score": 1.0,
+                                    "content": "temperature and rate-of-rise heat detectors. The 721UT provides",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                496,
+                                289,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        496,
+                                        289,
+                                        505
+                                    ],
+                                    "score": 1.0,
+                                    "content": "remote alarm and trouble LED driver outputs. Also available is",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                507,
+                                298,
+                                516
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        507,
+                                        298,
+                                        516
+                                    ],
+                                    "score": 1.0,
+                                    "content": "the 713-5U electronic heat detector head for areas too dusty for",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                518,
+                                118,
+                                527
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        518,
+                                        118,
+                                        527
+                                    ],
+                                    "score": 1.0,
+                                    "content": "smoke detection.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 16,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        49,
+                        474,
+                        302,
+                        527
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        533,
+                        304,
+                        609
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                534,
+                                302,
+                                544
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        534,
+                                        302,
+                                        544
+                                    ],
+                                    "score": 1.0,
+                                    "content": "700 Series smoke detectors were the industry’s first conventional",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                545,
+                                305,
+                                555
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        545,
+                                        305,
+                                        555
+                                    ],
+                                    "score": 1.0,
+                                    "content": "self-diagnostic detectors specifically designed for the demands of ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                556,
+                                300,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        556,
+                                        300,
+                                        565
+                                    ],
+                                    "score": 1.0,
+                                    "content": "commercial and industrial environments. If the detector drifts out",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                567,
+                                294,
+                                577
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        567,
+                                        294,
+                                        577
+                                    ],
+                                    "score": 1.0,
+                                    "content": "of its UL Listed sensitivity range or fails internal diagnostics, the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                577,
+                                300,
+                                588
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        577,
+                                        300,
+                                        588
+                                    ],
+                                    "score": 1.0,
+                                    "content": "alarm LED flashes once a second to indicate a trouble condition.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                588,
+                                299,
+                                599
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        588,
+                                        299,
+                                        599
+                                    ],
+                                    "score": 1.0,
+                                    "content": "This meets NFPA 72 field sensitivity testing requirements without",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                599,
+                                161,
+                                610
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        599,
+                                        161,
+                                        610
+                                    ],
+                                    "score": 1.0,
+                                    "content": "the need for external meters.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        }
+                    ],
+                    "index": 22,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        49,
+                        534,
+                        305,
+                        610
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        615,
+                        305,
+                        669
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                616,
+                                297,
+                                627
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        616,
+                                        297,
+                                        627
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Additional diagnostic information is activated by applying a magnet",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                627,
+                                304,
+                                637
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        627,
+                                        304,
+                                        637
+                                    ],
+                                    "score": 1.0,
+                                    "content": "near the detector’s integral reed switch. This initiates a self-diag­nostic",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                638,
+                                297,
+                                648
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        638,
+                                        297,
+                                        648
+                                    ],
+                                    "score": 1.0,
+                                    "content": "routine and provides visual indication of sensitivity level, or if service",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                649,
+                                303,
+                                658
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        649,
+                                        303,
+                                        658
+                                    ],
+                                    "score": 1.0,
+                                    "content": "is required. The magnet test causes the LED to blink. The number of",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                659,
+                                284,
+                                669
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        659,
+                                        284,
+                                        669
+                                    ],
+                                    "score": 1.0,
+                                    "content": "blink counts corresponds to a smoke detector sensitivity range.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        }
+                    ],
+                    "index": 28,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        48,
+                        616,
+                        304,
+                        669
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        675,
+                        303,
+                        718
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                676,
+                                286,
+                                686
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        676,
+                                        286,
+                                        686
+                                    ],
+                                    "score": 1.0,
+                                    "content": "And, if they become dirty over time, the 700 Series detectors",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                687,
+                                304,
+                                696
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        687,
+                                        304,
+                                        696
+                                    ],
+                                    "score": 1.0,
+                                    "content": "automatically adjust the alarm threshold through built-in drift com-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                698,
+                                300,
+                                708
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        698,
+                                        300,
+                                        708
+                                    ],
+                                    "score": 1.0,
+                                    "content": "pensation. If the detector ever does need to be cleaned, the pat-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                709,
+                                295,
+                                719
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        709,
+                                        295,
+                                        719
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ented field replaceable optical chamber makes cleaning a snap.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        }
+                    ],
+                    "index": 32.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        48,
+                        676,
+                        304,
+                        719
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        357,
+                        434,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                434,
+                                373
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        434,
+                                        373
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        }
+                    ],
+                    "index": 35,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        321,
+                        375,
+                        551,
+                        513
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                376,
+                                551,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        376,
+                                        551,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Self-diagnostic capabililty continually monitors operation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                392,
+                                504,
+                                402
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        392,
+                                        504,
+                                        402
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Meets NFPA 72 sensitivity test requirements",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                407,
+                                541,
+                                418
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        407,
+                                        541,
+                                        418
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Head and terminal base design (base sold separately)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                424,
+                                449,
+                                434
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        424,
+                                        449,
+                                        434
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Automatic drift compensation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                439,
+                                465,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        439,
+                                        465,
+                                        450
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Field-replaceable optical chamber",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                455,
+                                492,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        455,
+                                        492,
+                                        467
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Low-profile design blends into the ceiling",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                471,
+                                538,
+                                481
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        471,
+                                        538,
+                                        481
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Advanced alarm verification nuisance alarm immunity",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 42,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                487,
+                                505,
+                                497
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        487,
+                                        505,
+                                        497
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Continuity switch in base to ease installation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 43,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                501,
+                                486,
+                                514
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        501,
+                                        486,
+                                        514
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Extensive two-wire compatibility listings",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 44,
+                            "is_list_start_line": true
+                        }
+                    ],
+                    "index": 40,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        321,
+                        376,
+                        551,
+                        514
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        537,
+                        480,
+                        551
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                322,
+                                536,
+                                480,
+                                553
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        536,
+                                        480,
+                                        553
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Engineering Specifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 45
+                        }
+                    ],
+                    "index": 45,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        554,
+                        578,
+                        684
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                555,
+                                577,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        555,
+                                        577,
+                                        565
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The 700 Series photoelectric smoke detector, is a low-profile, self-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 46
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                566,
+                                576,
+                                576
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        566,
+                                        576,
+                                        576
+                                    ],
+                                    "score": 1.0,
+                                    "content": "diagnostic, two-wire detector that monitors its own sensitivity and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 47
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                576,
+                                567,
+                                587
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        576,
+                                        567,
+                                        587
+                                    ],
+                                    "score": 1.0,
+                                    "content": "operational status. The detector meets NFPA 72 field sensitivity",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 48
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                587,
+                                575,
+                                597
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        587,
+                                        575,
+                                        597
+                                    ],
+                                    "score": 1.0,
+                                    "content": "testing requirements without the need for external meters. Built-in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 49
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                598,
+                                576,
+                                609
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        598,
+                                        576,
+                                        609
+                                    ],
+                                    "score": 1.0,
+                                    "content": "drift compensation automatically adjust the sensitivity if the detec-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 50
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                610,
+                                575,
+                                619
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        610,
+                                        575,
+                                        619
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tor gets dirty. The 700 Series features an alarm verification feature",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 51
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                619,
+                                575,
+                                630
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        619,
+                                        575,
+                                        630
+                                    ],
+                                    "score": 1.0,
+                                    "content": "to further reduce the chance of a nuisance alarm. Normal sensing",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 52
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                631,
+                                576,
+                                640
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        631,
+                                        576,
+                                        640
+                                    ],
+                                    "score": 1.0,
+                                    "content": "occurs every 9 seconds. This rate doubles when a signal exceed-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 53
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                642,
+                                577,
+                                651
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        642,
+                                        577,
+                                        651
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ing the alarm threshold value is sensed. Two additional successive",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 54
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                652,
+                                568,
+                                662
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        652,
+                                        568,
+                                        662
+                                    ],
+                                    "score": 1.0,
+                                    "content": "signals above the threshold level initiate an alarm. The patented ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 55
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                663,
+                                568,
+                                674
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        663,
+                                        568,
+                                        674
+                                    ],
+                                    "score": 1.0,
+                                    "content": "optical sensing chamber is field replaceable, allowing quick and",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 56
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                674,
+                                446,
+                                685
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        674,
+                                        446,
+                                        685
+                                    ],
+                                    "score": 1.0,
+                                    "content": "easy cleaning and maintenance.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 57
+                        }
+                    ],
+                    "index": 51.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        320,
+                        555,
+                        577,
+                        685
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        689,
+                        580,
+                        733
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                690,
+                                580,
+                                701
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        690,
+                                        580,
+                                        701
+                                    ],
+                                    "score": 1.0,
+                                    "content": "A manually operated switch between terminals 1 and 2 establishes",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 58
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                702,
+                                570,
+                                711
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        702,
+                                        570,
+                                        711
+                                    ],
+                                    "score": 1.0,
+                                    "content": "continuity across the alarm initiating circuit at initial installation of",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 59
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                712,
+                                574,
+                                723
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        712,
+                                        574,
+                                        723
+                                    ],
+                                    "score": 1.0,
+                                    "content": "the base simplifying testing without the smoke head in place. The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 60
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                723,
+                                567,
+                                733
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        723,
+                                        567,
+                                        733
+                                    ],
+                                    "score": 1.0,
+                                    "content": "switch automatically opens when a detector head is plugged in.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 61
+                        }
+                    ],
+                    "index": 59.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        321,
+                        690,
+                        580,
+                        733
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        214,
+                        85,
+                        357,
+                        98
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                84,
+                                356,
+                                99
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        84,
+                                        356,
+                                        99
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Technical Specifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        100,
+                        563,
+                        430
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                100,
+                                563,
+                                430
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        100,
+                                        563,
+                                        430
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                100,
+                                                563,
+                                                430
+                                            ],
+                                            "score": 0.9999474287033081,
+                                            "html": "<html><body><table><tr><td colspan=\"2\">Electrical</td></tr><tr><td>Voltage</td><td>8.5 - 33VDC, non polarity sensitive</td></tr><tr><td>Maximum ripple (peak to peak)</td><td>10% (Vp - p)</td></tr><tr><td>Typical standby current (24V)</td><td>70μA</td></tr><tr><td>Typical alarm current (24V)</td><td>up to 60 mA max, if not limited by control panel</td></tr><tr><td>Photoelectric Sensitivity</td><td>2.85%, + 0.37,-1.00%</td></tr><tr><td>Operating temperature</td><td>32°Fto 120°F(0°℃to 49°C)</td></tr><tr><td>Operating humidity range</td><td>0 to 95% Non-condensing</td></tr><tr><td>RFI immunity</td><td>20 V/m min; 0-1000 MHz</td></tr><tr><td>Remote LED output current</td><td>5mA min,8.5 mA max</td></tr><tr><td>Drift compensation adjustment</td><td>1.0%/ft. max</td></tr><tr><td>Compatibility</td><td>Heads:711U;Bases701U,702U</td></tr><tr><td>Environmental</td><td></td></tr><tr><td>Heat Sensor Ratings (721UT, 713-5U)</td><td>Fixed 135°F/ Rate of rise 15°F/min., >105°F (8.3°C/min.,</td></tr><tr><td>Maximum wind velocity</td><td>>40.6℃) 300 ft/min or</td></tr><tr><td>Field wiring size</td><td>12-18AWG</td></tr><tr><td>Remote test input (721UT)</td><td>100 ohm max</td></tr><tr><td>Reset voltage</td><td>2.5V max</td></tr><tr><td>Reset time</td><td>1 second max</td></tr><tr><td>UL two-wire compatibility identifier</td><td>S10A (711U,721UT, 713-5U)</td></tr><tr><td> Physical</td><td>S11A (731U)</td></tr><tr><td>Color</td><td>White head and base</td></tr><tr><td>Detector head dimensions</td><td>4\" D×1.75\" H (10cm × 4.44cm)</td></tr><tr><td>Base dimensions</td><td>701U, 702U: 6\"Dx.06\"H (15.24 cm x1.3 cm)</td></tr><tr><td>Total height, (head and base)</td><td>1.98\" (5 cm) H</td></tr><tr><td></td><td></td></tr><tr><td>Regulations Listing</td><td>UL 268,FM,CSFM,MEA approved</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "92672799cbe2ab6d06b9cce0a9ba5b896d67925bbd9f956796fab7a9b68b80e3.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        100,
+                                        563,
+                                        210.0
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        210.0,
+                                        563,
+                                        320.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        320.0,
+                                        563,
+                                        430.0
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        446,
+                        337,
+                        455.75
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                445,
+                                338,
+                                461
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        445,
+                                        338,
+                                        461
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        456.25,
+                        561,
+                        559
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                456.25,
+                                561,
+                                559
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        454,
+                                        561,
+                                        559
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                454,
+                                                561,
+                                                559
+                                            ],
+                                            "score": 0.9916516542434692,
+                                            "html": "<html><body><table><tr><td>711U Smokedetectorheadonly，photoelectric,two-wire</td><td></td><td>Compatibility</td></tr><tr><td>721UT</td><td>Smokedetectorheadonly,photoelectric,two-wire</td><td>Heads Bases 711U 701U,702U</td></tr><tr><td></td><td>w/integralheat,outputforremoteLED</td><td>731U 702RU</td></tr><tr><td>731U</td><td>Smokedetectorheadonly,photoelectric,two-wire, use702RUbaseforaux.relayfunctionality</td><td>741U 702U 713-5U</td></tr><tr><td>741U</td><td>Smokedetectorheadonly,photoelectric,four-wire</td><td>701U</td></tr><tr><td>701U</td><td>Smokedetectorbase,3terminals,6\"dia.</td><td rowspan=\"2\">Note:Basessoldseparately</td></tr><tr><td>702U</td><td>Smokedetectorbase,6terminals,6\"dia.</td></tr><tr><td></td><td>702RU Smokedetectorbase,6terminals,aux.relay,6\"dia.</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "a6796c3b623818c7c9ce5eb56b9640fadc864161411e3e27831c58f536d25cd3.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        456.25,
+                                        561,
+                                        490.5
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        490.5,
+                                        561,
+                                        524.75
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        524.75,
+                                        561,
+                                        559.0
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 1,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        100,
+                        563,
+                        430
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                100,
+                                563,
+                                430
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        100,
+                                        563,
+                                        430
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                100,
+                                                563,
+                                                430
+                                            ],
+                                            "score": 0.9999474287033081,
+                                            "html": "<html><body><table><tr><td colspan=\"2\">Electrical</td></tr><tr><td>Voltage</td><td>8.5 - 33VDC, non polarity sensitive</td></tr><tr><td>Maximum ripple (peak to peak)</td><td>10% (Vp - p)</td></tr><tr><td>Typical standby current (24V)</td><td>70μA</td></tr><tr><td>Typical alarm current (24V)</td><td>up to 60 mA max, if not limited by control panel</td></tr><tr><td>Photoelectric Sensitivity</td><td>2.85%, + 0.37,-1.00%</td></tr><tr><td>Operating temperature</td><td>32°Fto 120°F(0°℃to 49°C)</td></tr><tr><td>Operating humidity range</td><td>0 to 95% Non-condensing</td></tr><tr><td>RFI immunity</td><td>20 V/m min; 0-1000 MHz</td></tr><tr><td>Remote LED output current</td><td>5mA min,8.5 mA max</td></tr><tr><td>Drift compensation adjustment</td><td>1.0%/ft. max</td></tr><tr><td>Compatibility</td><td>Heads:711U;Bases701U,702U</td></tr><tr><td>Environmental</td><td></td></tr><tr><td>Heat Sensor Ratings (721UT, 713-5U)</td><td>Fixed 135°F/ Rate of rise 15°F/min., >105°F (8.3°C/min.,</td></tr><tr><td>Maximum wind velocity</td><td>>40.6℃) 300 ft/min or</td></tr><tr><td>Field wiring size</td><td>12-18AWG</td></tr><tr><td>Remote test input (721UT)</td><td>100 ohm max</td></tr><tr><td>Reset voltage</td><td>2.5V max</td></tr><tr><td>Reset time</td><td>1 second max</td></tr><tr><td>UL two-wire compatibility identifier</td><td>S10A (711U,721UT, 713-5U)</td></tr><tr><td> Physical</td><td>S11A (731U)</td></tr><tr><td>Color</td><td>White head and base</td></tr><tr><td>Detector head dimensions</td><td>4\" D×1.75\" H (10cm × 4.44cm)</td></tr><tr><td>Base dimensions</td><td>701U, 702U: 6\"Dx.06\"H (15.24 cm x1.3 cm)</td></tr><tr><td>Total height, (head and base)</td><td>1.98\" (5 cm) H</td></tr><tr><td></td><td></td></tr><tr><td>Regulations Listing</td><td>UL 268,FM,CSFM,MEA approved</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "92672799cbe2ab6d06b9cce0a9ba5b896d67925bbd9f956796fab7a9b68b80e3.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        100,
+                                        563,
+                                        210.0
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        210.0,
+                                        563,
+                                        320.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        320.0,
+                                        563,
+                                        430.0
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        456.25,
+                        561,
+                        559
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                456.25,
+                                561,
+                                559
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        454,
+                                        561,
+                                        559
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                454,
+                                                561,
+                                                559
+                                            ],
+                                            "score": 0.9916516542434692,
+                                            "html": "<html><body><table><tr><td>711U Smokedetectorheadonly，photoelectric,two-wire</td><td></td><td>Compatibility</td></tr><tr><td>721UT</td><td>Smokedetectorheadonly,photoelectric,two-wire</td><td>Heads Bases 711U 701U,702U</td></tr><tr><td></td><td>w/integralheat,outputforremoteLED</td><td>731U 702RU</td></tr><tr><td>731U</td><td>Smokedetectorheadonly,photoelectric,two-wire, use702RUbaseforaux.relayfunctionality</td><td>741U 702U 713-5U</td></tr><tr><td>741U</td><td>Smokedetectorheadonly,photoelectric,four-wire</td><td>701U</td></tr><tr><td>701U</td><td>Smokedetectorbase,3terminals,6\"dia.</td><td rowspan=\"2\">Note:Basessoldseparately</td></tr><tr><td>702U</td><td>Smokedetectorbase,6terminals,6\"dia.</td></tr><tr><td></td><td>702RU Smokedetectorbase,6terminals,aux.relay,6\"dia.</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "a6796c3b623818c7c9ce5eb56b9640fadc864161411e3e27831c58f536d25cd3.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        456.25,
+                                        561,
+                                        490.5
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        490.5,
+                                        561,
+                                        524.75
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        524.75,
+                                        561,
+                                        559.0
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                }
+            ],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        31,
+                        750,
+                        70,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                30,
+                                749,
+                                71,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        30,
+                                        749,
+                                        71,
+                                        759
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        377,
+                        745,
+                        563,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                415,
+                                746,
+                                561,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        415,
+                                        749,
+                                        479,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        483,
+                                        746,
+                                        561,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                377,
+                                758,
+                                562,
+                                767
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        377,
+                                        758,
+                                        562,
+                                        767
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        214,
+                        85,
+                        357,
+                        98
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                84,
+                                356,
+                                99
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        84,
+                                        356,
+                                        99
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Technical Specifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        100,
+                        563,
+                        430
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                100,
+                                563,
+                                430
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        100,
+                                        563,
+                                        430
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                100,
+                                                563,
+                                                430
+                                            ],
+                                            "score": 0.9999474287033081,
+                                            "html": "<html><body><table><tr><td colspan=\"2\">Electrical</td></tr><tr><td>Voltage</td><td>8.5 - 33VDC, non polarity sensitive</td></tr><tr><td>Maximum ripple (peak to peak)</td><td>10% (Vp - p)</td></tr><tr><td>Typical standby current (24V)</td><td>70μA</td></tr><tr><td>Typical alarm current (24V)</td><td>up to 60 mA max, if not limited by control panel</td></tr><tr><td>Photoelectric Sensitivity</td><td>2.85%, + 0.37,-1.00%</td></tr><tr><td>Operating temperature</td><td>32°Fto 120°F(0°℃to 49°C)</td></tr><tr><td>Operating humidity range</td><td>0 to 95% Non-condensing</td></tr><tr><td>RFI immunity</td><td>20 V/m min; 0-1000 MHz</td></tr><tr><td>Remote LED output current</td><td>5mA min,8.5 mA max</td></tr><tr><td>Drift compensation adjustment</td><td>1.0%/ft. max</td></tr><tr><td>Compatibility</td><td>Heads:711U;Bases701U,702U</td></tr><tr><td>Environmental</td><td></td></tr><tr><td>Heat Sensor Ratings (721UT, 713-5U)</td><td>Fixed 135°F/ Rate of rise 15°F/min., >105°F (8.3°C/min.,</td></tr><tr><td>Maximum wind velocity</td><td>>40.6℃) 300 ft/min or</td></tr><tr><td>Field wiring size</td><td>12-18AWG</td></tr><tr><td>Remote test input (721UT)</td><td>100 ohm max</td></tr><tr><td>Reset voltage</td><td>2.5V max</td></tr><tr><td>Reset time</td><td>1 second max</td></tr><tr><td>UL two-wire compatibility identifier</td><td>S10A (711U,721UT, 713-5U)</td></tr><tr><td> Physical</td><td>S11A (731U)</td></tr><tr><td>Color</td><td>White head and base</td></tr><tr><td>Detector head dimensions</td><td>4\" D×1.75\" H (10cm × 4.44cm)</td></tr><tr><td>Base dimensions</td><td>701U, 702U: 6\"Dx.06\"H (15.24 cm x1.3 cm)</td></tr><tr><td>Total height, (head and base)</td><td>1.98\" (5 cm) H</td></tr><tr><td></td><td></td></tr><tr><td>Regulations Listing</td><td>UL 268,FM,CSFM,MEA approved</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "92672799cbe2ab6d06b9cce0a9ba5b896d67925bbd9f956796fab7a9b68b80e3.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        100,
+                                        563,
+                                        210.0
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        210.0,
+                                        563,
+                                        320.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        320.0,
+                                        563,
+                                        430.0
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        446,
+                        337,
+                        455.75
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                445,
+                                338,
+                                461
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        445,
+                                        338,
+                                        461
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        456.25,
+                        561,
+                        559
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                456.25,
+                                561,
+                                559
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        454,
+                                        561,
+                                        559
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                454,
+                                                561,
+                                                559
+                                            ],
+                                            "score": 0.9916516542434692,
+                                            "html": "<html><body><table><tr><td>711U Smokedetectorheadonly，photoelectric,two-wire</td><td></td><td>Compatibility</td></tr><tr><td>721UT</td><td>Smokedetectorheadonly,photoelectric,two-wire</td><td>Heads Bases 711U 701U,702U</td></tr><tr><td></td><td>w/integralheat,outputforremoteLED</td><td>731U 702RU</td></tr><tr><td>731U</td><td>Smokedetectorheadonly,photoelectric,two-wire, use702RUbaseforaux.relayfunctionality</td><td>741U 702U 713-5U</td></tr><tr><td>741U</td><td>Smokedetectorheadonly,photoelectric,four-wire</td><td>701U</td></tr><tr><td>701U</td><td>Smokedetectorbase,3terminals,6\"dia.</td><td rowspan=\"2\">Note:Basessoldseparately</td></tr><tr><td>702U</td><td>Smokedetectorbase,6terminals,6\"dia.</td></tr><tr><td></td><td>702RU Smokedetectorbase,6terminals,aux.relay,6\"dia.</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "a6796c3b623818c7c9ce5eb56b9640fadc864161411e3e27831c58f536d25cd3.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        456.25,
+                                        561,
+                                        490.5
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        490.5,
+                                        561,
+                                        524.75
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        524.75,
+                                        561,
+                                        559.0
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "txt",
+    "_version_name": "0.10.1"
+}

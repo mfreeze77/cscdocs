@@ -1,0 +1,2994 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        146,
+                        278,
+                        238
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                148,
+                                278,
+                                178
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        149,
+                                        171,
+                                        178
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Surface",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        178,
+                                        148,
+                                        278,
+                                        178
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Mount",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                184,
+                                150,
+                                218
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        184,
+                                        150,
+                                        218
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Boxes",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                217,
+                                255,
+                                239
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        217,
+                                        255,
+                                        239
+                                    ],
+                                    "score": 1.0,
+                                    "content": "27193 Series - Gang Type",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        358,
+                        106,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                358,
+                                106,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        358,
+                                        106,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        375,
+                        308,
+                        429
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                375,
+                                292,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        375,
+                                        292,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "EDWARDS 27193 Series Surface Mount Boxes are multi-gang",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                387,
+                                294,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        387,
+                                        294,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "utility boxes designed for surface mounting where a heavy-duty",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                398,
+                                303,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        398,
+                                        303,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "general purpose box is required. Devices can be mounted to pre-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                408,
+                                307,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        408,
+                                        307,
+                                        419
+                                    ],
+                                    "score": 1.0,
+                                    "content": "drilled and tapped (#6-32) holes in standard one-gang to five-gang",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                420,
+                                146,
+                                430
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        420,
+                                        146,
+                                        430
+                                    ],
+                                    "score": 1.0,
+                                    "content": "mounting configurations.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        436,
+                        304,
+                        467
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                436,
+                                303,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        436,
+                                        303,
+                                        446
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The 27193 boxes are finished in a durable baking enamel and are",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                447,
+                                294,
+                                457
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        447,
+                                        294,
+                                        457
+                                    ],
+                                    "score": 1.0,
+                                    "content": "available in two standard colors: white versions are available for",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                458,
+                                240,
+                                468
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        458,
+                                        240,
+                                        468
+                                    ],
+                                    "score": 1.0,
+                                    "content": "easy custom finishing to match the decor on site.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        474,
+                        304,
+                        538
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                473,
+                                300,
+                                485
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        473,
+                                        300,
+                                        485
+                                    ],
+                                    "score": 1.0,
+                                    "content": "They are constructed from heavy duty 16 gauge cold rolled steel",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                484,
+                                305,
+                                496
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        484,
+                                        305,
+                                        496
+                                    ],
+                                    "score": 1.0,
+                                    "content": "(CRS) for maximum durability. The 27193 boxes are easily surface",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                496,
+                                293,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        496,
+                                        293,
+                                        506
+                                    ],
+                                    "score": 1.0,
+                                    "content": "mounted with screws using the mounting holes provided in the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                507,
+                                304,
+                                517
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        507,
+                                        304,
+                                        517
+                                    ],
+                                    "score": 1.0,
+                                    "content": "back of the box. All boxes are provided with convenient combina-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                517,
+                                299,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        517,
+                                        299,
+                                        528
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tion 1/2 inch and 3/4 inch conduit knockouts on the top, bottom",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                528,
+                                282,
+                                539
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        528,
+                                        282,
+                                        539
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and rear side. Each box also includes a grounding provision.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 14.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        358,
+                        434,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                434,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        434,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 18
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        322,
+                        375,
+                        493,
+                        465
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                329,
+                                374,
+                                399,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        329,
+                                        374,
+                                        399,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "One to five gang",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                391,
+                                421,
+                                401
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        394,
+                                        327,
+                                        399
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        331,
+                                        391,
+                                        421,
+                                        401
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Fire red or bright white",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                407,
+                                414,
+                                417
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        410,
+                                        327,
+                                        415
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        332,
+                                        407,
+                                        414,
+                                        417
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Durable baked finish",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                423,
+                                473,
+                                434
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        425,
+                                        327,
+                                        430
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        333,
+                                        423,
+                                        473,
+                                        434
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Sturdy steel one-piece construction",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                439,
+                                413,
+                                449
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        439,
+                                        413,
+                                        449
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Grounding provision",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                323,
+                                454,
+                                492,
+                                464
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        457,
+                                        326,
+                                        461
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        333,
+                                        455,
+                                        384,
+                                        464
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Combination",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        384,
+                                        454,
+                                        394,
+                                        464
+                                    ],
+                                    "score": 0.59,
+                                    "content": "\\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        394,
+                                        455,
+                                        412,
+                                        464
+                                    ],
+                                    "score": 1.0,
+                                    "content": " inch",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        413,
+                                        454,
+                                        430,
+                                        464
+                                    ],
+                                    "score": 0.68,
+                                    "content": "\\&\\,\\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        430,
+                                        455,
+                                        492,
+                                        464
+                                    ],
+                                    "score": 1.0,
+                                    "content": " inch knockouts",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        }
+                    ],
+                    "index": 21.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        490,
+                        389,
+                        504
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                490,
+                                389,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        490,
+                                        389,
+                                        505
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Application",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        }
+                    ],
+                    "index": 25
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        507,
+                        570,
+                        529
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                506,
+                                570,
+                                518
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        506,
+                                        570,
+                                        518
+                                    ],
+                                    "score": 1.0,
+                                    "content": "These surface mount boxes are suited for a variety of uses includ-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                518,
+                                336,
+                                529
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        518,
+                                        336,
+                                        529
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ing:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        }
+                    ],
+                    "index": 26.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        320,
+                        534,
+                        554,
+                        596
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                534,
+                                529,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        534,
+                                        407,
+                                        545
+                                    ],
+                                    "score": 1.0,
+                                    "content": "End-of-Line Resistors",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        453,
+                                        534,
+                                        529,
+                                        545
+                                    ],
+                                    "score": 1.0,
+                                    "content": "One-gang Fire Red",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                546,
+                                552,
+                                558
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        547,
+                                        401,
+                                        558
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Manual Pull Stations",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        452,
+                                        546,
+                                        552,
+                                        558
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Halon Discharge Stations",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                559,
+                                519,
+                                572
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        559,
+                                        338,
+                                        572
+                                    ],
+                                    "score": 0.87,
+                                    "content": "\\mathsf{C O}_{2}",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        339,
+                                        559,
+                                        415,
+                                        572
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Discharge Stations\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        453,
+                                        559,
+                                        519,
+                                        572
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Two-gang White",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                572,
+                                518,
+                                584
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        572,
+                                        421,
+                                        584
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Signature Series Modules",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        453,
+                                        572,
+                                        518,
+                                        583
+                                    ],
+                                    "score": 1.0,
+                                    "content": "One-gang White",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                585,
+                                421,
+                                597
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        585,
+                                        421,
+                                        597
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Signature Series Modules",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 30
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        49,
+                        750,
+                        88,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                749,
+                                89,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        749,
+                                        89,
+                                        759
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        394,
+                        745,
+                        580,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                433,
+                                746,
+                                579,
+                                758
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        433,
+                                        749,
+                                        497,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        501,
+                                        746,
+                                        579,
+                                        758
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                394,
+                                758,
+                                580,
+                                767
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        394,
+                                        758,
+                                        580,
+                                        767
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        146,
+                        278,
+                        238
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                148,
+                                278,
+                                178
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        149,
+                                        171,
+                                        178
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Surface",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        178,
+                                        148,
+                                        278,
+                                        178
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Mount",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                184,
+                                150,
+                                218
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        184,
+                                        150,
+                                        218
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Boxes",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                47,
+                                217,
+                                255,
+                                239
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        47,
+                                        217,
+                                        255,
+                                        239
+                                    ],
+                                    "score": 1.0,
+                                    "content": "27193 Series - Gang Type",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        358,
+                        106,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                358,
+                                106,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        358,
+                                        106,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        375,
+                        308,
+                        429
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                375,
+                                292,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        375,
+                                        292,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "EDWARDS 27193 Series Surface Mount Boxes are multi-gang",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                387,
+                                294,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        387,
+                                        294,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "utility boxes designed for surface mounting where a heavy-duty",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                398,
+                                303,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        398,
+                                        303,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "general purpose box is required. Devices can be mounted to pre-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                408,
+                                307,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        408,
+                                        307,
+                                        419
+                                    ],
+                                    "score": 1.0,
+                                    "content": "drilled and tapped (#6-32) holes in standard one-gang to five-gang",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                420,
+                                146,
+                                430
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        420,
+                                        146,
+                                        430
+                                    ],
+                                    "score": 1.0,
+                                    "content": "mounting configurations.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 6,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        49,
+                        375,
+                        307,
+                        430
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        436,
+                        304,
+                        467
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                436,
+                                303,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        436,
+                                        303,
+                                        446
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The 27193 boxes are finished in a durable baking enamel and are",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                447,
+                                294,
+                                457
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        447,
+                                        294,
+                                        457
+                                    ],
+                                    "score": 1.0,
+                                    "content": "available in two standard colors: white versions are available for",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                458,
+                                240,
+                                468
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        458,
+                                        240,
+                                        468
+                                    ],
+                                    "score": 1.0,
+                                    "content": "easy custom finishing to match the decor on site.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 10,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        49,
+                        436,
+                        303,
+                        468
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        474,
+                        304,
+                        538
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                473,
+                                300,
+                                485
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        473,
+                                        300,
+                                        485
+                                    ],
+                                    "score": 1.0,
+                                    "content": "They are constructed from heavy duty 16 gauge cold rolled steel",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                484,
+                                305,
+                                496
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        484,
+                                        305,
+                                        496
+                                    ],
+                                    "score": 1.0,
+                                    "content": "(CRS) for maximum durability. The 27193 boxes are easily surface",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                496,
+                                293,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        496,
+                                        293,
+                                        506
+                                    ],
+                                    "score": 1.0,
+                                    "content": "mounted with screws using the mounting holes provided in the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                507,
+                                304,
+                                517
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        507,
+                                        304,
+                                        517
+                                    ],
+                                    "score": 1.0,
+                                    "content": "back of the box. All boxes are provided with convenient combina-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                517,
+                                299,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        517,
+                                        299,
+                                        528
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tion 1/2 inch and 3/4 inch conduit knockouts on the top, bottom",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                528,
+                                282,
+                                539
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        528,
+                                        282,
+                                        539
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and rear side. Each box also includes a grounding provision.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 14.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        49,
+                        473,
+                        305,
+                        539
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        358,
+                        434,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                434,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        434,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 18,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        322,
+                        375,
+                        493,
+                        465
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                329,
+                                374,
+                                399,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        329,
+                                        374,
+                                        399,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "One to five gang",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                391,
+                                421,
+                                401
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        394,
+                                        327,
+                                        399
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        331,
+                                        391,
+                                        421,
+                                        401
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Fire red or bright white",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                407,
+                                414,
+                                417
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        410,
+                                        327,
+                                        415
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        332,
+                                        407,
+                                        414,
+                                        417
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Durable baked finish",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                423,
+                                473,
+                                434
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        425,
+                                        327,
+                                        430
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        333,
+                                        423,
+                                        473,
+                                        434
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Sturdy steel one-piece construction",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                439,
+                                413,
+                                449
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        439,
+                                        413,
+                                        449
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Grounding provision",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                323,
+                                454,
+                                492,
+                                464
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        457,
+                                        326,
+                                        461
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        333,
+                                        455,
+                                        384,
+                                        464
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Combination",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        384,
+                                        454,
+                                        394,
+                                        464
+                                    ],
+                                    "score": 0.59,
+                                    "content": "\\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        394,
+                                        455,
+                                        412,
+                                        464
+                                    ],
+                                    "score": 1.0,
+                                    "content": " inch",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        413,
+                                        454,
+                                        430,
+                                        464
+                                    ],
+                                    "score": 0.68,
+                                    "content": "\\&\\,\\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        430,
+                                        455,
+                                        492,
+                                        464
+                                    ],
+                                    "score": 1.0,
+                                    "content": " inch knockouts",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24,
+                            "is_list_start_line": true
+                        }
+                    ],
+                    "index": 21.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        322,
+                        374,
+                        492,
+                        464
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        490,
+                        389,
+                        504
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                490,
+                                389,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        490,
+                                        389,
+                                        505
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Application",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        }
+                    ],
+                    "index": 25,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        507,
+                        570,
+                        529
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                506,
+                                570,
+                                518
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        506,
+                                        570,
+                                        518
+                                    ],
+                                    "score": 1.0,
+                                    "content": "These surface mount boxes are suited for a variety of uses includ-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                518,
+                                336,
+                                529
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        518,
+                                        336,
+                                        529
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ing:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        }
+                    ],
+                    "index": 26.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        321,
+                        506,
+                        570,
+                        529
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        320,
+                        534,
+                        554,
+                        596
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                534,
+                                529,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        534,
+                                        407,
+                                        545
+                                    ],
+                                    "score": 1.0,
+                                    "content": "End-of-Line Resistors",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        453,
+                                        534,
+                                        529,
+                                        545
+                                    ],
+                                    "score": 1.0,
+                                    "content": "One-gang Fire Red",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                546,
+                                552,
+                                558
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        547,
+                                        401,
+                                        558
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Manual Pull Stations",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        452,
+                                        546,
+                                        552,
+                                        558
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Halon Discharge Stations",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                559,
+                                519,
+                                572
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        559,
+                                        338,
+                                        572
+                                    ],
+                                    "score": 0.87,
+                                    "content": "\\mathsf{C O}_{2}",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        339,
+                                        559,
+                                        415,
+                                        572
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Discharge Stations\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        453,
+                                        559,
+                                        519,
+                                        572
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Two-gang White",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                572,
+                                518,
+                                584
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        572,
+                                        421,
+                                        584
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Signature Series Modules",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        453,
+                                        572,
+                                        518,
+                                        583
+                                    ],
+                                    "score": 1.0,
+                                    "content": "One-gang White",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                585,
+                                421,
+                                597
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        585,
+                                        421,
+                                        597
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Signature Series Modules",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 30,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        321,
+                        534,
+                        552,
+                        597
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        84,
+                        285,
+                        98
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                84,
+                                285,
+                                99
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        84,
+                                        285,
+                                        99
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Dimensions",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        212,
+                        103,
+                        540,
+                        324
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                212,
+                                103,
+                                540,
+                                324
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        103,
+                                        540,
+                                        324
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                212,
+                                                103,
+                                                540,
+                                                324
+                                            ],
+                                            "score": 0.9999868273735046,
+                                            "type": "image",
+                                            "image_path": "808fc941c30951221c9e338235767de5318e6a663e5c93139a545abe93ba1a56.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        103,
+                                        540,
+                                        176.66666666666669
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        212,
+                                        176.66666666666669,
+                                        540,
+                                        250.33333333333337
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        212,
+                                        250.33333333333337,
+                                        540,
+                                        324.00000000000006
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        357,
+                        338,
+                        371
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                356,
+                                338,
+                                373
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        356,
+                                        338,
+                                        373
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        212,
+                        379,
+                        564,
+                        467
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                212,
+                                379,
+                                564,
+                                467
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        379,
+                                        564,
+                                        467
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                212,
+                                                379,
+                                                564,
+                                                467
+                                            ],
+                                            "score": 0.9998793601989746,
+                                            "html": "<html><body><table><tr><td>Color/Finish</td><td>1-gang</td><td>2-gang</td></tr><tr><td>FireRed</td><td>27193-11</td><td>27193-21</td></tr><tr><td>BrightWhite</td><td>27193-16</td><td>27193-26</td></tr><tr><td>27193-11-NY</td><td colspan=\"2\">Red single-gang surface box without bottom knockout, for New York CitySchool Construction Authority</td></tr><tr><td colspan=\"2\"></td><td></td></tr><tr><td>BoxSize</td><td>1-gang</td><td>2-gang</td></tr><tr><td>Ship Weight - Ibs. (kg)</td><td>1 (0.4)</td><td>2 (0.8)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "3a7ef0a810a353b11a0a8b3df26ea2540e76f3cffe6e503c08abe61f4ac2ebd7.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        379,
+                                        564,
+                                        408.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        212,
+                                        408.3333333333333,
+                                        564,
+                                        437.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        212,
+                                        437.66666666666663,
+                                        564,
+                                        466.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 1,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        212,
+                        103,
+                        540,
+                        324
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                212,
+                                103,
+                                540,
+                                324
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        103,
+                                        540,
+                                        324
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                212,
+                                                103,
+                                                540,
+                                                324
+                                            ],
+                                            "score": 0.9999868273735046,
+                                            "type": "image",
+                                            "image_path": "808fc941c30951221c9e338235767de5318e6a663e5c93139a545abe93ba1a56.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        103,
+                                        540,
+                                        176.66666666666669
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        212,
+                                        176.66666666666669,
+                                        540,
+                                        250.33333333333337
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        212,
+                                        250.33333333333337,
+                                        540,
+                                        324.00000000000006
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                }
+            ],
+            "tables": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        212,
+                        379,
+                        564,
+                        467
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                212,
+                                379,
+                                564,
+                                467
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        379,
+                                        564,
+                                        467
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                212,
+                                                379,
+                                                564,
+                                                467
+                                            ],
+                                            "score": 0.9998793601989746,
+                                            "html": "<html><body><table><tr><td>Color/Finish</td><td>1-gang</td><td>2-gang</td></tr><tr><td>FireRed</td><td>27193-11</td><td>27193-21</td></tr><tr><td>BrightWhite</td><td>27193-16</td><td>27193-26</td></tr><tr><td>27193-11-NY</td><td colspan=\"2\">Red single-gang surface box without bottom knockout, for New York CitySchool Construction Authority</td></tr><tr><td colspan=\"2\"></td><td></td></tr><tr><td>BoxSize</td><td>1-gang</td><td>2-gang</td></tr><tr><td>Ship Weight - Ibs. (kg)</td><td>1 (0.4)</td><td>2 (0.8)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "3a7ef0a810a353b11a0a8b3df26ea2540e76f3cffe6e503c08abe61f4ac2ebd7.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        379,
+                                        564,
+                                        408.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        212,
+                                        408.3333333333333,
+                                        564,
+                                        437.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        212,
+                                        437.66666666666663,
+                                        564,
+                                        466.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                }
+            ],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        31,
+                        750,
+                        70,
+                        757
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                30,
+                                749,
+                                72,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        30,
+                                        749,
+                                        72,
+                                        759
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        378,
+                        745,
+                        563,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                415,
+                                746,
+                                562,
+                                758
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        415,
+                                        749,
+                                        480,
+                                        758
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        482,
+                                        746,
+                                        562,
+                                        758
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                376,
+                                758,
+                                563,
+                                767
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        376,
+                                        758,
+                                        563,
+                                        767
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        606,
+                        734,
+                        612,
+                        760
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                605,
+                                733,
+                                614,
+                                762
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        605,
+                                        733,
+                                        614,
+                                        762
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        84,
+                        285,
+                        98
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                84,
+                                285,
+                                99
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        84,
+                                        285,
+                                        99
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Dimensions",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        212,
+                        103,
+                        540,
+                        324
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                212,
+                                103,
+                                540,
+                                324
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        103,
+                                        540,
+                                        324
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                212,
+                                                103,
+                                                540,
+                                                324
+                                            ],
+                                            "score": 0.9999868273735046,
+                                            "type": "image",
+                                            "image_path": "808fc941c30951221c9e338235767de5318e6a663e5c93139a545abe93ba1a56.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        103,
+                                        540,
+                                        176.66666666666669
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        212,
+                                        176.66666666666669,
+                                        540,
+                                        250.33333333333337
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        212,
+                                        250.33333333333337,
+                                        540,
+                                        324.00000000000006
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        357,
+                        338,
+                        371
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                356,
+                                338,
+                                373
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        356,
+                                        338,
+                                        373
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        212,
+                        379,
+                        564,
+                        467
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                212,
+                                379,
+                                564,
+                                467
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        379,
+                                        564,
+                                        467
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                212,
+                                                379,
+                                                564,
+                                                467
+                                            ],
+                                            "score": 0.9998793601989746,
+                                            "html": "<html><body><table><tr><td>Color/Finish</td><td>1-gang</td><td>2-gang</td></tr><tr><td>FireRed</td><td>27193-11</td><td>27193-21</td></tr><tr><td>BrightWhite</td><td>27193-16</td><td>27193-26</td></tr><tr><td>27193-11-NY</td><td colspan=\"2\">Red single-gang surface box without bottom knockout, for New York CitySchool Construction Authority</td></tr><tr><td colspan=\"2\"></td><td></td></tr><tr><td>BoxSize</td><td>1-gang</td><td>2-gang</td></tr><tr><td>Ship Weight - Ibs. (kg)</td><td>1 (0.4)</td><td>2 (0.8)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "3a7ef0a810a353b11a0a8b3df26ea2540e76f3cffe6e503c08abe61f4ac2ebd7.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        379,
+                                        564,
+                                        408.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        212,
+                                        408.3333333333333,
+                                        564,
+                                        437.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        212,
+                                        437.66666666666663,
+                                        564,
+                                        466.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "txt",
+    "_version_name": "0.10.1"
+}

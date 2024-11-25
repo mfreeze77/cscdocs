@@ -1,0 +1,3826 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        48,
+                        145,
+                        254,
+                        273
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                150,
+                                179,
+                                178
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        150,
+                                        179,
+                                        178
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Portable",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                184,
+                                253,
+                                218
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        184,
+                                        253,
+                                        218
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Loudspeaker",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                220,
+                                167,
+                                254
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        220,
+                                        167,
+                                        254
+                                    ],
+                                    "score": 1.0,
+                                    "content": "System",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                255,
+                                132,
+                                271
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        255,
+                                        132,
+                                        271
+                                    ],
+                                    "score": 1.0,
+                                    "content": "MN-HSPB",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 1.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        358,
+                        106,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                358,
+                                107,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        358,
+                                        107,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        48,
+                        375,
+                        275,
+                        429
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                376,
+                                268,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        376,
+                                        268,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The MN-HSPB is a self-contained, portable loudspeaker",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                387,
+                                273,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        387,
+                                        273,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "system that weighs a mere 15 lbs. Despite its light weight,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                397,
+                                262,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        397,
+                                        262,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "the MN-HSPB packs a peak acoustic output of 144dB",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                408,
+                                251,
+                                420
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        408,
+                                        251,
+                                        420
+                                    ],
+                                    "score": 1.0,
+                                    "content": "for an intelligible communication range of more than",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                420,
+                                124,
+                                429
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        420,
+                                        124,
+                                        429
+                                    ],
+                                    "score": 1.0,
+                                    "content": "2,450 feet (750 m).",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        48,
+                        435,
+                        276,
+                        500
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                436,
+                                243,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        436,
+                                        243,
+                                        446
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The MN-HSPB penetrates high background noise",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                448,
+                                258,
+                                456
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        448,
+                                        258,
+                                        456
+                                    ],
+                                    "score": 1.0,
+                                    "content": "environments to ensure that unmistakable commands",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                459,
+                                266,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        459,
+                                        266,
+                                        467
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and piercing alert tones are heard. Exceeding traditional",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                469,
+                                270,
+                                479
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        469,
+                                        270,
+                                        479
+                                    ],
+                                    "score": 1.0,
+                                    "content": "megaphones and common loudspeakers, the MN-HSPB",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                480,
+                                255,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        480,
+                                        255,
+                                        489
+                                    ],
+                                    "score": 1.0,
+                                    "content": "brings clear and intelligible messages to the intended",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                491,
+                                275,
+                                500
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        491,
+                                        275,
+                                        500
+                                    ],
+                                    "score": 1.0,
+                                    "content": "recipients with an exceptional STI rating of 0.85 out of 1.0.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 12.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        506,
+                        278,
+                        560
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                506,
+                                257,
+                                517
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        506,
+                                        257,
+                                        517
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The MN-HSPB is equipped with internal rechargeable",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                517,
+                                250,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        517,
+                                        250,
+                                        528
+                                    ],
+                                    "score": 1.0,
+                                    "content": "batteries and includes a built-in high frequency alert",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                528,
+                                268,
+                                538
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        528,
+                                        268,
+                                        538
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tone that is activated with an easily-accessible on-board",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                539,
+                                258,
+                                550
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        539,
+                                        258,
+                                        550
+                                    ],
+                                    "score": 1.0,
+                                    "content": "pushbutton. Accessories include mounting options, a ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                551,
+                                277,
+                                560
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        551,
+                                        277,
+                                        560
+                                    ],
+                                    "score": 1.0,
+                                    "content": "phone app for remote control capability, and a transit case.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        }
+                    ],
+                    "index": 18
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        358,
+                        434,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                433,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        433,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 21
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        375,
+                        480,
+                        532
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                376,
+                                469,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        376,
+                                        469,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t 144 dB SPL Peak Acoustic Output",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                391,
+                                418,
+                                404
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        391,
+                                        385,
+                                        404
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Long Range:",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        385,
+                                        391,
+                                        407,
+                                        401
+                                    ],
+                                    "score": 0.68,
+                                    "content": "750+",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        407,
+                                        391,
+                                        418,
+                                        404
+                                    ],
+                                    "score": 1.0,
+                                    "content": " m",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                407,
+                                478,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        407,
+                                        427,
+                                        419
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Narrow Acoustic Beam:",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        427,
+                                        407,
+                                        444,
+                                        417
+                                    ],
+                                    "score": 0.72,
+                                    "content": "\\pm15",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        445,
+                                        407,
+                                        478,
+                                        419
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Degrees",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                423,
+                                456,
+                                435
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        423,
+                                        456,
+                                        435
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Frequency Range: 400Hz-7Khz",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                325,
+                                440,
+                                451,
+                                451
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        325,
+                                        440,
+                                        451,
+                                        451
+                                    ],
+                                    "score": 1.0,
+                                    "content": "\t Highly Intelligible Voice Output",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                456,
+                                410,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        456,
+                                        410,
+                                        466
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t STI: 0.85 out of 1.0",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                323,
+                                472,
+                                465,
+                                483
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        475,
+                                        327,
+                                        480
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        331,
+                                        472,
+                                        465,
+                                        483
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Built-in High Frequency Alert Tone",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                487,
+                                409,
+                                500
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        487,
+                                        409,
+                                        500
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Lightweight Design",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                504,
+                                462,
+                                515
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        504,
+                                        462,
+                                        515
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Rugged Composite Construction",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                520,
+                                473,
+                                531
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        520,
+                                        473,
+                                        531
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Integrated Record/Play Functionality",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        }
+                    ],
+                    "index": 26.5
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        394,
+                        745,
+                        581,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                434,
+                                746,
+                                579,
+                                758
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        434,
+                                        749,
+                                        497,
+                                        758
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        501,
+                                        746,
+                                        579,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                394,
+                                758,
+                                581,
+                                767
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        394,
+                                        758,
+                                        581,
+                                        767
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        49,
+                        749,
+                        88,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                749,
+                                89,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        749,
+                                        89,
+                                        759
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        48,
+                        145,
+                        254,
+                        273
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                150,
+                                179,
+                                178
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        150,
+                                        179,
+                                        178
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Portable",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                184,
+                                253,
+                                218
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        184,
+                                        253,
+                                        218
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Loudspeaker",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                220,
+                                167,
+                                254
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        220,
+                                        167,
+                                        254
+                                    ],
+                                    "score": 1.0,
+                                    "content": "System",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                255,
+                                132,
+                                271
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        255,
+                                        132,
+                                        271
+                                    ],
+                                    "score": 1.0,
+                                    "content": "MN-HSPB",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 1.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        358,
+                        106,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                358,
+                                107,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        358,
+                                        107,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        48,
+                        375,
+                        275,
+                        429
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                376,
+                                268,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        376,
+                                        268,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The MN-HSPB is a self-contained, portable loudspeaker",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                387,
+                                273,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        387,
+                                        273,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "system that weighs a mere 15 lbs. Despite its light weight,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                397,
+                                262,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        397,
+                                        262,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "the MN-HSPB packs a peak acoustic output of 144dB",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                408,
+                                251,
+                                420
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        408,
+                                        251,
+                                        420
+                                    ],
+                                    "score": 1.0,
+                                    "content": "for an intelligible communication range of more than",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                420,
+                                124,
+                                429
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        420,
+                                        124,
+                                        429
+                                    ],
+                                    "score": 1.0,
+                                    "content": "2,450 feet (750 m).",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 7,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        48,
+                        376,
+                        273,
+                        429
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        48,
+                        435,
+                        276,
+                        500
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                436,
+                                243,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        436,
+                                        243,
+                                        446
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The MN-HSPB penetrates high background noise",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                448,
+                                258,
+                                456
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        448,
+                                        258,
+                                        456
+                                    ],
+                                    "score": 1.0,
+                                    "content": "environments to ensure that unmistakable commands",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                459,
+                                266,
+                                467
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        459,
+                                        266,
+                                        467
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and piercing alert tones are heard. Exceeding traditional",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                469,
+                                270,
+                                479
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        469,
+                                        270,
+                                        479
+                                    ],
+                                    "score": 1.0,
+                                    "content": "megaphones and common loudspeakers, the MN-HSPB",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                480,
+                                255,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        480,
+                                        255,
+                                        489
+                                    ],
+                                    "score": 1.0,
+                                    "content": "brings clear and intelligible messages to the intended",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                491,
+                                275,
+                                500
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        491,
+                                        275,
+                                        500
+                                    ],
+                                    "score": 1.0,
+                                    "content": "recipients with an exceptional STI rating of 0.85 out of 1.0.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 12.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        49,
+                        436,
+                        275,
+                        500
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        506,
+                        278,
+                        560
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                506,
+                                257,
+                                517
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        506,
+                                        257,
+                                        517
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The MN-HSPB is equipped with internal rechargeable",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                517,
+                                250,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        517,
+                                        250,
+                                        528
+                                    ],
+                                    "score": 1.0,
+                                    "content": "batteries and includes a built-in high frequency alert",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                528,
+                                268,
+                                538
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        528,
+                                        268,
+                                        538
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tone that is activated with an easily-accessible on-board",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                539,
+                                258,
+                                550
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        539,
+                                        258,
+                                        550
+                                    ],
+                                    "score": 1.0,
+                                    "content": "pushbutton. Accessories include mounting options, a ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                551,
+                                277,
+                                560
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        551,
+                                        277,
+                                        560
+                                    ],
+                                    "score": 1.0,
+                                    "content": "phone app for remote control capability, and a transit case.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        }
+                    ],
+                    "index": 18,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        48,
+                        506,
+                        277,
+                        560
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        358,
+                        434,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                433,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        433,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 21,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        321,
+                        375,
+                        480,
+                        532
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                376,
+                                469,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        376,
+                                        469,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t 144 dB SPL Peak Acoustic Output",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                391,
+                                418,
+                                404
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        391,
+                                        385,
+                                        404
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Long Range:",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        385,
+                                        391,
+                                        407,
+                                        401
+                                    ],
+                                    "score": 0.68,
+                                    "content": "750+",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        407,
+                                        391,
+                                        418,
+                                        404
+                                    ],
+                                    "score": 1.0,
+                                    "content": " m",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                407,
+                                478,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        407,
+                                        427,
+                                        419
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Narrow Acoustic Beam:",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        427,
+                                        407,
+                                        444,
+                                        417
+                                    ],
+                                    "score": 0.72,
+                                    "content": "\\pm15",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        445,
+                                        407,
+                                        478,
+                                        419
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Degrees",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                423,
+                                456,
+                                435
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        423,
+                                        456,
+                                        435
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Frequency Range: 400Hz-7Khz",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                325,
+                                440,
+                                451,
+                                451
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        325,
+                                        440,
+                                        451,
+                                        451
+                                    ],
+                                    "score": 1.0,
+                                    "content": "\t Highly Intelligible Voice Output",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                456,
+                                410,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        456,
+                                        410,
+                                        466
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t STI: 0.85 out of 1.0",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                323,
+                                472,
+                                465,
+                                483
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        475,
+                                        327,
+                                        480
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        331,
+                                        472,
+                                        465,
+                                        483
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Built-in High Frequency Alert Tone",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                487,
+                                409,
+                                500
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        487,
+                                        409,
+                                        500
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Lightweight Design",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                504,
+                                462,
+                                515
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        504,
+                                        462,
+                                        515
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Rugged Composite Construction",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                520,
+                                473,
+                                531
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        520,
+                                        473,
+                                        531
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Integrated Record/Play Functionality",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31,
+                            "is_list_start_line": true
+                        }
+                    ],
+                    "index": 26.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        321,
+                        376,
+                        478,
+                        531
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        85,
+                        282,
+                        98
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                84,
+                                281,
+                                99
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        84,
+                                        281,
+                                        99
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Application",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        212,
+                        101,
+                        309,
+                        161
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                214,
+                                101,
+                                289,
+                                112
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        104,
+                                        218,
+                                        110
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        230,
+                                        101,
+                                        289,
+                                        112
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Crowd Control",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                214,
+                                115,
+                                309,
+                                128
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        120,
+                                        218,
+                                        127
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        230,
+                                        115,
+                                        309,
+                                        128
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Search and Rescue",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                214,
+                                133,
+                                298,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        137,
+                                        217,
+                                        140
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        230,
+                                        133,
+                                        298,
+                                        144
+                                    ],
+                                    "score": 1.0,
+                                    "content": "First Responders",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                214,
+                                149,
+                                301,
+                                160
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        153,
+                                        217,
+                                        156
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        230,
+                                        149,
+                                        301,
+                                        160
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Law Enforcement",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 2.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        325,
+                        100,
+                        461,
+                        159
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                326,
+                                99,
+                                448,
+                                113
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        326,
+                                        103,
+                                        331,
+                                        110
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        343,
+                                        99,
+                                        448,
+                                        113
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Campus and Public Safety",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                326,
+                                116,
+                                461,
+                                128
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        326,
+                                        119,
+                                        331,
+                                        127
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        343,
+                                        116,
+                                        461,
+                                        128
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Emergency and Event Control",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                326,
+                                132,
+                                442,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        326,
+                                        135,
+                                        331,
+                                        141
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        343,
+                                        132,
+                                        442,
+                                        144
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Maritime Communication",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                326,
+                                149,
+                                451,
+                                159
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        326,
+                                        151,
+                                        330,
+                                        156
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        343,
+                                        149,
+                                        451,
+                                        159
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Border and Port Protection.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 6.5
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        465,
+                        53,
+                        576,
+                        188
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                465,
+                                53,
+                                576,
+                                188
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        465,
+                                        53,
+                                        576,
+                                        188
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                465,
+                                                53,
+                                                576,
+                                                188
+                                            ],
+                                            "score": 0.9999882578849792,
+                                            "type": "image",
+                                            "image_path": "f493eba408f27102c47cd36076cf01a7aa1f1aff44ddb59dc61c9ba1f0b6dc67.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        465,
+                                        53,
+                                        576,
+                                        188
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        214,
+                        199,
+                        563,
+                        470
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                214,
+                                199,
+                                563,
+                                470
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        199,
+                                        563,
+                                        470
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                199,
+                                                563,
+                                                470
+                                            ],
+                                            "score": 0.9999061822891235,
+                                            "html": "<html><body><table><tr><td>PortableLoudspeaker System</td><td>MN-HSPB-S Standard Output</td><td>MN-HSPB-H High Output</td></tr><tr><td colspan=\"3\">Acoustic</td></tr><tr><td>Sound Pressure Level (peak)</td><td>136dB A-weighted @ 1m</td><td>144dB A-weighted @ 1m</td></tr><tr><td>Usable Range</td><td>400+m</td><td>750+m</td></tr><tr><td>Beam Width</td><td colspan=\"2\">±15 degrees</td></tr><tr><td>Frequency Range</td><td colspan=\"2\">400Hz-7kHz</td></tr><tr><td>STI (at range)</td><td colspan=\"2\">0.85</td></tr><tr><td colspan=\"3\">Power Requirements</td></tr><tr><td>Power</td><td colspan=\"2\">Internal rechargeable battery pack</td></tr><tr><td>Battery Life</td><td>15 hours @ duty cycle</td><td>8 hours @ duty cycle</td></tr><tr><td>Battery Charge Time</td><td colspan=\"2\">4.5 hours</td></tr><tr><td colspan=\"3\">Physical Specifications</td></tr><tr><td>Dimensions</td><td colspan=\"2\">13.5 in H× 12.5 in Lx 10.0 in W (34.3 cm Hx31.8cmLx25.4 cm W)</td></tr><tr><td>Weight</td><td>12lbs</td><td>15lbs</td></tr><tr><td>Housing Material</td><td colspan=\"2\">Flame retardant UV stable composite</td></tr><tr><td>Color</td><td colspan=\"2\">Black</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>Environmental Ingress Protection</td><td colspan=\"2\">IP65,NEMA3R</td></tr><tr><td>Operating Temperature</td><td colspan=\"2\">-20 to 60°C(-4 to 140 °F)</td></tr><tr><td></td><td colspan=\"2\"></td></tr><tr><td>Humidity Range</td><td colspan=\"2\">0-75% non-condensing</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "7d6e3450317dac164708e53169d716c3b3f99827938407656804a58b0f91c1c9.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        199,
+                                        563,
+                                        289.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        289.3333333333333,
+                                        563,
+                                        379.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        379.66666666666663,
+                                        563,
+                                        469.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table_caption",
+                            "bbox": [
+                                212,
+                                183,
+                                298,
+                                197
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        182,
+                                        298,
+                                        199
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                212,
+                                                182,
+                                                298,
+                                                199
+                                            ],
+                                            "score": 1.0,
+                                            "content": "Specifications",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 9
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 10.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        487,
+                        338,
+                        500
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                486,
+                                338,
+                                502
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        486,
+                                        338,
+                                        502
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        217,
+                        505,
+                        462,
+                        526
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                217,
+                                505,
+                                462,
+                                526
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        217,
+                                        505,
+                                        462,
+                                        526
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                217,
+                                                505,
+                                                462,
+                                                526
+                                            ],
+                                            "score": 0.9706473350524902,
+                                            "html": "<html><body><table><tr><td>MN-HSPB-S HSHandHeldPortablespeaker</td></tr><tr><td>MN-HSPB-H HS Hand Held Port speaker HO (high output)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "fec2a23afafe51a002a9e28169491fe7ee86cf6378f364bf5dc9eefe7aff6d44.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 15,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        217,
+                                        505,
+                                        462,
+                                        526
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        214,
+                        545.25,
+                        562,
+                        700
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                214,
+                                545.25,
+                                562,
+                                700
+                            ],
+                            "group_id": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        545,
+                                        562,
+                                        700
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                545,
+                                                562,
+                                                700
+                                            ],
+                                            "score": 0.9998828172683716,
+                                            "html": "<html><body><table><tr><td></td><td></td></tr><tr><td>MN-HSPMIC-S</td><td>ModelSMicrophone(replacement)</td></tr><tr><td>MN-HSPMIC-H</td><td>ModelH Microphone(replacement)</td></tr><tr><td>MN-HSPMICHS</td><td>WiredBoom(Headset)Microphone</td></tr><tr><td>MN-HSPSS</td><td>ShoulderStrap(ComeswithModelH.UseifyouwanttoaddtoModelS.)</td></tr><tr><td>MN-HSPWALL</td><td>WallCharger</td></tr><tr><td>MN-HSPLIC</td><td>ReplacementLineInCable</td></tr><tr><td>MN-HSPACCBAG</td><td>AccessoryBag(ComeswithModelH.UseifyouwanttoaddtoModelS.)</td></tr><tr><td>MN-HSPCHARGEKIT</td><td>s</td></tr><tr><td>MN-HSPMP3</td><td>MP3Player</td></tr><tr><td>MN-HSPACCPOUCH</td><td>AccessoryPocket</td></tr><tr><td>MN-HSPSOFTCASE</td><td>SoftCase</td></tr><tr><td>MN-HSPPHTC</td><td>HardTransitCase</td></tr><tr><td>MN-HSPUMMT</td><td>Magneticmountwithtripodadaptor</td></tr><tr><td>MN-HSPTRIPOD</td><td>Tripod for Model Sor H</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "971bf25b908c3b0fe2dc6eb73000f5617db1e5db0e699cebec9de65905abd9d2.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 18,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        545.25,
+                                        562,
+                                        596.8333333333334
+                                    ],
+                                    "spans": [],
+                                    "index": 17
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        596.8333333333334,
+                                        562,
+                                        648.4166666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 18
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        648.4166666666667,
+                                        562,
+                                        700.0000000000001
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table_caption",
+                            "bbox": [
+                                216,
+                                538,
+                                265,
+                                544.75
+                            ],
+                            "group_id": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        216,
+                                        538,
+                                        265,
+                                        547
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                216,
+                                                538,
+                                                265,
+                                                547
+                                            ],
+                                            "score": 1.0,
+                                            "content": "Accessories",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 16
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 17.0
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 1,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        465,
+                        53,
+                        576,
+                        188
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                465,
+                                53,
+                                576,
+                                188
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        465,
+                                        53,
+                                        576,
+                                        188
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                465,
+                                                53,
+                                                576,
+                                                188
+                                            ],
+                                            "score": 0.9999882578849792,
+                                            "type": "image",
+                                            "image_path": "f493eba408f27102c47cd36076cf01a7aa1f1aff44ddb59dc61c9ba1f0b6dc67.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        465,
+                                        53,
+                                        576,
+                                        188
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                }
+            ],
+            "tables": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        214,
+                        199,
+                        563,
+                        470
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                214,
+                                199,
+                                563,
+                                470
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        199,
+                                        563,
+                                        470
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                199,
+                                                563,
+                                                470
+                                            ],
+                                            "score": 0.9999061822891235,
+                                            "html": "<html><body><table><tr><td>PortableLoudspeaker System</td><td>MN-HSPB-S Standard Output</td><td>MN-HSPB-H High Output</td></tr><tr><td colspan=\"3\">Acoustic</td></tr><tr><td>Sound Pressure Level (peak)</td><td>136dB A-weighted @ 1m</td><td>144dB A-weighted @ 1m</td></tr><tr><td>Usable Range</td><td>400+m</td><td>750+m</td></tr><tr><td>Beam Width</td><td colspan=\"2\">±15 degrees</td></tr><tr><td>Frequency Range</td><td colspan=\"2\">400Hz-7kHz</td></tr><tr><td>STI (at range)</td><td colspan=\"2\">0.85</td></tr><tr><td colspan=\"3\">Power Requirements</td></tr><tr><td>Power</td><td colspan=\"2\">Internal rechargeable battery pack</td></tr><tr><td>Battery Life</td><td>15 hours @ duty cycle</td><td>8 hours @ duty cycle</td></tr><tr><td>Battery Charge Time</td><td colspan=\"2\">4.5 hours</td></tr><tr><td colspan=\"3\">Physical Specifications</td></tr><tr><td>Dimensions</td><td colspan=\"2\">13.5 in H× 12.5 in Lx 10.0 in W (34.3 cm Hx31.8cmLx25.4 cm W)</td></tr><tr><td>Weight</td><td>12lbs</td><td>15lbs</td></tr><tr><td>Housing Material</td><td colspan=\"2\">Flame retardant UV stable composite</td></tr><tr><td>Color</td><td colspan=\"2\">Black</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>Environmental Ingress Protection</td><td colspan=\"2\">IP65,NEMA3R</td></tr><tr><td>Operating Temperature</td><td colspan=\"2\">-20 to 60°C(-4 to 140 °F)</td></tr><tr><td></td><td colspan=\"2\"></td></tr><tr><td>Humidity Range</td><td colspan=\"2\">0-75% non-condensing</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "7d6e3450317dac164708e53169d716c3b3f99827938407656804a58b0f91c1c9.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        199,
+                                        563,
+                                        289.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        289.3333333333333,
+                                        563,
+                                        379.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        379.66666666666663,
+                                        563,
+                                        469.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table_caption",
+                            "bbox": [
+                                212,
+                                183,
+                                298,
+                                197
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        182,
+                                        298,
+                                        199
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                212,
+                                                182,
+                                                298,
+                                                199
+                                            ],
+                                            "score": 1.0,
+                                            "content": "Specifications",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 9
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 10.5
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        217,
+                        505,
+                        462,
+                        526
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                217,
+                                505,
+                                462,
+                                526
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        217,
+                                        505,
+                                        462,
+                                        526
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                217,
+                                                505,
+                                                462,
+                                                526
+                                            ],
+                                            "score": 0.9706473350524902,
+                                            "html": "<html><body><table><tr><td>MN-HSPB-S HSHandHeldPortablespeaker</td></tr><tr><td>MN-HSPB-H HS Hand Held Port speaker HO (high output)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "fec2a23afafe51a002a9e28169491fe7ee86cf6378f364bf5dc9eefe7aff6d44.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 15,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        217,
+                                        505,
+                                        462,
+                                        526
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        214,
+                        545.25,
+                        562,
+                        700
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                214,
+                                545.25,
+                                562,
+                                700
+                            ],
+                            "group_id": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        545,
+                                        562,
+                                        700
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                545,
+                                                562,
+                                                700
+                                            ],
+                                            "score": 0.9998828172683716,
+                                            "html": "<html><body><table><tr><td></td><td></td></tr><tr><td>MN-HSPMIC-S</td><td>ModelSMicrophone(replacement)</td></tr><tr><td>MN-HSPMIC-H</td><td>ModelH Microphone(replacement)</td></tr><tr><td>MN-HSPMICHS</td><td>WiredBoom(Headset)Microphone</td></tr><tr><td>MN-HSPSS</td><td>ShoulderStrap(ComeswithModelH.UseifyouwanttoaddtoModelS.)</td></tr><tr><td>MN-HSPWALL</td><td>WallCharger</td></tr><tr><td>MN-HSPLIC</td><td>ReplacementLineInCable</td></tr><tr><td>MN-HSPACCBAG</td><td>AccessoryBag(ComeswithModelH.UseifyouwanttoaddtoModelS.)</td></tr><tr><td>MN-HSPCHARGEKIT</td><td>s</td></tr><tr><td>MN-HSPMP3</td><td>MP3Player</td></tr><tr><td>MN-HSPACCPOUCH</td><td>AccessoryPocket</td></tr><tr><td>MN-HSPSOFTCASE</td><td>SoftCase</td></tr><tr><td>MN-HSPPHTC</td><td>HardTransitCase</td></tr><tr><td>MN-HSPUMMT</td><td>Magneticmountwithtripodadaptor</td></tr><tr><td>MN-HSPTRIPOD</td><td>Tripod for Model Sor H</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "971bf25b908c3b0fe2dc6eb73000f5617db1e5db0e699cebec9de65905abd9d2.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 18,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        545.25,
+                                        562,
+                                        596.8333333333334
+                                    ],
+                                    "spans": [],
+                                    "index": 17
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        596.8333333333334,
+                                        562,
+                                        648.4166666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 18
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        648.4166666666667,
+                                        562,
+                                        700.0000000000001
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table_caption",
+                            "bbox": [
+                                216,
+                                538,
+                                265,
+                                544.75
+                            ],
+                            "group_id": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        216,
+                                        538,
+                                        265,
+                                        547
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                216,
+                                                538,
+                                                265,
+                                                547
+                                            ],
+                                            "score": 1.0,
+                                            "content": "Accessories",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 16
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 17.0
+                }
+            ],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        31,
+                        750,
+                        70,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                30,
+                                749,
+                                71,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        30,
+                                        749,
+                                        71,
+                                        759
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        378,
+                        745,
+                        564,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                416,
+                                746,
+                                561,
+                                758
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        416,
+                                        749,
+                                        479,
+                                        758
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        482,
+                                        746,
+                                        561,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                376,
+                                758,
+                                563,
+                                767
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        376,
+                                        758,
+                                        563,
+                                        767
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        605,
+                        734,
+                        612,
+                        760
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                604,
+                                733,
+                                613,
+                                762
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        604,
+                                        733,
+                                        613,
+                                        762
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        85,
+                        282,
+                        98
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                84,
+                                281,
+                                99
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        84,
+                                        281,
+                                        99
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Application",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        212,
+                        101,
+                        309,
+                        161
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                214,
+                                101,
+                                289,
+                                112
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        104,
+                                        218,
+                                        110
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        230,
+                                        101,
+                                        289,
+                                        112
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Crowd Control",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                214,
+                                115,
+                                309,
+                                128
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        120,
+                                        218,
+                                        127
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        230,
+                                        115,
+                                        309,
+                                        128
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Search and Rescue",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                214,
+                                133,
+                                298,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        137,
+                                        217,
+                                        140
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        230,
+                                        133,
+                                        298,
+                                        144
+                                    ],
+                                    "score": 1.0,
+                                    "content": "First Responders",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                214,
+                                149,
+                                301,
+                                160
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        153,
+                                        217,
+                                        156
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        230,
+                                        149,
+                                        301,
+                                        160
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Law Enforcement",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                326,
+                                99,
+                                448,
+                                113
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        326,
+                                        103,
+                                        331,
+                                        110
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        343,
+                                        99,
+                                        448,
+                                        113
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Campus and Public Safety",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                326,
+                                116,
+                                461,
+                                128
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        326,
+                                        119,
+                                        331,
+                                        127
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        343,
+                                        116,
+                                        461,
+                                        128
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Emergency and Event Control",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                326,
+                                132,
+                                442,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        326,
+                                        135,
+                                        331,
+                                        141
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        343,
+                                        132,
+                                        442,
+                                        144
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Maritime Communication",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                326,
+                                149,
+                                451,
+                                159
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        326,
+                                        151,
+                                        330,
+                                        156
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        343,
+                                        149,
+                                        451,
+                                        159
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Border and Port Protection.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 2.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        214,
+                        101,
+                        309,
+                        160
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        325,
+                        100,
+                        461,
+                        159
+                    ],
+                    "lines": [],
+                    "index": 6.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        326,
+                        99,
+                        461,
+                        159
+                    ],
+                    "lines_deleted": true
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        465,
+                        53,
+                        576,
+                        188
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                465,
+                                53,
+                                576,
+                                188
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        465,
+                                        53,
+                                        576,
+                                        188
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                465,
+                                                53,
+                                                576,
+                                                188
+                                            ],
+                                            "score": 0.9999882578849792,
+                                            "type": "image",
+                                            "image_path": "f493eba408f27102c47cd36076cf01a7aa1f1aff44ddb59dc61c9ba1f0b6dc67.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        465,
+                                        53,
+                                        576,
+                                        188
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        214,
+                        199,
+                        563,
+                        470
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                214,
+                                199,
+                                563,
+                                470
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        199,
+                                        563,
+                                        470
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                199,
+                                                563,
+                                                470
+                                            ],
+                                            "score": 0.9999061822891235,
+                                            "html": "<html><body><table><tr><td>PortableLoudspeaker System</td><td>MN-HSPB-S Standard Output</td><td>MN-HSPB-H High Output</td></tr><tr><td colspan=\"3\">Acoustic</td></tr><tr><td>Sound Pressure Level (peak)</td><td>136dB A-weighted @ 1m</td><td>144dB A-weighted @ 1m</td></tr><tr><td>Usable Range</td><td>400+m</td><td>750+m</td></tr><tr><td>Beam Width</td><td colspan=\"2\">±15 degrees</td></tr><tr><td>Frequency Range</td><td colspan=\"2\">400Hz-7kHz</td></tr><tr><td>STI (at range)</td><td colspan=\"2\">0.85</td></tr><tr><td colspan=\"3\">Power Requirements</td></tr><tr><td>Power</td><td colspan=\"2\">Internal rechargeable battery pack</td></tr><tr><td>Battery Life</td><td>15 hours @ duty cycle</td><td>8 hours @ duty cycle</td></tr><tr><td>Battery Charge Time</td><td colspan=\"2\">4.5 hours</td></tr><tr><td colspan=\"3\">Physical Specifications</td></tr><tr><td>Dimensions</td><td colspan=\"2\">13.5 in H× 12.5 in Lx 10.0 in W (34.3 cm Hx31.8cmLx25.4 cm W)</td></tr><tr><td>Weight</td><td>12lbs</td><td>15lbs</td></tr><tr><td>Housing Material</td><td colspan=\"2\">Flame retardant UV stable composite</td></tr><tr><td>Color</td><td colspan=\"2\">Black</td></tr><tr><td colspan=\"3\"></td></tr><tr><td>Environmental Ingress Protection</td><td colspan=\"2\">IP65,NEMA3R</td></tr><tr><td>Operating Temperature</td><td colspan=\"2\">-20 to 60°C(-4 to 140 °F)</td></tr><tr><td></td><td colspan=\"2\"></td></tr><tr><td>Humidity Range</td><td colspan=\"2\">0-75% non-condensing</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "7d6e3450317dac164708e53169d716c3b3f99827938407656804a58b0f91c1c9.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        199,
+                                        563,
+                                        289.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        289.3333333333333,
+                                        563,
+                                        379.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        379.66666666666663,
+                                        563,
+                                        469.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table_caption",
+                            "bbox": [
+                                212,
+                                183,
+                                298,
+                                197
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        182,
+                                        298,
+                                        199
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                212,
+                                                182,
+                                                298,
+                                                199
+                                            ],
+                                            "score": 1.0,
+                                            "content": "Specifications",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 9
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 10.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        487,
+                        338,
+                        500
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                486,
+                                338,
+                                502
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        486,
+                                        338,
+                                        502
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 14,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        217,
+                        505,
+                        462,
+                        526
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                217,
+                                505,
+                                462,
+                                526
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        217,
+                                        505,
+                                        462,
+                                        526
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                217,
+                                                505,
+                                                462,
+                                                526
+                                            ],
+                                            "score": 0.9706473350524902,
+                                            "html": "<html><body><table><tr><td>MN-HSPB-S HSHandHeldPortablespeaker</td></tr><tr><td>MN-HSPB-H HS Hand Held Port speaker HO (high output)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "fec2a23afafe51a002a9e28169491fe7ee86cf6378f364bf5dc9eefe7aff6d44.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 15,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        217,
+                                        505,
+                                        462,
+                                        526
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 15,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        214,
+                        545.25,
+                        562,
+                        700
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                214,
+                                545.25,
+                                562,
+                                700
+                            ],
+                            "group_id": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        545,
+                                        562,
+                                        700
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                545,
+                                                562,
+                                                700
+                                            ],
+                                            "score": 0.9998828172683716,
+                                            "html": "<html><body><table><tr><td></td><td></td></tr><tr><td>MN-HSPMIC-S</td><td>ModelSMicrophone(replacement)</td></tr><tr><td>MN-HSPMIC-H</td><td>ModelH Microphone(replacement)</td></tr><tr><td>MN-HSPMICHS</td><td>WiredBoom(Headset)Microphone</td></tr><tr><td>MN-HSPSS</td><td>ShoulderStrap(ComeswithModelH.UseifyouwanttoaddtoModelS.)</td></tr><tr><td>MN-HSPWALL</td><td>WallCharger</td></tr><tr><td>MN-HSPLIC</td><td>ReplacementLineInCable</td></tr><tr><td>MN-HSPACCBAG</td><td>AccessoryBag(ComeswithModelH.UseifyouwanttoaddtoModelS.)</td></tr><tr><td>MN-HSPCHARGEKIT</td><td>s</td></tr><tr><td>MN-HSPMP3</td><td>MP3Player</td></tr><tr><td>MN-HSPACCPOUCH</td><td>AccessoryPocket</td></tr><tr><td>MN-HSPSOFTCASE</td><td>SoftCase</td></tr><tr><td>MN-HSPPHTC</td><td>HardTransitCase</td></tr><tr><td>MN-HSPUMMT</td><td>Magneticmountwithtripodadaptor</td></tr><tr><td>MN-HSPTRIPOD</td><td>Tripod for Model Sor H</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "971bf25b908c3b0fe2dc6eb73000f5617db1e5db0e699cebec9de65905abd9d2.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 18,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        545.25,
+                                        562,
+                                        596.8333333333334
+                                    ],
+                                    "spans": [],
+                                    "index": 17
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        596.8333333333334,
+                                        562,
+                                        648.4166666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 18
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        648.4166666666667,
+                                        562,
+                                        700.0000000000001
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table_caption",
+                            "bbox": [
+                                216,
+                                538,
+                                265,
+                                544.75
+                            ],
+                            "group_id": 2,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        216,
+                                        538,
+                                        265,
+                                        547
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                216,
+                                                538,
+                                                265,
+                                                547
+                                            ],
+                                            "score": 1.0,
+                                            "content": "Accessories",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 16
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 17.0,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "txt",
+    "_version_name": "0.10.1"
+}

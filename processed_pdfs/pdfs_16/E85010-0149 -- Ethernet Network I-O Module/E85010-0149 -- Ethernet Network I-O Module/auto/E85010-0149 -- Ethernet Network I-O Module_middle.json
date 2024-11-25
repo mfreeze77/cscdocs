@@ -1,0 +1,4404 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        145,
+                        322,
+                        237
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                148,
+                                321,
+                                179
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        148,
+                                        184,
+                                        179
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ethernet",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        189,
+                                        150,
+                                        321,
+                                        178
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Network",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                182,
+                                223,
+                                216
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        182,
+                                        223,
+                                        216
+                                    ],
+                                    "score": 1.0,
+                                    "content": "I/O Module",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                219,
+                                159,
+                                235
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        219,
+                                        159,
+                                        235
+                                    ],
+                                    "score": 1.0,
+                                    "content": "MN-NETRLY4",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        358,
+                        106,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                358,
+                                106,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        358,
+                                        106,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        375,
+                        306,
+                        440
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                376,
+                                295,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        376,
+                                        295,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The EDWARDS MN-NETLRY4 Network Relay provides four un-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                387,
+                                304,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        387,
+                                        304,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "supervised input zones and four normally-open relays to and from",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                397,
+                                305,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        397,
+                                        305,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "FireWorks V1.6 or greater over an Ethernet (TCP/IP) network. This",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                409,
+                                297,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        409,
+                                        297,
+                                        419
+                                    ],
+                                    "score": 1.0,
+                                    "content": "module is particularly well-suited for mass notification, life safety",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                420,
+                                305,
+                                430
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        420,
+                                        305,
+                                        430
+                                    ],
+                                    "score": 1.0,
+                                    "content": "applications, and other monitoring or output applications. It is also",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                430,
+                                213,
+                                441
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        430,
+                                        213,
+                                        441
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ideal for interfacing to third-party systems.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 6.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        446,
+                        304,
+                        500
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                447,
+                                305,
+                                457
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        447,
+                                        305,
+                                        457
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The MN-NETRLY4’s four input zones may be configured as Alarm,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                457,
+                                290,
+                                469
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        457,
+                                        290,
+                                        469
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Supervisory, Trouble, or Monitor inputs directly into FireWorks.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                468,
+                                300,
+                                480
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        468,
+                                        300,
+                                        480
+                                    ],
+                                    "score": 1.0,
+                                    "content": "These can initiate display events and trigger FireWorks logic. The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                480,
+                                302,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        480,
+                                        302,
+                                        489
+                                    ],
+                                    "score": 1.0,
+                                    "content": "wiring for these zones is limited to 20 ft (6.1 m), and must be me-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                489,
+                                273,
+                                501
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        489,
+                                        273,
+                                        501
+                                    ],
+                                    "score": 1.0,
+                                    "content": "chanically protected in accordance with applicable codes.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        506,
+                        291,
+                        538
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                506,
+                                289,
+                                517
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        506,
+                                        289,
+                                        517
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The four normally-open relays are controlled directly from Fire-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                516,
+                                291,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        516,
+                                        291,
+                                        528
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Works. These can be programmed to respond to automatic or",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                529,
+                                167,
+                                538
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        529,
+                                        167,
+                                        538
+                                    ],
+                                    "score": 1.0,
+                                    "content": "manual FireWorks commands.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 16
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        544,
+                        301,
+                        566
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                545,
+                                300,
+                                555
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        545,
+                                        300,
+                                        555
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Data communication to and from the MN-NETLRY4 is constantly",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                556,
+                                273,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        556,
+                                        273,
+                                        567
+                                    ],
+                                    "score": 1.0,
+                                    "content": "supervised from FireWorks. A fixed IP address is required.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        }
+                    ],
+                    "index": 18.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        571,
+                        308,
+                        637
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                572,
+                                293,
+                                583
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        572,
+                                        293,
+                                        583
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The MN-NETRLY4 snaps easily onto the included DIN rail (MN-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                583,
+                                308,
+                                593
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        583,
+                                        308,
+                                        593
+                                    ],
+                                    "score": 1.0,
+                                    "content": "NRBK1) mounting bracket that can be mounted in an 2-WB, EST3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                595,
+                                302,
+                                604
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        595,
+                                        302,
+                                        604
+                                    ],
+                                    "score": 1.0,
+                                    "content": "(on MN-BRKT1), MFC-A, APS(6)(10)A (on MN-BRKT3), or BPS(6)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                605,
+                                301,
+                                615
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        605,
+                                        301,
+                                        615
+                                    ],
+                                    "score": 1.0,
+                                    "content": "(10)A enclosure.  An optional MN-NRMP is also available that will",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                617,
+                                289,
+                                625
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        617,
+                                        289,
+                                        625
+                                    ],
+                                    "score": 1.0,
+                                    "content": "allow two MN-NETLRY4s to be mounted on an MN-BRKT1 in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                627,
+                                137,
+                                636
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        627,
+                                        137,
+                                        636
+                                    ],
+                                    "score": 1.0,
+                                    "content": "place of an MN-FVPN.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        }
+                    ],
+                    "index": 22.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        358,
+                        433,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                434,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        434,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        }
+                    ],
+                    "index": 26
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        322,
+                        376,
+                        572,
+                        448
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                322,
+                                375,
+                                433,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        379,
+                                        328,
+                                        383
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        331,
+                                        375,
+                                        433,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Flexible mounting options",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                323,
+                                390,
+                                571,
+                                403
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        394,
+                                        327,
+                                        399
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        329,
+                                        390,
+                                        571,
+                                        403
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Powered by 24 Vdc from control panel or listed power supply",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                323,
+                                407,
+                                402,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        410,
+                                        327,
+                                        415
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        330,
+                                        407,
+                                        402,
+                                        419
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Easy to configure",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                323,
+                                422,
+                                434,
+                                434
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        426,
+                                        326,
+                                        430
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        331,
+                                        422,
+                                        434,
+                                        434
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Removable terminal strips",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                439,
+                                479,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        439,
+                                        479,
+                                        450
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Optional MN-TK10 Terminal Block Kit",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        }
+                    ],
+                    "index": 29
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        474,
+                        389,
+                        487
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                474,
+                                389,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        474,
+                                        389,
+                                        489
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Application",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 32
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        491,
+                        579,
+                        555
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                491,
+                                578,
+                                502
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        491,
+                                        578,
+                                        502
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The MN-NETLRY4 can be used to connect to a third-party system",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                502,
+                                570,
+                                513
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        502,
+                                        570,
+                                        513
+                                    ],
+                                    "score": 1.0,
+                                    "content": "to bring common Alarm, Supervisory and Trouble signals directly",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                513,
+                                568,
+                                523
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        513,
+                                        568,
+                                        523
+                                    ],
+                                    "score": 1.0,
+                                    "content": "to FireWorks. The MN-NETRLY4 is also ideal for providing com-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                524,
+                                571,
+                                534
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        524,
+                                        571,
+                                        534
+                                    ],
+                                    "score": 1.0,
+                                    "content": "mands and receiving confirmation signals to and from third-party",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                535,
+                                571,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        535,
+                                        571,
+                                        545
+                                    ],
+                                    "score": 1.0,
+                                    "content": "systems, or any application where a high concentration of inputs",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                546,
+                                420,
+                                556
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        546,
+                                        420,
+                                        556
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and outputs are required.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        }
+                    ],
+                    "index": 35.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        562,
+                        577,
+                        594
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                561,
+                                568,
+                                573
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        561,
+                                        568,
+                                        573
+                                    ],
+                                    "score": 1.0,
+                                    "content": "When interfacing the MN-NETRLY4 to an initiating device circuit",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                573,
+                                577,
+                                584
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        573,
+                                        577,
+                                        584
+                                    ],
+                                    "score": 1.0,
+                                    "content": "from a third-party control panel, an MN-TK10 Terminal Block Kit is",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                584,
+                                356,
+                                595
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        584,
+                                        356,
+                                        595
+                                    ],
+                                    "score": 1.0,
+                                    "content": "required.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        }
+                    ],
+                    "index": 40
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        49,
+                        750,
+                        88,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                749,
+                                90,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        749,
+                                        90,
+                                        759
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        395,
+                        745,
+                        580,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                433,
+                                747,
+                                579,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        433,
+                                        749,
+                                        497,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        501,
+                                        747,
+                                        579,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                394,
+                                758,
+                                581,
+                                768
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        394,
+                                        758,
+                                        581,
+                                        768
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        145,
+                        322,
+                        237
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                52,
+                                148,
+                                321,
+                                179
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        148,
+                                        184,
+                                        179
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ethernet",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        189,
+                                        150,
+                                        321,
+                                        178
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Network",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                182,
+                                223,
+                                216
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        182,
+                                        223,
+                                        216
+                                    ],
+                                    "score": 1.0,
+                                    "content": "I/O Module",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                219,
+                                159,
+                                235
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        219,
+                                        159,
+                                        235
+                                    ],
+                                    "score": 1.0,
+                                    "content": "MN-NETRLY4",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        358,
+                        106,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                358,
+                                106,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        358,
+                                        106,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        375,
+                        306,
+                        440
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                376,
+                                295,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        376,
+                                        295,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The EDWARDS MN-NETLRY4 Network Relay provides four un-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                387,
+                                304,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        387,
+                                        304,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "supervised input zones and four normally-open relays to and from",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                397,
+                                305,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        397,
+                                        305,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "FireWorks V1.6 or greater over an Ethernet (TCP/IP) network. This",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                409,
+                                297,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        409,
+                                        297,
+                                        419
+                                    ],
+                                    "score": 1.0,
+                                    "content": "module is particularly well-suited for mass notification, life safety",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                420,
+                                305,
+                                430
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        420,
+                                        305,
+                                        430
+                                    ],
+                                    "score": 1.0,
+                                    "content": "applications, and other monitoring or output applications. It is also",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                430,
+                                213,
+                                441
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        430,
+                                        213,
+                                        441
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ideal for interfacing to third-party systems.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 6.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        48,
+                        376,
+                        305,
+                        441
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        446,
+                        304,
+                        500
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                447,
+                                305,
+                                457
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        447,
+                                        305,
+                                        457
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The MN-NETRLY4’s four input zones may be configured as Alarm,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                457,
+                                290,
+                                469
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        457,
+                                        290,
+                                        469
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Supervisory, Trouble, or Monitor inputs directly into FireWorks.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                468,
+                                300,
+                                480
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        468,
+                                        300,
+                                        480
+                                    ],
+                                    "score": 1.0,
+                                    "content": "These can initiate display events and trigger FireWorks logic. The",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                480,
+                                302,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        480,
+                                        302,
+                                        489
+                                    ],
+                                    "score": 1.0,
+                                    "content": "wiring for these zones is limited to 20 ft (6.1 m), and must be me-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                489,
+                                273,
+                                501
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        489,
+                                        273,
+                                        501
+                                    ],
+                                    "score": 1.0,
+                                    "content": "chanically protected in accordance with applicable codes.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 12,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        48,
+                        447,
+                        305,
+                        501
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        506,
+                        291,
+                        538
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                506,
+                                289,
+                                517
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        506,
+                                        289,
+                                        517
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The four normally-open relays are controlled directly from Fire-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                516,
+                                291,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        516,
+                                        291,
+                                        528
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Works. These can be programmed to respond to automatic or",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                529,
+                                167,
+                                538
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        529,
+                                        167,
+                                        538
+                                    ],
+                                    "score": 1.0,
+                                    "content": "manual FireWorks commands.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 16,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        48,
+                        506,
+                        291,
+                        538
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        544,
+                        301,
+                        566
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                545,
+                                300,
+                                555
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        545,
+                                        300,
+                                        555
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Data communication to and from the MN-NETLRY4 is constantly",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                556,
+                                273,
+                                567
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        556,
+                                        273,
+                                        567
+                                    ],
+                                    "score": 1.0,
+                                    "content": "supervised from FireWorks. A fixed IP address is required.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        }
+                    ],
+                    "index": 18.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        49,
+                        545,
+                        300,
+                        567
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        571,
+                        308,
+                        637
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                572,
+                                293,
+                                583
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        572,
+                                        293,
+                                        583
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The MN-NETRLY4 snaps easily onto the included DIN rail (MN-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                583,
+                                308,
+                                593
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        583,
+                                        308,
+                                        593
+                                    ],
+                                    "score": 1.0,
+                                    "content": "NRBK1) mounting bracket that can be mounted in an 2-WB, EST3",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                595,
+                                302,
+                                604
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        595,
+                                        302,
+                                        604
+                                    ],
+                                    "score": 1.0,
+                                    "content": "(on MN-BRKT1), MFC-A, APS(6)(10)A (on MN-BRKT3), or BPS(6)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                605,
+                                301,
+                                615
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        605,
+                                        301,
+                                        615
+                                    ],
+                                    "score": 1.0,
+                                    "content": "(10)A enclosure.  An optional MN-NRMP is also available that will",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                617,
+                                289,
+                                625
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        617,
+                                        289,
+                                        625
+                                    ],
+                                    "score": 1.0,
+                                    "content": "allow two MN-NETLRY4s to be mounted on an MN-BRKT1 in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                627,
+                                137,
+                                636
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        627,
+                                        137,
+                                        636
+                                    ],
+                                    "score": 1.0,
+                                    "content": "place of an MN-FVPN.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        }
+                    ],
+                    "index": 22.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        49,
+                        572,
+                        308,
+                        636
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        358,
+                        433,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                434,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        434,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        }
+                    ],
+                    "index": 26,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        322,
+                        376,
+                        572,
+                        448
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                322,
+                                375,
+                                433,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        379,
+                                        328,
+                                        383
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        331,
+                                        375,
+                                        433,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Flexible mounting options",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                323,
+                                390,
+                                571,
+                                403
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        394,
+                                        327,
+                                        399
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        329,
+                                        390,
+                                        571,
+                                        403
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Powered by 24 Vdc from control panel or listed power supply",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                323,
+                                407,
+                                402,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        410,
+                                        327,
+                                        415
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        330,
+                                        407,
+                                        402,
+                                        419
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Easy to configure",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                323,
+                                422,
+                                434,
+                                434
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        426,
+                                        326,
+                                        430
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        331,
+                                        422,
+                                        434,
+                                        434
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Removable terminal strips",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                439,
+                                479,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        439,
+                                        479,
+                                        450
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Optional MN-TK10 Terminal Block Kit",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 29,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        322,
+                        375,
+                        571,
+                        450
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        474,
+                        389,
+                        487
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                474,
+                                389,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        474,
+                                        389,
+                                        489
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Application",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 32,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        491,
+                        579,
+                        555
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                491,
+                                578,
+                                502
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        491,
+                                        578,
+                                        502
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The MN-NETLRY4 can be used to connect to a third-party system",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                502,
+                                570,
+                                513
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        502,
+                                        570,
+                                        513
+                                    ],
+                                    "score": 1.0,
+                                    "content": "to bring common Alarm, Supervisory and Trouble signals directly",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                513,
+                                568,
+                                523
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        513,
+                                        568,
+                                        523
+                                    ],
+                                    "score": 1.0,
+                                    "content": "to FireWorks. The MN-NETRLY4 is also ideal for providing com-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                524,
+                                571,
+                                534
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        524,
+                                        571,
+                                        534
+                                    ],
+                                    "score": 1.0,
+                                    "content": "mands and receiving confirmation signals to and from third-party",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                535,
+                                571,
+                                545
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        535,
+                                        571,
+                                        545
+                                    ],
+                                    "score": 1.0,
+                                    "content": "systems, or any application where a high concentration of inputs",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                546,
+                                420,
+                                556
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        546,
+                                        420,
+                                        556
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and outputs are required.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        }
+                    ],
+                    "index": 35.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        320,
+                        491,
+                        578,
+                        556
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        562,
+                        577,
+                        594
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                561,
+                                568,
+                                573
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        561,
+                                        568,
+                                        573
+                                    ],
+                                    "score": 1.0,
+                                    "content": "When interfacing the MN-NETRLY4 to an initiating device circuit",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                573,
+                                577,
+                                584
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        573,
+                                        577,
+                                        584
+                                    ],
+                                    "score": 1.0,
+                                    "content": "from a third-party control panel, an MN-TK10 Terminal Block Kit is",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                584,
+                                356,
+                                595
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        584,
+                                        356,
+                                        595
+                                    ],
+                                    "score": 1.0,
+                                    "content": "required.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        }
+                    ],
+                    "index": 40,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        321,
+                        561,
+                        577,
+                        595
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        215,
+                        83,
+                        543,
+                        291
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                215,
+                                83,
+                                543,
+                                291
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        215,
+                                        83,
+                                        543,
+                                        291
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                215,
+                                                83,
+                                                543,
+                                                291
+                                            ],
+                                            "score": 0.9999949336051941,
+                                            "type": "image",
+                                            "image_path": "ad5b37d6282636df4b2ad5a00ff0041cb5733c2c1a74cf2bd8f1b78cfc835ebb.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        215,
+                                        83,
+                                        543,
+                                        152.33333333333331
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        152.33333333333331,
+                                        543,
+                                        221.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        221.66666666666663,
+                                        543,
+                                        290.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        213,
+                        299,
+                        560,
+                        451
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                213,
+                                299,
+                                560,
+                                451
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        219,
+                                        299,
+                                        560,
+                                        451
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                219,
+                                                299,
+                                                560,
+                                                451
+                                            ],
+                                            "score": 0.99998539686203,
+                                            "type": "image",
+                                            "image_path": "4d65d648e141471488e2726ffb3afb1d42090aa661de1fddf06de5a80269b483.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        299,
+                                        560,
+                                        349.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        349.6666666666667,
+                                        560,
+                                        400.33333333333337
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        400.33333333333337,
+                                        560,
+                                        451.00000000000006
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        478,
+                        383,
+                        681
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                478,
+                                383,
+                                681
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        478,
+                                        383,
+                                        681
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                478,
+                                                383,
+                                                681
+                                            ],
+                                            "score": 0.9454776644706726,
+                                            "html": "<html><body><table><tr><td>Voltage 18to28VDC</td></tr><tr><td>95 mA standby, 152.5 mA Current withallrelays active</td></tr><tr><td>Form A,programmable,24 Contacts VDC@0.5Aresistive</td></tr><tr><td>Housing Polymer</td></tr><tr><td>UL864,UL2572,CSFM,See Listings note 1</td></tr><tr><td>NetworkInterface</td></tr><tr><td>Connector RJ-45</td></tr><tr><td>Cable Type Cat5orbetter</td></tr><tr><td>10/100Mbps,TCP/IP,auto Data negotiating</td></tr><tr><td>Operatingenvironment</td></tr><tr><td>Temperature 32to120F(0to49℃)</td></tr><tr><td>0 to 93%RH,noncondensing Humidity at 90 F (32 °C)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "f4cb4b6e9313c60b7a0fe377ff23428303f5d6c84fbfd4eedc65f45566369d90.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        478,
+                                        383,
+                                        492.5
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        492.5,
+                                        383,
+                                        507.0
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        507.0,
+                                        383,
+                                        521.5
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        521.5,
+                                        383,
+                                        536.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        536.0,
+                                        383,
+                                        550.5
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        550.5,
+                                        383,
+                                        565.0
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        565.0,
+                                        383,
+                                        579.5
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        579.5,
+                                        383,
+                                        594.0
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        594.0,
+                                        383,
+                                        608.5
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        608.5,
+                                        383,
+                                        623.0
+                                    ],
+                                    "spans": [],
+                                    "index": 16
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        623.0,
+                                        383,
+                                        637.5
+                                    ],
+                                    "spans": [],
+                                    "index": 17
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        637.5,
+                                        383,
+                                        652.0
+                                    ],
+                                    "spans": [],
+                                    "index": 18
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        652.0,
+                                        383,
+                                        666.5
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        666.5,
+                                        383,
+                                        681.0
+                                    ],
+                                    "spans": [],
+                                    "index": 20
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        681.0,
+                                        383,
+                                        695.5
+                                    ],
+                                    "spans": [],
+                                    "index": 21
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table_caption",
+                            "bbox": [
+                                213,
+                                463,
+                                297,
+                                476
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        463,
+                                        298,
+                                        477
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                463,
+                                                298,
+                                                477
+                                            ],
+                                            "score": 1.0,
+                                            "content": "Specifications",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 6
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 10.0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        393,
+                        467,
+                        518,
+                        480
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                393,
+                                466,
+                                519,
+                                481
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        393,
+                                        466,
+                                        519,
+                                        481
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        }
+                    ],
+                    "index": 22
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        393,
+                        484,
+                        561,
+                        645
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                393,
+                                484,
+                                561,
+                                645
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        393,
+                                        484,
+                                        561,
+                                        645
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                393,
+                                                484,
+                                                561,
+                                                645
+                                            ],
+                                            "score": 0.9997596740722656,
+                                            "html": "<html><body><table><tr><td>MN-NETRLY4</td><td>EthernetcontrollablemultiI/O unit,4input4relayoutputs</td></tr><tr><td>MN-NETSW1</td><td>ULListedMultimodeEthernet switch</td></tr><tr><td>MN-NRBK1</td><td>Replacementmountingbracket withend-capsforsingleMN- NETRLY4(onecomeswith eachMN-NETRLY4)</td></tr><tr><td>MN-NRMP</td><td>Mountingplateto allowupto 2MN-NETRLY4modulestobe mountedonanMN-BRKT1</td></tr><tr><td>MN-TK10</td><td>10positionterminalkit</td></tr><tr><td>ULListedMN-NETSW1switches</td><td>Note1:TheMN-NETRLY4islistedforconnection toadedicatedEthernetnetworkmadeupFireWorks computers,MN-COM1Sunitsthatareconnectedto</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "b28780a167319202cb246833879ed92a2494243defe464e79e82e4a33b103c68.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 28.5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        393,
+                                        484,
+                                        561,
+                                        498.5
+                                    ],
+                                    "spans": [],
+                                    "index": 23
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        498.5,
+                                        561,
+                                        513.0
+                                    ],
+                                    "spans": [],
+                                    "index": 24
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        513.0,
+                                        561,
+                                        527.5
+                                    ],
+                                    "spans": [],
+                                    "index": 25
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        527.5,
+                                        561,
+                                        542.0
+                                    ],
+                                    "spans": [],
+                                    "index": 26
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        542.0,
+                                        561,
+                                        556.5
+                                    ],
+                                    "spans": [],
+                                    "index": 27
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        556.5,
+                                        561,
+                                        571.0
+                                    ],
+                                    "spans": [],
+                                    "index": 28
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        571.0,
+                                        561,
+                                        585.5
+                                    ],
+                                    "spans": [],
+                                    "index": 29
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        585.5,
+                                        561,
+                                        600.0
+                                    ],
+                                    "spans": [],
+                                    "index": 30
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        600.0,
+                                        561,
+                                        614.5
+                                    ],
+                                    "spans": [],
+                                    "index": 31
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        614.5,
+                                        561,
+                                        629.0
+                                    ],
+                                    "spans": [],
+                                    "index": 32
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        629.0,
+                                        561,
+                                        643.5
+                                    ],
+                                    "spans": [],
+                                    "index": 33
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        643.5,
+                                        561,
+                                        658.0
+                                    ],
+                                    "spans": [],
+                                    "index": 34
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 28.5
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 1,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        215,
+                        83,
+                        543,
+                        291
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                215,
+                                83,
+                                543,
+                                291
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        215,
+                                        83,
+                                        543,
+                                        291
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                215,
+                                                83,
+                                                543,
+                                                291
+                                            ],
+                                            "score": 0.9999949336051941,
+                                            "type": "image",
+                                            "image_path": "ad5b37d6282636df4b2ad5a00ff0041cb5733c2c1a74cf2bd8f1b78cfc835ebb.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        215,
+                                        83,
+                                        543,
+                                        152.33333333333331
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        152.33333333333331,
+                                        543,
+                                        221.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        221.66666666666663,
+                                        543,
+                                        290.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        213,
+                        299,
+                        560,
+                        451
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                213,
+                                299,
+                                560,
+                                451
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        219,
+                                        299,
+                                        560,
+                                        451
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                219,
+                                                299,
+                                                560,
+                                                451
+                                            ],
+                                            "score": 0.99998539686203,
+                                            "type": "image",
+                                            "image_path": "4d65d648e141471488e2726ffb3afb1d42090aa661de1fddf06de5a80269b483.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        299,
+                                        560,
+                                        349.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        349.6666666666667,
+                                        560,
+                                        400.33333333333337
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        400.33333333333337,
+                                        560,
+                                        451.00000000000006
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "tables": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        478,
+                        383,
+                        681
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                478,
+                                383,
+                                681
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        478,
+                                        383,
+                                        681
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                478,
+                                                383,
+                                                681
+                                            ],
+                                            "score": 0.9454776644706726,
+                                            "html": "<html><body><table><tr><td>Voltage 18to28VDC</td></tr><tr><td>95 mA standby, 152.5 mA Current withallrelays active</td></tr><tr><td>Form A,programmable,24 Contacts VDC@0.5Aresistive</td></tr><tr><td>Housing Polymer</td></tr><tr><td>UL864,UL2572,CSFM,See Listings note 1</td></tr><tr><td>NetworkInterface</td></tr><tr><td>Connector RJ-45</td></tr><tr><td>Cable Type Cat5orbetter</td></tr><tr><td>10/100Mbps,TCP/IP,auto Data negotiating</td></tr><tr><td>Operatingenvironment</td></tr><tr><td>Temperature 32to120F(0to49℃)</td></tr><tr><td>0 to 93%RH,noncondensing Humidity at 90 F (32 °C)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "f4cb4b6e9313c60b7a0fe377ff23428303f5d6c84fbfd4eedc65f45566369d90.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        478,
+                                        383,
+                                        492.5
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        492.5,
+                                        383,
+                                        507.0
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        507.0,
+                                        383,
+                                        521.5
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        521.5,
+                                        383,
+                                        536.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        536.0,
+                                        383,
+                                        550.5
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        550.5,
+                                        383,
+                                        565.0
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        565.0,
+                                        383,
+                                        579.5
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        579.5,
+                                        383,
+                                        594.0
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        594.0,
+                                        383,
+                                        608.5
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        608.5,
+                                        383,
+                                        623.0
+                                    ],
+                                    "spans": [],
+                                    "index": 16
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        623.0,
+                                        383,
+                                        637.5
+                                    ],
+                                    "spans": [],
+                                    "index": 17
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        637.5,
+                                        383,
+                                        652.0
+                                    ],
+                                    "spans": [],
+                                    "index": 18
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        652.0,
+                                        383,
+                                        666.5
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        666.5,
+                                        383,
+                                        681.0
+                                    ],
+                                    "spans": [],
+                                    "index": 20
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        681.0,
+                                        383,
+                                        695.5
+                                    ],
+                                    "spans": [],
+                                    "index": 21
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table_caption",
+                            "bbox": [
+                                213,
+                                463,
+                                297,
+                                476
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        463,
+                                        298,
+                                        477
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                463,
+                                                298,
+                                                477
+                                            ],
+                                            "score": 1.0,
+                                            "content": "Specifications",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 6
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 10.0
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        393,
+                        484,
+                        561,
+                        645
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                393,
+                                484,
+                                561,
+                                645
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        393,
+                                        484,
+                                        561,
+                                        645
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                393,
+                                                484,
+                                                561,
+                                                645
+                                            ],
+                                            "score": 0.9997596740722656,
+                                            "html": "<html><body><table><tr><td>MN-NETRLY4</td><td>EthernetcontrollablemultiI/O unit,4input4relayoutputs</td></tr><tr><td>MN-NETSW1</td><td>ULListedMultimodeEthernet switch</td></tr><tr><td>MN-NRBK1</td><td>Replacementmountingbracket withend-capsforsingleMN- NETRLY4(onecomeswith eachMN-NETRLY4)</td></tr><tr><td>MN-NRMP</td><td>Mountingplateto allowupto 2MN-NETRLY4modulestobe mountedonanMN-BRKT1</td></tr><tr><td>MN-TK10</td><td>10positionterminalkit</td></tr><tr><td>ULListedMN-NETSW1switches</td><td>Note1:TheMN-NETRLY4islistedforconnection toadedicatedEthernetnetworkmadeupFireWorks computers,MN-COM1Sunitsthatareconnectedto</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "b28780a167319202cb246833879ed92a2494243defe464e79e82e4a33b103c68.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 28.5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        393,
+                                        484,
+                                        561,
+                                        498.5
+                                    ],
+                                    "spans": [],
+                                    "index": 23
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        498.5,
+                                        561,
+                                        513.0
+                                    ],
+                                    "spans": [],
+                                    "index": 24
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        513.0,
+                                        561,
+                                        527.5
+                                    ],
+                                    "spans": [],
+                                    "index": 25
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        527.5,
+                                        561,
+                                        542.0
+                                    ],
+                                    "spans": [],
+                                    "index": 26
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        542.0,
+                                        561,
+                                        556.5
+                                    ],
+                                    "spans": [],
+                                    "index": 27
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        556.5,
+                                        561,
+                                        571.0
+                                    ],
+                                    "spans": [],
+                                    "index": 28
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        571.0,
+                                        561,
+                                        585.5
+                                    ],
+                                    "spans": [],
+                                    "index": 29
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        585.5,
+                                        561,
+                                        600.0
+                                    ],
+                                    "spans": [],
+                                    "index": 30
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        600.0,
+                                        561,
+                                        614.5
+                                    ],
+                                    "spans": [],
+                                    "index": 31
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        614.5,
+                                        561,
+                                        629.0
+                                    ],
+                                    "spans": [],
+                                    "index": 32
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        629.0,
+                                        561,
+                                        643.5
+                                    ],
+                                    "spans": [],
+                                    "index": 33
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        643.5,
+                                        561,
+                                        658.0
+                                    ],
+                                    "spans": [],
+                                    "index": 34
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 28.5
+                }
+            ],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        31,
+                        749,
+                        70,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                30,
+                                749,
+                                71,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        30,
+                                        749,
+                                        71,
+                                        759
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        377,
+                        745,
+                        564,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                415,
+                                747,
+                                561,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        415,
+                                        749,
+                                        479,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        482,
+                                        747,
+                                        561,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                376,
+                                758,
+                                563,
+                                768
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        376,
+                                        758,
+                                        563,
+                                        768
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        606,
+                        734,
+                        612,
+                        760
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                605,
+                                733,
+                                614,
+                                763
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        605,
+                                        733,
+                                        614,
+                                        763
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        215,
+                        83,
+                        543,
+                        291
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                215,
+                                83,
+                                543,
+                                291
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        215,
+                                        83,
+                                        543,
+                                        291
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                215,
+                                                83,
+                                                543,
+                                                291
+                                            ],
+                                            "score": 0.9999949336051941,
+                                            "type": "image",
+                                            "image_path": "ad5b37d6282636df4b2ad5a00ff0041cb5733c2c1a74cf2bd8f1b78cfc835ebb.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        215,
+                                        83,
+                                        543,
+                                        152.33333333333331
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        152.33333333333331,
+                                        543,
+                                        221.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        221.66666666666663,
+                                        543,
+                                        290.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        213,
+                        299,
+                        560,
+                        451
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                213,
+                                299,
+                                560,
+                                451
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        219,
+                                        299,
+                                        560,
+                                        451
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                219,
+                                                299,
+                                                560,
+                                                451
+                                            ],
+                                            "score": 0.99998539686203,
+                                            "type": "image",
+                                            "image_path": "4d65d648e141471488e2726ffb3afb1d42090aa661de1fddf06de5a80269b483.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        299,
+                                        560,
+                                        349.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        349.6666666666667,
+                                        560,
+                                        400.33333333333337
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        400.33333333333337,
+                                        560,
+                                        451.00000000000006
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        478,
+                        383,
+                        681
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                478,
+                                383,
+                                681
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        478,
+                                        383,
+                                        681
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                478,
+                                                383,
+                                                681
+                                            ],
+                                            "score": 0.9454776644706726,
+                                            "html": "<html><body><table><tr><td>Voltage 18to28VDC</td></tr><tr><td>95 mA standby, 152.5 mA Current withallrelays active</td></tr><tr><td>Form A,programmable,24 Contacts VDC@0.5Aresistive</td></tr><tr><td>Housing Polymer</td></tr><tr><td>UL864,UL2572,CSFM,See Listings note 1</td></tr><tr><td>NetworkInterface</td></tr><tr><td>Connector RJ-45</td></tr><tr><td>Cable Type Cat5orbetter</td></tr><tr><td>10/100Mbps,TCP/IP,auto Data negotiating</td></tr><tr><td>Operatingenvironment</td></tr><tr><td>Temperature 32to120F(0to49℃)</td></tr><tr><td>0 to 93%RH,noncondensing Humidity at 90 F (32 °C)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "f4cb4b6e9313c60b7a0fe377ff23428303f5d6c84fbfd4eedc65f45566369d90.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 14,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        478,
+                                        383,
+                                        492.5
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        492.5,
+                                        383,
+                                        507.0
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        507.0,
+                                        383,
+                                        521.5
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        521.5,
+                                        383,
+                                        536.0
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        536.0,
+                                        383,
+                                        550.5
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        550.5,
+                                        383,
+                                        565.0
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        565.0,
+                                        383,
+                                        579.5
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        579.5,
+                                        383,
+                                        594.0
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        594.0,
+                                        383,
+                                        608.5
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        608.5,
+                                        383,
+                                        623.0
+                                    ],
+                                    "spans": [],
+                                    "index": 16
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        623.0,
+                                        383,
+                                        637.5
+                                    ],
+                                    "spans": [],
+                                    "index": 17
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        637.5,
+                                        383,
+                                        652.0
+                                    ],
+                                    "spans": [],
+                                    "index": 18
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        652.0,
+                                        383,
+                                        666.5
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        666.5,
+                                        383,
+                                        681.0
+                                    ],
+                                    "spans": [],
+                                    "index": 20
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        681.0,
+                                        383,
+                                        695.5
+                                    ],
+                                    "spans": [],
+                                    "index": 21
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table_caption",
+                            "bbox": [
+                                213,
+                                463,
+                                297,
+                                476
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        463,
+                                        298,
+                                        477
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                463,
+                                                298,
+                                                477
+                                            ],
+                                            "score": 1.0,
+                                            "content": "Specifications",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 6
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 10.0,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        393,
+                        467,
+                        518,
+                        480
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                393,
+                                466,
+                                519,
+                                481
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        393,
+                                        466,
+                                        519,
+                                        481
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        }
+                    ],
+                    "index": 22,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        393,
+                        484,
+                        561,
+                        645
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                393,
+                                484,
+                                561,
+                                645
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        393,
+                                        484,
+                                        561,
+                                        645
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                393,
+                                                484,
+                                                561,
+                                                645
+                                            ],
+                                            "score": 0.9997596740722656,
+                                            "html": "<html><body><table><tr><td>MN-NETRLY4</td><td>EthernetcontrollablemultiI/O unit,4input4relayoutputs</td></tr><tr><td>MN-NETSW1</td><td>ULListedMultimodeEthernet switch</td></tr><tr><td>MN-NRBK1</td><td>Replacementmountingbracket withend-capsforsingleMN- NETRLY4(onecomeswith eachMN-NETRLY4)</td></tr><tr><td>MN-NRMP</td><td>Mountingplateto allowupto 2MN-NETRLY4modulestobe mountedonanMN-BRKT1</td></tr><tr><td>MN-TK10</td><td>10positionterminalkit</td></tr><tr><td>ULListedMN-NETSW1switches</td><td>Note1:TheMN-NETRLY4islistedforconnection toadedicatedEthernetnetworkmadeupFireWorks computers,MN-COM1Sunitsthatareconnectedto</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "b28780a167319202cb246833879ed92a2494243defe464e79e82e4a33b103c68.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 28.5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        393,
+                                        484,
+                                        561,
+                                        498.5
+                                    ],
+                                    "spans": [],
+                                    "index": 23
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        498.5,
+                                        561,
+                                        513.0
+                                    ],
+                                    "spans": [],
+                                    "index": 24
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        513.0,
+                                        561,
+                                        527.5
+                                    ],
+                                    "spans": [],
+                                    "index": 25
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        527.5,
+                                        561,
+                                        542.0
+                                    ],
+                                    "spans": [],
+                                    "index": 26
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        542.0,
+                                        561,
+                                        556.5
+                                    ],
+                                    "spans": [],
+                                    "index": 27
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        556.5,
+                                        561,
+                                        571.0
+                                    ],
+                                    "spans": [],
+                                    "index": 28
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        571.0,
+                                        561,
+                                        585.5
+                                    ],
+                                    "spans": [],
+                                    "index": 29
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        585.5,
+                                        561,
+                                        600.0
+                                    ],
+                                    "spans": [],
+                                    "index": 30
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        600.0,
+                                        561,
+                                        614.5
+                                    ],
+                                    "spans": [],
+                                    "index": 31
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        614.5,
+                                        561,
+                                        629.0
+                                    ],
+                                    "spans": [],
+                                    "index": 32
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        629.0,
+                                        561,
+                                        643.5
+                                    ],
+                                    "spans": [],
+                                    "index": 33
+                                },
+                                {
+                                    "bbox": [
+                                        393,
+                                        643.5,
+                                        561,
+                                        658.0
+                                    ],
+                                    "spans": [],
+                                    "index": 34
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 28.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "txt",
+    "_version_name": "0.10.1"
+}

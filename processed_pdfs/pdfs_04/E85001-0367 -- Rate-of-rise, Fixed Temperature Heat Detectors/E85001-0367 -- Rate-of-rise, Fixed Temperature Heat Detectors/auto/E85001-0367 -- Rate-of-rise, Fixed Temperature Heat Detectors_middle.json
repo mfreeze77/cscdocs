@@ -1,0 +1,4429 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        145,
+                        328,
+                        274
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                146,
+                                327,
+                                179
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        146,
+                                        327,
+                                        179
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Rate-of-rise/Fixed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                184,
+                                327,
+                                219
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        184,
+                                        246,
+                                        219
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Temperature",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        251,
+                                        184,
+                                        327,
+                                        216
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Heat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                222,
+                                200,
+                                250
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        222,
+                                        200,
+                                        250
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Detectors",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                253,
+                                157,
+                                272
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        253,
+                                        157,
+                                        272
+                                    ],
+                                    "score": 1.0,
+                                    "content": "CR/CF Series",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 1.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        357,
+                        106,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                358,
+                                106,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        358,
+                                        106,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        375,
+                        301,
+                        397
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                375,
+                                301,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        375,
+                                        301,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "CR/CF Series heat detectors offer fixed temperature or combina-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                386,
+                                237,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        386,
+                                        237,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tion rate-of-rise and fixed temperature detection.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 5.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        402,
+                        307,
+                        457
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                402,
+                                293,
+                                414
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        403,
+                                        273,
+                                        414
+                                    ],
+                                    "score": 1.0,
+                                    "content": "RATE-OF-RISE: A temperature increase at the sensor of",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        273,
+                                        402,
+                                        293,
+                                        413
+                                    ],
+                                    "score": 0.79,
+                                    "content": "15\\%",
+                                    "type": "inline_equation"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                414,
+                                293,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        414,
+                                        70,
+                                        424
+                                    ],
+                                    "score": 0.87,
+                                    "content": "(9^{\\circ}\\mathrm{C})",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        70,
+                                        414,
+                                        293,
+                                        425
+                                    ],
+                                    "score": 1.0,
+                                    "content": " or more per minute activates the rate-of-rise feature. This",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                426,
+                                298,
+                                435
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        426,
+                                        298,
+                                        435
+                                    ],
+                                    "score": 1.0,
+                                    "content": "closes the contacts in the sensor to transmit the alarm condition",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                435,
+                                307,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        435,
+                                        307,
+                                        446
+                                    ],
+                                    "score": 1.0,
+                                    "content": "to the fire alarm control panel. When the rate-of-rise element alone",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                446,
+                                232,
+                                458
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        446,
+                                        232,
+                                        458
+                                    ],
+                                    "score": 1.0,
+                                    "content": "has been activated, the sensor is self-restoring.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        459,
+                        304,
+                        535
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                461,
+                                291,
+                                470
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        461,
+                                        291,
+                                        470
+                                    ],
+                                    "score": 1.0,
+                                    "content": "FIXED TEMPERATURE: If the temperature of the center disk",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                472,
+                                287,
+                                481
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        472,
+                                        287,
+                                        481
+                                    ],
+                                    "score": 1.0,
+                                    "content": "rises to the sensor’s rated temperature, the fixed temperature",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                482,
+                                297,
+                                492
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        482,
+                                        297,
+                                        492
+                                    ],
+                                    "score": 1.0,
+                                    "content": "element activates. This closes contacts in the sensor and trans-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                493,
+                                296,
+                                503
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        493,
+                                        296,
+                                        503
+                                    ],
+                                    "score": 1.0,
+                                    "content": "mits an alarm condition to the fire alarm control panel. The fixed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                504,
+                                296,
+                                514
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        504,
+                                        296,
+                                        514
+                                    ],
+                                    "score": 1.0,
+                                    "content": "temperature element is non-restorable and, when activated, the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                514,
+                                304,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        514,
+                                        304,
+                                        525
+                                    ],
+                                    "score": 1.0,
+                                    "content": "detector must be replaced. The need for replacement is indicated",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                525,
+                                257,
+                                536
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        525,
+                                        257,
+                                        536
+                                    ],
+                                    "score": 1.0,
+                                    "content": "when the center disk has fallen free from the detector.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        358,
+                        434,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                434,
+                                373
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        434,
+                                        373
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        }
+                    ],
+                    "index": 19
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        322,
+                        375,
+                        556,
+                        466
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                323,
+                                375,
+                                482,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        375,
+                                        482,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Double pole — normally open contact",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                390,
+                                378,
+                                402
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        390,
+                                        378,
+                                        402
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Low profile",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                330,
+                                406,
+                                395,
+                                417
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        330,
+                                        406,
+                                        395,
+                                        417
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Aluminum finish",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                332,
+                                423,
+                                487,
+                                434
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        332,
+                                        423,
+                                        487,
+                                        434
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Mounting flexibility with screw terminals",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                329,
+                                439,
+                                555,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        329,
+                                        439,
+                                        555,
+                                        450
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Positive alarm indication — for fixed temperature element",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                332,
+                                454,
+                                455,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        332,
+                                        454,
+                                        455,
+                                        466
+                                    ],
+                                    "score": 1.0,
+                                    "content": "70 ft. spacing (CR models only)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        }
+                    ],
+                    "index": 22.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        490,
+                        389,
+                        504
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                489,
+                                389,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        489,
+                                        389,
+                                        505
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Application",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        }
+                    ],
+                    "index": 26
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        507,
+                        579,
+                        571
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                507,
+                                577,
+                                518
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        507,
+                                        577,
+                                        518
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Heat detectors are most suitable for environments where rapid fire",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                518,
+                                578,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        518,
+                                        578,
+                                        528
+                                    ],
+                                    "score": 1.0,
+                                    "content": "development can be expected. When selecting the location on the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                529,
+                                572,
+                                539
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        529,
+                                        572,
+                                        539
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ceiling for the heat sensor, do not locate it in direct path of hot or",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                540,
+                                566,
+                                550
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        540,
+                                        566,
+                                        550
+                                    ],
+                                    "score": 1.0,
+                                    "content": "cold air flow. Refer to the detector specifications for the recom-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                551,
+                                560,
+                                561
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        551,
+                                        560,
+                                        561
+                                    ],
+                                    "score": 1.0,
+                                    "content": "mended maximum spacing. Earlier detector response may be",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                561,
+                                529,
+                                572
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        561,
+                                        529,
+                                        572
+                                    ],
+                                    "score": 1.0,
+                                    "content": "obtained by reducing the spacing between detectors.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 29.5
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        49,
+                        749,
+                        88,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                749,
+                                88,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        749,
+                                        88,
+                                        759
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        395,
+                        745,
+                        580,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                433,
+                                747,
+                                579,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        433,
+                                        749,
+                                        497,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        501,
+                                        747,
+                                        579,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                394,
+                                757,
+                                581,
+                                767
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        394,
+                                        757,
+                                        581,
+                                        767
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        145,
+                        328,
+                        274
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                146,
+                                327,
+                                179
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        146,
+                                        327,
+                                        179
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Rate-of-rise/Fixed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                184,
+                                327,
+                                219
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        184,
+                                        246,
+                                        219
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Temperature",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        251,
+                                        184,
+                                        327,
+                                        216
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Heat",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                222,
+                                200,
+                                250
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        222,
+                                        200,
+                                        250
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Detectors",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                253,
+                                157,
+                                272
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        253,
+                                        157,
+                                        272
+                                    ],
+                                    "score": 1.0,
+                                    "content": "CR/CF Series",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 1.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        357,
+                        106,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                358,
+                                106,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        358,
+                                        106,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        375,
+                        301,
+                        397
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                375,
+                                301,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        375,
+                                        301,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "CR/CF Series heat detectors offer fixed temperature or combina-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                386,
+                                237,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        386,
+                                        237,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tion rate-of-rise and fixed temperature detection.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 5.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        49,
+                        375,
+                        301,
+                        397
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        402,
+                        307,
+                        457
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                402,
+                                293,
+                                414
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        403,
+                                        273,
+                                        414
+                                    ],
+                                    "score": 1.0,
+                                    "content": "RATE-OF-RISE: A temperature increase at the sensor of",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        273,
+                                        402,
+                                        293,
+                                        413
+                                    ],
+                                    "score": 0.79,
+                                    "content": "15\\%",
+                                    "type": "inline_equation"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                414,
+                                293,
+                                425
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        414,
+                                        70,
+                                        424
+                                    ],
+                                    "score": 0.87,
+                                    "content": "(9^{\\circ}\\mathrm{C})",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        70,
+                                        414,
+                                        293,
+                                        425
+                                    ],
+                                    "score": 1.0,
+                                    "content": " or more per minute activates the rate-of-rise feature. This",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                426,
+                                298,
+                                435
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        426,
+                                        298,
+                                        435
+                                    ],
+                                    "score": 1.0,
+                                    "content": "closes the contacts in the sensor to transmit the alarm condition",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                435,
+                                307,
+                                446
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        435,
+                                        307,
+                                        446
+                                    ],
+                                    "score": 1.0,
+                                    "content": "to the fire alarm control panel. When the rate-of-rise element alone",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                446,
+                                232,
+                                458
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        446,
+                                        232,
+                                        458
+                                    ],
+                                    "score": 1.0,
+                                    "content": "has been activated, the sensor is self-restoring.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 9,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        48,
+                        402,
+                        307,
+                        458
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        459,
+                        304,
+                        535
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                461,
+                                291,
+                                470
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        461,
+                                        291,
+                                        470
+                                    ],
+                                    "score": 1.0,
+                                    "content": "FIXED TEMPERATURE: If the temperature of the center disk",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                472,
+                                287,
+                                481
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        472,
+                                        287,
+                                        481
+                                    ],
+                                    "score": 1.0,
+                                    "content": "rises to the sensor’s rated temperature, the fixed temperature",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                482,
+                                297,
+                                492
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        482,
+                                        297,
+                                        492
+                                    ],
+                                    "score": 1.0,
+                                    "content": "element activates. This closes contacts in the sensor and trans-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                493,
+                                296,
+                                503
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        493,
+                                        296,
+                                        503
+                                    ],
+                                    "score": 1.0,
+                                    "content": "mits an alarm condition to the fire alarm control panel. The fixed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                504,
+                                296,
+                                514
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        504,
+                                        296,
+                                        514
+                                    ],
+                                    "score": 1.0,
+                                    "content": "temperature element is non-restorable and, when activated, the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                514,
+                                304,
+                                525
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        514,
+                                        304,
+                                        525
+                                    ],
+                                    "score": 1.0,
+                                    "content": "detector must be replaced. The need for replacement is indicated",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                525,
+                                257,
+                                536
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        525,
+                                        257,
+                                        536
+                                    ],
+                                    "score": 1.0,
+                                    "content": "when the center disk has fallen free from the detector.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 15,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        49,
+                        461,
+                        304,
+                        536
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        358,
+                        434,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                434,
+                                373
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        434,
+                                        373
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        }
+                    ],
+                    "index": 19,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        322,
+                        375,
+                        556,
+                        466
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                323,
+                                375,
+                                482,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        375,
+                                        482,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Double pole — normally open contact",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                390,
+                                378,
+                                402
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        390,
+                                        378,
+                                        402
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Low profile",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                330,
+                                406,
+                                395,
+                                417
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        330,
+                                        406,
+                                        395,
+                                        417
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Aluminum finish",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                332,
+                                423,
+                                487,
+                                434
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        332,
+                                        423,
+                                        487,
+                                        434
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Mounting flexibility with screw terminals",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                329,
+                                439,
+                                555,
+                                450
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        329,
+                                        439,
+                                        555,
+                                        450
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Positive alarm indication — for fixed temperature element",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                332,
+                                454,
+                                455,
+                                466
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        332,
+                                        454,
+                                        455,
+                                        466
+                                    ],
+                                    "score": 1.0,
+                                    "content": "70 ft. spacing (CR models only)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 22.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        322,
+                        375,
+                        555,
+                        466
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        490,
+                        389,
+                        504
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                489,
+                                389,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        489,
+                                        389,
+                                        505
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Application",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        }
+                    ],
+                    "index": 26,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        507,
+                        579,
+                        571
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                507,
+                                577,
+                                518
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        507,
+                                        577,
+                                        518
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Heat detectors are most suitable for environments where rapid fire",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                518,
+                                578,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        518,
+                                        578,
+                                        528
+                                    ],
+                                    "score": 1.0,
+                                    "content": "development can be expected. When selecting the location on the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                529,
+                                572,
+                                539
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        529,
+                                        572,
+                                        539
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ceiling for the heat sensor, do not locate it in direct path of hot or",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                540,
+                                566,
+                                550
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        540,
+                                        566,
+                                        550
+                                    ],
+                                    "score": 1.0,
+                                    "content": "cold air flow. Refer to the detector specifications for the recom-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                551,
+                                560,
+                                561
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        551,
+                                        560,
+                                        561
+                                    ],
+                                    "score": 1.0,
+                                    "content": "mended maximum spacing. Earlier detector response may be",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                561,
+                                529,
+                                572
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        561,
+                                        529,
+                                        572
+                                    ],
+                                    "score": 1.0,
+                                    "content": "obtained by reducing the spacing between detectors.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 29.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        321,
+                        507,
+                        578,
+                        572
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        83,
+                        272,
+                        99
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                83,
+                                271,
+                                100
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        83,
+                                        271,
+                                        100
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Mounting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        212,
+                        101,
+                        376,
+                        166
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                102,
+                                375,
+                                113
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        102,
+                                        375,
+                                        113
+                                    ],
+                                    "score": 1.0,
+                                    "content": "CR/CF Series heat detectors are supplied",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                212,
+                                113,
+                                362,
+                                123
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        113,
+                                        362,
+                                        123
+                                    ],
+                                    "score": 1.0,
+                                    "content": "with a metal mounting plate. The plate",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                212,
+                                124,
+                                375,
+                                133
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        124,
+                                        375,
+                                        133
+                                    ],
+                                    "score": 1.0,
+                                    "content": "installs directly to a standard North Ameri-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                213,
+                                133,
+                                371,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        135,
+                                        228,
+                                        144
+                                    ],
+                                    "score": 1.0,
+                                    "content": "can",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        228,
+                                        133,
+                                        243,
+                                        144
+                                    ],
+                                    "score": 0.76,
+                                    "content": "3\\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        243,
+                                        135,
+                                        371,
+                                        144
+                                    ],
+                                    "score": 1.0,
+                                    "content": " or 4 inch octagon box. Once the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                213,
+                                146,
+                                373,
+                                155
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        146,
+                                        373,
+                                        155
+                                    ],
+                                    "score": 1.0,
+                                    "content": "mounting plate is fixed, a simple twist will",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                212,
+                                156,
+                                314,
+                                166
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        156,
+                                        314,
+                                        166
+                                    ],
+                                    "score": 1.0,
+                                    "content": "hold the detector in place.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 3.5
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        211,
+                        173,
+                        377,
+                        273
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                211,
+                                173,
+                                377,
+                                273
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        211,
+                                        173,
+                                        377,
+                                        273
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                211,
+                                                173,
+                                                377,
+                                                273
+                                            ],
+                                            "score": 0.9998671412467957,
+                                            "type": "image",
+                                            "image_path": "957df14ec5a8b7a78e22f31bc8f146861dcd3e065d4f9bd382a6ebcd8d6f3546.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11.5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        211,
+                                        173,
+                                        377,
+                                        184
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        184,
+                                        377,
+                                        195
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        195,
+                                        377,
+                                        206
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        206,
+                                        377,
+                                        217
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        217,
+                                        377,
+                                        228
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        228,
+                                        377,
+                                        239
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        239,
+                                        377,
+                                        250
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        250,
+                                        377,
+                                        261
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        261,
+                                        377,
+                                        272
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        272,
+                                        377,
+                                        283
+                                    ],
+                                    "spans": [],
+                                    "index": 16
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        394,
+                        84,
+                        434,
+                        98
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                393,
+                                82,
+                                434,
+                                101
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        393,
+                                        82,
+                                        434,
+                                        101
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Wiring",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 17
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        398,
+                        111,
+                        557,
+                        162.75
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                398,
+                                111,
+                                557,
+                                162.75
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        398,
+                                        111,
+                                        557,
+                                        164
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                398,
+                                                111,
+                                                557,
+                                                164
+                                            ],
+                                            "score": 0.9986138343811035,
+                                            "type": "image",
+                                            "image_path": "4e1178801fada9d68f742566cc91c56b1b0c70edaee92ea3ad85d6186a2a7f93.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 20,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        398,
+                                        111,
+                                        557,
+                                        122
+                                    ],
+                                    "spans": [],
+                                    "index": 18
+                                },
+                                {
+                                    "bbox": [
+                                        398,
+                                        122,
+                                        557,
+                                        133
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                },
+                                {
+                                    "bbox": [
+                                        398,
+                                        133,
+                                        557,
+                                        144
+                                    ],
+                                    "spans": [],
+                                    "index": 20
+                                },
+                                {
+                                    "bbox": [
+                                        398,
+                                        144,
+                                        557,
+                                        155
+                                    ],
+                                    "spans": [],
+                                    "index": 21
+                                },
+                                {
+                                    "bbox": [
+                                        398,
+                                        155,
+                                        557,
+                                        166
+                                    ],
+                                    "spans": [],
+                                    "index": 22
+                                }
+                            ]
+                        },
+                        {
+                            "type": "image_caption",
+                            "bbox": [
+                                417,
+                                163.25,
+                                533,
+                                173
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        419,
+                                        164,
+                                        532,
+                                        172
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                419,
+                                                164,
+                                                532,
+                                                172
+                                            ],
+                                            "score": 1.0,
+                                            "content": "DOUBLE CIRCUIT NORMALLY OPEN",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 23
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 21.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        301,
+                        298,
+                        315
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                301,
+                                298,
+                                316
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        301,
+                                        298,
+                                        316
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Specifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        }
+                    ],
+                    "index": 24
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        214,
+                        321,
+                        562,
+                        518
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                214,
+                                321,
+                                562,
+                                518
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        321,
+                                        562,
+                                        518
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                321,
+                                                562,
+                                                518
+                                            ],
+                                            "score": 0.9998084902763367,
+                                            "html": "<html><body><table><tr><td>Catalog Number</td><td>CR135-2</td><td>CR200-2</td><td>CF135-2</td><td>CF200-2</td></tr><tr><td>UL Temperature Rating</td><td>135°F(57°C)</td><td>200F(93°C)</td><td>135F(57°C)</td><td>200F (93C)</td></tr><tr><td>UL Max Ambient Temp. at Ceiling</td><td>100F(38°C)</td><td>150F (66℃)</td><td>100F (38°C)</td><td>150F (66℃)</td></tr><tr><td>Detector Type</td><td colspan=\"4\">FixedTemperatureandRate-of- Rise Rate-of-rise: 15° F (9° C), Fixed TemperatureOnly self restoring</td></tr><tr><td>UL Recommended Coverage*</td><td colspan=\"2\">4,900 ft.2 (456 m2)</td><td colspan=\"2\">1,600 ft.2 (149 m2)</td></tr><tr><td>UL Recommended Spacing</td><td colspan=\"2\">70 ft. (21.3 m)</td><td colspan=\"2\">40 ft.(12.2 m)</td></tr><tr><td>UL Maximum Distance from Wall</td><td colspan=\"2\">35ft.(10.5 m) from any wall or projection extending down from theceilingmorethan12inches (305 mm)</td><td colspan=\"2\">20 ft.(6 m) from any wall or projection extending down from theceiling more than12inches</td></tr><tr><td>Contacts-Rating</td><td colspan=\"2\">SinglePoleNormallyOpen3.0ampsat125Vac;1.0ampat28Vdc;</td><td colspan=\"2\">(305 mm)</td></tr><tr><td></td><td colspan=\"4\">0.3ampsat125Vdc;0.1amps at250Vdc</td></tr><tr><td>Operating Environment Agency Listings</td><td colspan=\"3\">Indoor - Dry UL, ULC</td><td></td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "4a0fa111f4edcc0843ace8af5ab173e9e7fd620bae52a5ef40fa64bb49c2a30a.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 26,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        321,
+                                        562,
+                                        386.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 25
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        386.6666666666667,
+                                        562,
+                                        452.33333333333337
+                                    ],
+                                    "spans": [],
+                                    "index": 26
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        452.33333333333337,
+                                        562,
+                                        518.0
+                                    ],
+                                    "spans": [],
+                                    "index": 27
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table_footnote",
+                            "bbox": [
+                                216,
+                                519,
+                                554,
+                                553
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        216,
+                                        518,
+                                        550,
+                                        529
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                216,
+                                                518,
+                                                550,
+                                                529
+                                            ],
+                                            "score": 1.0,
+                                            "content": "* Maximum detector coverage has been determined by UL to provide detection time equal to sprinkler devices",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 28
+                                },
+                                {
+                                    "bbox": [
+                                        216,
+                                        527,
+                                        531,
+                                        538
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                216,
+                                                527,
+                                                430,
+                                                538
+                                            ],
+                                            "score": 1.0,
+                                            "content": "spaced at 10 ft (3.05 m)  intervals on a smooth ceiling 15 feet 9 inches",
+                                            "type": "text"
+                                        },
+                                        {
+                                            "bbox": [
+                                                430,
+                                                527,
+                                                452,
+                                                536
+                                            ],
+                                            "score": 0.4,
+                                            "content": "(4.8\\,\\mathsf{m})",
+                                            "type": "inline_equation"
+                                        },
+                                        {
+                                            "bbox": [
+                                                452,
+                                                527,
+                                                531,
+                                                538
+                                            ],
+                                            "score": 1.0,
+                                            "content": " high. Higher ceilings may ",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 29
+                                },
+                                {
+                                    "bbox": [
+                                        217,
+                                        536,
+                                        546,
+                                        545
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                217,
+                                                536,
+                                                546,
+                                                545
+                                            ],
+                                            "score": 1.0,
+                                            "content": "adversely affect detection time. Earlier detection may be  obtained by reducing the spacing between sensors.",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 30
+                                },
+                                {
+                                    "bbox": [
+                                        217,
+                                        543,
+                                        297,
+                                        554
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                217,
+                                                543,
+                                                297,
+                                                554
+                                            ],
+                                            "score": 1.0,
+                                            "content": "(See NFPA 72, Chapter 5)",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 31
+                                }
+                            ],
+                            "index": 29.5
+                        }
+                    ],
+                    "index": 27.75
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        567,
+                        337,
+                        581
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                566,
+                                336,
+                                582
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        566,
+                                        336,
+                                        582
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 32
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        584,
+                        562,
+                        669
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                584,
+                                562,
+                                669
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        584,
+                                        562,
+                                        669
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                584,
+                                                562,
+                                                669
+                                            ],
+                                            "score": 0.999900221824646,
+                                            "html": "<html><body><table><tr><td>Catalog Number</td><td>Description</td><td>Ship Wt. Ib. (kg)</td></tr><tr><td>CR135-2</td><td>HeatDetector,135°F( (57°C), CombinationRate-ofRiseandFixedTemperature</td><td rowspan=\"3\">1.0 Ib (0.5 kg)</td></tr><tr><td>CR200-2</td><td>HeatDetector,200°F(93°C),</td></tr><tr><td></td><td>CombinationRate-ofRiseandFixedTemperature</td></tr><tr><td>CF135-2</td><td>Heat Detector, 135°F (57°C)，Fixed Temperature Only</td><td></td></tr><tr><td>CF200-2</td><td>HeatDetector,200°F(93°C)，F FixedTemperatureOnly</td><td></td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "ca5880a0956138ae0f3ff11b818065408e7046d706bcaaabe859ee687d319461.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 34,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        584,
+                                        562,
+                                        612.3333333333334
+                                    ],
+                                    "spans": [],
+                                    "index": 33
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        612.3333333333334,
+                                        562,
+                                        640.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 34
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        640.6666666666667,
+                                        562,
+                                        669.0000000000001
+                                    ],
+                                    "spans": [],
+                                    "index": 35
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 34
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 1,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        211,
+                        173,
+                        377,
+                        273
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                211,
+                                173,
+                                377,
+                                273
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        211,
+                                        173,
+                                        377,
+                                        273
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                211,
+                                                173,
+                                                377,
+                                                273
+                                            ],
+                                            "score": 0.9998671412467957,
+                                            "type": "image",
+                                            "image_path": "957df14ec5a8b7a78e22f31bc8f146861dcd3e065d4f9bd382a6ebcd8d6f3546.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11.5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        211,
+                                        173,
+                                        377,
+                                        184
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        184,
+                                        377,
+                                        195
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        195,
+                                        377,
+                                        206
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        206,
+                                        377,
+                                        217
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        217,
+                                        377,
+                                        228
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        228,
+                                        377,
+                                        239
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        239,
+                                        377,
+                                        250
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        250,
+                                        377,
+                                        261
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        261,
+                                        377,
+                                        272
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        272,
+                                        377,
+                                        283
+                                    ],
+                                    "spans": [],
+                                    "index": 16
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11.5
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        398,
+                        111,
+                        557,
+                        162.75
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                398,
+                                111,
+                                557,
+                                162.75
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        398,
+                                        111,
+                                        557,
+                                        164
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                398,
+                                                111,
+                                                557,
+                                                164
+                                            ],
+                                            "score": 0.9986138343811035,
+                                            "type": "image",
+                                            "image_path": "4e1178801fada9d68f742566cc91c56b1b0c70edaee92ea3ad85d6186a2a7f93.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 20,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        398,
+                                        111,
+                                        557,
+                                        122
+                                    ],
+                                    "spans": [],
+                                    "index": 18
+                                },
+                                {
+                                    "bbox": [
+                                        398,
+                                        122,
+                                        557,
+                                        133
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                },
+                                {
+                                    "bbox": [
+                                        398,
+                                        133,
+                                        557,
+                                        144
+                                    ],
+                                    "spans": [],
+                                    "index": 20
+                                },
+                                {
+                                    "bbox": [
+                                        398,
+                                        144,
+                                        557,
+                                        155
+                                    ],
+                                    "spans": [],
+                                    "index": 21
+                                },
+                                {
+                                    "bbox": [
+                                        398,
+                                        155,
+                                        557,
+                                        166
+                                    ],
+                                    "spans": [],
+                                    "index": 22
+                                }
+                            ]
+                        },
+                        {
+                            "type": "image_caption",
+                            "bbox": [
+                                417,
+                                163.25,
+                                533,
+                                173
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        419,
+                                        164,
+                                        532,
+                                        172
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                419,
+                                                164,
+                                                532,
+                                                172
+                                            ],
+                                            "score": 1.0,
+                                            "content": "DOUBLE CIRCUIT NORMALLY OPEN",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 23
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 21.5
+                }
+            ],
+            "tables": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        214,
+                        321,
+                        562,
+                        518
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                214,
+                                321,
+                                562,
+                                518
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        321,
+                                        562,
+                                        518
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                321,
+                                                562,
+                                                518
+                                            ],
+                                            "score": 0.9998084902763367,
+                                            "html": "<html><body><table><tr><td>Catalog Number</td><td>CR135-2</td><td>CR200-2</td><td>CF135-2</td><td>CF200-2</td></tr><tr><td>UL Temperature Rating</td><td>135°F(57°C)</td><td>200F(93°C)</td><td>135F(57°C)</td><td>200F (93C)</td></tr><tr><td>UL Max Ambient Temp. at Ceiling</td><td>100F(38°C)</td><td>150F (66℃)</td><td>100F (38°C)</td><td>150F (66℃)</td></tr><tr><td>Detector Type</td><td colspan=\"4\">FixedTemperatureandRate-of- Rise Rate-of-rise: 15° F (9° C), Fixed TemperatureOnly self restoring</td></tr><tr><td>UL Recommended Coverage*</td><td colspan=\"2\">4,900 ft.2 (456 m2)</td><td colspan=\"2\">1,600 ft.2 (149 m2)</td></tr><tr><td>UL Recommended Spacing</td><td colspan=\"2\">70 ft. (21.3 m)</td><td colspan=\"2\">40 ft.(12.2 m)</td></tr><tr><td>UL Maximum Distance from Wall</td><td colspan=\"2\">35ft.(10.5 m) from any wall or projection extending down from theceilingmorethan12inches (305 mm)</td><td colspan=\"2\">20 ft.(6 m) from any wall or projection extending down from theceiling more than12inches</td></tr><tr><td>Contacts-Rating</td><td colspan=\"2\">SinglePoleNormallyOpen3.0ampsat125Vac;1.0ampat28Vdc;</td><td colspan=\"2\">(305 mm)</td></tr><tr><td></td><td colspan=\"4\">0.3ampsat125Vdc;0.1amps at250Vdc</td></tr><tr><td>Operating Environment Agency Listings</td><td colspan=\"3\">Indoor - Dry UL, ULC</td><td></td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "4a0fa111f4edcc0843ace8af5ab173e9e7fd620bae52a5ef40fa64bb49c2a30a.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 26,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        321,
+                                        562,
+                                        386.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 25
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        386.6666666666667,
+                                        562,
+                                        452.33333333333337
+                                    ],
+                                    "spans": [],
+                                    "index": 26
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        452.33333333333337,
+                                        562,
+                                        518.0
+                                    ],
+                                    "spans": [],
+                                    "index": 27
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table_footnote",
+                            "bbox": [
+                                216,
+                                519,
+                                554,
+                                553
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        216,
+                                        518,
+                                        550,
+                                        529
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                216,
+                                                518,
+                                                550,
+                                                529
+                                            ],
+                                            "score": 1.0,
+                                            "content": "* Maximum detector coverage has been determined by UL to provide detection time equal to sprinkler devices",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 28
+                                },
+                                {
+                                    "bbox": [
+                                        216,
+                                        527,
+                                        531,
+                                        538
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                216,
+                                                527,
+                                                430,
+                                                538
+                                            ],
+                                            "score": 1.0,
+                                            "content": "spaced at 10 ft (3.05 m)  intervals on a smooth ceiling 15 feet 9 inches",
+                                            "type": "text"
+                                        },
+                                        {
+                                            "bbox": [
+                                                430,
+                                                527,
+                                                452,
+                                                536
+                                            ],
+                                            "score": 0.4,
+                                            "content": "(4.8\\,\\mathsf{m})",
+                                            "type": "inline_equation"
+                                        },
+                                        {
+                                            "bbox": [
+                                                452,
+                                                527,
+                                                531,
+                                                538
+                                            ],
+                                            "score": 1.0,
+                                            "content": " high. Higher ceilings may ",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 29
+                                },
+                                {
+                                    "bbox": [
+                                        217,
+                                        536,
+                                        546,
+                                        545
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                217,
+                                                536,
+                                                546,
+                                                545
+                                            ],
+                                            "score": 1.0,
+                                            "content": "adversely affect detection time. Earlier detection may be  obtained by reducing the spacing between sensors.",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 30
+                                },
+                                {
+                                    "bbox": [
+                                        217,
+                                        543,
+                                        297,
+                                        554
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                217,
+                                                543,
+                                                297,
+                                                554
+                                            ],
+                                            "score": 1.0,
+                                            "content": "(See NFPA 72, Chapter 5)",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 31
+                                }
+                            ],
+                            "index": 29.5
+                        }
+                    ],
+                    "index": 27.75
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        584,
+                        562,
+                        669
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                584,
+                                562,
+                                669
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        584,
+                                        562,
+                                        669
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                584,
+                                                562,
+                                                669
+                                            ],
+                                            "score": 0.999900221824646,
+                                            "html": "<html><body><table><tr><td>Catalog Number</td><td>Description</td><td>Ship Wt. Ib. (kg)</td></tr><tr><td>CR135-2</td><td>HeatDetector,135°F( (57°C), CombinationRate-ofRiseandFixedTemperature</td><td rowspan=\"3\">1.0 Ib (0.5 kg)</td></tr><tr><td>CR200-2</td><td>HeatDetector,200°F(93°C),</td></tr><tr><td></td><td>CombinationRate-ofRiseandFixedTemperature</td></tr><tr><td>CF135-2</td><td>Heat Detector, 135°F (57°C)，Fixed Temperature Only</td><td></td></tr><tr><td>CF200-2</td><td>HeatDetector,200°F(93°C)，F FixedTemperatureOnly</td><td></td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "ca5880a0956138ae0f3ff11b818065408e7046d706bcaaabe859ee687d319461.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 34,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        584,
+                                        562,
+                                        612.3333333333334
+                                    ],
+                                    "spans": [],
+                                    "index": 33
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        612.3333333333334,
+                                        562,
+                                        640.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 34
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        640.6666666666667,
+                                        562,
+                                        669.0000000000001
+                                    ],
+                                    "spans": [],
+                                    "index": 35
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 34
+                }
+            ],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        377,
+                        745,
+                        563,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                415,
+                                747,
+                                561,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        415,
+                                        749,
+                                        479,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        482,
+                                        747,
+                                        561,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                376,
+                                758,
+                                563,
+                                768
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        376,
+                                        758,
+                                        563,
+                                        768
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        31,
+                        750,
+                        70,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                31,
+                                750,
+                                71,
+                                758
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        31,
+                                        750,
+                                        71,
+                                        758
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        606,
+                        733,
+                        612,
+                        760
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                605,
+                                732,
+                                614,
+                                762
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        605,
+                                        732,
+                                        614,
+                                        762
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        83,
+                        272,
+                        99
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                83,
+                                271,
+                                100
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        83,
+                                        271,
+                                        100
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Mounting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        212,
+                        101,
+                        376,
+                        166
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                102,
+                                375,
+                                113
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        102,
+                                        375,
+                                        113
+                                    ],
+                                    "score": 1.0,
+                                    "content": "CR/CF Series heat detectors are supplied",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                212,
+                                113,
+                                362,
+                                123
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        113,
+                                        362,
+                                        123
+                                    ],
+                                    "score": 1.0,
+                                    "content": "with a metal mounting plate. The plate",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                212,
+                                124,
+                                375,
+                                133
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        124,
+                                        375,
+                                        133
+                                    ],
+                                    "score": 1.0,
+                                    "content": "installs directly to a standard North Ameri-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                213,
+                                133,
+                                371,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        135,
+                                        228,
+                                        144
+                                    ],
+                                    "score": 1.0,
+                                    "content": "can",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        228,
+                                        133,
+                                        243,
+                                        144
+                                    ],
+                                    "score": 0.76,
+                                    "content": "3\\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        243,
+                                        135,
+                                        371,
+                                        144
+                                    ],
+                                    "score": 1.0,
+                                    "content": " or 4 inch octagon box. Once the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                213,
+                                146,
+                                373,
+                                155
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        146,
+                                        373,
+                                        155
+                                    ],
+                                    "score": 1.0,
+                                    "content": "mounting plate is fixed, a simple twist will",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                212,
+                                156,
+                                314,
+                                166
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        156,
+                                        314,
+                                        166
+                                    ],
+                                    "score": 1.0,
+                                    "content": "hold the detector in place.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 3.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        212,
+                        102,
+                        375,
+                        166
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        211,
+                        173,
+                        377,
+                        273
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                211,
+                                173,
+                                377,
+                                273
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        211,
+                                        173,
+                                        377,
+                                        273
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                211,
+                                                173,
+                                                377,
+                                                273
+                                            ],
+                                            "score": 0.9998671412467957,
+                                            "type": "image",
+                                            "image_path": "957df14ec5a8b7a78e22f31bc8f146861dcd3e065d4f9bd382a6ebcd8d6f3546.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 11.5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        211,
+                                        173,
+                                        377,
+                                        184
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        184,
+                                        377,
+                                        195
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        195,
+                                        377,
+                                        206
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        206,
+                                        377,
+                                        217
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        217,
+                                        377,
+                                        228
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        228,
+                                        377,
+                                        239
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        239,
+                                        377,
+                                        250
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        250,
+                                        377,
+                                        261
+                                    ],
+                                    "spans": [],
+                                    "index": 14
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        261,
+                                        377,
+                                        272
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        272,
+                                        377,
+                                        283
+                                    ],
+                                    "spans": [],
+                                    "index": 16
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 11.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        394,
+                        84,
+                        434,
+                        98
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                393,
+                                82,
+                                434,
+                                101
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        393,
+                                        82,
+                                        434,
+                                        101
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Wiring",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 17,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        398,
+                        111,
+                        557,
+                        162.75
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                398,
+                                111,
+                                557,
+                                162.75
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        398,
+                                        111,
+                                        557,
+                                        164
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                398,
+                                                111,
+                                                557,
+                                                164
+                                            ],
+                                            "score": 0.9986138343811035,
+                                            "type": "image",
+                                            "image_path": "4e1178801fada9d68f742566cc91c56b1b0c70edaee92ea3ad85d6186a2a7f93.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 20,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        398,
+                                        111,
+                                        557,
+                                        122
+                                    ],
+                                    "spans": [],
+                                    "index": 18
+                                },
+                                {
+                                    "bbox": [
+                                        398,
+                                        122,
+                                        557,
+                                        133
+                                    ],
+                                    "spans": [],
+                                    "index": 19
+                                },
+                                {
+                                    "bbox": [
+                                        398,
+                                        133,
+                                        557,
+                                        144
+                                    ],
+                                    "spans": [],
+                                    "index": 20
+                                },
+                                {
+                                    "bbox": [
+                                        398,
+                                        144,
+                                        557,
+                                        155
+                                    ],
+                                    "spans": [],
+                                    "index": 21
+                                },
+                                {
+                                    "bbox": [
+                                        398,
+                                        155,
+                                        557,
+                                        166
+                                    ],
+                                    "spans": [],
+                                    "index": 22
+                                }
+                            ]
+                        },
+                        {
+                            "type": "image_caption",
+                            "bbox": [
+                                417,
+                                163.25,
+                                533,
+                                173
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        419,
+                                        164,
+                                        532,
+                                        172
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                419,
+                                                164,
+                                                532,
+                                                172
+                                            ],
+                                            "score": 1.0,
+                                            "content": "DOUBLE CIRCUIT NORMALLY OPEN",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 23
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 21.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        301,
+                        298,
+                        315
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                301,
+                                298,
+                                316
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        301,
+                                        298,
+                                        316
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Specifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        }
+                    ],
+                    "index": 24,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        214,
+                        321,
+                        562,
+                        518
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                214,
+                                321,
+                                562,
+                                518
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        321,
+                                        562,
+                                        518
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                321,
+                                                562,
+                                                518
+                                            ],
+                                            "score": 0.9998084902763367,
+                                            "html": "<html><body><table><tr><td>Catalog Number</td><td>CR135-2</td><td>CR200-2</td><td>CF135-2</td><td>CF200-2</td></tr><tr><td>UL Temperature Rating</td><td>135°F(57°C)</td><td>200F(93°C)</td><td>135F(57°C)</td><td>200F (93C)</td></tr><tr><td>UL Max Ambient Temp. at Ceiling</td><td>100F(38°C)</td><td>150F (66℃)</td><td>100F (38°C)</td><td>150F (66℃)</td></tr><tr><td>Detector Type</td><td colspan=\"4\">FixedTemperatureandRate-of- Rise Rate-of-rise: 15° F (9° C), Fixed TemperatureOnly self restoring</td></tr><tr><td>UL Recommended Coverage*</td><td colspan=\"2\">4,900 ft.2 (456 m2)</td><td colspan=\"2\">1,600 ft.2 (149 m2)</td></tr><tr><td>UL Recommended Spacing</td><td colspan=\"2\">70 ft. (21.3 m)</td><td colspan=\"2\">40 ft.(12.2 m)</td></tr><tr><td>UL Maximum Distance from Wall</td><td colspan=\"2\">35ft.(10.5 m) from any wall or projection extending down from theceilingmorethan12inches (305 mm)</td><td colspan=\"2\">20 ft.(6 m) from any wall or projection extending down from theceiling more than12inches</td></tr><tr><td>Contacts-Rating</td><td colspan=\"2\">SinglePoleNormallyOpen3.0ampsat125Vac;1.0ampat28Vdc;</td><td colspan=\"2\">(305 mm)</td></tr><tr><td></td><td colspan=\"4\">0.3ampsat125Vdc;0.1amps at250Vdc</td></tr><tr><td>Operating Environment Agency Listings</td><td colspan=\"3\">Indoor - Dry UL, ULC</td><td></td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "4a0fa111f4edcc0843ace8af5ab173e9e7fd620bae52a5ef40fa64bb49c2a30a.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 26,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        321,
+                                        562,
+                                        386.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 25
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        386.6666666666667,
+                                        562,
+                                        452.33333333333337
+                                    ],
+                                    "spans": [],
+                                    "index": 26
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        452.33333333333337,
+                                        562,
+                                        518.0
+                                    ],
+                                    "spans": [],
+                                    "index": 27
+                                }
+                            ]
+                        },
+                        {
+                            "type": "table_footnote",
+                            "bbox": [
+                                216,
+                                519,
+                                554,
+                                553
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        216,
+                                        518,
+                                        550,
+                                        529
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                216,
+                                                518,
+                                                550,
+                                                529
+                                            ],
+                                            "score": 1.0,
+                                            "content": "* Maximum detector coverage has been determined by UL to provide detection time equal to sprinkler devices",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 28
+                                },
+                                {
+                                    "bbox": [
+                                        216,
+                                        527,
+                                        531,
+                                        538
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                216,
+                                                527,
+                                                430,
+                                                538
+                                            ],
+                                            "score": 1.0,
+                                            "content": "spaced at 10 ft (3.05 m)  intervals on a smooth ceiling 15 feet 9 inches",
+                                            "type": "text"
+                                        },
+                                        {
+                                            "bbox": [
+                                                430,
+                                                527,
+                                                452,
+                                                536
+                                            ],
+                                            "score": 0.4,
+                                            "content": "(4.8\\,\\mathsf{m})",
+                                            "type": "inline_equation"
+                                        },
+                                        {
+                                            "bbox": [
+                                                452,
+                                                527,
+                                                531,
+                                                538
+                                            ],
+                                            "score": 1.0,
+                                            "content": " high. Higher ceilings may ",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 29
+                                },
+                                {
+                                    "bbox": [
+                                        217,
+                                        536,
+                                        546,
+                                        545
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                217,
+                                                536,
+                                                546,
+                                                545
+                                            ],
+                                            "score": 1.0,
+                                            "content": "adversely affect detection time. Earlier detection may be  obtained by reducing the spacing between sensors.",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 30
+                                },
+                                {
+                                    "bbox": [
+                                        217,
+                                        543,
+                                        297,
+                                        554
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                217,
+                                                543,
+                                                297,
+                                                554
+                                            ],
+                                            "score": 1.0,
+                                            "content": "(See NFPA 72, Chapter 5)",
+                                            "type": "text"
+                                        }
+                                    ],
+                                    "index": 31
+                                }
+                            ],
+                            "index": 29.5
+                        }
+                    ],
+                    "index": 27.75,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        567,
+                        337,
+                        581
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                566,
+                                336,
+                                582
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        566,
+                                        336,
+                                        582
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 32,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        584,
+                        562,
+                        669
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                584,
+                                562,
+                                669
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        584,
+                                        562,
+                                        669
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                584,
+                                                562,
+                                                669
+                                            ],
+                                            "score": 0.999900221824646,
+                                            "html": "<html><body><table><tr><td>Catalog Number</td><td>Description</td><td>Ship Wt. Ib. (kg)</td></tr><tr><td>CR135-2</td><td>HeatDetector,135°F( (57°C), CombinationRate-ofRiseandFixedTemperature</td><td rowspan=\"3\">1.0 Ib (0.5 kg)</td></tr><tr><td>CR200-2</td><td>HeatDetector,200°F(93°C),</td></tr><tr><td></td><td>CombinationRate-ofRiseandFixedTemperature</td></tr><tr><td>CF135-2</td><td>Heat Detector, 135°F (57°C)，Fixed Temperature Only</td><td></td></tr><tr><td>CF200-2</td><td>HeatDetector,200°F(93°C)，F FixedTemperatureOnly</td><td></td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "ca5880a0956138ae0f3ff11b818065408e7046d706bcaaabe859ee687d319461.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 34,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        584,
+                                        562,
+                                        612.3333333333334
+                                    ],
+                                    "spans": [],
+                                    "index": 33
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        612.3333333333334,
+                                        562,
+                                        640.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 34
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        640.6666666666667,
+                                        562,
+                                        669.0000000000001
+                                    ],
+                                    "spans": [],
+                                    "index": 35
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 34,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "txt",
+    "_version_name": "0.10.1"
+}

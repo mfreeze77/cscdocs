@@ -1,0 +1,79 @@
+[
+    {
+        "type": "text",
+        "text": "Multi-Voltage Control Relay Model PAM1 ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Overview ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The PAM1 Relay is encapsulated multi-voltage device providing 10 Amp Form C contacts. The relay may be energized by one of three input voltages: 24 Vac, 24 Vdc, or 115 Vac. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A red LED is provided which, when illuminated, indicates the relay coil is energized. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The PAM1 may be mounted by using the double-sided adhesive tape, the self-drilling screw, or loosely placed in a back box. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The PAM1 is ideal for applications where remote relays are required for control or status feedback. They are suitable for use with HVAC, Temperature Control, Fire Alarm, Security, Energy Management, and Lighting Control Systems. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Standard Features ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "•\t Completely encapsulated 10 Amp relay   \n•\t Relay may be energized by one of three input voltages Contains a red LED which illuminates when relay coil is energized May be mounted by double-sided adhesive tape, self-drilling screw or placed in back box   \n•\t Convenient 6 in (150mm) wire leads for electrical connections ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wiring ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d993227270773594c62e512a8899dc911324c043c1f2214869e0a97633af524.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/3ac993b30fc6395c0f74c9b708484ce66e50e9665f657ca07d0e17c3a8b45cd7.jpg",
+        "table_caption": [
+            "Specifications "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>PowerRequirments</td><td>15 mA per position @24Vdc,24Vac,115Vac</td></tr><tr><td>Relay</td><td>ULRecognizedSPDT</td></tr><tr><td>ContactRating</td><td>10 Amps @ 115Vac</td></tr><tr><td>AmbientTemperature</td><td>-58°Fto185°F(-50°Cto85°C)</td></tr><tr><td>Approvals</td><td>ULRecognizedcomponents</td></tr><tr><td>Dimensions</td><td>1.5 Hx1W.875 D inches(38.1x24.5x22.2mm) with6inch(150mm)wireleads18AWG (1.00mm2)</td></tr></table></body></html>\n\n",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ordering Information ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Model Description   \nPAM1 Single SPDT relay with LED double-sided adhesive tape, mounting screw and 6 in (150 mm) leads. ",
+        "page_idx": 1
+    }
+]

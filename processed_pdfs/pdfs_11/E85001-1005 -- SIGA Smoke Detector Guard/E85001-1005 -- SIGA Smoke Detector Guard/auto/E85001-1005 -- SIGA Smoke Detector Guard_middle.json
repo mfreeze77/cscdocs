@@ -1,0 +1,3761 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        48,
+                        146,
+                        303,
+                        237
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                148,
+                                303,
+                                179
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        148,
+                                        160,
+                                        179
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Smoke",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        169,
+                                        149,
+                                        303,
+                                        179
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Detector",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                183,
+                                147,
+                                216
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        183,
+                                        147,
+                                        216
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Guard",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                219,
+                                134,
+                                235
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        219,
+                                        134,
+                                        235
+                                    ],
+                                    "score": 1.0,
+                                    "content": "SIGA-GRD",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        358,
+                        106,
+                        371
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                358,
+                                107,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        358,
+                                        107,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        375,
+                        298,
+                        461
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                376,
+                                275,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        376,
+                                        275,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The SIGA-GRD Smoke Detector Guard protects Signature",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                387,
+                                286,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        387,
+                                        286,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Series smoke detectors from damage and tampering without",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                398,
+                                291,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        398,
+                                        291,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "affecting airflow to the detector head. The sophisticated louver",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                409,
+                                281,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        409,
+                                        281,
+                                        419
+                                    ],
+                                    "score": 1.0,
+                                    "content": "configuration on the detector guard allows Signature smoke",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                419,
+                                298,
+                                429
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        419,
+                                        298,
+                                        429
+                                    ],
+                                    "score": 1.0,
+                                    "content": "detectors to be installed at their listed spacing and has no affect",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                430,
+                                281,
+                                440
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        430,
+                                        281,
+                                        440
+                                    ],
+                                    "score": 1.0,
+                                    "content": "on the detector’s selected operating sensitivity. The guard is",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                441,
+                                273,
+                                451
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        441,
+                                        273,
+                                        451
+                                    ],
+                                    "score": 1.0,
+                                    "content": "constructed of rugged 16-guage steel and is finished with",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                452,
+                                214,
+                                462
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        452,
+                                        214,
+                                        462
+                                    ],
+                                    "score": 1.0,
+                                    "content": "durable white baked powder coat enamel.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 7.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        322,
+                        358,
+                        389,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                389,
+                                374
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        389,
+                                        374
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Application",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        375,
+                        561,
+                        440
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                376,
+                                556,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        376,
+                                        556,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Detector guards should be used wherever flying objects may",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                387,
+                                551,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        387,
+                                        551,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "accidentally damage the detector, or wherever they may be",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                397,
+                                560,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        397,
+                                        560,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "intentionally damaged or used to conceal contraband. Typical",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                408,
+                                559,
+                                418
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        408,
+                                        559,
+                                        418
+                                    ],
+                                    "score": 1.0,
+                                    "content": "applications include correctional or detention facilities, mental",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                420,
+                                550,
+                                429
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        420,
+                                        550,
+                                        429
+                                    ],
+                                    "score": 1.0,
+                                    "content": "hospitals, industrial or warehousing spaces, sports facilities",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                430,
+                                390,
+                                441
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        430,
+                                        390,
+                                        441
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and gymnasiums.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 15.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        446,
+                        563,
+                        489
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                447,
+                                564,
+                                457
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        447,
+                                        564,
+                                        457
+                                    ],
+                                    "score": 1.0,
+                                    "content": "NFPA 72 Section 5-1.3.1 states “Where subject to mechanical",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                457,
+                                560,
+                                469
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        457,
+                                        560,
+                                        469
+                                    ],
+                                    "score": 1.0,
+                                    "content": "damage, an initiating device shall be protected. A mechanical",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                469,
+                                562,
+                                478
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        469,
+                                        562,
+                                        478
+                                    ],
+                                    "score": 1.0,
+                                    "content": "guard used to protect a smoke or heat detector shall be listed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                479,
+                                468,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        479,
+                                        468,
+                                        489
+                                    ],
+                                    "score": 1.0,
+                                    "content": "for use with the detector being used”.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        }
+                    ],
+                    "index": 20.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        486,
+                        162,
+                        501
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                487,
+                                162,
+                                502
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        487,
+                                        162,
+                                        502
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 23
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        50,
+                        504,
+                        290,
+                        526
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                505,
+                                289,
+                                515
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        505,
+                                        289,
+                                        515
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Agency listed with Signature Series smoke detectors",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                516,
+                                261,
+                                526
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        516,
+                                        261,
+                                        526
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Tested and listed by Underwriters’ Laboratories Inc.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        }
+                    ],
+                    "index": 24.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        51,
+                        530,
+                        290,
+                        574
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                531,
+                                237,
+                                542
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        531,
+                                        237,
+                                        542
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Compatible with Signature Series smoke",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                542,
+                                138,
+                                552
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        542,
+                                        138,
+                                        552
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and CO detectors",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                552,
+                                289,
+                                564
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        552,
+                                        289,
+                                        564
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Advanced design does not affect detector sensitivity; does",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                563,
+                                211,
+                                575
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        563,
+                                        211,
+                                        575
+                                    ],
+                                    "score": 1.0,
+                                    "content": "not reduce the listed detector spacing.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        }
+                    ],
+                    "index": 27.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        52,
+                        579,
+                        277,
+                        622
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                580,
+                                189,
+                                590
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        580,
+                                        189,
+                                        590
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Rugged, tamper-proof design",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                590,
+                                275,
+                                600
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        590,
+                                        275,
+                                        600
+                                    ],
+                                    "score": 1.0,
+                                    "content": "16-gauge steel louvered construction provides superior",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                601,
+                                262,
+                                612
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        601,
+                                        262,
+                                        612
+                                    ],
+                                    "score": 1.0,
+                                    "content": "physical protection. Special fasteners guard against",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                612,
+                                203,
+                                621
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        612,
+                                        203,
+                                        621
+                                    ],
+                                    "score": 1.0,
+                                    "content": "unauthorized access to the detector.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        }
+                    ],
+                    "index": 31.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        50,
+                        628,
+                        294,
+                        659
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                627,
+                                126,
+                                638
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        627,
+                                        126,
+                                        638
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Easy mounting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                638,
+                                294,
+                                650
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        638,
+                                        294,
+                                        650
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Simple design ensures very fast, very secure installation, yet",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                650,
+                                282,
+                                659
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        650,
+                                        282,
+                                        659
+                                    ],
+                                    "score": 1.0,
+                                    "content": "allows easy removal for detector cleaning and inspection.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        }
+                    ],
+                    "index": 35
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        50,
+                        664,
+                        283,
+                        697
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                665,
+                                163,
+                                675
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        665,
+                                        163,
+                                        675
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Flush or surface mount",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                675,
+                                282,
+                                686
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        675,
+                                        282,
+                                        686
+                                    ],
+                                    "score": 1.0,
+                                    "content": "SIGA-DGSB Surface Mount Accessory allows installation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                686,
+                                254,
+                                697
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        686,
+                                        254,
+                                        697
+                                    ],
+                                    "score": 1.0,
+                                    "content": "over surface mounted conduit and electric boxes.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        }
+                    ],
+                    "index": 38
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        49,
+                        749,
+                        88,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                749,
+                                88,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        749,
+                                        88,
+                                        759
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        393,
+                        745,
+                        581,
+                        768
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                434,
+                                746,
+                                580,
+                                758
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        434,
+                                        749,
+                                        498,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        501,
+                                        746,
+                                        580,
+                                        758
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                394,
+                                758,
+                                580,
+                                767
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        394,
+                                        758,
+                                        580,
+                                        767
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        48,
+                        146,
+                        303,
+                        237
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                51,
+                                148,
+                                303,
+                                179
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        148,
+                                        160,
+                                        179
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Smoke",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        169,
+                                        149,
+                                        303,
+                                        179
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Detector",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                183,
+                                147,
+                                216
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        183,
+                                        147,
+                                        216
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Guard",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                219,
+                                134,
+                                235
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        219,
+                                        134,
+                                        235
+                                    ],
+                                    "score": 1.0,
+                                    "content": "SIGA-GRD",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        358,
+                        106,
+                        371
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                358,
+                                107,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        358,
+                                        107,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        375,
+                        298,
+                        461
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                376,
+                                275,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        376,
+                                        275,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The SIGA-GRD Smoke Detector Guard protects Signature",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                387,
+                                286,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        387,
+                                        286,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Series smoke detectors from damage and tampering without",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                398,
+                                291,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        398,
+                                        291,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "affecting airflow to the detector head. The sophisticated louver",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                409,
+                                281,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        409,
+                                        281,
+                                        419
+                                    ],
+                                    "score": 1.0,
+                                    "content": "configuration on the detector guard allows Signature smoke",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                419,
+                                298,
+                                429
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        419,
+                                        298,
+                                        429
+                                    ],
+                                    "score": 1.0,
+                                    "content": "detectors to be installed at their listed spacing and has no affect",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                430,
+                                281,
+                                440
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        430,
+                                        281,
+                                        440
+                                    ],
+                                    "score": 1.0,
+                                    "content": "on the detector’s selected operating sensitivity. The guard is",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                441,
+                                273,
+                                451
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        441,
+                                        273,
+                                        451
+                                    ],
+                                    "score": 1.0,
+                                    "content": "constructed of rugged 16-guage steel and is finished with",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                452,
+                                214,
+                                462
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        452,
+                                        214,
+                                        462
+                                    ],
+                                    "score": 1.0,
+                                    "content": "durable white baked powder coat enamel.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        }
+                    ],
+                    "index": 7.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        49,
+                        376,
+                        298,
+                        462
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        322,
+                        358,
+                        389,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                389,
+                                374
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        389,
+                                        374
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Application",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 12,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        375,
+                        561,
+                        440
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                376,
+                                556,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        376,
+                                        556,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Detector guards should be used wherever flying objects may",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                387,
+                                551,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        387,
+                                        551,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "accidentally damage the detector, or wherever they may be",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                397,
+                                560,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        397,
+                                        560,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "intentionally damaged or used to conceal contraband. Typical",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                408,
+                                559,
+                                418
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        408,
+                                        559,
+                                        418
+                                    ],
+                                    "score": 1.0,
+                                    "content": "applications include correctional or detention facilities, mental",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                420,
+                                550,
+                                429
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        420,
+                                        550,
+                                        429
+                                    ],
+                                    "score": 1.0,
+                                    "content": "hospitals, industrial or warehousing spaces, sports facilities",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                430,
+                                390,
+                                441
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        430,
+                                        390,
+                                        441
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and gymnasiums.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 15.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        320,
+                        376,
+                        560,
+                        441
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        446,
+                        563,
+                        489
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                447,
+                                564,
+                                457
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        447,
+                                        564,
+                                        457
+                                    ],
+                                    "score": 1.0,
+                                    "content": "NFPA 72 Section 5-1.3.1 states “Where subject to mechanical",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                457,
+                                560,
+                                469
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        457,
+                                        560,
+                                        469
+                                    ],
+                                    "score": 1.0,
+                                    "content": "damage, an initiating device shall be protected. A mechanical",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                469,
+                                562,
+                                478
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        469,
+                                        562,
+                                        478
+                                    ],
+                                    "score": 1.0,
+                                    "content": "guard used to protect a smoke or heat detector shall be listed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                479,
+                                468,
+                                489
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        479,
+                                        468,
+                                        489
+                                    ],
+                                    "score": 1.0,
+                                    "content": "for use with the detector being used”.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        }
+                    ],
+                    "index": 20.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        320,
+                        447,
+                        564,
+                        489
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        486,
+                        162,
+                        501
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                487,
+                                162,
+                                502
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        487,
+                                        162,
+                                        502
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 23,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        50,
+                        504,
+                        290,
+                        526
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                505,
+                                289,
+                                515
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        505,
+                                        289,
+                                        515
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Agency listed with Signature Series smoke detectors",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                516,
+                                261,
+                                526
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        516,
+                                        261,
+                                        526
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Tested and listed by Underwriters’ Laboratories Inc.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        }
+                    ],
+                    "index": 24.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        61,
+                        505,
+                        289,
+                        526
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        51,
+                        530,
+                        290,
+                        574
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                531,
+                                237,
+                                542
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        531,
+                                        237,
+                                        542
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Compatible with Signature Series smoke",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                542,
+                                138,
+                                552
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        542,
+                                        138,
+                                        552
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and CO detectors",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                552,
+                                289,
+                                564
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        552,
+                                        289,
+                                        564
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Advanced design does not affect detector sensitivity; does",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                563,
+                                211,
+                                575
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        563,
+                                        211,
+                                        575
+                                    ],
+                                    "score": 1.0,
+                                    "content": "not reduce the listed detector spacing.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        }
+                    ],
+                    "index": 27.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        61,
+                        531,
+                        289,
+                        575
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        52,
+                        579,
+                        277,
+                        622
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                61,
+                                580,
+                                189,
+                                590
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        580,
+                                        189,
+                                        590
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Rugged, tamper-proof design",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                590,
+                                275,
+                                600
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        590,
+                                        275,
+                                        600
+                                    ],
+                                    "score": 1.0,
+                                    "content": "16-gauge steel louvered construction provides superior",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                601,
+                                262,
+                                612
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        601,
+                                        262,
+                                        612
+                                    ],
+                                    "score": 1.0,
+                                    "content": "physical protection. Special fasteners guard against",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                612,
+                                203,
+                                621
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        612,
+                                        203,
+                                        621
+                                    ],
+                                    "score": 1.0,
+                                    "content": "unauthorized access to the detector.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        }
+                    ],
+                    "index": 31.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        61,
+                        580,
+                        275,
+                        621
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        50,
+                        628,
+                        294,
+                        659
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                627,
+                                126,
+                                638
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        627,
+                                        126,
+                                        638
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Easy mounting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                638,
+                                294,
+                                650
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        638,
+                                        294,
+                                        650
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Simple design ensures very fast, very secure installation, yet",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                650,
+                                282,
+                                659
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        650,
+                                        282,
+                                        659
+                                    ],
+                                    "score": 1.0,
+                                    "content": "allows easy removal for detector cleaning and inspection.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        }
+                    ],
+                    "index": 35,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        60,
+                        627,
+                        294,
+                        659
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        50,
+                        664,
+                        283,
+                        697
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                60,
+                                665,
+                                163,
+                                675
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        60,
+                                        665,
+                                        163,
+                                        675
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Flush or surface mount",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                675,
+                                282,
+                                686
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        675,
+                                        282,
+                                        686
+                                    ],
+                                    "score": 1.0,
+                                    "content": "SIGA-DGSB Surface Mount Accessory allows installation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                686,
+                                254,
+                                697
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        686,
+                                        254,
+                                        697
+                                    ],
+                                    "score": 1.0,
+                                    "content": "over surface mounted conduit and electric boxes.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        }
+                    ],
+                    "index": 38,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        60,
+                        665,
+                        282,
+                        697
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        85,
+                        365,
+                        98
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                84,
+                                363,
+                                99
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        84,
+                                        363,
+                                        99
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Installation and Mounting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        213,
+                        101,
+                        415,
+                        112
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                101,
+                                415,
+                                113
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        101,
+                                        415,
+                                        113
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The SIGA-GRD may be mounted one of three ways:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        212,
+                        115,
+                        552,
+                        151
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                115,
+                                551,
+                                127
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        115,
+                                        551,
+                                        127
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1.\tDirectly to the ceiling, enclosing a detector installed to a flush-mounted electrical box.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                212,
+                                129,
+                                520,
+                                140
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        129,
+                                        520,
+                                        140
+                                    ],
+                                    "score": 1.0,
+                                    "content": "2.\tTo the SIGA-DGSB Surface Mount Adapter, which encloses a surface-mount",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                222,
+                                141,
+                                276,
+                                151
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        222,
+                                        141,
+                                        276,
+                                        151
+                                    ],
+                                    "score": 1.0,
+                                    "content": "electrical box.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        212,
+                        153,
+                        543,
+                        175
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                154,
+                                541,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        154,
+                                        541,
+                                        165
+                                    ],
+                                    "score": 1.0,
+                                    "content": "3.\tTo the optional mounting flange. This accessory is useful where the detector guard",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                221,
+                                165,
+                                367,
+                                176
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        221,
+                                        165,
+                                        367,
+                                        176
+                                    ],
+                                    "score": 1.0,
+                                    "content": "is removed periodically for inspection.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 5.5
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        212,
+                        195,
+                        561,
+                        343
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                212,
+                                195,
+                                561,
+                                343
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        195,
+                                        561,
+                                        343
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                212,
+                                                195,
+                                                561,
+                                                343
+                                            ],
+                                            "score": 0.9999865293502808,
+                                            "type": "image",
+                                            "image_path": "c7403f9c15fe16ce4bb812329862ca36b318b3c1744b1cd24e175d860686b99b.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        195,
+                                        561,
+                                        244.33333333333334
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        212,
+                                        244.33333333333334,
+                                        561,
+                                        293.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        212,
+                                        293.6666666666667,
+                                        561,
+                                        343.0
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        379,
+                        298,
+                        392
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                378,
+                                298,
+                                393
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        378,
+                                        298,
+                                        393
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Specifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        395,
+                        562,
+                        528
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                395,
+                                562,
+                                528
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        395,
+                                        562,
+                                        528
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                395,
+                                                562,
+                                                528
+                                            ],
+                                            "score": 0.9998313188552856,
+                                            "html": "<html><body><table><tr><td></td><td>SIGA-GRD DetectorGuard</td><td>SIGA-DGSB DetectorGuardSurfaceAdapter</td></tr><tr><td>Construction</td><td colspan=\"2\">16gaugesteel</td></tr><tr><td>Dimensions</td><td>7.27inch(184.7mm) diameterx3.25</td><td>8.9 inch (225mm) octagonal x 2.25 inch (57mm) high</td></tr><tr><td>Finish</td><td colspan=\"2\">inch(82.6mm)high White;bakedpowdercoatenamel</td></tr><tr><td>Mounting</td><td>Mountsoverflush1-gang,octagon, andfour-inchsquareNorthAmerican</td><td>Enclosessurfacemountedoctagon orone-gangelectricbox</td></tr><tr><td>Compatible Detectors</td><td colspan=\"2\">electricboxes DetectorS:SIGA-COD,SIGA-COD-CA,SIGA-PCD,SIGA-PCD-CA,SIGA-PD</td></tr><tr><td>Agency Listings</td><td>BaSeS:SIGA-SB,SIGA-RB,SIGA-IB UL,ULC,CSFM</td><td></td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "afb691d1185eeeafebb666250bce8478d2f4c1f34128a0db37b556d575fb73ea.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        395,
+                                        562,
+                                        439.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        439.3333333333333,
+                                        562,
+                                        483.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        483.66666666666663,
+                                        562,
+                                        528.0
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        565,
+                        338,
+                        579
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                564,
+                                337,
+                                579
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        564,
+                                        337,
+                                        579
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        214,
+                        581,
+                        563,
+                        625
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                214,
+                                581,
+                                563,
+                                625
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        581,
+                                        563,
+                                        625
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                581,
+                                                563,
+                                                625
+                                            ],
+                                            "score": 0.9998772144317627,
+                                            "html": "<html><body><table><tr><td>CatalogNumber</td><td>Description</td><td>Ship Wt., Ib. (kg)</td></tr><tr><td>SIGA-GRD</td><td>SmokeDetectorGuard</td><td>0.8 (0.36)</td></tr><tr><td>SIGA-DGSB</td><td>DetectorGuardSurfaceMountAccessory</td><td>2 (0.9)</td></tr><tr><td>SIGA-DGMF</td><td>MountingFlange(optional)</td><td>2. (0.9)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "3e7e2f4a4559eb01743a8a51e8467a6eb4ff3d9b7342d7129d54d750db74ca3d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 16,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        581,
+                                        563,
+                                        595.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        595.6666666666666,
+                                        563,
+                                        610.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 16
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        610.3333333333333,
+                                        563,
+                                        624.9999999999999
+                                    ],
+                                    "spans": [],
+                                    "index": 17
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 16
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 1,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        212,
+                        195,
+                        561,
+                        343
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                212,
+                                195,
+                                561,
+                                343
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        195,
+                                        561,
+                                        343
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                212,
+                                                195,
+                                                561,
+                                                343
+                                            ],
+                                            "score": 0.9999865293502808,
+                                            "type": "image",
+                                            "image_path": "c7403f9c15fe16ce4bb812329862ca36b318b3c1744b1cd24e175d860686b99b.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        195,
+                                        561,
+                                        244.33333333333334
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        212,
+                                        244.33333333333334,
+                                        561,
+                                        293.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        212,
+                                        293.6666666666667,
+                                        561,
+                                        343.0
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                }
+            ],
+            "tables": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        395,
+                        562,
+                        528
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                395,
+                                562,
+                                528
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        395,
+                                        562,
+                                        528
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                395,
+                                                562,
+                                                528
+                                            ],
+                                            "score": 0.9998313188552856,
+                                            "html": "<html><body><table><tr><td></td><td>SIGA-GRD DetectorGuard</td><td>SIGA-DGSB DetectorGuardSurfaceAdapter</td></tr><tr><td>Construction</td><td colspan=\"2\">16gaugesteel</td></tr><tr><td>Dimensions</td><td>7.27inch(184.7mm) diameterx3.25</td><td>8.9 inch (225mm) octagonal x 2.25 inch (57mm) high</td></tr><tr><td>Finish</td><td colspan=\"2\">inch(82.6mm)high White;bakedpowdercoatenamel</td></tr><tr><td>Mounting</td><td>Mountsoverflush1-gang,octagon, andfour-inchsquareNorthAmerican</td><td>Enclosessurfacemountedoctagon orone-gangelectricbox</td></tr><tr><td>Compatible Detectors</td><td colspan=\"2\">electricboxes DetectorS:SIGA-COD,SIGA-COD-CA,SIGA-PCD,SIGA-PCD-CA,SIGA-PD</td></tr><tr><td>Agency Listings</td><td>BaSeS:SIGA-SB,SIGA-RB,SIGA-IB UL,ULC,CSFM</td><td></td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "afb691d1185eeeafebb666250bce8478d2f4c1f34128a0db37b556d575fb73ea.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        395,
+                                        562,
+                                        439.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        439.3333333333333,
+                                        562,
+                                        483.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        483.66666666666663,
+                                        562,
+                                        528.0
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        214,
+                        581,
+                        563,
+                        625
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                214,
+                                581,
+                                563,
+                                625
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        581,
+                                        563,
+                                        625
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                581,
+                                                563,
+                                                625
+                                            ],
+                                            "score": 0.9998772144317627,
+                                            "html": "<html><body><table><tr><td>CatalogNumber</td><td>Description</td><td>Ship Wt., Ib. (kg)</td></tr><tr><td>SIGA-GRD</td><td>SmokeDetectorGuard</td><td>0.8 (0.36)</td></tr><tr><td>SIGA-DGSB</td><td>DetectorGuardSurfaceMountAccessory</td><td>2 (0.9)</td></tr><tr><td>SIGA-DGMF</td><td>MountingFlange(optional)</td><td>2. (0.9)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "3e7e2f4a4559eb01743a8a51e8467a6eb4ff3d9b7342d7129d54d750db74ca3d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 16,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        581,
+                                        563,
+                                        595.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        595.6666666666666,
+                                        563,
+                                        610.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 16
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        610.3333333333333,
+                                        563,
+                                        624.9999999999999
+                                    ],
+                                    "spans": [],
+                                    "index": 17
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 16
+                }
+            ],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        31,
+                        750,
+                        70,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                31,
+                                750,
+                                71,
+                                758
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        31,
+                                        750,
+                                        71,
+                                        758
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        379,
+                        745,
+                        563,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                416,
+                                747,
+                                561,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        416,
+                                        749,
+                                        480,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        484,
+                                        747,
+                                        561,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                376,
+                                758,
+                                563,
+                                768
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        376,
+                                        758,
+                                        563,
+                                        768
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        606,
+                        733,
+                        612,
+                        760
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                605,
+                                733,
+                                614,
+                                763
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        605,
+                                        733,
+                                        614,
+                                        763
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        85,
+                        365,
+                        98
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                84,
+                                363,
+                                99
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        84,
+                                        363,
+                                        99
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Installation and Mounting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        213,
+                        101,
+                        415,
+                        112
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                101,
+                                415,
+                                113
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        101,
+                                        415,
+                                        113
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The SIGA-GRD may be mounted one of three ways:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        213,
+                        101,
+                        415,
+                        113
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        212,
+                        115,
+                        552,
+                        151
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                115,
+                                551,
+                                127
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        115,
+                                        551,
+                                        127
+                                    ],
+                                    "score": 1.0,
+                                    "content": "1.\tDirectly to the ceiling, enclosing a detector installed to a flush-mounted electrical box.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                212,
+                                129,
+                                520,
+                                140
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        129,
+                                        520,
+                                        140
+                                    ],
+                                    "score": 1.0,
+                                    "content": "2.\tTo the SIGA-DGSB Surface Mount Adapter, which encloses a surface-mount",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                222,
+                                141,
+                                276,
+                                151
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        222,
+                                        141,
+                                        276,
+                                        151
+                                    ],
+                                    "score": 1.0,
+                                    "content": "electrical box.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        212,
+                        115,
+                        551,
+                        151
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        212,
+                        153,
+                        543,
+                        175
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                154,
+                                541,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        154,
+                                        541,
+                                        165
+                                    ],
+                                    "score": 1.0,
+                                    "content": "3.\tTo the optional mounting flange. This accessory is useful where the detector guard",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                221,
+                                165,
+                                367,
+                                176
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        221,
+                                        165,
+                                        367,
+                                        176
+                                    ],
+                                    "score": 1.0,
+                                    "content": "is removed periodically for inspection.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 5.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        213,
+                        154,
+                        541,
+                        176
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        212,
+                        195,
+                        561,
+                        343
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                212,
+                                195,
+                                561,
+                                343
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        195,
+                                        561,
+                                        343
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                212,
+                                                195,
+                                                561,
+                                                343
+                                            ],
+                                            "score": 0.9999865293502808,
+                                            "type": "image",
+                                            "image_path": "c7403f9c15fe16ce4bb812329862ca36b318b3c1744b1cd24e175d860686b99b.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        195,
+                                        561,
+                                        244.33333333333334
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        212,
+                                        244.33333333333334,
+                                        561,
+                                        293.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        212,
+                                        293.6666666666667,
+                                        561,
+                                        343.0
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        379,
+                        298,
+                        392
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                378,
+                                298,
+                                393
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        378,
+                                        298,
+                                        393
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Specifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 10,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        395,
+                        562,
+                        528
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                395,
+                                562,
+                                528
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        395,
+                                        562,
+                                        528
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                395,
+                                                562,
+                                                528
+                                            ],
+                                            "score": 0.9998313188552856,
+                                            "html": "<html><body><table><tr><td></td><td>SIGA-GRD DetectorGuard</td><td>SIGA-DGSB DetectorGuardSurfaceAdapter</td></tr><tr><td>Construction</td><td colspan=\"2\">16gaugesteel</td></tr><tr><td>Dimensions</td><td>7.27inch(184.7mm) diameterx3.25</td><td>8.9 inch (225mm) octagonal x 2.25 inch (57mm) high</td></tr><tr><td>Finish</td><td colspan=\"2\">inch(82.6mm)high White;bakedpowdercoatenamel</td></tr><tr><td>Mounting</td><td>Mountsoverflush1-gang,octagon, andfour-inchsquareNorthAmerican</td><td>Enclosessurfacemountedoctagon orone-gangelectricbox</td></tr><tr><td>Compatible Detectors</td><td colspan=\"2\">electricboxes DetectorS:SIGA-COD,SIGA-COD-CA,SIGA-PCD,SIGA-PCD-CA,SIGA-PD</td></tr><tr><td>Agency Listings</td><td>BaSeS:SIGA-SB,SIGA-RB,SIGA-IB UL,ULC,CSFM</td><td></td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "afb691d1185eeeafebb666250bce8478d2f4c1f34128a0db37b556d575fb73ea.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 12,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        395,
+                                        562,
+                                        439.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        439.3333333333333,
+                                        562,
+                                        483.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 12
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        483.66666666666663,
+                                        562,
+                                        528.0
+                                    ],
+                                    "spans": [],
+                                    "index": 13
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 12,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        565,
+                        338,
+                        579
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                564,
+                                337,
+                                579
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        564,
+                                        337,
+                                        579
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 14,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        214,
+                        581,
+                        563,
+                        625
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                214,
+                                581,
+                                563,
+                                625
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        581,
+                                        563,
+                                        625
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                581,
+                                                563,
+                                                625
+                                            ],
+                                            "score": 0.9998772144317627,
+                                            "html": "<html><body><table><tr><td>CatalogNumber</td><td>Description</td><td>Ship Wt., Ib. (kg)</td></tr><tr><td>SIGA-GRD</td><td>SmokeDetectorGuard</td><td>0.8 (0.36)</td></tr><tr><td>SIGA-DGSB</td><td>DetectorGuardSurfaceMountAccessory</td><td>2 (0.9)</td></tr><tr><td>SIGA-DGMF</td><td>MountingFlange(optional)</td><td>2. (0.9)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "3e7e2f4a4559eb01743a8a51e8467a6eb4ff3d9b7342d7129d54d750db74ca3d.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 16,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        581,
+                                        563,
+                                        595.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 15
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        595.6666666666666,
+                                        563,
+                                        610.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 16
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        610.3333333333333,
+                                        563,
+                                        624.9999999999999
+                                    ],
+                                    "spans": [],
+                                    "index": 17
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 16,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "txt",
+    "_version_name": "0.10.1"
+}

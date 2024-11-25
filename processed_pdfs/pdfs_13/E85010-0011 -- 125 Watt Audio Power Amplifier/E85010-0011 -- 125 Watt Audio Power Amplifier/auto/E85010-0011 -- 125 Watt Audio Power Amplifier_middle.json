@@ -1,0 +1,4405 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        146,
+                        397,
+                        237
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                148,
+                                394,
+                                181
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        148,
+                                        144,
+                                        177
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Audio",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        148,
+                                        149,
+                                        394,
+                                        181
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Power Amplifier,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                183,
+                                209,
+                                215
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        183,
+                                        209,
+                                        215
+                                    ],
+                                    "score": 1.0,
+                                    "content": "125 Watts",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                219,
+                                172,
+                                235
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        219,
+                                        172,
+                                        235
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Model 1B3-125",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        358,
+                        106,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                358,
+                                106,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        358,
+                                        106,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        375,
+                        304,
+                        483
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                375,
+                                294,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        375,
+                                        294,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The 1B3-125 Power Amplifier is rated at 125 Watts continuous",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                387,
+                                304,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        387,
+                                        304,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "(RMS) power and it contains circuitry for 24 Vdc backup. The Am-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                398,
+                                295,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        398,
+                                        295,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "plifier mounts in a standard 19 in (483mm) rack. Output Voltage",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                409,
+                                297,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        409,
+                                        297,
+                                        419
+                                    ],
+                                    "score": 1.0,
+                                    "content": "may be 25 or 70 VRMS. Supply voltage is 120/240 V, 50/60 Hz,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                420,
+                                301,
+                                429
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        420,
+                                        301,
+                                        429
+                                    ],
+                                    "score": 1.0,
+                                    "content": "or optionally 24-28 Vdc. The Amplifier contains electronic protec-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                430,
+                                293,
+                                440
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        430,
+                                        293,
+                                        440
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tion safeguards against overloads or shorted output. A thermal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                441,
+                                303,
+                                451
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        441,
+                                        303,
+                                        451
+                                    ],
+                                    "score": 1.0,
+                                    "content": "overload protection circuit is also included that opens the primary",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                452,
+                                305,
+                                461
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        452,
+                                        305,
+                                        461
+                                    ],
+                                    "score": 1.0,
+                                    "content": "power circuit if the unit overheats. Both protection circuits are self-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                462,
+                                297,
+                                473
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        462,
+                                        297,
+                                        473
+                                    ],
+                                    "score": 1.0,
+                                    "content": "restoring. The system may incorporate a Standby Amplifier as a ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                473,
+                                169,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        473,
+                                        169,
+                                        484
+                                    ],
+                                    "score": 1.0,
+                                    "content": "backup against any unit failure.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 8.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        358,
+                        434,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                433,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        433,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 14
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        322,
+                        376,
+                        518,
+                        481
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                322,
+                                374,
+                                423,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        378,
+                                        326,
+                                        383
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        331,
+                                        374,
+                                        423,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "24 Vdc battery backup",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                390,
+                                438,
+                                402
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        394,
+                                        326,
+                                        399
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        331,
+                                        390,
+                                        438,
+                                        402
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Broad frequency response",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                406,
+                                390,
+                                418
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        409,
+                                        326,
+                                        415
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        330,
+                                        406,
+                                        390,
+                                        418
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Low distortion",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                423,
+                                423,
+                                433
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        425,
+                                        326,
+                                        431
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        332,
+                                        423,
+                                        423,
+                                        433
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Thermal circuit breaker",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                438,
+                                415,
+                                449
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        441,
+                                        327,
+                                        447
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        332,
+                                        438,
+                                        415,
+                                        449
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Electronic protection",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                454,
+                                516,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        457,
+                                        327,
+                                        462
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        332,
+                                        454,
+                                        516,
+                                        465
+                                    ],
+                                    "score": 1.0,
+                                    "content": "UL listed under standards 1711, 1480 and 813",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                469,
+                                375,
+                                480
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        473,
+                                        326,
+                                        478
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        332,
+                                        469,
+                                        375,
+                                        480
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ULC listed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 18
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        395,
+                        745,
+                        580,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                433,
+                                746,
+                                578,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        433,
+                                        749,
+                                        497,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        501,
+                                        746,
+                                        578,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                394,
+                                758,
+                                581,
+                                767
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        394,
+                                        758,
+                                        581,
+                                        767
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        49,
+                        750,
+                        88,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                749,
+                                90,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        749,
+                                        90,
+                                        759
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        146,
+                        397,
+                        237
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                148,
+                                394,
+                                181
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        148,
+                                        144,
+                                        177
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Audio",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        148,
+                                        149,
+                                        394,
+                                        181
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Power Amplifier,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                52,
+                                183,
+                                209,
+                                215
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        52,
+                                        183,
+                                        209,
+                                        215
+                                    ],
+                                    "score": 1.0,
+                                    "content": "125 Watts",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                219,
+                                172,
+                                235
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        219,
+                                        172,
+                                        235
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Model 1B3-125",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        358,
+                        106,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                358,
+                                106,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        358,
+                                        106,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        375,
+                        304,
+                        483
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                375,
+                                294,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        375,
+                                        294,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The 1B3-125 Power Amplifier is rated at 125 Watts continuous",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                387,
+                                304,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        387,
+                                        304,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "(RMS) power and it contains circuitry for 24 Vdc backup. The Am-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                398,
+                                295,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        398,
+                                        295,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "plifier mounts in a standard 19 in (483mm) rack. Output Voltage",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                409,
+                                297,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        409,
+                                        297,
+                                        419
+                                    ],
+                                    "score": 1.0,
+                                    "content": "may be 25 or 70 VRMS. Supply voltage is 120/240 V, 50/60 Hz,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                420,
+                                301,
+                                429
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        420,
+                                        301,
+                                        429
+                                    ],
+                                    "score": 1.0,
+                                    "content": "or optionally 24-28 Vdc. The Amplifier contains electronic protec-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                430,
+                                293,
+                                440
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        430,
+                                        293,
+                                        440
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tion safeguards against overloads or shorted output. A thermal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                441,
+                                303,
+                                451
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        441,
+                                        303,
+                                        451
+                                    ],
+                                    "score": 1.0,
+                                    "content": "overload protection circuit is also included that opens the primary",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                452,
+                                305,
+                                461
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        452,
+                                        305,
+                                        461
+                                    ],
+                                    "score": 1.0,
+                                    "content": "power circuit if the unit overheats. Both protection circuits are self-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                462,
+                                297,
+                                473
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        462,
+                                        297,
+                                        473
+                                    ],
+                                    "score": 1.0,
+                                    "content": "restoring. The system may incorporate a Standby Amplifier as a ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                473,
+                                169,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        473,
+                                        169,
+                                        484
+                                    ],
+                                    "score": 1.0,
+                                    "content": "backup against any unit failure.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 8.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        49,
+                        375,
+                        305,
+                        484
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        358,
+                        434,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                433,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        433,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 14,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        322,
+                        376,
+                        518,
+                        481
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                322,
+                                374,
+                                423,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        378,
+                                        326,
+                                        383
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        331,
+                                        374,
+                                        423,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "24 Vdc battery backup",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                390,
+                                438,
+                                402
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        394,
+                                        326,
+                                        399
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        331,
+                                        390,
+                                        438,
+                                        402
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Broad frequency response",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                406,
+                                390,
+                                418
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        409,
+                                        326,
+                                        415
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        330,
+                                        406,
+                                        390,
+                                        418
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Low distortion",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                423,
+                                423,
+                                433
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        425,
+                                        326,
+                                        431
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        332,
+                                        423,
+                                        423,
+                                        433
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Thermal circuit breaker",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                438,
+                                415,
+                                449
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        441,
+                                        327,
+                                        447
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        332,
+                                        438,
+                                        415,
+                                        449
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Electronic protection",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                454,
+                                516,
+                                465
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        457,
+                                        327,
+                                        462
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        332,
+                                        454,
+                                        516,
+                                        465
+                                    ],
+                                    "score": 1.0,
+                                    "content": "UL listed under standards 1711, 1480 and 813",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                469,
+                                375,
+                                480
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        473,
+                                        326,
+                                        478
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        332,
+                                        469,
+                                        375,
+                                        480
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ULC listed",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21,
+                            "is_list_start_line": true
+                        }
+                    ],
+                    "index": 18,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        321,
+                        374,
+                        516,
+                        480
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        31,
+                        31,
+                        99,
+                        45
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                32,
+                                30,
+                                100,
+                                46
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        32,
+                                        30,
+                                        100,
+                                        46
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Application",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        32,
+                        48,
+                        273,
+                        69
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                31,
+                                47,
+                                274,
+                                60
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        31,
+                                        47,
+                                        274,
+                                        60
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The 1B3-125 Power Amplifier is used in Banked Amplifier Sys-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                30,
+                                59,
+                                236,
+                                70
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        30,
+                                        59,
+                                        236,
+                                        70
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tems. The system supports up to six audio channels.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        32,
+                        95,
+                        191,
+                        109
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                32,
+                                94,
+                                190,
+                                111
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        32,
+                                        94,
+                                        190,
+                                        111
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Engineering Specifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        31,
+                        111,
+                        289,
+                        230
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                31,
+                                112,
+                                286,
+                                123
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        31,
+                                        112,
+                                        286,
+                                        123
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The Power Amplifier shall be EDWARDS 1B3-125 or an approved",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                32,
+                                124,
+                                289,
+                                133
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        32,
+                                        124,
+                                        289,
+                                        133
+                                    ],
+                                    "score": 1.0,
+                                    "content": "equivalent, and it shall be capable of delivering 125 Watts continu-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                32,
+                                133,
+                                279,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        32,
+                                        134,
+                                        155,
+                                        145
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ous (RMS) power with less than",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        156,
+                                        133,
+                                        178,
+                                        143
+                                    ],
+                                    "score": 0.86,
+                                    "content": "0.5\\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        178,
+                                        134,
+                                        279,
+                                        145
+                                    ],
+                                    "score": 1.0,
+                                    "content": " harmonic distortion in the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                31,
+                                144,
+                                290,
+                                155
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        31,
+                                        144,
+                                        56,
+                                        154
+                                    ],
+                                    "score": 0.36,
+                                    "content": "45\\mapsto",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        56,
+                                        145,
+                                        290,
+                                        155
+                                    ],
+                                    "score": 1.0,
+                                    "content": " to 20 kHz bandwidth (measurements are made at the 70.7V",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                31,
+                                155,
+                                288,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        31,
+                                        156,
+                                        178,
+                                        165
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tap). The frequency response shall be",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        178,
+                                        155,
+                                        203,
+                                        165
+                                    ],
+                                    "score": 0.63,
+                                    "content": "20\\;\\mathsf{H}\\mathsf{Z}",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        203,
+                                        156,
+                                        214,
+                                        165
+                                    ],
+                                    "score": 1.0,
+                                    "content": " to",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        155,
+                                        288,
+                                        165
+                                    ],
+                                    "score": 0.26,
+                                    "content": "20\\mathsf{\\ k H z}\\left(+0,\\mathsf{-1\\ d B}\\right)",
+                                    "type": "inline_equation"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                30,
+                                167,
+                                267,
+                                177
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        30,
+                                        167,
+                                        267,
+                                        177
+                                    ],
+                                    "score": 1.0,
+                                    "content": "per EIA Standard SE-101A. The signal-to-noise ratio shall be",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                30,
+                                176,
+                                278,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        30,
+                                        177,
+                                        213,
+                                        187
+                                    ],
+                                    "score": 1.0,
+                                    "content": "greater than -90 dB below rated output for the",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        176,
+                                        237,
+                                        186
+                                    ],
+                                    "score": 0.46,
+                                    "content": "20\\;\\mathsf{H}\\mathsf{Z}",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        238,
+                                        177,
+                                        248,
+                                        187
+                                    ],
+                                    "score": 1.0,
+                                    "content": " to",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        249,
+                                        176,
+                                        278,
+                                        186
+                                    ],
+                                    "score": 0.45,
+                                    "content": "20\\;\\mathsf{k H z}",
+                                    "type": "inline_equation"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                31,
+                                189,
+                                275,
+                                198
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        31,
+                                        189,
+                                        275,
+                                        198
+                                    ],
+                                    "score": 1.0,
+                                    "content": "bandwidth. Input sensitivity shall be 1 VRMS at 1 kHz for rated ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                32,
+                                198,
+                                288,
+                                209
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        32,
+                                        199,
+                                        177,
+                                        209
+                                    ],
+                                    "score": 1.0,
+                                    "content": "output, and input impedance shall be",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        177,
+                                        198,
+                                        197,
+                                        208
+                                    ],
+                                    "score": 0.69,
+                                    "content": "75\\,\\mathsf{k}",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        197,
+                                        199,
+                                        288,
+                                        209
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Ohms. The output load",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                32,
+                                210,
+                                281,
+                                220
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        32,
+                                        210,
+                                        281,
+                                        220
+                                    ],
+                                    "score": 1.0,
+                                    "content": "(voltage) shall be 40 Ohms (70.7 V), 5 Ohms (25 V), and 8 Ohms",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                31,
+                                221,
+                                286,
+                                231
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        31,
+                                        221,
+                                        286,
+                                        231
+                                    ],
+                                    "score": 1.0,
+                                    "content": "(31.6 V), and there shall be a 25 Volt center tap. Output regulation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 9
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        303,
+                        31,
+                        550,
+                        51
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                303,
+                                31,
+                                550,
+                                41
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        31,
+                                        550,
+                                        41
+                                    ],
+                                    "score": 1.0,
+                                    "content": "shall be better than 1 dB (zero load to full load). A rear-mounted",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                303,
+                                41,
+                                442,
+                                53
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        41,
+                                        442,
+                                        53
+                                    ],
+                                    "score": 1.0,
+                                    "content": "input level control shall be provided.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 15.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        303,
+                        58,
+                        562,
+                        144
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                303,
+                                59,
+                                553,
+                                69
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        59,
+                                        553,
+                                        69
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The Amplifier shall have an electronic protection circuit as a safe-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                303,
+                                70,
+                                546,
+                                80
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        70,
+                                        546,
+                                        80
+                                    ],
+                                    "score": 1.0,
+                                    "content": "guard against damage caused by overloads or shorted output.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                303,
+                                81,
+                                540,
+                                91
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        81,
+                                        540,
+                                        91
+                                    ],
+                                    "score": 1.0,
+                                    "content": "A thermal overload protection circuit shall be provided on the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                302,
+                                92,
+                                562,
+                                101
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        302,
+                                        92,
+                                        562,
+                                        101
+                                    ],
+                                    "score": 1.0,
+                                    "content": "heatsink to open the primary power circuit and illuminate a thermal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                303,
+                                102,
+                                550,
+                                112
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        102,
+                                        550,
+                                        112
+                                    ],
+                                    "score": 1.0,
+                                    "content": "overload LED whenever the amplifier overheats. Both protective",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                303,
+                                113,
+                                552,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        113,
+                                        552,
+                                        124
+                                    ],
+                                    "score": 1.0,
+                                    "content": "circuits shall be self-restoring. The normal power source shall be",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                303,
+                                124,
+                                556,
+                                134
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        124,
+                                        556,
+                                        134
+                                    ],
+                                    "score": 1.0,
+                                    "content": "120/240 V 50/60 Hz, and the system shall draw 3.0 Amps at 120",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                302,
+                                134,
+                                520,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        302,
+                                        134,
+                                        520,
+                                        145
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Vdc power required shall be 11.5 Amps at rated output.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        }
+                    ],
+                    "index": 20.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        303,
+                        150,
+                        558,
+                        226
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                303,
+                                151,
+                                544,
+                                161
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        151,
+                                        544,
+                                        161
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Terminations shall be screw terminal strips with barriers on the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                304,
+                                162,
+                                557,
+                                172
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        304,
+                                        162,
+                                        557,
+                                        172
+                                    ],
+                                    "score": 1.0,
+                                    "content": "output. The Power Amplifier shall be 5-1/4 in (133mm) high, 19 in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                304,
+                                173,
+                                549,
+                                183
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        304,
+                                        173,
+                                        549,
+                                        183
+                                    ],
+                                    "score": 1.0,
+                                    "content": "(483mm) wide, 6-5/8 in (168mm) deep, and be finished in char-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                303,
+                                183,
+                                545,
+                                194
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        183,
+                                        545,
+                                        194
+                                    ],
+                                    "score": 1.0,
+                                    "content": "coal baked enamel. Net weight shall not exceed 22.5 lbs (10.1",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                303,
+                                194,
+                                555,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        194,
+                                        555,
+                                        205
+                                    ],
+                                    "score": 1.0,
+                                    "content": "kg). The Amplifier shall be acceptable for Fire Protective Signaling",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                303,
+                                205,
+                                554,
+                                215
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        205,
+                                        554,
+                                        215
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Systems, approved and tested under UL Standards 1711, 1480,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                303,
+                                216,
+                                479,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        216,
+                                        479,
+                                        226
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and 813. The amplifier shall be listed by ULC.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        }
+                    ],
+                    "index": 28
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        31,
+                        273,
+                        157,
+                        288
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                31,
+                                273,
+                                156,
+                                289
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        31,
+                                        273,
+                                        156,
+                                        289
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Connection Diagram",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 32
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        59,
+                        295,
+                        535,
+                        623
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                59,
+                                295,
+                                535,
+                                623
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        295,
+                                        535,
+                                        623
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                59,
+                                                295,
+                                                535,
+                                                623
+                                            ],
+                                            "score": 0.9999834895133972,
+                                            "type": "image",
+                                            "image_path": "7c0543b77d1e59627acfb8bd30a80e4ab67b4326b1b5cf82809cd3c3b4c392bc.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 34,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        295,
+                                        535,
+                                        404.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 33
+                                },
+                                {
+                                    "bbox": [
+                                        59,
+                                        404.3333333333333,
+                                        535,
+                                        513.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 34
+                                },
+                                {
+                                    "bbox": [
+                                        59,
+                                        513.6666666666666,
+                                        535,
+                                        623.0
+                                    ],
+                                    "spans": [],
+                                    "index": 35
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 34
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 1,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        59,
+                        295,
+                        535,
+                        623
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                59,
+                                295,
+                                535,
+                                623
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        295,
+                                        535,
+                                        623
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                59,
+                                                295,
+                                                535,
+                                                623
+                                            ],
+                                            "score": 0.9999834895133972,
+                                            "type": "image",
+                                            "image_path": "7c0543b77d1e59627acfb8bd30a80e4ab67b4326b1b5cf82809cd3c3b4c392bc.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 34,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        295,
+                                        535,
+                                        404.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 33
+                                },
+                                {
+                                    "bbox": [
+                                        59,
+                                        404.3333333333333,
+                                        535,
+                                        513.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 34
+                                },
+                                {
+                                    "bbox": [
+                                        59,
+                                        513.6666666666666,
+                                        535,
+                                        623.0
+                                    ],
+                                    "spans": [],
+                                    "index": 35
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 34
+                }
+            ],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        378,
+                        745,
+                        562,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                415,
+                                746,
+                                560,
+                                758
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        415,
+                                        749,
+                                        479,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        482,
+                                        746,
+                                        560,
+                                        758
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                376,
+                                758,
+                                563,
+                                767
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        376,
+                                        758,
+                                        563,
+                                        767
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        31,
+                        749,
+                        70,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                30,
+                                749,
+                                72,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        30,
+                                        749,
+                                        72,
+                                        759
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        31,
+                        31,
+                        99,
+                        45
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                32,
+                                30,
+                                100,
+                                46
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        32,
+                                        30,
+                                        100,
+                                        46
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Application",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        32,
+                        48,
+                        273,
+                        69
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                31,
+                                47,
+                                274,
+                                60
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        31,
+                                        47,
+                                        274,
+                                        60
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The 1B3-125 Power Amplifier is used in Banked Amplifier Sys-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                30,
+                                59,
+                                236,
+                                70
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        30,
+                                        59,
+                                        236,
+                                        70
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tems. The system supports up to six audio channels.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        30,
+                        47,
+                        274,
+                        70
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        32,
+                        95,
+                        191,
+                        109
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                32,
+                                94,
+                                190,
+                                111
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        32,
+                                        94,
+                                        190,
+                                        111
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Engineering Specifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        31,
+                        111,
+                        289,
+                        230
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                31,
+                                112,
+                                286,
+                                123
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        31,
+                                        112,
+                                        286,
+                                        123
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The Power Amplifier shall be EDWARDS 1B3-125 or an approved",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                32,
+                                124,
+                                289,
+                                133
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        32,
+                                        124,
+                                        289,
+                                        133
+                                    ],
+                                    "score": 1.0,
+                                    "content": "equivalent, and it shall be capable of delivering 125 Watts continu-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                32,
+                                133,
+                                279,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        32,
+                                        134,
+                                        155,
+                                        145
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ous (RMS) power with less than",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        156,
+                                        133,
+                                        178,
+                                        143
+                                    ],
+                                    "score": 0.86,
+                                    "content": "0.5\\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        178,
+                                        134,
+                                        279,
+                                        145
+                                    ],
+                                    "score": 1.0,
+                                    "content": " harmonic distortion in the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                31,
+                                144,
+                                290,
+                                155
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        31,
+                                        144,
+                                        56,
+                                        154
+                                    ],
+                                    "score": 0.36,
+                                    "content": "45\\mapsto",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        56,
+                                        145,
+                                        290,
+                                        155
+                                    ],
+                                    "score": 1.0,
+                                    "content": " to 20 kHz bandwidth (measurements are made at the 70.7V",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                31,
+                                155,
+                                288,
+                                165
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        31,
+                                        156,
+                                        178,
+                                        165
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tap). The frequency response shall be",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        178,
+                                        155,
+                                        203,
+                                        165
+                                    ],
+                                    "score": 0.63,
+                                    "content": "20\\;\\mathsf{H}\\mathsf{Z}",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        203,
+                                        156,
+                                        214,
+                                        165
+                                    ],
+                                    "score": 1.0,
+                                    "content": " to",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        215,
+                                        155,
+                                        288,
+                                        165
+                                    ],
+                                    "score": 0.26,
+                                    "content": "20\\mathsf{\\ k H z}\\left(+0,\\mathsf{-1\\ d B}\\right)",
+                                    "type": "inline_equation"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                30,
+                                167,
+                                267,
+                                177
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        30,
+                                        167,
+                                        267,
+                                        177
+                                    ],
+                                    "score": 1.0,
+                                    "content": "per EIA Standard SE-101A. The signal-to-noise ratio shall be",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                30,
+                                176,
+                                278,
+                                187
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        30,
+                                        177,
+                                        213,
+                                        187
+                                    ],
+                                    "score": 1.0,
+                                    "content": "greater than -90 dB below rated output for the",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        176,
+                                        237,
+                                        186
+                                    ],
+                                    "score": 0.46,
+                                    "content": "20\\;\\mathsf{H}\\mathsf{Z}",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        238,
+                                        177,
+                                        248,
+                                        187
+                                    ],
+                                    "score": 1.0,
+                                    "content": " to",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        249,
+                                        176,
+                                        278,
+                                        186
+                                    ],
+                                    "score": 0.45,
+                                    "content": "20\\;\\mathsf{k H z}",
+                                    "type": "inline_equation"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                31,
+                                189,
+                                275,
+                                198
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        31,
+                                        189,
+                                        275,
+                                        198
+                                    ],
+                                    "score": 1.0,
+                                    "content": "bandwidth. Input sensitivity shall be 1 VRMS at 1 kHz for rated ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                32,
+                                198,
+                                288,
+                                209
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        32,
+                                        199,
+                                        177,
+                                        209
+                                    ],
+                                    "score": 1.0,
+                                    "content": "output, and input impedance shall be",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        177,
+                                        198,
+                                        197,
+                                        208
+                                    ],
+                                    "score": 0.69,
+                                    "content": "75\\,\\mathsf{k}",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        197,
+                                        199,
+                                        288,
+                                        209
+                                    ],
+                                    "score": 1.0,
+                                    "content": " Ohms. The output load",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                32,
+                                210,
+                                281,
+                                220
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        32,
+                                        210,
+                                        281,
+                                        220
+                                    ],
+                                    "score": 1.0,
+                                    "content": "(voltage) shall be 40 Ohms (70.7 V), 5 Ohms (25 V), and 8 Ohms",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                31,
+                                221,
+                                286,
+                                231
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        31,
+                                        221,
+                                        286,
+                                        231
+                                    ],
+                                    "score": 1.0,
+                                    "content": "(31.6 V), and there shall be a 25 Volt center tap. Output regulation",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                303,
+                                31,
+                                550,
+                                41
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        31,
+                                        550,
+                                        41
+                                    ],
+                                    "score": 1.0,
+                                    "content": "shall be better than 1 dB (zero load to full load). A rear-mounted",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                303,
+                                41,
+                                442,
+                                53
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        41,
+                                        442,
+                                        53
+                                    ],
+                                    "score": 1.0,
+                                    "content": "input level control shall be provided.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 9,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        30,
+                        112,
+                        290,
+                        231
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        303,
+                        31,
+                        550,
+                        51
+                    ],
+                    "lines": [],
+                    "index": 15.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        303,
+                        31,
+                        550,
+                        53
+                    ],
+                    "lines_deleted": true
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        303,
+                        58,
+                        562,
+                        144
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                303,
+                                59,
+                                553,
+                                69
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        59,
+                                        553,
+                                        69
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The Amplifier shall have an electronic protection circuit as a safe-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                303,
+                                70,
+                                546,
+                                80
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        70,
+                                        546,
+                                        80
+                                    ],
+                                    "score": 1.0,
+                                    "content": "guard against damage caused by overloads or shorted output.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                303,
+                                81,
+                                540,
+                                91
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        81,
+                                        540,
+                                        91
+                                    ],
+                                    "score": 1.0,
+                                    "content": "A thermal overload protection circuit shall be provided on the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                302,
+                                92,
+                                562,
+                                101
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        302,
+                                        92,
+                                        562,
+                                        101
+                                    ],
+                                    "score": 1.0,
+                                    "content": "heatsink to open the primary power circuit and illuminate a thermal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                303,
+                                102,
+                                550,
+                                112
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        102,
+                                        550,
+                                        112
+                                    ],
+                                    "score": 1.0,
+                                    "content": "overload LED whenever the amplifier overheats. Both protective",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                303,
+                                113,
+                                552,
+                                124
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        113,
+                                        552,
+                                        124
+                                    ],
+                                    "score": 1.0,
+                                    "content": "circuits shall be self-restoring. The normal power source shall be",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                303,
+                                124,
+                                556,
+                                134
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        124,
+                                        556,
+                                        134
+                                    ],
+                                    "score": 1.0,
+                                    "content": "120/240 V 50/60 Hz, and the system shall draw 3.0 Amps at 120",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                302,
+                                134,
+                                520,
+                                145
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        302,
+                                        134,
+                                        520,
+                                        145
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Vdc power required shall be 11.5 Amps at rated output.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        }
+                    ],
+                    "index": 20.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        302,
+                        59,
+                        562,
+                        145
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        303,
+                        150,
+                        558,
+                        226
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                303,
+                                151,
+                                544,
+                                161
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        151,
+                                        544,
+                                        161
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Terminations shall be screw terminal strips with barriers on the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                304,
+                                162,
+                                557,
+                                172
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        304,
+                                        162,
+                                        557,
+                                        172
+                                    ],
+                                    "score": 1.0,
+                                    "content": "output. The Power Amplifier shall be 5-1/4 in (133mm) high, 19 in",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                304,
+                                173,
+                                549,
+                                183
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        304,
+                                        173,
+                                        549,
+                                        183
+                                    ],
+                                    "score": 1.0,
+                                    "content": "(483mm) wide, 6-5/8 in (168mm) deep, and be finished in char-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                303,
+                                183,
+                                545,
+                                194
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        183,
+                                        545,
+                                        194
+                                    ],
+                                    "score": 1.0,
+                                    "content": "coal baked enamel. Net weight shall not exceed 22.5 lbs (10.1",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                303,
+                                194,
+                                555,
+                                205
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        194,
+                                        555,
+                                        205
+                                    ],
+                                    "score": 1.0,
+                                    "content": "kg). The Amplifier shall be acceptable for Fire Protective Signaling",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                303,
+                                205,
+                                554,
+                                215
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        205,
+                                        554,
+                                        215
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Systems, approved and tested under UL Standards 1711, 1480,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                303,
+                                216,
+                                479,
+                                226
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        303,
+                                        216,
+                                        479,
+                                        226
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and 813. The amplifier shall be listed by ULC.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        }
+                    ],
+                    "index": 28,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        303,
+                        151,
+                        557,
+                        226
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        31,
+                        273,
+                        157,
+                        288
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                31,
+                                273,
+                                156,
+                                289
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        31,
+                                        273,
+                                        156,
+                                        289
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Connection Diagram",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        }
+                    ],
+                    "index": 32,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        59,
+                        295,
+                        535,
+                        623
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                59,
+                                295,
+                                535,
+                                623
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        295,
+                                        535,
+                                        623
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                59,
+                                                295,
+                                                535,
+                                                623
+                                            ],
+                                            "score": 0.9999834895133972,
+                                            "type": "image",
+                                            "image_path": "7c0543b77d1e59627acfb8bd30a80e4ab67b4326b1b5cf82809cd3c3b4c392bc.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 34,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        59,
+                                        295,
+                                        535,
+                                        404.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 33
+                                },
+                                {
+                                    "bbox": [
+                                        59,
+                                        404.3333333333333,
+                                        535,
+                                        513.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 34
+                                },
+                                {
+                                    "bbox": [
+                                        59,
+                                        513.6666666666666,
+                                        535,
+                                        623.0
+                                    ],
+                                    "spans": [],
+                                    "index": 35
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 34,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        50,
+                        49,
+                        581,
+                        233
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                50,
+                                49,
+                                581,
+                                233
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        49,
+                                        581,
+                                        233
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                50,
+                                                49,
+                                                581,
+                                                233
+                                            ],
+                                            "score": 0.9999330043792725,
+                                            "html": "<html><body><table><tr><td>PowerOutput</td><td>125Wattscontinuous (RMS)</td></tr><tr><td>HarmonicDistortion</td><td>Less.5%45to20kHzatratedoutput</td></tr><tr><td>FrequencyResponse</td><td>20 to 20 kHz(+0,-1 dB) per EIA Standard SE 101-A</td></tr><tr><td>Signal toNoiseRatio</td><td>Greaterthan-90dBbelowratedoutput(20to20kHzbandwidth)</td></tr><tr><td>Input Sensitivity</td><td>1 VRMS at1kHzforratedoutput</td></tr><tr><td>Input Impedance</td><td>75k0hm</td></tr><tr><td>OutputLoad (Voltage)</td><td>75 kOhm(70.7V)balanced 2.5kOhm(25V)balanced 25Vcentertap8 Ohm (31.6 V)balanced</td></tr><tr><td>Output Regulation</td><td>Betterthan1dB,zeroloadtofullload</td></tr><tr><td>Controls</td><td>Input level control,rear panel</td></tr><tr><td>Terminations</td><td>Screwterminal strips,barriersonoutput</td></tr><tr><td>Indicators</td><td>LEDpower,LEDThermalOverload</td></tr><tr><td>PowerSource</td><td>120/240Volts,50/60Hz;24-28Vdc</td></tr><tr><td>ACPowerRequired</td><td>3.0Amps (120V)/ 1.5Amps (240V),0.22Amps at idle</td></tr><tr><td>DCPowerRequired</td><td>11.5 Amps at rated output</td></tr><tr><td>Fuse</td><td>4 Amp,slow blow;15 Amp (DC)</td></tr><tr><td>Finish</td><td>Charcoal,bakedenamel</td></tr><tr><td>Dimensions</td><td>5-1/4in(133mm)high,19in(483mm)wide,6-5/8in(168mm)deep</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "111db40147ea75bbd38f737e695cf6c12ba530d4cfe188cfc153fd42c05f8f02.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        49,
+                                        581,
+                                        110.33333333333334
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        50,
+                                        110.33333333333334,
+                                        581,
+                                        171.66666666666669
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        50,
+                                        171.66666666666669,
+                                        581,
+                                        233.00000000000003
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        280,
+                        175,
+                        294
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                279,
+                                174,
+                                294
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        279,
+                                        174,
+                                        294
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        49,
+                        297,
+                        581,
+                        320
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                49,
+                                297,
+                                581,
+                                320
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        297,
+                                        581,
+                                        320
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                49,
+                                                297,
+                                                581,
+                                                320
+                                            ],
+                                            "score": 0.9941902160644531,
+                                            "html": "<html><body><table><tr><td>Catalog Number</td><td>Description</td><td>Shipping Weight</td></tr><tr><td>1B3-125</td><td>AudioPowerAmplifier,125Watts</td><td>22.5 Ibs (10.1kg)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "5301d91d9f6ebea16b377ffbce5691cdbecb2d09d4fc969db63944d8a22db69b.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        297,
+                                        581,
+                                        320
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 2,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        50,
+                        49,
+                        581,
+                        233
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                50,
+                                49,
+                                581,
+                                233
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        49,
+                                        581,
+                                        233
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                50,
+                                                49,
+                                                581,
+                                                233
+                                            ],
+                                            "score": 0.9999330043792725,
+                                            "html": "<html><body><table><tr><td>PowerOutput</td><td>125Wattscontinuous (RMS)</td></tr><tr><td>HarmonicDistortion</td><td>Less.5%45to20kHzatratedoutput</td></tr><tr><td>FrequencyResponse</td><td>20 to 20 kHz(+0,-1 dB) per EIA Standard SE 101-A</td></tr><tr><td>Signal toNoiseRatio</td><td>Greaterthan-90dBbelowratedoutput(20to20kHzbandwidth)</td></tr><tr><td>Input Sensitivity</td><td>1 VRMS at1kHzforratedoutput</td></tr><tr><td>Input Impedance</td><td>75k0hm</td></tr><tr><td>OutputLoad (Voltage)</td><td>75 kOhm(70.7V)balanced 2.5kOhm(25V)balanced 25Vcentertap8 Ohm (31.6 V)balanced</td></tr><tr><td>Output Regulation</td><td>Betterthan1dB,zeroloadtofullload</td></tr><tr><td>Controls</td><td>Input level control,rear panel</td></tr><tr><td>Terminations</td><td>Screwterminal strips,barriersonoutput</td></tr><tr><td>Indicators</td><td>LEDpower,LEDThermalOverload</td></tr><tr><td>PowerSource</td><td>120/240Volts,50/60Hz;24-28Vdc</td></tr><tr><td>ACPowerRequired</td><td>3.0Amps (120V)/ 1.5Amps (240V),0.22Amps at idle</td></tr><tr><td>DCPowerRequired</td><td>11.5 Amps at rated output</td></tr><tr><td>Fuse</td><td>4 Amp,slow blow;15 Amp (DC)</td></tr><tr><td>Finish</td><td>Charcoal,bakedenamel</td></tr><tr><td>Dimensions</td><td>5-1/4in(133mm)high,19in(483mm)wide,6-5/8in(168mm)deep</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "111db40147ea75bbd38f737e695cf6c12ba530d4cfe188cfc153fd42c05f8f02.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        49,
+                                        581,
+                                        110.33333333333334
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        50,
+                                        110.33333333333334,
+                                        581,
+                                        171.66666666666669
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        50,
+                                        171.66666666666669,
+                                        581,
+                                        233.00000000000003
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        49,
+                        297,
+                        581,
+                        320
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                49,
+                                297,
+                                581,
+                                320
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        297,
+                                        581,
+                                        320
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                49,
+                                                297,
+                                                581,
+                                                320
+                                            ],
+                                            "score": 0.9941902160644531,
+                                            "html": "<html><body><table><tr><td>Catalog Number</td><td>Description</td><td>Shipping Weight</td></tr><tr><td>1B3-125</td><td>AudioPowerAmplifier,125Watts</td><td>22.5 Ibs (10.1kg)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "5301d91d9f6ebea16b377ffbce5691cdbecb2d09d4fc969db63944d8a22db69b.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        297,
+                                        581,
+                                        320
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4
+                }
+            ],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        394,
+                        745,
+                        580,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                433,
+                                746,
+                                578,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        433,
+                                        749,
+                                        497,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        501,
+                                        746,
+                                        578,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                394,
+                                758,
+                                581,
+                                768
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        394,
+                                        758,
+                                        581,
+                                        768
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        49,
+                        750,
+                        88,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                749,
+                                90,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        749,
+                                        90,
+                                        759
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        49,
+                        31,
+                        135,
+                        45
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                30,
+                                135,
+                                46
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        30,
+                                        135,
+                                        46
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        50,
+                        49,
+                        581,
+                        233
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                50,
+                                49,
+                                581,
+                                233
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        49,
+                                        581,
+                                        233
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                50,
+                                                49,
+                                                581,
+                                                233
+                                            ],
+                                            "score": 0.9999330043792725,
+                                            "html": "<html><body><table><tr><td>PowerOutput</td><td>125Wattscontinuous (RMS)</td></tr><tr><td>HarmonicDistortion</td><td>Less.5%45to20kHzatratedoutput</td></tr><tr><td>FrequencyResponse</td><td>20 to 20 kHz(+0,-1 dB) per EIA Standard SE 101-A</td></tr><tr><td>Signal toNoiseRatio</td><td>Greaterthan-90dBbelowratedoutput(20to20kHzbandwidth)</td></tr><tr><td>Input Sensitivity</td><td>1 VRMS at1kHzforratedoutput</td></tr><tr><td>Input Impedance</td><td>75k0hm</td></tr><tr><td>OutputLoad (Voltage)</td><td>75 kOhm(70.7V)balanced 2.5kOhm(25V)balanced 25Vcentertap8 Ohm (31.6 V)balanced</td></tr><tr><td>Output Regulation</td><td>Betterthan1dB,zeroloadtofullload</td></tr><tr><td>Controls</td><td>Input level control,rear panel</td></tr><tr><td>Terminations</td><td>Screwterminal strips,barriersonoutput</td></tr><tr><td>Indicators</td><td>LEDpower,LEDThermalOverload</td></tr><tr><td>PowerSource</td><td>120/240Volts,50/60Hz;24-28Vdc</td></tr><tr><td>ACPowerRequired</td><td>3.0Amps (120V)/ 1.5Amps (240V),0.22Amps at idle</td></tr><tr><td>DCPowerRequired</td><td>11.5 Amps at rated output</td></tr><tr><td>Fuse</td><td>4 Amp,slow blow;15 Amp (DC)</td></tr><tr><td>Finish</td><td>Charcoal,bakedenamel</td></tr><tr><td>Dimensions</td><td>5-1/4in(133mm)high,19in(483mm)wide,6-5/8in(168mm)deep</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "111db40147ea75bbd38f737e695cf6c12ba530d4cfe188cfc153fd42c05f8f02.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        49,
+                                        581,
+                                        110.33333333333334
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        50,
+                                        110.33333333333334,
+                                        581,
+                                        171.66666666666669
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        50,
+                                        171.66666666666669,
+                                        581,
+                                        233.00000000000003
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_2",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        280,
+                        175,
+                        294
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                279,
+                                174,
+                                294
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        279,
+                                        174,
+                                        294
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_2",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        49,
+                        297,
+                        581,
+                        320
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                49,
+                                297,
+                                581,
+                                320
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        297,
+                                        581,
+                                        320
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                49,
+                                                297,
+                                                581,
+                                                320
+                                            ],
+                                            "score": 0.9941902160644531,
+                                            "html": "<html><body><table><tr><td>Catalog Number</td><td>Description</td><td>Shipping Weight</td></tr><tr><td>1B3-125</td><td>AudioPowerAmplifier,125Watts</td><td>22.5 Ibs (10.1kg)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "5301d91d9f6ebea16b377ffbce5691cdbecb2d09d4fc969db63944d8a22db69b.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 4,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        297,
+                                        581,
+                                        320
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 4,
+                    "page_num": "page_2",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [],
+            "layout_bboxes": [],
+            "page_idx": 3,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": []
+        }
+    ],
+    "_parse_type": "txt",
+    "_version_name": "0.10.1"
+}

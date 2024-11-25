@@ -1,0 +1,92 @@
+[
+    {
+        "type": "text",
+        "text": "Multi-Voltage Control Relays MR800 Series ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Overview ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The MR800 Series relays offer SPDT 10 Amp contacts which may be operated by one of three input control voltages: 24 Vdc, 24 Vac or 115 Vac. Each relay position contains a high intensity LED which, when illuminated, indicates the relay coil is energized. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Individual relays may be “snapped apart” from a standard eightposition module. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Relays are equipped with either mounting spacers or track mounting hardware. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "These devices are ideal for applications where local contacts are required for control of electrical loads or general purpose switching. They are suitable for use with HVAC, Temperature Control, Fire Alarm, Security, Energy Management, and Lighting Control Systems. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Standard Features ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "•\t Each relay position may be energized from one of four input voltages   \n•\t Each relay position contains a red LED which illuminates when the coils are energized. This provides a time saving convenience when checking an installed system; no metering is required   \n•\t From one to eight relay modules may be formed by “snapping apart” desired positions   \n•\t Compact 10 AMP SPDT contacts   \n•\t Choice of metal spacers or plastic track for mounting   \n•\t UL recognized components ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Wiring ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SPDT CONTACTS ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/7d8cacff01aa07bdd3401f87236ea63df26008ebb24c63d598971c7c6fc74464.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Specifications ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/dc4206007b57db9a11a4a0c27cdd46c47938ad2aae04fcb608abded353939668.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>PowerRequiremets</td><td>15mAperposition@24Vdc，24Vac，115Vac</td></tr><tr><td>Relay</td><td>ULRecognizedSPDT</td></tr><tr><td>ContactRating</td><td>10Amps@115Vac</td></tr><tr><td>AmbientTemperature</td><td>-58°Fto185°F（-50°Cto85°C）</td></tr><tr><td>Approvals</td><td>ULRecognizedcomponents</td></tr><tr><td colspan=\"2\"></td></tr><tr><td>Dimensions</td><td></td></tr><tr><td>MR801</td><td>3.25 H× 1.062W× 1.0 D in (82.6 H×27W25.4D mm)</td></tr><tr><td>MR804</td><td>3.25Hx4.25Wx1.0 D in(82.6H×108W×25.4Dmm)</td></tr><tr><td>MR808</td><td>3.25Hx8.5W×1.0 D in(82.6H×216W×25.4D mm)</td></tr></table></body></html>\n\n",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ordering Information ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/96cf7251860ac0c39e83886f55cc8e844001f1e97d9814d600c2690f98e131b3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>Model</td><td>Description</td></tr><tr><td>MR801/S</td><td>SingleSPDT relay with LED and mounting spacers</td></tr><tr><td>MR801/T</td><td>SingleSPDTrelaywithLEDandtrackmountinghardware</td></tr><tr><td>MR804/S</td><td>Four-positionSPDTrelaywithLED andmountingspacers</td></tr><tr><td>MR804/T</td><td>Four-positionSPDTrelaywithLED andtrack mountinghardware</td></tr><tr><td>MR808/S</td><td>Eight-position SPDT relay with LED and mounting spacers</td></tr><tr><td>MR808/T</td><td>Eight-positionSPDTrelaywithLEDandtrack mountinghardware</td></tr></table></body></html>\n\n",
+        "page_idx": 1
+    }
+]

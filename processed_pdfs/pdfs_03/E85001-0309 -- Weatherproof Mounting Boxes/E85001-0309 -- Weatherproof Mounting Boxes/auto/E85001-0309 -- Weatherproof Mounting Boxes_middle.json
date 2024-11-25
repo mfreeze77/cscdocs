@@ -1,0 +1,2636 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        48,
+                        145,
+                        304,
+                        237
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                146,
+                                263,
+                                183
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        146,
+                                        263,
+                                        183
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Weatherproof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                180,
+                                305,
+                                219
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        180,
+                                        197,
+                                        219
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Mounting",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        206,
+                                        183,
+                                        305,
+                                        219
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Boxes",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                219,
+                                214,
+                                236
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        219,
+                                        214,
+                                        236
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Models 348/349/449",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        359,
+                        106,
+                        371
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                358,
+                                106,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        358,
+                                        106,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        48,
+                        375,
+                        305,
+                        440
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                376,
+                                282,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        376,
+                                        282,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "EDWARDS die-cast weatherproof backboxes are perfect for",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                388,
+                                290,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        388,
+                                        290,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "mounting a variety of EDWARDS signaling appliances such as",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                398,
+                                297,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        398,
+                                        297,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "bells, horns and sirens.  They are made from die-cast aluminum",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                408,
+                                305,
+                                418
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        408,
+                                        305,
+                                        418
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and finished at the factory with a baked “Sage Gray” enamel finish",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                419,
+                                298,
+                                430
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        419,
+                                        298,
+                                        430
+                                    ],
+                                    "score": 1.0,
+                                    "content": "All boxes are shipped complete with a molded neoprene gasket.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                429,
+                                235,
+                                441
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        429,
+                                        235,
+                                        441
+                                    ],
+                                    "score": 1.0,
+                                    "content": "They all feature 3/4 inch tapped conduit entries.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 6.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        50,
+                        446,
+                        155,
+                        456
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                446,
+                                156,
+                                456
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        446,
+                                        156,
+                                        456
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Three models are available:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        322,
+                        375,
+                        453,
+                        434
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                322,
+                                375,
+                                407,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        378,
+                                        327,
+                                        383
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        332,
+                                        375,
+                                        407,
+                                        385
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Die-cast aluminum",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                391,
+                                392,
+                                402
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        393,
+                                        327,
+                                        399
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        332,
+                                        391,
+                                        392,
+                                        402
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Surface mount",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                406,
+                                432,
+                                417
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        410,
+                                        327,
+                                        414
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        332,
+                                        406,
+                                        432,
+                                        417
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Gray baked enamel finish",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                423,
+                                451,
+                                433
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        425,
+                                        326,
+                                        430
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        333,
+                                        423,
+                                        451,
+                                        433
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Weatherproof gasket included",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        }
+                    ],
+                    "index": 12.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        459,
+                        233,
+                        481
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                460,
+                                139,
+                                470
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        460,
+                                        139,
+                                        470
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Catalog Number 348",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                471,
+                                233,
+                                481
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        471,
+                                        233,
+                                        481
+                                    ],
+                                    "score": 1.0,
+                                    "content": "– fits  four inch (100mm) 325 and 340T bells",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 16.0
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        358,
+                        434,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                357,
+                                434,
+                                374
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        357,
+                                        434,
+                                        374
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 16
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        485,
+                        295,
+                        516
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                484,
+                                138,
+                                495
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        484,
+                                        138,
+                                        495
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Catalog Number 349",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                495,
+                                295,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        495,
+                                        295,
+                                        506
+                                    ],
+                                    "score": 1.0,
+                                    "content": "– fits  six inch (150mm) and 10 inch (250mm), 325 bells plus\t\t",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                506,
+                                134,
+                                516
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        506,
+                                        134,
+                                        516
+                                    ],
+                                    "score": 1.0,
+                                    "content": "5520D Horn/Siren",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        }
+                    ],
+                    "index": 19
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        520,
+                        279,
+                        553
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                520,
+                                139,
+                                530
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        520,
+                                        139,
+                                        530
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Catalog Number 449",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                531,
+                                279,
+                                542
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        531,
+                                        279,
+                                        542
+                                    ],
+                                    "score": 1.0,
+                                    "content": "– fits six inch (150mm),  eight inch (203mm) and 10 inch",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                541,
+                                275,
+                                552
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        541,
+                                        275,
+                                        552
+                                    ],
+                                    "score": 1.0,
+                                    "content": "(250mm) 438 and 439 series bells and CS405 strobes.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 22
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        491,
+                        340,
+                        507,
+                        349
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                491,
+                                340,
+                                507,
+                                350
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        491,
+                                        340,
+                                        507,
+                                        350
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        49,
+                        749,
+                        88,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                749,
+                                89,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        749,
+                                        89,
+                                        759
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        394,
+                        745,
+                        581,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                433,
+                                746,
+                                579,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        433,
+                                        749,
+                                        497,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        501,
+                                        746,
+                                        579,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                394,
+                                758,
+                                580,
+                                767
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        394,
+                                        758,
+                                        580,
+                                        767
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        48,
+                        145,
+                        304,
+                        237
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                146,
+                                263,
+                                183
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        146,
+                                        263,
+                                        183
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Weatherproof",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                180,
+                                305,
+                                219
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        180,
+                                        197,
+                                        219
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Mounting",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        206,
+                                        183,
+                                        305,
+                                        219
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Boxes",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                219,
+                                214,
+                                236
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        219,
+                                        214,
+                                        236
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Models 348/349/449",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        359,
+                        106,
+                        371
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                358,
+                                106,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        358,
+                                        106,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        48,
+                        375,
+                        305,
+                        440
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                376,
+                                282,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        376,
+                                        282,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "EDWARDS die-cast weatherproof backboxes are perfect for",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                388,
+                                290,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        388,
+                                        290,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "mounting a variety of EDWARDS signaling appliances such as",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                398,
+                                297,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        398,
+                                        297,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "bells, horns and sirens.  They are made from die-cast aluminum",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                408,
+                                305,
+                                418
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        408,
+                                        305,
+                                        418
+                                    ],
+                                    "score": 1.0,
+                                    "content": "and finished at the factory with a baked “Sage Gray” enamel finish",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                419,
+                                298,
+                                430
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        419,
+                                        298,
+                                        430
+                                    ],
+                                    "score": 1.0,
+                                    "content": "All boxes are shipped complete with a molded neoprene gasket.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                429,
+                                235,
+                                441
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        429,
+                                        235,
+                                        441
+                                    ],
+                                    "score": 1.0,
+                                    "content": "They all feature 3/4 inch tapped conduit entries.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 6.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        49,
+                        376,
+                        305,
+                        441
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        50,
+                        446,
+                        155,
+                        456
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                446,
+                                156,
+                                456
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        446,
+                                        156,
+                                        456
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Three models are available:",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 10,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        49,
+                        446,
+                        156,
+                        456
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        322,
+                        375,
+                        453,
+                        434
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                322,
+                                375,
+                                407,
+                                385
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        378,
+                                        327,
+                                        383
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        332,
+                                        375,
+                                        407,
+                                        385
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Die-cast aluminum",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                391,
+                                392,
+                                402
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        393,
+                                        327,
+                                        399
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        332,
+                                        391,
+                                        392,
+                                        402
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Surface mount",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                406,
+                                432,
+                                417
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        410,
+                                        327,
+                                        414
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        332,
+                                        406,
+                                        432,
+                                        417
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Gray baked enamel finish",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                423,
+                                451,
+                                433
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        425,
+                                        326,
+                                        430
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        333,
+                                        423,
+                                        451,
+                                        433
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Weatherproof gasket included",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                460,
+                                139,
+                                470
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        460,
+                                        139,
+                                        470
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Catalog Number 348",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                471,
+                                233,
+                                481
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        471,
+                                        233,
+                                        481
+                                    ],
+                                    "score": 1.0,
+                                    "content": "– fits  four inch (100mm) 325 and 340T bells",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 12.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        322,
+                        375,
+                        451,
+                        433
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        459,
+                        233,
+                        481
+                    ],
+                    "lines": [],
+                    "index": 16.0,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        49,
+                        460,
+                        233,
+                        481
+                    ],
+                    "lines_deleted": true
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        358,
+                        434,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                357,
+                                434,
+                                374
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        357,
+                                        434,
+                                        374
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 16,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        485,
+                        295,
+                        516
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                484,
+                                138,
+                                495
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        484,
+                                        138,
+                                        495
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Catalog Number 349",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                495,
+                                295,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        495,
+                                        295,
+                                        506
+                                    ],
+                                    "score": 1.0,
+                                    "content": "– fits  six inch (150mm) and 10 inch (250mm), 325 bells plus\t\t",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                506,
+                                134,
+                                516
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        506,
+                                        134,
+                                        516
+                                    ],
+                                    "score": 1.0,
+                                    "content": "5520D Horn/Siren",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        }
+                    ],
+                    "index": 19,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        50,
+                        484,
+                        295,
+                        516
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        520,
+                        279,
+                        553
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                520,
+                                139,
+                                530
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        520,
+                                        139,
+                                        530
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Catalog Number 449",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                61,
+                                531,
+                                279,
+                                542
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        61,
+                                        531,
+                                        279,
+                                        542
+                                    ],
+                                    "score": 1.0,
+                                    "content": "– fits six inch (150mm),  eight inch (203mm) and 10 inch",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                62,
+                                541,
+                                275,
+                                552
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        62,
+                                        541,
+                                        275,
+                                        552
+                                    ],
+                                    "score": 1.0,
+                                    "content": "(250mm) 438 and 439 series bells and CS405 strobes.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        }
+                    ],
+                    "index": 22,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        49,
+                        520,
+                        279,
+                        552
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        211,
+                        84,
+                        566,
+                        399
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                211,
+                                84,
+                                566,
+                                399
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        84,
+                                        566,
+                                        399
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                212,
+                                                84,
+                                                566,
+                                                399
+                                            ],
+                                            "score": 0.9999796152114868,
+                                            "type": "image",
+                                            "image_path": "be96c602d9df9109e8a359cdceaff206989831224e1779ea3902075f7df359cb.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        211,
+                                        84,
+                                        566,
+                                        189.0
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        189.0,
+                                        566,
+                                        294.0
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        294.0,
+                                        566,
+                                        399.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        417,
+                        298,
+                        431
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                417,
+                                298,
+                                432
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        417,
+                                        298,
+                                        432
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Specifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        214,
+                        437,
+                        563,
+                        537
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                214,
+                                437,
+                                563,
+                                537
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        437,
+                                        563,
+                                        537
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                437,
+                                                563,
+                                                537
+                                            ],
+                                            "score": 0.9998306035995483,
+                                            "html": "<html><body><table><tr><td>Catalog Number</td><td>348</td><td>349</td><td>449</td></tr><tr><td>Dimensions</td><td>5-1/8\"(130mm)Diameter × 1-7/8\"(48mm) Deep</td><td>6-1/2\"(165mm)Diameter × 1-7/8\"(48mm) Deep</td><td>4-9/16\"(116mm)Square × 2\"(51mm) Deep</td></tr><tr><td>ConduitEntry</td><td colspan=\"2\">3/4\"Top</td><td>3/4\"Top,Back,Bottom</td></tr><tr><td>Material</td><td></td><td colspan=\"2\">DieCastAluminum</td></tr><tr><td>Gasket</td><td>MoldedNeoprene Rubber</td><td colspan=\"2\">ClosedCellNeoprene</td></tr><tr><td>Finish</td><td colspan=\"3\">SageGrayBaking Enamel</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "3b129ab84546f548c0ea6aaa591da2945b2a54ca32374f60eafc3f578d28734e.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        437,
+                                        563,
+                                        470.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        470.3333333333333,
+                                        563,
+                                        503.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        503.66666666666663,
+                                        563,
+                                        537.0
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        555,
+                        338,
+                        568
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                554,
+                                337,
+                                569
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        554,
+                                        337,
+                                        569
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        214,
+                        574,
+                        563,
+                        657
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                214,
+                                574,
+                                563,
+                                657
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        574,
+                                        563,
+                                        657
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                574,
+                                                563,
+                                                657
+                                            ],
+                                            "score": 0.9999860525131226,
+                                            "html": "<html><body><table><tr><td>Catalog Number</td><td>Description</td><td>Shipping Weight</td></tr><tr><td>348</td><td>WeatherproofBackbox -SurfaceMountwithGasket,5-1/8\"(130mm) )Diameter</td><td>0.33Ib (0.15kg)</td></tr><tr><td>349</td><td>WeatherproofBackbox 一 SurfaceMountwithGasket,6-1/2”(165mm) )Diameter</td><td>0.5 Ib (0.2kg)</td></tr><tr><td>449</td><td>WeatherproofBackbox SurfaceMountwithGasket,4-9/16\"(116mm) )Square.</td><td>0.33Ib (0.15kg)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "66946ce1cf711216581043c26e14803cff54bf39a3b70954acd585f4cd902929.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        574,
+                                        563,
+                                        601.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        601.6666666666666,
+                                        563,
+                                        629.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        629.3333333333333,
+                                        563,
+                                        656.9999999999999
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 1,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        211,
+                        84,
+                        566,
+                        399
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                211,
+                                84,
+                                566,
+                                399
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        84,
+                                        566,
+                                        399
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                212,
+                                                84,
+                                                566,
+                                                399
+                                            ],
+                                            "score": 0.9999796152114868,
+                                            "type": "image",
+                                            "image_path": "be96c602d9df9109e8a359cdceaff206989831224e1779ea3902075f7df359cb.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        211,
+                                        84,
+                                        566,
+                                        189.0
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        189.0,
+                                        566,
+                                        294.0
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        294.0,
+                                        566,
+                                        399.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1
+                }
+            ],
+            "tables": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        214,
+                        437,
+                        563,
+                        537
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                214,
+                                437,
+                                563,
+                                537
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        437,
+                                        563,
+                                        537
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                437,
+                                                563,
+                                                537
+                                            ],
+                                            "score": 0.9998306035995483,
+                                            "html": "<html><body><table><tr><td>Catalog Number</td><td>348</td><td>349</td><td>449</td></tr><tr><td>Dimensions</td><td>5-1/8\"(130mm)Diameter × 1-7/8\"(48mm) Deep</td><td>6-1/2\"(165mm)Diameter × 1-7/8\"(48mm) Deep</td><td>4-9/16\"(116mm)Square × 2\"(51mm) Deep</td></tr><tr><td>ConduitEntry</td><td colspan=\"2\">3/4\"Top</td><td>3/4\"Top,Back,Bottom</td></tr><tr><td>Material</td><td></td><td colspan=\"2\">DieCastAluminum</td></tr><tr><td>Gasket</td><td>MoldedNeoprene Rubber</td><td colspan=\"2\">ClosedCellNeoprene</td></tr><tr><td>Finish</td><td colspan=\"3\">SageGrayBaking Enamel</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "3b129ab84546f548c0ea6aaa591da2945b2a54ca32374f60eafc3f578d28734e.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        437,
+                                        563,
+                                        470.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        470.3333333333333,
+                                        563,
+                                        503.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        503.66666666666663,
+                                        563,
+                                        537.0
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        214,
+                        574,
+                        563,
+                        657
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                214,
+                                574,
+                                563,
+                                657
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        574,
+                                        563,
+                                        657
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                574,
+                                                563,
+                                                657
+                                            ],
+                                            "score": 0.9999860525131226,
+                                            "html": "<html><body><table><tr><td>Catalog Number</td><td>Description</td><td>Shipping Weight</td></tr><tr><td>348</td><td>WeatherproofBackbox -SurfaceMountwithGasket,5-1/8\"(130mm) )Diameter</td><td>0.33Ib (0.15kg)</td></tr><tr><td>349</td><td>WeatherproofBackbox 一 SurfaceMountwithGasket,6-1/2”(165mm) )Diameter</td><td>0.5 Ib (0.2kg)</td></tr><tr><td>449</td><td>WeatherproofBackbox SurfaceMountwithGasket,4-9/16\"(116mm) )Square.</td><td>0.33Ib (0.15kg)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "66946ce1cf711216581043c26e14803cff54bf39a3b70954acd585f4cd902929.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        574,
+                                        563,
+                                        601.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        601.6666666666666,
+                                        563,
+                                        629.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        629.3333333333333,
+                                        563,
+                                        656.9999999999999
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9
+                }
+            ],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        31,
+                        750,
+                        70,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                31,
+                                750,
+                                71,
+                                758
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        31,
+                                        750,
+                                        71,
+                                        758
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        377,
+                        745,
+                        564,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                415,
+                                747,
+                                561,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        415,
+                                        749,
+                                        479,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        483,
+                                        747,
+                                        561,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                376,
+                                758,
+                                563,
+                                768
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        376,
+                                        758,
+                                        563,
+                                        768
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        606,
+                        734,
+                        612,
+                        760
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                605,
+                                733,
+                                614,
+                                762
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        605,
+                                        733,
+                                        614,
+                                        762
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        211,
+                        84,
+                        566,
+                        399
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                211,
+                                84,
+                                566,
+                                399
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        84,
+                                        566,
+                                        399
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                212,
+                                                84,
+                                                566,
+                                                399
+                                            ],
+                                            "score": 0.9999796152114868,
+                                            "type": "image",
+                                            "image_path": "be96c602d9df9109e8a359cdceaff206989831224e1779ea3902075f7df359cb.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 1,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        211,
+                                        84,
+                                        566,
+                                        189.0
+                                    ],
+                                    "spans": [],
+                                    "index": 0
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        189.0,
+                                        566,
+                                        294.0
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        294.0,
+                                        566,
+                                        399.0
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        417,
+                        298,
+                        431
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                417,
+                                298,
+                                432
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        417,
+                                        298,
+                                        432
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Specifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        214,
+                        437,
+                        563,
+                        537
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                214,
+                                437,
+                                563,
+                                537
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        437,
+                                        563,
+                                        537
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                437,
+                                                563,
+                                                537
+                                            ],
+                                            "score": 0.9998306035995483,
+                                            "html": "<html><body><table><tr><td>Catalog Number</td><td>348</td><td>349</td><td>449</td></tr><tr><td>Dimensions</td><td>5-1/8\"(130mm)Diameter × 1-7/8\"(48mm) Deep</td><td>6-1/2\"(165mm)Diameter × 1-7/8\"(48mm) Deep</td><td>4-9/16\"(116mm)Square × 2\"(51mm) Deep</td></tr><tr><td>ConduitEntry</td><td colspan=\"2\">3/4\"Top</td><td>3/4\"Top,Back,Bottom</td></tr><tr><td>Material</td><td></td><td colspan=\"2\">DieCastAluminum</td></tr><tr><td>Gasket</td><td>MoldedNeoprene Rubber</td><td colspan=\"2\">ClosedCellNeoprene</td></tr><tr><td>Finish</td><td colspan=\"3\">SageGrayBaking Enamel</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "3b129ab84546f548c0ea6aaa591da2945b2a54ca32374f60eafc3f578d28734e.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 5,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        437,
+                                        563,
+                                        470.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 4
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        470.3333333333333,
+                                        563,
+                                        503.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        503.66666666666663,
+                                        563,
+                                        537.0
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        555,
+                        338,
+                        568
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                554,
+                                337,
+                                569
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        554,
+                                        337,
+                                        569
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 7,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        214,
+                        574,
+                        563,
+                        657
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                214,
+                                574,
+                                563,
+                                657
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        574,
+                                        563,
+                                        657
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                574,
+                                                563,
+                                                657
+                                            ],
+                                            "score": 0.9999860525131226,
+                                            "html": "<html><body><table><tr><td>Catalog Number</td><td>Description</td><td>Shipping Weight</td></tr><tr><td>348</td><td>WeatherproofBackbox -SurfaceMountwithGasket,5-1/8\"(130mm) )Diameter</td><td>0.33Ib (0.15kg)</td></tr><tr><td>349</td><td>WeatherproofBackbox 一 SurfaceMountwithGasket,6-1/2”(165mm) )Diameter</td><td>0.5 Ib (0.2kg)</td></tr><tr><td>449</td><td>WeatherproofBackbox SurfaceMountwithGasket,4-9/16\"(116mm) )Square.</td><td>0.33Ib (0.15kg)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "66946ce1cf711216581043c26e14803cff54bf39a3b70954acd585f4cd902929.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 9,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        574,
+                                        563,
+                                        601.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        601.6666666666666,
+                                        563,
+                                        629.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        629.3333333333333,
+                                        563,
+                                        656.9999999999999
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 9,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "txt",
+    "_version_name": "0.10.1"
+}

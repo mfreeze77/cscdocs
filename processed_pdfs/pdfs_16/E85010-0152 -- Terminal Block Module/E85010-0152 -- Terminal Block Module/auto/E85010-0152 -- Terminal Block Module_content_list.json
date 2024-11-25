@@ -1,0 +1,125 @@
+[
+    {
+        "type": "text",
+        "text": "Terminal Block Module MN-TK10",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Description ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The heavy-duty EDWARDS MN-TK10 Terminal Block Module pro-vides multiple high-current-capable terminals for power distribution and/or connection to initiating device circuits where each wire/ device must have its own terminal. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Each pole of the MN-TK10 is rated 35 Amperes at up to 600 volts. Each terminal can accommodate a copper (stranded or solid) conductor from 10 AWG down to 22 AWG (6.0 to $1.0\\:\\mathsf{m m}^{2},$ ). ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The easy-to-assemble kit can be mounted in any listed EDWARDS enclosure.  To make installation easier, the mounting bracket has hole patterns that line up with the mounting bosses in APS and BPS Series power supplies. The module comes with two durable polymer terminal marking devices that make the terminals easy to identify when the module is installed. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Standard Features ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "•\t Small form-factor Rugged design High current capacity   \n•Wide wire gauge support Easy to install Multiple mounting options ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Application ",
+        "text_level": 1,
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The MN-TK10 is intended to be used as part of the powerful EST3 mass notification solution. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The MN-TK10 can be used with the MN-FVPN Voice-over-InternetProtocol (VoIP) modules and/or the MN-NETRLY4 Input/Outputmodule. For these applications, the relays from the MN-FVPN or MN-NETLRY4 can be easily wired to an Initiating Device Circuit from a system, thereby providing separate terminals for each wire and device. Conversely, if multiple contacts are desired to operate an IDC to an MN-FVPN or MN-NETLY4, they can be connected to the MN-TK10.",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The MN-TK10 can also be used to distribute AC or DC power where required. ",
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Exploded View ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e24b9582657969abb2a764108941a97f85cfd54ee82d8a188d313414961e560.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Typical Wiring ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/fa0ac4f048b8c32d55e3742a5cea63a93ffec3759ab97c6bd34dc5830d9abd1c.jpg",
+        "img_caption": [],
+        "img_footnote": [],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Specifications ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/517e03210aba6673af8c3dde7db048a1f33e384873b4a4cac064d88d0e532d8c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>Contactrating</td><td>35Aat600V</td></tr><tr><td>Wiresize</td><td>10 to22AWG(1.0 to6.0mm2)</td></tr><tr><td>Compatibleelectricalbox</td><td>ListedEDWARDSenclosure</td></tr><tr><td>Operatingenvironment</td><td></td></tr><tr><td>Temperature</td><td>32to120°F(0 to49°C)</td></tr><tr><td>Relativehumidity</td><td>0to93%noncondensing</td></tr></table></body></html>\n\n",
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ordering Information ",
+        "text_level": 1,
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/28f4ffba04ecdca1632c462d0c86c61956f596ce5e6ff8c21ad1ac2e7762aa70.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td>CatalogNumber</td><td>Description</td></tr><tr><td>MN-TK1O</td><td>10 Position, 4 Pole Terminal Strip Kit</td></tr></table></body></html>\n\n",
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/f78c944d937776f706e2531d897b9f6a2aa2812cd7d764f25027d8b63526e1da.jpg",
+        "table_caption": [
+            "Related Equipment "
+        ],
+        "table_footnote": [],
+        "table_body": "\n\n<html><body><table><tr><td></td><td></td></tr><tr><td>APS6A</td><td>6.5AmpAuxiliaryPowerSupply</td></tr><tr><td>APS10A</td><td>10AmpAuxiliaryPowerSupply</td></tr><tr><td>BPS6A</td><td>6.5AmpBoosterPowerSupply</td></tr><tr><td>BPS10A</td><td>10AmpBoosterPowerSupply</td></tr><tr><td>MN-FVPN</td><td>MN-FVPNVolPEncoder/Decoder.</td></tr><tr><td>MN-NETLRY4</td><td>EthernetcontrollablemultiI/Ounit,4input4relayoutputs</td></tr></table></body></html>\n\n",
+        "page_idx": 1
+    }
+]

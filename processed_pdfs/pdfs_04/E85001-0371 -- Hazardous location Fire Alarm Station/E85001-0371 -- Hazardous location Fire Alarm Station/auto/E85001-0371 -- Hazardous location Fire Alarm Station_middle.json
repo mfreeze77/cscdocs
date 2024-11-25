@@ -1,0 +1,2475 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        147,
+                        348,
+                        236
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                148,
+                                347,
+                                180
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        148,
+                                        220,
+                                        180
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Hazardous",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        224,
+                                        148,
+                                        347,
+                                        179
+                                    ],
+                                    "score": 1.0,
+                                    "content": "location",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                183,
+                                303,
+                                214
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        183,
+                                        193,
+                                        214
+                                    ],
+                                    "score": 1.0,
+                                    "content": "fire alarm",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        199,
+                                        186,
+                                        303,
+                                        214
+                                    ],
+                                    "score": 1.0,
+                                    "content": "station",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                218,
+                                103,
+                                235
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        218,
+                                        103,
+                                        235
+                                    ],
+                                    "score": 1.0,
+                                    "content": "XAL53",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        359,
+                        106,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                357,
+                                107,
+                                373
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        357,
+                                        107,
+                                        373
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        376,
+                        306,
+                        418
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                376,
+                                305,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        376,
+                                        305,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The XAL53 is an extremely rugged double-action fire alarm station",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                386,
+                                300,
+                                398
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        386,
+                                        300,
+                                        398
+                                    ],
+                                    "score": 1.0,
+                                    "content": "suitable for hazardous locations. The device is activated by lifting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                397,
+                                298,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        397,
+                                        298,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "the front cover and pulling down the ring. This two-step process",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                410,
+                                176,
+                                418
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        410,
+                                        176,
+                                        418
+                                    ],
+                                    "score": 1.0,
+                                    "content": "prevents unintentional operation.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 5.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        425,
+                        307,
+                        446
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                425,
+                                306,
+                                436
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        425,
+                                        306,
+                                        436
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The station is reset by depressing the exposed shaft and returning",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                435,
+                                194,
+                                447
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        435,
+                                        194,
+                                        447
+                                    ],
+                                    "score": 1.0,
+                                    "content": "the cover plate to its original position.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 8.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        358,
+                        434,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                433,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        433,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        375,
+                        572,
+                        434
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                375,
+                                491,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        375,
+                                        491,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Copper-free aluminum alloy construction",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                390,
+                                487,
+                                403
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        390,
+                                        331,
+                                        403
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        332,
+                                        390,
+                                        342,
+                                        400
+                                    ],
+                                    "score": 0.29,
+                                    "content": "\\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        342,
+                                        390,
+                                        487,
+                                        403
+                                    ],
+                                    "score": 1.0,
+                                    "content": "” NPT feed-through conduit openings",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                324,
+                                407,
+                                571,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        324,
+                                        407,
+                                        571,
+                                        419
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Red textured powder epoxy paint finish provides high visibility",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                423,
+                                507,
+                                434
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        423,
+                                        507,
+                                        434
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Normally open and normally closed contacts",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 12.5
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        49,
+                        749,
+                        88,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                749,
+                                89,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        749,
+                                        89,
+                                        759
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        395,
+                        745,
+                        580,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                434,
+                                745,
+                                578,
+                                758
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        434,
+                                        749,
+                                        497,
+                                        758
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        500,
+                                        745,
+                                        578,
+                                        758
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                394,
+                                758,
+                                580,
+                                767
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        394,
+                                        758,
+                                        580,
+                                        767
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        147,
+                        348,
+                        236
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                148,
+                                347,
+                                180
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        148,
+                                        220,
+                                        180
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Hazardous",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        224,
+                                        148,
+                                        347,
+                                        179
+                                    ],
+                                    "score": 1.0,
+                                    "content": "location",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                183,
+                                303,
+                                214
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        183,
+                                        193,
+                                        214
+                                    ],
+                                    "score": 1.0,
+                                    "content": "fire alarm",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        199,
+                                        186,
+                                        303,
+                                        214
+                                    ],
+                                    "score": 1.0,
+                                    "content": "station",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                218,
+                                103,
+                                235
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        218,
+                                        103,
+                                        235
+                                    ],
+                                    "score": 1.0,
+                                    "content": "XAL53",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        359,
+                        106,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                357,
+                                107,
+                                373
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        357,
+                                        107,
+                                        373
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        376,
+                        306,
+                        418
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                376,
+                                305,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        376,
+                                        305,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The XAL53 is an extremely rugged double-action fire alarm station",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                386,
+                                300,
+                                398
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        386,
+                                        300,
+                                        398
+                                    ],
+                                    "score": 1.0,
+                                    "content": "suitable for hazardous locations. The device is activated by lifting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                397,
+                                298,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        397,
+                                        298,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "the front cover and pulling down the ring. This two-step process",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                410,
+                                176,
+                                418
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        410,
+                                        176,
+                                        418
+                                    ],
+                                    "score": 1.0,
+                                    "content": "prevents unintentional operation.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        }
+                    ],
+                    "index": 5.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        49,
+                        376,
+                        305,
+                        418
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        425,
+                        307,
+                        446
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                425,
+                                306,
+                                436
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        425,
+                                        306,
+                                        436
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The station is reset by depressing the exposed shaft and returning",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                435,
+                                194,
+                                447
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        435,
+                                        194,
+                                        447
+                                    ],
+                                    "score": 1.0,
+                                    "content": "the cover plate to its original position.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        }
+                    ],
+                    "index": 8.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        49,
+                        425,
+                        306,
+                        447
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        358,
+                        434,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                433,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        433,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 10,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        375,
+                        572,
+                        434
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                375,
+                                491,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        375,
+                                        491,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Copper-free aluminum alloy construction",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                390,
+                                487,
+                                403
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        390,
+                                        331,
+                                        403
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        332,
+                                        390,
+                                        342,
+                                        400
+                                    ],
+                                    "score": 0.29,
+                                    "content": "\\%",
+                                    "type": "inline_equation"
+                                },
+                                {
+                                    "bbox": [
+                                        342,
+                                        390,
+                                        487,
+                                        403
+                                    ],
+                                    "score": 1.0,
+                                    "content": "” NPT feed-through conduit openings",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                324,
+                                407,
+                                571,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        324,
+                                        407,
+                                        571,
+                                        419
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Red textured powder epoxy paint finish provides high visibility",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                423,
+                                507,
+                                434
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        423,
+                                        507,
+                                        434
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Normally open and normally closed contacts",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        }
+                    ],
+                    "index": 12.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        320,
+                        375,
+                        571,
+                        434
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        84,
+                        281,
+                        98
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                84,
+                                281,
+                                99
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        84,
+                                        281,
+                                        99
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Application",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        212,
+                        102,
+                        557,
+                        155
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                102,
+                                558,
+                                112
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        102,
+                                        558,
+                                        112
+                                    ],
+                                    "score": 1.0,
+                                    "content": "XAL53 fire alarm stations are suitable for areas that are hazardous due to the presence of",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                212,
+                                112,
+                                554,
+                                123
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        112,
+                                        554,
+                                        123
+                                    ],
+                                    "score": 1.0,
+                                    "content": "flammable gases or vapors, combustible dusts, or easily-ignitable fibers or flyings. Install",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                213,
+                                124,
+                                555,
+                                134
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        124,
+                                        555,
+                                        134
+                                    ],
+                                    "score": 1.0,
+                                    "content": "in petroleum refineries, chemical and petrochemical plants, storage areas, and other pro-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                213,
+                                135,
+                                552,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        135,
+                                        552,
+                                        144
+                                    ],
+                                    "score": 1.0,
+                                    "content": "cessing facilities where hazardous substances are handled or stored and in areas where",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                213,
+                                145,
+                                436,
+                                156
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        145,
+                                        436,
+                                        156
+                                    ],
+                                    "score": 1.0,
+                                    "content": "emergency control of an alarm or signal circuit is required.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        180,
+                        284,
+                        194
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                180,
+                                284,
+                                195
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        180,
+                                        284,
+                                        195
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Dimensions",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        213,
+                        197,
+                        459,
+                        327
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                213,
+                                197,
+                                459,
+                                327
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        197,
+                                        459,
+                                        327
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                197,
+                                                459,
+                                                327
+                                            ],
+                                            "score": 0.9999957084655762,
+                                            "type": "image",
+                                            "image_path": "2fa434787d46c63f46587f0e52160594b839b96ef7dc0400f9956c11dd475264.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        197,
+                                        459,
+                                        240.33333333333334
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        240.33333333333334,
+                                        459,
+                                        283.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        283.6666666666667,
+                                        459,
+                                        327.0
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        342,
+                        366,
+                        355
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                341,
+                                365,
+                                356
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        341,
+                                        365,
+                                        356
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Hazardous classifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 10
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        213,
+                        357,
+                        383,
+                        433
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                217,
+                                358,
+                                371,
+                                369
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        217,
+                                        358,
+                                        371,
+                                        369
+                                    ],
+                                    "score": 1.0,
+                                    "content": "\t Class I, Div. 1 and 2, Groups C and D",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                223,
+                                374,
+                                382,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        223,
+                                        374,
+                                        382,
+                                        384
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Class II, Div. 1 and 2, Groups E, F and G",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                214,
+                                390,
+                                257,
+                                400
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        392,
+                                        218,
+                                        398
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        223,
+                                        390,
+                                        257,
+                                        400
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Class III",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                215,
+                                406,
+                                347,
+                                417
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        215,
+                                        409,
+                                        218,
+                                        412
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        223,
+                                        406,
+                                        347,
+                                        417
+                                    ],
+                                    "score": 1.0,
+                                    "content": "NEMA Type 7, Groups C and D",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                222,
+                                421,
+                                357,
+                                432
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        222,
+                                        421,
+                                        357,
+                                        432
+                                    ],
+                                    "score": 1.0,
+                                    "content": "NEMA Type 9, Groups E, F and G",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 13
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        456,
+                        338,
+                        472
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                456,
+                                338,
+                                472
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        456,
+                                        338,
+                                        472
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 16
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        214,
+                        475,
+                        561,
+                        497
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                216,
+                                474,
+                                546,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        216,
+                                        474,
+                                        284,
+                                        487
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Catalog  Number",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        476,
+                                        347,
+                                        486
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Description",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        477,
+                                        475,
+                                        546,
+                                        487
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ship  Wt., lb. (kg.)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                216,
+                                486,
+                                527,
+                                497
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        216,
+                                        486,
+                                        243,
+                                        496
+                                    ],
+                                    "score": 1.0,
+                                    "content": "XAL53",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        487,
+                                        435,
+                                        496
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Hazardous Location Fire Alarm Station",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        497,
+                                        486,
+                                        527,
+                                        497
+                                    ],
+                                    "score": 1.0,
+                                    "content": "10 (4.5)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 17.5
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 1,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        213,
+                        197,
+                        459,
+                        327
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                213,
+                                197,
+                                459,
+                                327
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        197,
+                                        459,
+                                        327
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                197,
+                                                459,
+                                                327
+                                            ],
+                                            "score": 0.9999957084655762,
+                                            "type": "image",
+                                            "image_path": "2fa434787d46c63f46587f0e52160594b839b96ef7dc0400f9956c11dd475264.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        197,
+                                        459,
+                                        240.33333333333334
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        240.33333333333334,
+                                        459,
+                                        283.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        283.6666666666667,
+                                        459,
+                                        327.0
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8
+                }
+            ],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        378,
+                        745,
+                        562,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                415,
+                                747,
+                                560,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        415,
+                                        749,
+                                        479,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        483,
+                                        747,
+                                        560,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                376,
+                                758,
+                                563,
+                                767
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        376,
+                                        758,
+                                        563,
+                                        767
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        31,
+                        750,
+                        70,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                30,
+                                749,
+                                71,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        30,
+                                        749,
+                                        71,
+                                        759
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        84,
+                        281,
+                        98
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                84,
+                                281,
+                                99
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        84,
+                                        281,
+                                        99
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Application",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        212,
+                        102,
+                        557,
+                        155
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                102,
+                                558,
+                                112
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        102,
+                                        558,
+                                        112
+                                    ],
+                                    "score": 1.0,
+                                    "content": "XAL53 fire alarm stations are suitable for areas that are hazardous due to the presence of",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                212,
+                                112,
+                                554,
+                                123
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        112,
+                                        554,
+                                        123
+                                    ],
+                                    "score": 1.0,
+                                    "content": "flammable gases or vapors, combustible dusts, or easily-ignitable fibers or flyings. Install",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        },
+                        {
+                            "bbox": [
+                                213,
+                                124,
+                                555,
+                                134
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        124,
+                                        555,
+                                        134
+                                    ],
+                                    "score": 1.0,
+                                    "content": "in petroleum refineries, chemical and petrochemical plants, storage areas, and other pro-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        },
+                        {
+                            "bbox": [
+                                213,
+                                135,
+                                552,
+                                144
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        135,
+                                        552,
+                                        144
+                                    ],
+                                    "score": 1.0,
+                                    "content": "cessing facilities where hazardous substances are handled or stored and in areas where",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                213,
+                                145,
+                                436,
+                                156
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        145,
+                                        436,
+                                        156
+                                    ],
+                                    "score": 1.0,
+                                    "content": "emergency control of an alarm or signal circuit is required.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        212,
+                        102,
+                        558,
+                        156
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        180,
+                        284,
+                        194
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                180,
+                                284,
+                                195
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        180,
+                                        284,
+                                        195
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Dimensions",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        }
+                    ],
+                    "index": 6,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        213,
+                        197,
+                        459,
+                        327
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                213,
+                                197,
+                                459,
+                                327
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        197,
+                                        459,
+                                        327
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                197,
+                                                459,
+                                                327
+                                            ],
+                                            "score": 0.9999957084655762,
+                                            "type": "image",
+                                            "image_path": "2fa434787d46c63f46587f0e52160594b839b96ef7dc0400f9956c11dd475264.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 8,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        197,
+                                        459,
+                                        240.33333333333334
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        240.33333333333334,
+                                        459,
+                                        283.6666666666667
+                                    ],
+                                    "spans": [],
+                                    "index": 8
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        283.6666666666667,
+                                        459,
+                                        327.0
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 8,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        342,
+                        366,
+                        355
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                341,
+                                365,
+                                356
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        341,
+                                        365,
+                                        356
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Hazardous classifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        }
+                    ],
+                    "index": 10,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        213,
+                        357,
+                        383,
+                        433
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                217,
+                                358,
+                                371,
+                                369
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        217,
+                                        358,
+                                        371,
+                                        369
+                                    ],
+                                    "score": 1.0,
+                                    "content": "\t Class I, Div. 1 and 2, Groups C and D",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                223,
+                                374,
+                                382,
+                                384
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        223,
+                                        374,
+                                        382,
+                                        384
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Class II, Div. 1 and 2, Groups E, F and G",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                214,
+                                390,
+                                257,
+                                400
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        392,
+                                        218,
+                                        398
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        223,
+                                        390,
+                                        257,
+                                        400
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Class III",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                215,
+                                406,
+                                347,
+                                417
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        215,
+                                        409,
+                                        218,
+                                        412
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        223,
+                                        406,
+                                        347,
+                                        417
+                                    ],
+                                    "score": 1.0,
+                                    "content": "NEMA Type 7, Groups C and D",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                222,
+                                421,
+                                357,
+                                432
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        222,
+                                        421,
+                                        357,
+                                        432
+                                    ],
+                                    "score": 1.0,
+                                    "content": "NEMA Type 9, Groups E, F and G",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 13,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        214,
+                        358,
+                        382,
+                        432
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        456,
+                        338,
+                        472
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                456,
+                                338,
+                                472
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        456,
+                                        338,
+                                        472
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        }
+                    ],
+                    "index": 16,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        214,
+                        475,
+                        561,
+                        497
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                216,
+                                474,
+                                546,
+                                487
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        216,
+                                        474,
+                                        284,
+                                        487
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Catalog  Number",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        476,
+                                        347,
+                                        486
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Description",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        477,
+                                        475,
+                                        546,
+                                        487
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ship  Wt., lb. (kg.)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                216,
+                                486,
+                                527,
+                                497
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        216,
+                                        486,
+                                        243,
+                                        496
+                                    ],
+                                    "score": 1.0,
+                                    "content": "XAL53",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        301,
+                                        487,
+                                        435,
+                                        496
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Hazardous Location Fire Alarm Station",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        497,
+                                        486,
+                                        527,
+                                        497
+                                    ],
+                                    "score": 1.0,
+                                    "content": "10 (4.5)",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 17.5,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        216,
+                        474,
+                        546,
+                        497
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "txt",
+    "_version_name": "0.10.1"
+}

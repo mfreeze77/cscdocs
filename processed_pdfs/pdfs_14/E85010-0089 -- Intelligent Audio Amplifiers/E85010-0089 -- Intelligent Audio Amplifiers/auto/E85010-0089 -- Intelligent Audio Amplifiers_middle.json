@@ -1,0 +1,4052 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        146,
+                        295,
+                        237
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                147,
+                                296,
+                                182
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        147,
+                                        296,
+                                        182
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Intelligent Audio",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                185,
+                                201,
+                                217
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        185,
+                                        201,
+                                        217
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Amplifiers",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                220,
+                                239,
+                                235
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        220,
+                                        239,
+                                        235
+                                    ],
+                                    "score": 1.0,
+                                    "content": "SIGA-AA30, SIGA-AA50",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        358,
+                        106,
+                        371
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                358,
+                                106,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        358,
+                                        106,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        48,
+                        375,
+                        304,
+                        504
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                376,
+                                296,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        376,
+                                        296,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "SIGA amplifiers are high efficiency switch mode audio amplifiers",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                387,
+                                302,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        387,
+                                        302,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "available in 30 and 50 watt sizes. Amplifiers have two input chan-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                398,
+                                303,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        398,
+                                        303,
+                                        407
+                                    ],
+                                    "score": 1.0,
+                                    "content": "nels supporting dual channel or single channel audio applications.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                408,
+                                302,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        408,
+                                        302,
+                                        419
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Amplifier project application flexibility is enhanced by provision for",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                419,
+                                292,
+                                429
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        419,
+                                        292,
+                                        429
+                                    ],
+                                    "score": 1.0,
+                                    "content": "input levels at 1Vrms or 25Vrms. This allows SIGA amplifiers to",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                430,
+                                296,
+                                440
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        430,
+                                        296,
+                                        440
+                                    ],
+                                    "score": 1.0,
+                                    "content": "obtain their input from a line level signal or the output of another",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                441,
+                                294,
+                                452
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        441,
+                                        294,
+                                        452
+                                    ],
+                                    "score": 1.0,
+                                    "content": "25Vrms amplifier. This feature provides great application flexibil-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                452,
+                                296,
+                                462
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        452,
+                                        296,
+                                        462
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ity helping meet project requirements. Input channel selection is",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                462,
+                                296,
+                                473
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        462,
+                                        296,
+                                        473
+                                    ],
+                                    "score": 1.0,
+                                    "content": "made through system software programming transmitted to the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                474,
+                                303,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        474,
+                                        303,
+                                        484
+                                    ],
+                                    "score": 1.0,
+                                    "content": "amplifier via a Signature data circuit. This reduces wiring intercon-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                485,
+                                289,
+                                494
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        485,
+                                        289,
+                                        494
+                                    ],
+                                    "score": 1.0,
+                                    "content": "nect requirements by reducing the number of control modules",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                495,
+                                82,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        495,
+                                        82,
+                                        505
+                                    ],
+                                    "score": 1.0,
+                                    "content": "needed.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 9.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        511,
+                        307,
+                        575
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                511,
+                                303,
+                                522
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        511,
+                                        303,
+                                        522
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Each amplifier has provision for connecting back up amplification.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                523,
+                                305,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        523,
+                                        305,
+                                        533
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Amplifiers can be backed up one-to-one or multiple amplifiers can",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                534,
+                                301,
+                                543
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        534,
+                                        301,
+                                        543
+                                    ],
+                                    "score": 1.0,
+                                    "content": "have one shared back up amplifier. In addition to back up amplifi-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                544,
+                                307,
+                                555
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        544,
+                                        307,
+                                        555
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ers each SIGA amplifier has an on board 1kHz tone generator that",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                555,
+                                307,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        555,
+                                        307,
+                                        565
+                                    ],
+                                    "score": 1.0,
+                                    "content": "can activate in the event of input failure or if no back up amplifier is",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                566,
+                                86,
+                                576
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        566,
+                                        86,
+                                        576
+                                    ],
+                                    "score": 1.0,
+                                    "content": "available.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 18.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        50,
+                        601,
+                        202,
+                        615
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                601,
+                                201,
+                                616
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        601,
+                                        201,
+                                        616
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Engineering Specification",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        }
+                    ],
+                    "index": 22
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        618,
+                        307,
+                        704
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                619,
+                                300,
+                                629
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        619,
+                                        300,
+                                        629
+                                    ],
+                                    "score": 1.0,
+                                    "content": "System remote amplifiers must communicate their status directly",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                630,
+                                299,
+                                640
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        630,
+                                        299,
+                                        640
+                                    ],
+                                    "score": 1.0,
+                                    "content": "to the main control panel.  External monitoring is not acceptable.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                641,
+                                299,
+                                651
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        641,
+                                        299,
+                                        651
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Each amplifier must support dual channel audio. Amplifiers must",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                652,
+                                307,
+                                662
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        652,
+                                        307,
+                                        662
+                                    ],
+                                    "score": 1.0,
+                                    "content": "support input signals at line a built in back up 1kHz tone generator",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                663,
+                                306,
+                                672
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        663,
+                                        306,
+                                        672
+                                    ],
+                                    "score": 1.0,
+                                    "content": "that automatically activates with loss of input signal. Each amplifier",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                673,
+                                294,
+                                683
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        673,
+                                        294,
+                                        683
+                                    ],
+                                    "score": 1.0,
+                                    "content": "must have provision for a back up amplifier. It must be possible",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                684,
+                                302,
+                                695
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        684,
+                                        302,
+                                        695
+                                    ],
+                                    "score": 1.0,
+                                    "content": "to default to back up tone or standby amplifier in the event of the ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                695,
+                                128,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        695,
+                                        128,
+                                        705
+                                    ],
+                                    "score": 1.0,
+                                    "content": "loss of input signals.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        }
+                    ],
+                    "index": 26.5
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        358,
+                        433,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                434,
+                                373
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        434,
+                                        373
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        }
+                    ],
+                    "index": 31
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        322,
+                        376,
+                        580,
+                        502
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                375,
+                                437,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        375,
+                                        437,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Remote or Local mounting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                392,
+                                405,
+                                402
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        392,
+                                        405,
+                                        402
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Two channel input",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33
+                        },
+                        {
+                            "bbox": [
+                                326,
+                                408,
+                                570,
+                                418
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        326,
+                                        408,
+                                        570,
+                                        418
+                                    ],
+                                    "score": 1.0,
+                                    "content": "\t Connects to signature data circuit. Allows switching between",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                419,
+                                580,
+                                428
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        419,
+                                        580,
+                                        428
+                                    ],
+                                    "score": 1.0,
+                                    "content": "two channels without additional control modules. Eliminates the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                332,
+                                428,
+                                487,
+                                441
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        332,
+                                        428,
+                                        487,
+                                        441
+                                    ],
+                                    "score": 1.0,
+                                    "content": "need for additional amplifier monitoring.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                445,
+                                489,
+                                455
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        445,
+                                        489,
+                                        455
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Output selectable as 25Vrms or 70Vrms",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                460,
+                                574,
+                                471
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        460,
+                                        574,
+                                        471
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Dual input level allows the use of a 1Volt or 25Volt input signal.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38
+                        },
+                        {
+                            "bbox": [
+                                323,
+                                477,
+                                447,
+                                488
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        480,
+                                        328,
+                                        484
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        331,
+                                        477,
+                                        447,
+                                        488
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Back up amplifier connection",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39
+                        },
+                        {
+                            "bbox": [
+                                330,
+                                492,
+                                449,
+                                503
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        330,
+                                        492,
+                                        449,
+                                        503
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Back up 1kHz tone generator",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40
+                        }
+                    ],
+                    "index": 36
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        325,
+                        521,
+                        393,
+                        535
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                325,
+                                521,
+                                393,
+                                536
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        325,
+                                        521,
+                                        393,
+                                        536
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Application",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        }
+                    ],
+                    "index": 41
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        538,
+                        579,
+                        689
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                322,
+                                539,
+                                577,
+                                549
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        539,
+                                        577,
+                                        549
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Signature amplifiers are ideally suited for distributed audio applica-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 42
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                549,
+                                567,
+                                560
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        549,
+                                        567,
+                                        560
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tions and small centrally banked applications. The audio output ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 43
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                559,
+                                574,
+                                572
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        559,
+                                        574,
+                                        572
+                                    ],
+                                    "score": 1.0,
+                                    "content": "is configurable as 25Vrms or 70Vrms in Class B or Class A wiring",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 44
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                572,
+                                576,
+                                582
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        572,
+                                        576,
+                                        582
+                                    ],
+                                    "score": 1.0,
+                                    "content": "configurations. Speakers can connect directly to the output of the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 45
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                582,
+                                572,
+                                592
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        582,
+                                        572,
+                                        592
+                                    ],
+                                    "score": 1.0,
+                                    "content": "amplifier or the amplifier output can run as a audio riser to signa-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 46
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                593,
+                                574,
+                                603
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        593,
+                                        574,
+                                        603
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ture modules where speaker zone selection is made. Each ampli-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 47
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                603,
+                                575,
+                                614
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        603,
+                                        575,
+                                        614
+                                    ],
+                                    "score": 1.0,
+                                    "content": "fier has a built in 1kHz tone generator and provision for a back up",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 48
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                615,
+                                565,
+                                625
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        615,
+                                        565,
+                                        625
+                                    ],
+                                    "score": 1.0,
+                                    "content": "amplifier. Should an amplifier lose its input signal the output will",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 49
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                625,
+                                564,
+                                636
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        625,
+                                        564,
+                                        636
+                                    ],
+                                    "score": 1.0,
+                                    "content": "switch to a back up amplifier. If there is no back up amplifier or",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 50
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                637,
+                                570,
+                                646
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        637,
+                                        570,
+                                        646
+                                    ],
+                                    "score": 1.0,
+                                    "content": "the output from the back up is unavailable the output will receive",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 51
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                646,
+                                570,
+                                657
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        646,
+                                        570,
+                                        657
+                                    ],
+                                    "score": 1.0,
+                                    "content": "the internal 1kHz tone as the evacuation signal. On board status",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 52
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                657,
+                                570,
+                                669
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        657,
+                                        570,
+                                        669
+                                    ],
+                                    "score": 1.0,
+                                    "content": "LEDs provide quick visual indication of amplifier status including,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 53
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                668,
+                                579,
+                                679
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        668,
+                                        579,
+                                        679
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Power Amp. Enabled, Backup Mode, Amplifier Active, and Normal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 54
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                679,
+                                390,
+                                690
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        679,
+                                        390,
+                                        690
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Communications.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 55
+                        }
+                    ],
+                    "index": 48.5
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        394,
+                        745,
+                        580,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                433,
+                                747,
+                                579,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        433,
+                                        750,
+                                        497,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        501,
+                                        747,
+                                        579,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                394,
+                                758,
+                                581,
+                                768
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        394,
+                                        758,
+                                        581,
+                                        768
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        49,
+                        750,
+                        88,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                750,
+                                88,
+                                758
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        750,
+                                        88,
+                                        758
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        146,
+                        295,
+                        237
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                147,
+                                296,
+                                182
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        147,
+                                        296,
+                                        182
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Intelligent Audio",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                185,
+                                201,
+                                217
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        185,
+                                        201,
+                                        217
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Amplifiers",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                51,
+                                220,
+                                239,
+                                235
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        51,
+                                        220,
+                                        239,
+                                        235
+                                    ],
+                                    "score": 1.0,
+                                    "content": "SIGA-AA30, SIGA-AA50",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        358,
+                        106,
+                        371
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                358,
+                                106,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        358,
+                                        106,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        48,
+                        375,
+                        304,
+                        504
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                376,
+                                296,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        376,
+                                        296,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "SIGA amplifiers are high efficiency switch mode audio amplifiers",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                387,
+                                302,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        387,
+                                        302,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "available in 30 and 50 watt sizes. Amplifiers have two input chan-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                398,
+                                303,
+                                407
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        398,
+                                        303,
+                                        407
+                                    ],
+                                    "score": 1.0,
+                                    "content": "nels supporting dual channel or single channel audio applications.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                408,
+                                302,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        408,
+                                        302,
+                                        419
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Amplifier project application flexibility is enhanced by provision for",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                419,
+                                292,
+                                429
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        419,
+                                        292,
+                                        429
+                                    ],
+                                    "score": 1.0,
+                                    "content": "input levels at 1Vrms or 25Vrms. This allows SIGA amplifiers to",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                430,
+                                296,
+                                440
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        430,
+                                        296,
+                                        440
+                                    ],
+                                    "score": 1.0,
+                                    "content": "obtain their input from a line level signal or the output of another",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                441,
+                                294,
+                                452
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        441,
+                                        294,
+                                        452
+                                    ],
+                                    "score": 1.0,
+                                    "content": "25Vrms amplifier. This feature provides great application flexibil-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                452,
+                                296,
+                                462
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        452,
+                                        296,
+                                        462
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ity helping meet project requirements. Input channel selection is",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                462,
+                                296,
+                                473
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        462,
+                                        296,
+                                        473
+                                    ],
+                                    "score": 1.0,
+                                    "content": "made through system software programming transmitted to the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                474,
+                                303,
+                                484
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        474,
+                                        303,
+                                        484
+                                    ],
+                                    "score": 1.0,
+                                    "content": "amplifier via a Signature data circuit. This reduces wiring intercon-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                485,
+                                289,
+                                494
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        485,
+                                        289,
+                                        494
+                                    ],
+                                    "score": 1.0,
+                                    "content": "nect requirements by reducing the number of control modules",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                495,
+                                82,
+                                505
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        495,
+                                        82,
+                                        505
+                                    ],
+                                    "score": 1.0,
+                                    "content": "needed.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        }
+                    ],
+                    "index": 9.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        49,
+                        376,
+                        303,
+                        505
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        511,
+                        307,
+                        575
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                511,
+                                303,
+                                522
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        511,
+                                        303,
+                                        522
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Each amplifier has provision for connecting back up amplification.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                523,
+                                305,
+                                533
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        523,
+                                        305,
+                                        533
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Amplifiers can be backed up one-to-one or multiple amplifiers can",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                534,
+                                301,
+                                543
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        534,
+                                        301,
+                                        543
+                                    ],
+                                    "score": 1.0,
+                                    "content": "have one shared back up amplifier. In addition to back up amplifi-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                544,
+                                307,
+                                555
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        544,
+                                        307,
+                                        555
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ers each SIGA amplifier has an on board 1kHz tone generator that",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                555,
+                                307,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        555,
+                                        307,
+                                        565
+                                    ],
+                                    "score": 1.0,
+                                    "content": "can activate in the event of input failure or if no back up amplifier is",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                566,
+                                86,
+                                576
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        566,
+                                        86,
+                                        576
+                                    ],
+                                    "score": 1.0,
+                                    "content": "available.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        }
+                    ],
+                    "index": 18.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        48,
+                        511,
+                        307,
+                        576
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        50,
+                        601,
+                        202,
+                        615
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                601,
+                                201,
+                                616
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        601,
+                                        201,
+                                        616
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Engineering Specification",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        }
+                    ],
+                    "index": 22,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        618,
+                        307,
+                        704
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                619,
+                                300,
+                                629
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        619,
+                                        300,
+                                        629
+                                    ],
+                                    "score": 1.0,
+                                    "content": "System remote amplifiers must communicate their status directly",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                630,
+                                299,
+                                640
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        630,
+                                        299,
+                                        640
+                                    ],
+                                    "score": 1.0,
+                                    "content": "to the main control panel.  External monitoring is not acceptable.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                641,
+                                299,
+                                651
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        641,
+                                        299,
+                                        651
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Each amplifier must support dual channel audio. Amplifiers must",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                652,
+                                307,
+                                662
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        652,
+                                        307,
+                                        662
+                                    ],
+                                    "score": 1.0,
+                                    "content": "support input signals at line a built in back up 1kHz tone generator",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                663,
+                                306,
+                                672
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        663,
+                                        306,
+                                        672
+                                    ],
+                                    "score": 1.0,
+                                    "content": "that automatically activates with loss of input signal. Each amplifier",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                673,
+                                294,
+                                683
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        673,
+                                        294,
+                                        683
+                                    ],
+                                    "score": 1.0,
+                                    "content": "must have provision for a back up amplifier. It must be possible",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                48,
+                                684,
+                                302,
+                                695
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        684,
+                                        302,
+                                        695
+                                    ],
+                                    "score": 1.0,
+                                    "content": "to default to back up tone or standby amplifier in the event of the ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                695,
+                                128,
+                                705
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        695,
+                                        128,
+                                        705
+                                    ],
+                                    "score": 1.0,
+                                    "content": "loss of input signals.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        }
+                    ],
+                    "index": 26.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        48,
+                        619,
+                        307,
+                        705
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        358,
+                        433,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                434,
+                                373
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        434,
+                                        373
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        }
+                    ],
+                    "index": 31,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        322,
+                        376,
+                        580,
+                        502
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                375,
+                                437,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        375,
+                                        437,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Remote or Local mounting",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 32,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                392,
+                                405,
+                                402
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        392,
+                                        405,
+                                        402
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Two channel input",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 33,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                326,
+                                408,
+                                570,
+                                418
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        326,
+                                        408,
+                                        570,
+                                        418
+                                    ],
+                                    "score": 1.0,
+                                    "content": "\t Connects to signature data circuit. Allows switching between",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 34
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                419,
+                                580,
+                                428
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        419,
+                                        580,
+                                        428
+                                    ],
+                                    "score": 1.0,
+                                    "content": "two channels without additional control modules. Eliminates the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 35
+                        },
+                        {
+                            "bbox": [
+                                332,
+                                428,
+                                487,
+                                441
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        332,
+                                        428,
+                                        487,
+                                        441
+                                    ],
+                                    "score": 1.0,
+                                    "content": "need for additional amplifier monitoring.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 36,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                445,
+                                489,
+                                455
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        445,
+                                        489,
+                                        455
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Output selectable as 25Vrms or 70Vrms",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 37,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                460,
+                                574,
+                                471
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        460,
+                                        574,
+                                        471
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Dual input level allows the use of a 1Volt or 25Volt input signal.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 38,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                323,
+                                477,
+                                447,
+                                488
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        480,
+                                        328,
+                                        484
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        331,
+                                        477,
+                                        447,
+                                        488
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Back up amplifier connection",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 39,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                330,
+                                492,
+                                449,
+                                503
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        330,
+                                        492,
+                                        449,
+                                        503
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Back up 1kHz tone generator",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 40,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 36,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        320,
+                        375,
+                        580,
+                        503
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        325,
+                        521,
+                        393,
+                        535
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                325,
+                                521,
+                                393,
+                                536
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        325,
+                                        521,
+                                        393,
+                                        536
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Application",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 41
+                        }
+                    ],
+                    "index": 41,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        538,
+                        579,
+                        689
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                322,
+                                539,
+                                577,
+                                549
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        539,
+                                        577,
+                                        549
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Signature amplifiers are ideally suited for distributed audio applica-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 42
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                549,
+                                567,
+                                560
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        549,
+                                        567,
+                                        560
+                                    ],
+                                    "score": 1.0,
+                                    "content": "tions and small centrally banked applications. The audio output ",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 43
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                559,
+                                574,
+                                572
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        559,
+                                        574,
+                                        572
+                                    ],
+                                    "score": 1.0,
+                                    "content": "is configurable as 25Vrms or 70Vrms in Class B or Class A wiring",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 44
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                572,
+                                576,
+                                582
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        572,
+                                        576,
+                                        582
+                                    ],
+                                    "score": 1.0,
+                                    "content": "configurations. Speakers can connect directly to the output of the",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 45
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                582,
+                                572,
+                                592
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        582,
+                                        572,
+                                        592
+                                    ],
+                                    "score": 1.0,
+                                    "content": "amplifier or the amplifier output can run as a audio riser to signa-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 46
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                593,
+                                574,
+                                603
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        593,
+                                        574,
+                                        603
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ture modules where speaker zone selection is made. Each ampli-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 47
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                603,
+                                575,
+                                614
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        603,
+                                        575,
+                                        614
+                                    ],
+                                    "score": 1.0,
+                                    "content": "fier has a built in 1kHz tone generator and provision for a back up",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 48
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                615,
+                                565,
+                                625
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        615,
+                                        565,
+                                        625
+                                    ],
+                                    "score": 1.0,
+                                    "content": "amplifier. Should an amplifier lose its input signal the output will",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 49
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                625,
+                                564,
+                                636
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        625,
+                                        564,
+                                        636
+                                    ],
+                                    "score": 1.0,
+                                    "content": "switch to a back up amplifier. If there is no back up amplifier or",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 50
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                637,
+                                570,
+                                646
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        637,
+                                        570,
+                                        646
+                                    ],
+                                    "score": 1.0,
+                                    "content": "the output from the back up is unavailable the output will receive",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 51
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                646,
+                                570,
+                                657
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        646,
+                                        570,
+                                        657
+                                    ],
+                                    "score": 1.0,
+                                    "content": "the internal 1kHz tone as the evacuation signal. On board status",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 52
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                657,
+                                570,
+                                669
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        657,
+                                        570,
+                                        669
+                                    ],
+                                    "score": 1.0,
+                                    "content": "LEDs provide quick visual indication of amplifier status including,",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 53
+                        },
+                        {
+                            "bbox": [
+                                320,
+                                668,
+                                579,
+                                679
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        320,
+                                        668,
+                                        579,
+                                        679
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Power Amp. Enabled, Backup Mode, Amplifier Active, and Normal",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 54
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                679,
+                                390,
+                                690
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        679,
+                                        390,
+                                        690
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Communications.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 55
+                        }
+                    ],
+                    "index": 48.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        320,
+                        539,
+                        579,
+                        690
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        88,
+                        297,
+                        104
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                88,
+                                296,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        88,
+                                        296,
+                                        106
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Typical Wiring",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        211,
+                        109,
+                        561,
+                        207
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                211,
+                                109,
+                                561,
+                                207
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        211,
+                                        109,
+                                        561,
+                                        207
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                211,
+                                                109,
+                                                561,
+                                                207
+                                            ],
+                                            "score": 0.9987320899963379,
+                                            "type": "image",
+                                            "image_path": "d902d2d9aebd10e2113b5f5f2e42fee8f9abbfa122140b8831b52008bd7930bf.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        211,
+                                        109,
+                                        561,
+                                        141.66666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        141.66666666666666,
+                                        561,
+                                        174.33333333333331
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        174.33333333333331,
+                                        561,
+                                        206.99999999999997
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        230,
+                        298,
+                        243
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                230,
+                                298,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        230,
+                                        298,
+                                        245
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Specifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        249,
+                        563,
+                        472
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                249,
+                                563,
+                                472
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        249,
+                                        563,
+                                        472
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                249,
+                                                563,
+                                                472
+                                            ],
+                                            "score": 0.9998432397842407,
+                                            "html": "<html><body><table><tr><td>Catalog Number</td><td>SIGA-AA30</td><td>SIGA-AA50</td></tr><tr><td>Current:Standby Active</td><td>2 mA at 24 V 1.55A at24Vload</td><td>2 mA at 24 V 2.8 A at 24 V full load</td></tr><tr><td>μndino</td><td>30watts@25VRMSor70VRMS</td><td>50watts@25VRMSor70VRMS 24VDC</td></tr><tr><td colspan=\"3\">Voltage</td></tr><tr><td colspan=\"3\">Groundfault impedance 0.1 Q or less</td></tr><tr><td colspan=\"2\">Frequency response</td><td>ULC: 400 Hz to 4 kHz at -3 dB.ULl: 800 Hz to 2.8 kHz.</td></tr><tr><td colspan=\"3\">Harmonic distortion %9 ></td></tr><tr><td colspan=\"2\">Input Channel 1 dual input 1VRMSor25VRMSmaximum</td></tr><tr><td colspan=\"2\">Channel 2 dual input 1VRMSor25VRMSmaximum Configuration ClassB (StyleY) or Class A (Style Z)</td></tr><tr><td colspan=\"2\">EOL resistor 47 kQ</td></tr><tr><td colspan=\"2\">Compatible enclosures 2-WB3(R),2-WB7(R),RACCR,APS6A,APS10A.</td></tr><tr><td colspan=\"2\">Compatible power sources</td></tr><tr><td colspan=\"2\">SignatureDataCircuit</td></tr><tr><td colspan=\"2\">Addresses 2 module addresses</td></tr><tr><td colspan=\"2\">Emulation SignatureseriesCC2module Maximumwire size 12 to 18 AWG (0.75 to 2.5 mm2)</td></tr><tr><td colspan=\"2\">Backup tone 1 kHz</td></tr><tr><td colspan=\"2\">Operatingenvironment Temperature:32 to 120°F(0 to 49°C).Humidity:0 to 93%,N.C.</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "9f6006a83c21b130b8d3eca59e8dfc3a52269f0d07049df2373b9ad2843abf46.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        249,
+                                        563,
+                                        323.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        323.3333333333333,
+                                        563,
+                                        397.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        397.66666666666663,
+                                        563,
+                                        471.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        491,
+                        338,
+                        505
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                490,
+                                337,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        490,
+                                        337,
+                                        506
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        212,
+                        508,
+                        562,
+                        711
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                212,
+                                508,
+                                562,
+                                711
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        508,
+                                        562,
+                                        711
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                212,
+                                                508,
+                                                562,
+                                                711
+                                            ],
+                                            "score": 0.9999375343322754,
+                                            "html": "<html><body><table><tr><td>Catalog Number</td><td>Description</td></tr><tr><td>SIGA-AA30</td><td>Ship Wt. Ib. (kg) 30WattIntelligentAudioAmplifier 2 (.9)</td></tr><tr><td>SIGA-AA50</td><td>50WattIntelligentAudioAmplifier 2 (.9)</td></tr><tr><td>Wallboxes</td><td></td></tr><tr><td>2-WB3</td><td>EST2LongSurfaceWallbox(order2-WB3Ddoorseparately)-Grayfinish. 38 (17.3) For Semi-Flush mounting order Trim Kit. See note 1</td></tr><tr><td>2-WB7</td><td>EST2DoubleWideSurfaceWallbox(order2-WB7Ddoorseparately) 75 (34)</td></tr><tr><td>APS6A</td><td>- Gray finish.For Semi-Flush mounting order Trim Kit. See note 1 6.5 AmpAuxiliaryPower Supply with space for up to two amplifiers.</td></tr><tr><td>APS10A</td><td>26 (11.8)</td></tr><tr><td>RACCR</td><td>RemoteAudioClosetCabinet(orderdoorseparately).RedFinish 32 (14.5)</td></tr><tr><td>Trim Kits</td><td></td></tr><tr><td>2-LFK</td><td>Long Semi-FlushTrimKitfor 2-WB3wallbox.See note 1 4 (1.8)</td></tr><tr><td>2-DFK</td><td>DoubleWideSemi-FlushTrimKitfor 2-WB7box.Seenote 1 5 (2.3)</td></tr><tr><td></td><td>Note1:Standard finishisgray,redversions areavailableby adding suffixRtothecatalognumbere.g.2-WB3R</td></tr><tr><td colspan=\"2\">Related Equipment</td></tr><tr><td>SIGA-APS 6.4AmpPowerSupply</td><td>2 (.9)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "8caba57d31d099fdb8c3c00182118da9303cbef2d0cad0f47a570ad8472dbb0a.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        508,
+                                        562,
+                                        575.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        212,
+                                        575.6666666666666,
+                                        562,
+                                        643.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        212,
+                                        643.3333333333333,
+                                        562,
+                                        710.9999999999999
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 1,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        211,
+                        109,
+                        561,
+                        207
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                211,
+                                109,
+                                561,
+                                207
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        211,
+                                        109,
+                                        561,
+                                        207
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                211,
+                                                109,
+                                                561,
+                                                207
+                                            ],
+                                            "score": 0.9987320899963379,
+                                            "type": "image",
+                                            "image_path": "d902d2d9aebd10e2113b5f5f2e42fee8f9abbfa122140b8831b52008bd7930bf.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        211,
+                                        109,
+                                        561,
+                                        141.66666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        141.66666666666666,
+                                        561,
+                                        174.33333333333331
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        174.33333333333331,
+                                        561,
+                                        206.99999999999997
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                }
+            ],
+            "tables": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        249,
+                        563,
+                        472
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                249,
+                                563,
+                                472
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        249,
+                                        563,
+                                        472
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                249,
+                                                563,
+                                                472
+                                            ],
+                                            "score": 0.9998432397842407,
+                                            "html": "<html><body><table><tr><td>Catalog Number</td><td>SIGA-AA30</td><td>SIGA-AA50</td></tr><tr><td>Current:Standby Active</td><td>2 mA at 24 V 1.55A at24Vload</td><td>2 mA at 24 V 2.8 A at 24 V full load</td></tr><tr><td>μndino</td><td>30watts@25VRMSor70VRMS</td><td>50watts@25VRMSor70VRMS 24VDC</td></tr><tr><td colspan=\"3\">Voltage</td></tr><tr><td colspan=\"3\">Groundfault impedance 0.1 Q or less</td></tr><tr><td colspan=\"2\">Frequency response</td><td>ULC: 400 Hz to 4 kHz at -3 dB.ULl: 800 Hz to 2.8 kHz.</td></tr><tr><td colspan=\"3\">Harmonic distortion %9 ></td></tr><tr><td colspan=\"2\">Input Channel 1 dual input 1VRMSor25VRMSmaximum</td></tr><tr><td colspan=\"2\">Channel 2 dual input 1VRMSor25VRMSmaximum Configuration ClassB (StyleY) or Class A (Style Z)</td></tr><tr><td colspan=\"2\">EOL resistor 47 kQ</td></tr><tr><td colspan=\"2\">Compatible enclosures 2-WB3(R),2-WB7(R),RACCR,APS6A,APS10A.</td></tr><tr><td colspan=\"2\">Compatible power sources</td></tr><tr><td colspan=\"2\">SignatureDataCircuit</td></tr><tr><td colspan=\"2\">Addresses 2 module addresses</td></tr><tr><td colspan=\"2\">Emulation SignatureseriesCC2module Maximumwire size 12 to 18 AWG (0.75 to 2.5 mm2)</td></tr><tr><td colspan=\"2\">Backup tone 1 kHz</td></tr><tr><td colspan=\"2\">Operatingenvironment Temperature:32 to 120°F(0 to 49°C).Humidity:0 to 93%,N.C.</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "9f6006a83c21b130b8d3eca59e8dfc3a52269f0d07049df2373b9ad2843abf46.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        249,
+                                        563,
+                                        323.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        323.3333333333333,
+                                        563,
+                                        397.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        397.66666666666663,
+                                        563,
+                                        471.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        212,
+                        508,
+                        562,
+                        711
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                212,
+                                508,
+                                562,
+                                711
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        508,
+                                        562,
+                                        711
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                212,
+                                                508,
+                                                562,
+                                                711
+                                            ],
+                                            "score": 0.9999375343322754,
+                                            "html": "<html><body><table><tr><td>Catalog Number</td><td>Description</td></tr><tr><td>SIGA-AA30</td><td>Ship Wt. Ib. (kg) 30WattIntelligentAudioAmplifier 2 (.9)</td></tr><tr><td>SIGA-AA50</td><td>50WattIntelligentAudioAmplifier 2 (.9)</td></tr><tr><td>Wallboxes</td><td></td></tr><tr><td>2-WB3</td><td>EST2LongSurfaceWallbox(order2-WB3Ddoorseparately)-Grayfinish. 38 (17.3) For Semi-Flush mounting order Trim Kit. See note 1</td></tr><tr><td>2-WB7</td><td>EST2DoubleWideSurfaceWallbox(order2-WB7Ddoorseparately) 75 (34)</td></tr><tr><td>APS6A</td><td>- Gray finish.For Semi-Flush mounting order Trim Kit. See note 1 6.5 AmpAuxiliaryPower Supply with space for up to two amplifiers.</td></tr><tr><td>APS10A</td><td>26 (11.8)</td></tr><tr><td>RACCR</td><td>RemoteAudioClosetCabinet(orderdoorseparately).RedFinish 32 (14.5)</td></tr><tr><td>Trim Kits</td><td></td></tr><tr><td>2-LFK</td><td>Long Semi-FlushTrimKitfor 2-WB3wallbox.See note 1 4 (1.8)</td></tr><tr><td>2-DFK</td><td>DoubleWideSemi-FlushTrimKitfor 2-WB7box.Seenote 1 5 (2.3)</td></tr><tr><td></td><td>Note1:Standard finishisgray,redversions areavailableby adding suffixRtothecatalognumbere.g.2-WB3R</td></tr><tr><td colspan=\"2\">Related Equipment</td></tr><tr><td>SIGA-APS 6.4AmpPowerSupply</td><td>2 (.9)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "8caba57d31d099fdb8c3c00182118da9303cbef2d0cad0f47a570ad8472dbb0a.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        508,
+                                        562,
+                                        575.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        212,
+                                        575.6666666666666,
+                                        562,
+                                        643.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        212,
+                                        643.3333333333333,
+                                        562,
+                                        710.9999999999999
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                }
+            ],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        31,
+                        750,
+                        70,
+                        757
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                31,
+                                750,
+                                70,
+                                758
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        31,
+                                        750,
+                                        70,
+                                        758
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        378,
+                        745,
+                        563,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                415,
+                                747,
+                                561,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        415,
+                                        749,
+                                        479,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        482,
+                                        747,
+                                        561,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                376,
+                                758,
+                                563,
+                                768
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        376,
+                                        758,
+                                        563,
+                                        768
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        453,
+                        87,
+                        557,
+                        102
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                453,
+                                86,
+                                529,
+                                96
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        453,
+                                        86,
+                                        529,
+                                        96
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                453,
+                                94,
+                                557,
+                                104
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        453,
+                                        94,
+                                        557,
+                                        104
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        88,
+                        297,
+                        104
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                88,
+                                296,
+                                106
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        88,
+                                        296,
+                                        106
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Typical Wiring",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        211,
+                        109,
+                        561,
+                        207
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                211,
+                                109,
+                                561,
+                                207
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        211,
+                                        109,
+                                        561,
+                                        207
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                211,
+                                                109,
+                                                561,
+                                                207
+                                            ],
+                                            "score": 0.9987320899963379,
+                                            "type": "image",
+                                            "image_path": "d902d2d9aebd10e2113b5f5f2e42fee8f9abbfa122140b8831b52008bd7930bf.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        211,
+                                        109,
+                                        561,
+                                        141.66666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        141.66666666666666,
+                                        561,
+                                        174.33333333333331
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        211,
+                                        174.33333333333331,
+                                        561,
+                                        206.99999999999997
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        230,
+                        298,
+                        243
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                230,
+                                298,
+                                245
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        230,
+                                        298,
+                                        245
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Specifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        213,
+                        249,
+                        563,
+                        472
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                213,
+                                249,
+                                563,
+                                472
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        249,
+                                        563,
+                                        472
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                213,
+                                                249,
+                                                563,
+                                                472
+                                            ],
+                                            "score": 0.9998432397842407,
+                                            "html": "<html><body><table><tr><td>Catalog Number</td><td>SIGA-AA30</td><td>SIGA-AA50</td></tr><tr><td>Current:Standby Active</td><td>2 mA at 24 V 1.55A at24Vload</td><td>2 mA at 24 V 2.8 A at 24 V full load</td></tr><tr><td>μndino</td><td>30watts@25VRMSor70VRMS</td><td>50watts@25VRMSor70VRMS 24VDC</td></tr><tr><td colspan=\"3\">Voltage</td></tr><tr><td colspan=\"3\">Groundfault impedance 0.1 Q or less</td></tr><tr><td colspan=\"2\">Frequency response</td><td>ULC: 400 Hz to 4 kHz at -3 dB.ULl: 800 Hz to 2.8 kHz.</td></tr><tr><td colspan=\"3\">Harmonic distortion %9 ></td></tr><tr><td colspan=\"2\">Input Channel 1 dual input 1VRMSor25VRMSmaximum</td></tr><tr><td colspan=\"2\">Channel 2 dual input 1VRMSor25VRMSmaximum Configuration ClassB (StyleY) or Class A (Style Z)</td></tr><tr><td colspan=\"2\">EOL resistor 47 kQ</td></tr><tr><td colspan=\"2\">Compatible enclosures 2-WB3(R),2-WB7(R),RACCR,APS6A,APS10A.</td></tr><tr><td colspan=\"2\">Compatible power sources</td></tr><tr><td colspan=\"2\">SignatureDataCircuit</td></tr><tr><td colspan=\"2\">Addresses 2 module addresses</td></tr><tr><td colspan=\"2\">Emulation SignatureseriesCC2module Maximumwire size 12 to 18 AWG (0.75 to 2.5 mm2)</td></tr><tr><td colspan=\"2\">Backup tone 1 kHz</td></tr><tr><td colspan=\"2\">Operatingenvironment Temperature:32 to 120°F(0 to 49°C).Humidity:0 to 93%,N.C.</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "9f6006a83c21b130b8d3eca59e8dfc3a52269f0d07049df2373b9ad2843abf46.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        249,
+                                        563,
+                                        323.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        323.3333333333333,
+                                        563,
+                                        397.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        213,
+                                        397.66666666666663,
+                                        563,
+                                        471.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        491,
+                        338,
+                        505
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                490,
+                                337,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        490,
+                                        337,
+                                        506
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 8,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        212,
+                        508,
+                        562,
+                        711
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                212,
+                                508,
+                                562,
+                                711
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        508,
+                                        562,
+                                        711
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                212,
+                                                508,
+                                                562,
+                                                711
+                                            ],
+                                            "score": 0.9999375343322754,
+                                            "html": "<html><body><table><tr><td>Catalog Number</td><td>Description</td></tr><tr><td>SIGA-AA30</td><td>Ship Wt. Ib. (kg) 30WattIntelligentAudioAmplifier 2 (.9)</td></tr><tr><td>SIGA-AA50</td><td>50WattIntelligentAudioAmplifier 2 (.9)</td></tr><tr><td>Wallboxes</td><td></td></tr><tr><td>2-WB3</td><td>EST2LongSurfaceWallbox(order2-WB3Ddoorseparately)-Grayfinish. 38 (17.3) For Semi-Flush mounting order Trim Kit. See note 1</td></tr><tr><td>2-WB7</td><td>EST2DoubleWideSurfaceWallbox(order2-WB7Ddoorseparately) 75 (34)</td></tr><tr><td>APS6A</td><td>- Gray finish.For Semi-Flush mounting order Trim Kit. See note 1 6.5 AmpAuxiliaryPower Supply with space for up to two amplifiers.</td></tr><tr><td>APS10A</td><td>26 (11.8)</td></tr><tr><td>RACCR</td><td>RemoteAudioClosetCabinet(orderdoorseparately).RedFinish 32 (14.5)</td></tr><tr><td>Trim Kits</td><td></td></tr><tr><td>2-LFK</td><td>Long Semi-FlushTrimKitfor 2-WB3wallbox.See note 1 4 (1.8)</td></tr><tr><td>2-DFK</td><td>DoubleWideSemi-FlushTrimKitfor 2-WB7box.Seenote 1 5 (2.3)</td></tr><tr><td></td><td>Note1:Standard finishisgray,redversions areavailableby adding suffixRtothecatalognumbere.g.2-WB3R</td></tr><tr><td colspan=\"2\">Related Equipment</td></tr><tr><td>SIGA-APS 6.4AmpPowerSupply</td><td>2 (.9)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "8caba57d31d099fdb8c3c00182118da9303cbef2d0cad0f47a570ad8472dbb0a.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        508,
+                                        562,
+                                        575.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        212,
+                                        575.6666666666666,
+                                        562,
+                                        643.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        212,
+                                        643.3333333333333,
+                                        562,
+                                        710.9999999999999
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "txt",
+    "_version_name": "0.10.1"
+}

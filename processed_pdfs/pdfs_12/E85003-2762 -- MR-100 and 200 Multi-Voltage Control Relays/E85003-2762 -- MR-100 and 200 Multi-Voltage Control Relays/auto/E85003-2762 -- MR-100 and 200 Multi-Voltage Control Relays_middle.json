@@ -1,0 +1,2863 @@
+{
+    "pdf_info": [
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        147,
+                        268,
+                        237
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                148,
+                                244,
+                                183
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        148,
+                                        244,
+                                        183
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Multi-Voltage",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                181,
+                                267,
+                                221
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        181,
+                                        267,
+                                        221
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Control Relays",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                218,
+                                239,
+                                237
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        218,
+                                        239,
+                                        237
+                                    ],
+                                    "score": 1.0,
+                                    "content": "MR100 & MR200 Series",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        359,
+                        106,
+                        371
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                358,
+                                106,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        358,
+                                        106,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        48,
+                        375,
+                        303,
+                        429
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                376,
+                                302,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        376,
+                                        302,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The MRSeries Multi-Voltage Control Relays offer SPDT\t  or DPDT",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                386,
+                                290,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        386,
+                                        290,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "10 Amp contacts which may be operated by one of four input",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                398,
+                                296,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        398,
+                                        296,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "control voltages. A single relay may be energized from a voltage",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                408,
+                                292,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        408,
+                                        292,
+                                        419
+                                    ],
+                                    "score": 1.0,
+                                    "content": "source of 24 Vdc, 24 Vac, 115 Vac or 230 Vac by wiring to ap-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                419,
+                                146,
+                                430
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        419,
+                                        146,
+                                        430
+                                    ],
+                                    "score": 1.0,
+                                    "content": "propriate input terminals.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        48,
+                        435,
+                        306,
+                        478
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                435,
+                                304,
+                                447
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        435,
+                                        304,
+                                        447
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Each relay position contains a red light emitting diode (LED) which",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                447,
+                                286,
+                                457
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        447,
+                                        286,
+                                        457
+                                    ],
+                                    "score": 1.0,
+                                    "content": "indicates the relay coil is energized. Relays may be “snapped",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                457,
+                                306,
+                                468
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        457,
+                                        306,
+                                        468
+                                    ],
+                                    "score": 1.0,
+                                    "content": "apart” from a standard four-module assembly and used independ-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                469,
+                                70,
+                                479
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        469,
+                                        70,
+                                        479
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ently.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 10.5
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        484,
+                        301,
+                        539
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                485,
+                                299,
+                                496
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        485,
+                                        299,
+                                        496
+                                    ],
+                                    "score": 1.0,
+                                    "content": "These devices are ideal for applications where local contacts are",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                496,
+                                299,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        496,
+                                        299,
+                                        506
+                                    ],
+                                    "score": 1.0,
+                                    "content": "required for system status, remote contacts for control of electri-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                507,
+                                290,
+                                517
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        507,
+                                        290,
+                                        517
+                                    ],
+                                    "score": 1.0,
+                                    "content": "cal loads and general purpose switching. They are suitable for",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                517,
+                                300,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        517,
+                                        300,
+                                        528
+                                    ],
+                                    "score": 1.0,
+                                    "content": "use with HVAC Temperature Control, Fire Alarm, Security, Energy",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                528,
+                                223,
+                                540
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        528,
+                                        223,
+                                        540
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Management, and Lighting Control Systems.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 15
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        359,
+                        433,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                434,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        434,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 18
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        321,
+                        375,
+                        578,
+                        553
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                323,
+                                376,
+                                565,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        376,
+                                        565,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Each relay position may be energized from one of four input",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                387,
+                                367,
+                                398
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        387,
+                                        367,
+                                        398
+                                    ],
+                                    "score": 1.0,
+                                    "content": "voltages",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20
+                        },
+                        {
+                            "bbox": [
+                                323,
+                                403,
+                                575,
+                                412
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        403,
+                                        575,
+                                        412
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Each relay position contains a red LED which illuminates when",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21
+                        },
+                        {
+                            "bbox": [
+                                332,
+                                413,
+                                569,
+                                424
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        332,
+                                        413,
+                                        569,
+                                        424
+                                    ],
+                                    "score": 1.0,
+                                    "content": "the coil is energized. This provides a timesaving convenience",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                424,
+                                564,
+                                435
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        424,
+                                        564,
+                                        435
+                                    ],
+                                    "score": 1.0,
+                                    "content": "when checking an installed system; no metering is required.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23
+                        },
+                        {
+                            "bbox": [
+                                327,
+                                440,
+                                564,
+                                451
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        327,
+                                        440,
+                                        564,
+                                        451
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Single, dual or triple relay modules may be “snapped apart”",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                451,
+                                475,
+                                461
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        451,
+                                        475,
+                                        461
+                                    ],
+                                    "score": 1.0,
+                                    "content": "from a standard four-position master",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25
+                        },
+                        {
+                            "bbox": [
+                                323,
+                                467,
+                                453,
+                                477
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        467,
+                                        453,
+                                        477
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t SPDT or DPDT relays available",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                483,
+                                572,
+                                493
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        483,
+                                        572,
+                                        493
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Available in dustproof metal enclosures with LED viewing port",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27
+                        },
+                        {
+                            "bbox": [
+                                325,
+                                498,
+                                565,
+                                509
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        325,
+                                        498,
+                                        565,
+                                        509
+                                    ],
+                                    "score": 1.0,
+                                    "content": "\t Track mounting hardware to facilitate installation in standard",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                509,
+                                367,
+                                519
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        509,
+                                        367,
+                                        519
+                                    ],
+                                    "score": 1.0,
+                                    "content": "cabinets",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                525,
+                                576,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        525,
+                                        576,
+                                        535
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t UL recognized relays rated at 10 million mechanical operations",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                540,
+                                469,
+                                551
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        540,
+                                        469,
+                                        551
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t ULI listed as control unit accessory",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31
+                        }
+                    ],
+                    "index": 25
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 0,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [],
+            "tables": [],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        49,
+                        749,
+                        88,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                48,
+                                749,
+                                89,
+                                759
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        48,
+                                        749,
+                                        89,
+                                        759
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        394,
+                        745,
+                        580,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                433,
+                                746,
+                                579,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        433,
+                                        749,
+                                        497,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        501,
+                                        746,
+                                        579,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                394,
+                                758,
+                                581,
+                                768
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        394,
+                                        758,
+                                        581,
+                                        768
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        147,
+                        268,
+                        237
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                148,
+                                244,
+                                183
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        148,
+                                        244,
+                                        183
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Multi-Voltage",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                181,
+                                267,
+                                221
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        181,
+                                        267,
+                                        221
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Control Relays",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 1
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                218,
+                                239,
+                                237
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        218,
+                                        239,
+                                        237
+                                    ],
+                                    "score": 1.0,
+                                    "content": "MR100 & MR200 Series",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 2
+                        }
+                    ],
+                    "index": 1,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        49,
+                        359,
+                        106,
+                        371
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                358,
+                                106,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        358,
+                                        106,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Overview",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 3
+                        }
+                    ],
+                    "index": 3,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        48,
+                        375,
+                        303,
+                        429
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                50,
+                                376,
+                                302,
+                                386
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        376,
+                                        302,
+                                        386
+                                    ],
+                                    "score": 1.0,
+                                    "content": "The MRSeries Multi-Voltage Control Relays offer SPDT\t  or DPDT",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                386,
+                                290,
+                                397
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        386,
+                                        290,
+                                        397
+                                    ],
+                                    "score": 1.0,
+                                    "content": "10 Amp contacts which may be operated by one of four input",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 5
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                398,
+                                296,
+                                408
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        398,
+                                        296,
+                                        408
+                                    ],
+                                    "score": 1.0,
+                                    "content": "control voltages. A single relay may be energized from a voltage",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 6
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                408,
+                                292,
+                                419
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        408,
+                                        292,
+                                        419
+                                    ],
+                                    "score": 1.0,
+                                    "content": "source of 24 Vdc, 24 Vac, 115 Vac or 230 Vac by wiring to ap-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 7
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                419,
+                                146,
+                                430
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        419,
+                                        146,
+                                        430
+                                    ],
+                                    "score": 1.0,
+                                    "content": "propriate input terminals.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 6,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        49,
+                        376,
+                        302,
+                        430
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        48,
+                        435,
+                        306,
+                        478
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                435,
+                                304,
+                                447
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        435,
+                                        304,
+                                        447
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Each relay position contains a red light emitting diode (LED) which",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 9
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                447,
+                                286,
+                                457
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        447,
+                                        286,
+                                        457
+                                    ],
+                                    "score": 1.0,
+                                    "content": "indicates the relay coil is energized. Relays may be “snapped",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 10
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                457,
+                                306,
+                                468
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        457,
+                                        306,
+                                        468
+                                    ],
+                                    "score": 1.0,
+                                    "content": "apart” from a standard four-module assembly and used independ-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 11
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                469,
+                                70,
+                                479
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        469,
+                                        70,
+                                        479
+                                    ],
+                                    "score": 1.0,
+                                    "content": "ently.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 12
+                        }
+                    ],
+                    "index": 10.5,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        49,
+                        435,
+                        306,
+                        479
+                    ]
+                },
+                {
+                    "type": "text",
+                    "bbox": [
+                        49,
+                        484,
+                        301,
+                        539
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                49,
+                                485,
+                                299,
+                                496
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        485,
+                                        299,
+                                        496
+                                    ],
+                                    "score": 1.0,
+                                    "content": "These devices are ideal for applications where local contacts are",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 13
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                496,
+                                299,
+                                506
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        496,
+                                        299,
+                                        506
+                                    ],
+                                    "score": 1.0,
+                                    "content": "required for system status, remote contacts for control of electri-",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 14
+                        },
+                        {
+                            "bbox": [
+                                50,
+                                507,
+                                290,
+                                517
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        50,
+                                        507,
+                                        290,
+                                        517
+                                    ],
+                                    "score": 1.0,
+                                    "content": "cal loads and general purpose switching. They are suitable for",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 15
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                517,
+                                300,
+                                528
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        517,
+                                        300,
+                                        528
+                                    ],
+                                    "score": 1.0,
+                                    "content": "use with HVAC Temperature Control, Fire Alarm, Security, Energy",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 16
+                        },
+                        {
+                            "bbox": [
+                                49,
+                                528,
+                                223,
+                                540
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        49,
+                                        528,
+                                        223,
+                                        540
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Management, and Lighting Control Systems.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 17
+                        }
+                    ],
+                    "index": 15,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        49,
+                        485,
+                        300,
+                        540
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        321,
+                        359,
+                        433,
+                        372
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                321,
+                                358,
+                                434,
+                                372
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        358,
+                                        434,
+                                        372
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Standard Features",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 18
+                        }
+                    ],
+                    "index": 18,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "list",
+                    "bbox": [
+                        321,
+                        375,
+                        578,
+                        553
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                323,
+                                376,
+                                565,
+                                387
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        376,
+                                        565,
+                                        387
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Each relay position may be energized from one of four input",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 19,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                387,
+                                367,
+                                398
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        387,
+                                        367,
+                                        398
+                                    ],
+                                    "score": 1.0,
+                                    "content": "voltages",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 20,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                323,
+                                403,
+                                575,
+                                412
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        403,
+                                        575,
+                                        412
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Each relay position contains a red LED which illuminates when",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 21,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                332,
+                                413,
+                                569,
+                                424
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        332,
+                                        413,
+                                        569,
+                                        424
+                                    ],
+                                    "score": 1.0,
+                                    "content": "the coil is energized. This provides a timesaving convenience",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 22
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                424,
+                                564,
+                                435
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        424,
+                                        564,
+                                        435
+                                    ],
+                                    "score": 1.0,
+                                    "content": "when checking an installed system; no metering is required.",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 23,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                327,
+                                440,
+                                564,
+                                451
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        327,
+                                        440,
+                                        564,
+                                        451
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Single, dual or triple relay modules may be “snapped apart”",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 24,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                451,
+                                475,
+                                461
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        451,
+                                        475,
+                                        461
+                                    ],
+                                    "score": 1.0,
+                                    "content": "from a standard four-position master",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 25,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                323,
+                                467,
+                                453,
+                                477
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        323,
+                                        467,
+                                        453,
+                                        477
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t SPDT or DPDT relays available",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 26,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                483,
+                                572,
+                                493
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        483,
+                                        572,
+                                        493
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t Available in dustproof metal enclosures with LED viewing port",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 27,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                325,
+                                498,
+                                565,
+                                509
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        325,
+                                        498,
+                                        565,
+                                        509
+                                    ],
+                                    "score": 1.0,
+                                    "content": "\t Track mounting hardware to facilitate installation in standard",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 28,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                333,
+                                509,
+                                367,
+                                519
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        333,
+                                        509,
+                                        367,
+                                        519
+                                    ],
+                                    "score": 1.0,
+                                    "content": "cabinets",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 29,
+                            "is_list_end_line": true
+                        },
+                        {
+                            "bbox": [
+                                321,
+                                525,
+                                576,
+                                535
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        321,
+                                        525,
+                                        576,
+                                        535
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t UL recognized relays rated at 10 million mechanical operations",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 30,
+                            "is_list_start_line": true
+                        },
+                        {
+                            "bbox": [
+                                322,
+                                540,
+                                469,
+                                551
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        322,
+                                        540,
+                                        469,
+                                        551
+                                    ],
+                                    "score": 1.0,
+                                    "content": "•\t ULI listed as control unit accessory",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 31,
+                            "is_list_start_line": true,
+                            "is_list_end_line": true
+                        }
+                    ],
+                    "index": 25,
+                    "page_num": "page_0",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ],
+                    "bbox_fs": [
+                        321,
+                        376,
+                        576,
+                        551
+                    ]
+                }
+            ]
+        },
+        {
+            "preproc_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        84,
+                        319,
+                        97
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                83,
+                                319,
+                                99
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        83,
+                                        319,
+                                        99
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Installation Wiring",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        214,
+                        102,
+                        562,
+                        319
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                214,
+                                102,
+                                562,
+                                319
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        102,
+                                        562,
+                                        319
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                102,
+                                                562,
+                                                319
+                                            ],
+                                            "score": 0.9999896883964539,
+                                            "type": "image",
+                                            "image_path": "b7ad18248014c1e7d8c032ee7907f6532b7f4311eba579b88470bfdf35cd3254.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        102,
+                                        562,
+                                        174.33333333333331
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        174.33333333333331,
+                                        562,
+                                        246.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        246.66666666666663,
+                                        562,
+                                        318.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        347,
+                        298,
+                        359
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                345,
+                                298,
+                                361
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        345,
+                                        298,
+                                        361
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Specifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        214,
+                        366,
+                        562,
+                        528
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                214,
+                                366,
+                                562,
+                                528
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        367,
+                                        562,
+                                        528
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                367,
+                                                562,
+                                                528
+                                            ],
+                                            "score": 0.9998726844787598,
+                                            "html": "<html><body><table><tr><td colspan=\"2\">PowerRequirements</td></tr><tr><td>MR101Position</td><td>15mA@24Vac,24Vdc,115Vac,230Vac</td></tr><tr><td>MR201Position</td><td>35mA@24Vac,24Vdc,115Vac,230Vac</td></tr><tr><td>Relays</td><td></td></tr><tr><td>MR101</td><td>UL Recognized SPDT</td></tr><tr><td>MR201</td><td>ULRecognizedSPDT</td></tr><tr><td>Enclosure</td><td></td></tr><tr><td>ContactRating</td><td>10Amps@115Vac</td></tr><tr><td>AmbientTemperature</td><td>-58°Fto185°F（-50°Cto85°C)</td></tr><tr><td>Approvals</td><td>ULListedcontrolunitaccessory</td></tr><tr><td colspan=\"2\">Dimensions</td></tr><tr><td>MR101/TandMR201/T</td><td>3.0Hx2.125W×1.5Din(76Hx54Wx38Dmm)</td></tr><tr><td>MR104TandMR204/T</td><td>3.0Hx8.5W×1.5Din(76H×216W×38Dmm)</td></tr><tr><td>MR101/CandMR201/C</td><td>6.125Hx3.25W×2.5Din(156mmH×83mmW×64Dmm)</td></tr><tr><td>MR104CandMR204/C</td><td>6.125H×9.5W×2.5Din(156H×241Wx64D mm)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "e761c4f871fcdce667409b16619fb441ab069a4e0268da6d42f19fc98bdc1a33.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        366,
+                                        562,
+                                        420.0
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        420.0,
+                                        562,
+                                        474.0
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        474.0,
+                                        562,
+                                        528.0
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        551,
+                        338,
+                        564
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                550,
+                                337,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        550,
+                                        337,
+                                        565
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 8
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        214,
+                        569,
+                        563,
+                        667
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                214,
+                                569,
+                                563,
+                                667
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        569,
+                                        563,
+                                        667
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                569,
+                                                563,
+                                                667
+                                            ],
+                                            "score": 0.9999217987060547,
+                                            "html": "<html><body><table><tr><td>Model</td><td>Description</td></tr><tr><td>MR101/T</td><td>SingleSPDTrelaywithLEDand trackmountinghardware</td></tr><tr><td>MR101/C</td><td>SingleSPDTrelaywithLEDmountedinmetalenclosure</td></tr><tr><td>MR104T</td><td>Four-positionSPDTrelaywithLEDsandtrackmountinghardware</td></tr><tr><td>MR104C</td><td>Four-positionSPDTrelaywithLEDsmountedinmetalenclosure</td></tr><tr><td>MR201/T</td><td></td></tr><tr><td>MR201/C</td><td>SingleDPDTrelaywithLEDmountedinmetalenclosure</td></tr><tr><td>MR204/T</td><td>Four-positionDPDTrealywithLEDsandtrackmountinghardware</td></tr><tr><td>MR204/C</td><td>Four-positionDPDTrelaywithLEDsmountedinmetalenclosure</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "02aa959fe4189c75e2d37273208eba2bf204e9063dda802c9efea9b82a7c7b8c.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        569,
+                                        563,
+                                        601.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        601.6666666666666,
+                                        563,
+                                        634.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        634.3333333333333,
+                                        563,
+                                        666.9999999999999
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                }
+            ],
+            "layout_bboxes": [],
+            "page_idx": 1,
+            "page_size": [
+                612.0,
+                792.0
+            ],
+            "_layout_tree": [],
+            "images": [
+                {
+                    "type": "image",
+                    "bbox": [
+                        214,
+                        102,
+                        562,
+                        319
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                214,
+                                102,
+                                562,
+                                319
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        102,
+                                        562,
+                                        319
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                102,
+                                                562,
+                                                319
+                                            ],
+                                            "score": 0.9999896883964539,
+                                            "type": "image",
+                                            "image_path": "b7ad18248014c1e7d8c032ee7907f6532b7f4311eba579b88470bfdf35cd3254.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        102,
+                                        562,
+                                        174.33333333333331
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        174.33333333333331,
+                                        562,
+                                        246.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        246.66666666666663,
+                                        562,
+                                        318.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2
+                }
+            ],
+            "tables": [
+                {
+                    "type": "table",
+                    "bbox": [
+                        214,
+                        366,
+                        562,
+                        528
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                214,
+                                366,
+                                562,
+                                528
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        367,
+                                        562,
+                                        528
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                367,
+                                                562,
+                                                528
+                                            ],
+                                            "score": 0.9998726844787598,
+                                            "html": "<html><body><table><tr><td colspan=\"2\">PowerRequirements</td></tr><tr><td>MR101Position</td><td>15mA@24Vac,24Vdc,115Vac,230Vac</td></tr><tr><td>MR201Position</td><td>35mA@24Vac,24Vdc,115Vac,230Vac</td></tr><tr><td>Relays</td><td></td></tr><tr><td>MR101</td><td>UL Recognized SPDT</td></tr><tr><td>MR201</td><td>ULRecognizedSPDT</td></tr><tr><td>Enclosure</td><td></td></tr><tr><td>ContactRating</td><td>10Amps@115Vac</td></tr><tr><td>AmbientTemperature</td><td>-58°Fto185°F（-50°Cto85°C)</td></tr><tr><td>Approvals</td><td>ULListedcontrolunitaccessory</td></tr><tr><td colspan=\"2\">Dimensions</td></tr><tr><td>MR101/TandMR201/T</td><td>3.0Hx2.125W×1.5Din(76Hx54Wx38Dmm)</td></tr><tr><td>MR104TandMR204/T</td><td>3.0Hx8.5W×1.5Din(76H×216W×38Dmm)</td></tr><tr><td>MR101/CandMR201/C</td><td>6.125Hx3.25W×2.5Din(156mmH×83mmW×64Dmm)</td></tr><tr><td>MR104CandMR204/C</td><td>6.125H×9.5W×2.5Din(156H×241Wx64D mm)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "e761c4f871fcdce667409b16619fb441ab069a4e0268da6d42f19fc98bdc1a33.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        366,
+                                        562,
+                                        420.0
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        420.0,
+                                        562,
+                                        474.0
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        474.0,
+                                        562,
+                                        528.0
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        214,
+                        569,
+                        563,
+                        667
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                214,
+                                569,
+                                563,
+                                667
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        569,
+                                        563,
+                                        667
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                569,
+                                                563,
+                                                667
+                                            ],
+                                            "score": 0.9999217987060547,
+                                            "html": "<html><body><table><tr><td>Model</td><td>Description</td></tr><tr><td>MR101/T</td><td>SingleSPDTrelaywithLEDand trackmountinghardware</td></tr><tr><td>MR101/C</td><td>SingleSPDTrelaywithLEDmountedinmetalenclosure</td></tr><tr><td>MR104T</td><td>Four-positionSPDTrelaywithLEDsandtrackmountinghardware</td></tr><tr><td>MR104C</td><td>Four-positionSPDTrelaywithLEDsmountedinmetalenclosure</td></tr><tr><td>MR201/T</td><td></td></tr><tr><td>MR201/C</td><td>SingleDPDTrelaywithLEDmountedinmetalenclosure</td></tr><tr><td>MR204/T</td><td>Four-positionDPDTrealywithLEDsandtrackmountinghardware</td></tr><tr><td>MR204/C</td><td>Four-positionDPDTrelaywithLEDsmountedinmetalenclosure</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "02aa959fe4189c75e2d37273208eba2bf204e9063dda802c9efea9b82a7c7b8c.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        569,
+                                        563,
+                                        601.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        601.6666666666666,
+                                        563,
+                                        634.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        634.3333333333333,
+                                        563,
+                                        666.9999999999999
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10
+                }
+            ],
+            "interline_equations": [],
+            "discarded_blocks": [
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        377,
+                        745,
+                        564,
+                        767
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                415,
+                                747,
+                                561,
+                                757
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        415,
+                                        749,
+                                        479,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                },
+                                {
+                                    "bbox": [
+                                        483,
+                                        747,
+                                        561,
+                                        757
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        },
+                        {
+                            "bbox": [
+                                376,
+                                758,
+                                563,
+                                768
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        376,
+                                        758,
+                                        563,
+                                        768
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        31,
+                        750,
+                        70,
+                        758
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                31,
+                                750,
+                                70,
+                                758
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        31,
+                                        750,
+                                        70,
+                                        758
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "discarded",
+                    "bbox": [
+                        606,
+                        734,
+                        612,
+                        760
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                605,
+                                733,
+                                614,
+                                763
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        605,
+                                        733,
+                                        614,
+                                        763
+                                    ],
+                                    "score": 1.0,
+                                    "content": "",
+                                    "type": "text"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "need_drop": false,
+            "drop_reason": [],
+            "para_blocks": [
+                {
+                    "type": "title",
+                    "bbox": [
+                        213,
+                        84,
+                        319,
+                        97
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                83,
+                                319,
+                                99
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        83,
+                                        319,
+                                        99
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Installation Wiring",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 0
+                        }
+                    ],
+                    "index": 0,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "image",
+                    "bbox": [
+                        214,
+                        102,
+                        562,
+                        319
+                    ],
+                    "blocks": [
+                        {
+                            "type": "image_body",
+                            "bbox": [
+                                214,
+                                102,
+                                562,
+                                319
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        102,
+                                        562,
+                                        319
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                102,
+                                                562,
+                                                319
+                                            ],
+                                            "score": 0.9999896883964539,
+                                            "type": "image",
+                                            "image_path": "b7ad18248014c1e7d8c032ee7907f6532b7f4311eba579b88470bfdf35cd3254.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 2,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        102,
+                                        562,
+                                        174.33333333333331
+                                    ],
+                                    "spans": [],
+                                    "index": 1
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        174.33333333333331,
+                                        562,
+                                        246.66666666666663
+                                    ],
+                                    "spans": [],
+                                    "index": 2
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        246.66666666666663,
+                                        562,
+                                        318.99999999999994
+                                    ],
+                                    "spans": [],
+                                    "index": 3
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 2,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        347,
+                        298,
+                        359
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                213,
+                                345,
+                                298,
+                                361
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        213,
+                                        345,
+                                        298,
+                                        361
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Specifications",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 4
+                        }
+                    ],
+                    "index": 4,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        214,
+                        366,
+                        562,
+                        528
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                214,
+                                366,
+                                562,
+                                528
+                            ],
+                            "group_id": 0,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        367,
+                                        562,
+                                        528
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                367,
+                                                562,
+                                                528
+                                            ],
+                                            "score": 0.9998726844787598,
+                                            "html": "<html><body><table><tr><td colspan=\"2\">PowerRequirements</td></tr><tr><td>MR101Position</td><td>15mA@24Vac,24Vdc,115Vac,230Vac</td></tr><tr><td>MR201Position</td><td>35mA@24Vac,24Vdc,115Vac,230Vac</td></tr><tr><td>Relays</td><td></td></tr><tr><td>MR101</td><td>UL Recognized SPDT</td></tr><tr><td>MR201</td><td>ULRecognizedSPDT</td></tr><tr><td>Enclosure</td><td></td></tr><tr><td>ContactRating</td><td>10Amps@115Vac</td></tr><tr><td>AmbientTemperature</td><td>-58°Fto185°F（-50°Cto85°C)</td></tr><tr><td>Approvals</td><td>ULListedcontrolunitaccessory</td></tr><tr><td colspan=\"2\">Dimensions</td></tr><tr><td>MR101/TandMR201/T</td><td>3.0Hx2.125W×1.5Din(76Hx54Wx38Dmm)</td></tr><tr><td>MR104TandMR204/T</td><td>3.0Hx8.5W×1.5Din(76H×216W×38Dmm)</td></tr><tr><td>MR101/CandMR201/C</td><td>6.125Hx3.25W×2.5Din(156mmH×83mmW×64Dmm)</td></tr><tr><td>MR104CandMR204/C</td><td>6.125H×9.5W×2.5Din(156H×241Wx64D mm)</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "e761c4f871fcdce667409b16619fb441ab069a4e0268da6d42f19fc98bdc1a33.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 6,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        366,
+                                        562,
+                                        420.0
+                                    ],
+                                    "spans": [],
+                                    "index": 5
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        420.0,
+                                        562,
+                                        474.0
+                                    ],
+                                    "spans": [],
+                                    "index": 6
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        474.0,
+                                        562,
+                                        528.0
+                                    ],
+                                    "spans": [],
+                                    "index": 7
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 6,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "title",
+                    "bbox": [
+                        212,
+                        551,
+                        338,
+                        564
+                    ],
+                    "lines": [
+                        {
+                            "bbox": [
+                                212,
+                                550,
+                                337,
+                                565
+                            ],
+                            "spans": [
+                                {
+                                    "bbox": [
+                                        212,
+                                        550,
+                                        337,
+                                        565
+                                    ],
+                                    "score": 1.0,
+                                    "content": "Ordering Information",
+                                    "type": "text"
+                                }
+                            ],
+                            "index": 8
+                        }
+                    ],
+                    "index": 8,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                },
+                {
+                    "type": "table",
+                    "bbox": [
+                        214,
+                        569,
+                        563,
+                        667
+                    ],
+                    "blocks": [
+                        {
+                            "type": "table_body",
+                            "bbox": [
+                                214,
+                                569,
+                                563,
+                                667
+                            ],
+                            "group_id": 1,
+                            "lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        569,
+                                        563,
+                                        667
+                                    ],
+                                    "spans": [
+                                        {
+                                            "bbox": [
+                                                214,
+                                                569,
+                                                563,
+                                                667
+                                            ],
+                                            "score": 0.9999217987060547,
+                                            "html": "<html><body><table><tr><td>Model</td><td>Description</td></tr><tr><td>MR101/T</td><td>SingleSPDTrelaywithLEDand trackmountinghardware</td></tr><tr><td>MR101/C</td><td>SingleSPDTrelaywithLEDmountedinmetalenclosure</td></tr><tr><td>MR104T</td><td>Four-positionSPDTrelaywithLEDsandtrackmountinghardware</td></tr><tr><td>MR104C</td><td>Four-positionSPDTrelaywithLEDsmountedinmetalenclosure</td></tr><tr><td>MR201/T</td><td></td></tr><tr><td>MR201/C</td><td>SingleDPDTrelaywithLEDmountedinmetalenclosure</td></tr><tr><td>MR204/T</td><td>Four-positionDPDTrealywithLEDsandtrackmountinghardware</td></tr><tr><td>MR204/C</td><td>Four-positionDPDTrelaywithLEDsmountedinmetalenclosure</td></tr></table></body></html>",
+                                            "type": "table",
+                                            "image_path": "02aa959fe4189c75e2d37273208eba2bf204e9063dda802c9efea9b82a7c7b8c.jpg"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "index": 10,
+                            "virtual_lines": [
+                                {
+                                    "bbox": [
+                                        214,
+                                        569,
+                                        563,
+                                        601.6666666666666
+                                    ],
+                                    "spans": [],
+                                    "index": 9
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        601.6666666666666,
+                                        563,
+                                        634.3333333333333
+                                    ],
+                                    "spans": [],
+                                    "index": 10
+                                },
+                                {
+                                    "bbox": [
+                                        214,
+                                        634.3333333333333,
+                                        563,
+                                        666.9999999999999
+                                    ],
+                                    "spans": [],
+                                    "index": 11
+                                }
+                            ]
+                        }
+                    ],
+                    "index": 10,
+                    "page_num": "page_1",
+                    "page_size": [
+                        612.0,
+                        792.0
+                    ]
+                }
+            ]
+        }
+    ],
+    "_parse_type": "txt",
+    "_version_name": "0.10.1"
+}
